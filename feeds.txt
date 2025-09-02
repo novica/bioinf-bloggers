@@ -1,0 +1,2 @@
+https://davetang.org/muse/feed/
+http://ivory.idyll.org/blog/feeds/all.atom.xml
