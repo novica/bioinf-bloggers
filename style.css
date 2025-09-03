@@ -1,19 +1,35 @@
+/* Base layout */
 body {
     font-family: system-ui, sans-serif;
-    background: #fdf6e3;
-    /* solarized light */
+    background: #f9fafc;
+    /* very light pastel blue */
     color: #333;
     margin: 0;
     padding: 0;
 }
 
+/* Header */
 header {
-    background: #eee8d5;
-    padding: 1rem;
+    background: #e6f0fa;
+    /* pastel blue */
+    color: #1d3557;
+    /* darker blue for contrast */
+    padding: 1.5rem 1rem;
     text-align: center;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 3px solid #f9e1c8;
+    /* soft pastel orange accent */
 }
 
+header h1 {
+    margin: 0;
+}
+
+header p {
+    margin: 0.3rem 0 0;
+    color: #555;
+}
+
+/* Main content grid */
 main {
     display: grid;
     grid-template-columns: 3fr 1fr;
@@ -23,17 +39,32 @@ main {
     padding: 0 1rem;
 }
 
+/* Articles */
 article {
-    background: #fff;
-    border-radius: 8px;
+    background: #ffffff;
+    border-radius: 10px;
     padding: 1rem 1.5rem;
     margin-bottom: 1.5rem;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 8px rgba(29, 53, 87, 0.08);
+    /* soft blue shadow */
+    border-left: 6px solid #f4a261;
+    /* pastel orange accent */
 }
 
-h2 {
+article h2 {
     margin: 0 0 0.3rem 0;
     font-size: 1.2rem;
+}
+
+article h2 a {
+    color: #1d3557;
+    /* dark blue links */
+    text-decoration: none;
+}
+
+article h2 a:hover {
+    color: #f4a261;
+    /* orange hover */
 }
 
 .meta {
@@ -42,16 +73,20 @@ h2 {
     margin-bottom: 0.5rem;
 }
 
+/* Sidebar */
 aside {
-    background: #fefefe;
-    border-radius: 8px;
+    background: #fffaf5;
+    /* very light pastel orange */
+    border-radius: 10px;
     padding: 1rem;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 8px rgba(244, 162, 97, 0.1);
+    /* orange shadow */
     height: fit-content;
 }
 
 aside h3 {
     margin-top: 0;
+    color: #1d3557;
 }
 
 aside ul {
@@ -65,9 +100,12 @@ aside li {
 
 aside a {
     text-decoration: none;
-    color: #268bd2;
+    color: #457b9d;
+    /* medium blue */
 }
 
 aside a:hover {
+    color: #f4a261;
+    /* orange hover */
     text-decoration: underline;
 }
