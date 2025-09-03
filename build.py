@@ -43,4 +43,10 @@ html = (template
         .replace("{{ content }}", "\n".join(entry_html))
         .replace("{{ sidebar }}", sidebar_html))
 
-Path("public/index.html").write_text(html, encoding="utf-8")
+# Output dir
+output_dir = Path("public")
+output_dir.mkdir(exist_ok=True)
+
+# Write HTML and copy CSS
+(output_dir / "index.html").write_text(html, encoding="utf-8")
+(output_dir / "style.css").write_text(Path("style.css").read_text(encoding="utf-8"), encoding="utf-8")
