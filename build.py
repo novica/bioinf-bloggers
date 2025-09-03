@@ -43,4 +43,4 @@ html = (template
         .replace("{{ content }}", "\n".join(entry_html))
         .replace("{{ sidebar }}", sidebar_html))
 
-Path("index.html").write_text(html, encoding="utf-8")
+Path("public/index.html").write_text(html, encoding="utf-8")
