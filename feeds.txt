@@ -1,2 +1,6 @@
 https://davetang.org/muse/feed/
 http://ivory.idyll.org/blog/feeds/all.atom.xml
+https://ekernf01.github.io/feed.xml
+http://jefworks-lab.github.io//feed.xml
+https://joynyaanga.com/index.xml
+https://divingintogeneticsandgenomics.com/index.xml
