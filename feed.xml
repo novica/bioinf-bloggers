@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Bioinformatics Blogs</title>
+  <link>https://bioinf-bloggers.com/</link>
+  <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
+  <lastBuildDate>Thu, 04 Sep 2025 19:41:15 +0000</lastBuildDate>
+  
+    <item>
+      <title>One tip per day</title>
+      <link>https://davetang.org/muse/2025/05/14/one-tip-per-day/</link>
+      <description>&lt;p&gt;I have been adding one tip per day to my daily tips GitHub repo for the past month. It's a simple setup: I manually add tips to a YAML file I use a Python script to convert YAML to Markdown A helpe</description>
+      <pubDate>Wed, 14 May 2025 10:11:09 +0000</pubDate>
+      <source>Dave Tang's blog</source>
+      <guid>https://davetang.org/muse/2025/05/14/one-tip-per-day/</guid>
+    </item>
+    
+    <item>
+      <title>Hosting your own Git repositories</title>
+      <link>https://davetang.org/muse/2025/08/14/hosting-your-own-git-repositories/</link>
+      <description>&lt;p&gt;As you may have already heard, GitHub just got less independent at Microsoft after CEO resignation. What does this mean? Well, I guess nobody knows for certain but it probably will mean that GitHub</description>
+      <pubDate>Wed, 13 Aug 2025 23:34:00 +0000</pubDate>
+      <source>Dave Tang's blog</source>
+      <guid>https://davetang.org/muse/2025/08/14/hosting-your-own-git-repositories/</guid>
+    </item>
+    
+    <item>
+      <title>Retrieval-Augmented Generation</title>
+      <link>https://davetang.org/muse/2025/05/27/retrieval-augmented-generation/</link>
+      <description>&lt;p&gt;Back in February I learned about Open WebUI and have been wanting to test it out with Retrieval-Augmented Generation (RAG). I'll follow the tutorial available on Open WebUI's site. The goal of RAG </description>
+      <pubDate>Tue, 27 May 2025 08:11:38 +0000</pubDate>
+      <source>Dave Tang's blog</source>
+      <guid>https://davetang.org/muse/2025/05/27/retrieval-augmented-generation/</guid>
+    </item>
+    
+    <item>
+      <title>Linkage mapping reveals loci that underlie differences in C. elegans growth</title>
+      <link>https://joynyaanga.com/publication/n2cb/</link>
+      <description></description>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+      <source>Joy McIlvaine, PhD</source>
+      <guid>https://joynyaanga.com/publication/n2cb/</guid>
+    </item>
+    
+    <item>
+      <title>C. elegans toxicant responses vary among genetically diverse individuals</title>
+      <link>https://joynyaanga.com/publication/toxins/</link>
+      <description></description>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      <source>Joy McIlvaine, PhD</source>
+      <guid>https://joynyaanga.com/publication/toxins/</guid>
+    </item>
+    
+    <item>
+      <title>How to create a GenomicRanges object in Bioconductor using canonical transcripts</title>
+      <link>https://divingintogeneticsandgenomics.com/post/canonical-tx/</link>
+      <description>&lt;p&gt;&lt;strong&gt;To not miss a post like this, sign up for my &lt;a href="https://divingintogeneticsandgenomics.ck.page/profile"&gt;newsletter&lt;/a&gt; to learn computational
+biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
+&lt;</description>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <source>Chatomics on Chatomics</source>
+      <guid>https://divingintogeneticsandgenomics.com/post/canonical-tx/</guid>
+    </item>
+    
+    <item>
+      <title>Changes in body shape implicate cuticle stretch in C. elegans growth control</title>
+      <link>https://joynyaanga.com/publication/growth/</link>
+      <description></description>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      <source>Joy McIlvaine, PhD</source>
+      <guid>https://joynyaanga.com/publication/growth/</guid>
+    </item>
+    
+    <item>
+      <title>C. elegans growth and development</title>
+      <link>https://joynyaanga.com/project/growth-and-dev/</link>
+      <description>&lt;p&gt;From 2018 - 2022 I embarked on the arduous journey that is graduate school. After many experiments, endless lines of code, and countless hours spent thesis writing, I successfully defended my disse</description>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      <source>Joy McIlvaine, PhD</source>
+      <guid>https://joynyaanga.com/project/growth-and-dev/</guid>
+    </item>
+    
+    <item>
+      <title>Reproducible Computing in Bioinformatics: Lessons from My Latest Talk</title>
+      <link>https://divingintogeneticsandgenomics.com/post/repro-comp/</link>
+      <description>&lt;p&gt;Hey everyone, it’s Tommy here. If you’ve been following my blog or my Twitter/X (&lt;span class="citation"&gt;@tangming2005&lt;/span&gt;), you know I love diving into the practical side of bioinformatics and g</description>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+      <source>Chatomics on Chatomics</source>
+      <guid>https://divingintogeneticsandgenomics.com/post/repro-comp/</guid>
+    </item>
+    
+    <item>
+      <title>How long does it take to run gpt-oss:20b?</title>
+      <link>https://davetang.org/muse/2025/08/10/how-long-does-it-take-to-run-gpt-oss20b/</link>
+      <description>&lt;p&gt;gpt-oss is OpenAI's open-weight models designed for powerful reasoning, agentic tasks, and versatile developer use cases. You can easily use it via Ollama and read more about it in their blog post.</description>
+      <pubDate>Sun, 10 Aug 2025 05:37:04 +0000</pubDate>
+      <source>Dave Tang's blog</source>
+      <guid>https://davetang.org/muse/2025/08/10/how-long-does-it-take-to-run-gpt-oss20b/</guid>
+    </item>
+    
+    <item>
+      <title>On professionalism</title>
+      <link>https://davetang.org/muse/2025/08/30/on-professionalism/</link>
+      <description>&lt;p&gt;I'm a huge fan of Conan O'Brien; there's just something about his demeanour, humour, and wittiness that I admire. I discovered him on YouTube around 2012 and was quite oblivious to who he was, what</description>
+      <pubDate>Sat, 30 Aug 2025 03:01:22 +0000</pubDate>
+      <source>Dave Tang's blog</source>
+      <guid>https://davetang.org/muse/2025/08/30/on-professionalism/</guid>
+    </item>
+    
+    <item>
+      <title>Empowering Research - ATAC-seq pipeline development</title>
+      <link>https://joynyaanga.com/project/atacseq/</link>
+      <description>&lt;p&gt;I am excited to share a recent project I&amp;rsquo;ve been working on that showcases my skills in pipeline development, project management, and handling ATAC-seq data. Let&amp;rsquo;s dive into the details</description>
+      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
+      <source>Joy McIlvaine, PhD</source>
+      <guid>https://joynyaanga.com/project/atacseq/</guid>
+    </item>
+    
+    <item>
+      <title>Panel discussion: From Physics-Based Modeling to AI-driven Drug Discovery</title>
+      <link>https://divingintogeneticsandgenomics.com/talk/2025-atombeat-panel/</link>
+      <description>&lt;p&gt;&lt;img alt="" src="https://divingintogeneticsandgenomics.com/img/atombeat.jpeg" /&gt;&lt;/p&gt;</description>
+      <pubDate>Fri, 18 Jul 2025 12:00:00 +0000</pubDate>
+      <source>Chatomics on Chatomics</source>
+      <guid>https://divingintogeneticsandgenomics.com/talk/2025-atombeat-panel/</guid>
+    </item>
+    
+    <item>
+      <title>Mastering Bioinformatics in the Age of AI: Foundational Skills for the Modern Scientist</title>
+      <link>https://divingintogeneticsandgenomics.com/post/ai-bioinformatics/</link>
+      <description>&lt;p&gt;&lt;strong&gt;To not miss a post like this, sign up for my &lt;a href="https://divingintogeneticsandgenomics.ck.page/profile"&gt;newsletter&lt;/a&gt; to learn computational
+biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
+&lt;</description>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <source>Chatomics on Chatomics</source>
+      <guid>https://divingintogeneticsandgenomics.com/post/ai-bioinformatics/</guid>
+    </item>
+    
+    <item>
+      <title>Crashing Excel to Curing Cancer: How AI and Open Science Transformed One Scientist’s Path</title>
+      <link>https://divingintogeneticsandgenomics.com/talk/2025-ai-on-the-hill-podcast/</link>
+      <description>&lt;p&gt;We’re bringing a podcast to the conversation: AI on the Hill — and our very first episode is now live!&lt;/p&gt;
+
+&lt;p&gt;In this show, host René Bastón sits down with 🎯 Ming &amp;ldquo;Tommy&amp;rdquo; Tang, a first</description>
+      <pubDate>Fri, 01 Aug 2025 12:00:00 +0000</pubDate>
+      <source>Chatomics on Chatomics</source>
+      <guid>https://divingintogeneticsandgenomics.com/talk/2025-ai-on-the-hill-podcast/</guid>
+    </item>
+    
+    <item>
+      <title>Cross-sample homopolymer polishing with Pypolca</title>
+      <link>https://rrwick.github.io/2025/09/04/homopolymer-polishing.html</link>
+      <description></description>
+      <pubDate>2025-09-04T00:00:00+00:00</pubDate>
+      <source>Ryan Wick’s bioinformatics blog</source>
+      <guid>https://rrwick.github.io/2025/09/04/homopolymer-polishing.html</guid>
+    </item>
+    
+    <item>
+      <title>Job search 2025 post-mortem and advice</title>
+      <link>https://ekernf01.github.io/job_search_2025</link>
+      <description>The comp bio job market is scarier than usual: 2023 was a biotech bankruptcy bloodbath, 2024 was a little better, and as far as layoffs, 2025 has been worse. Academic and government sectors are also r</description>
+      <pubDate>2025-08-13T00:00:00+00:00</pubDate>
+      <source>Eric Kernfeld</source>
+      <guid>https://ekernf01.github.io/job_search_2025</guid>
+    </item>
+    
+    <item>
+      <title>Announcing taxburst, an update of the Krona software for taxonomy exploration</title>
+      <link>http://ivory.idyll.org/blog/2025-announcing-taxburst-030.html</link>
+      <description>&lt;p&gt;Announcing taxburst for metagenome taxonomy!&lt;/p&gt;</description>
+      <pubDate>2025-08-08T00:00:00+02:00</pubDate>
+      <source>Living in an Ivory Basement</source>
+      <guid>http://ivory.idyll.org/blog/2025-announcing-taxburst-030.html</guid>
+    </item>
+    
+    <item>
+      <title>10X Scoops Scale</title>
+      <link>https://omicsomics.blogspot.com/2025/08/10x-scoops-scale.html</link>
+      <description>&lt;a href="https://www.genengnews.com/topics/omics/10x-genomics-scales-up-agrees-to-acquire-scale-biosciences/"&gt;News broke this afternoon &lt;/a&gt;that microfluidics single cell genomics leader 10X Genomics </description>
+      <pubDate>2025-08-07T23:01:00.003-04:00</pubDate>
+      <source>Omics! Omics!</source>
+      <guid>https://omicsomics.blogspot.com/2025/08/10x-scoops-scale.html</guid>
+    </item>
+    
+    <item>
+      <title>Analyzing ICE Detention Data from 2021 to 2025</title>
+      <link>http://jefworks-lab.github.io//blog/2025/07/10/analyzing-ice-detention-data/</link>
+      <description>The ability to code and explore big datasets are generally useful skills that transfer well beyond our work of biomedical spatial omics analysis. In this blog post, I analyze publicly available datase</description>
+      <pubDate>2025-07-10T00:00:00+00:00</pubDate>
+      <source>JEFworks Lab</source>
+      <guid>http://jefworks-lab.github.io//blog/2025/07/10/analyzing-ice-detention-data/</guid>
+    </item>
+    
+    <item>
+      <title>Could It Have Been Found With Short Reads?</title>
+      <link>https://omicsomics.blogspot.com/2025/06/could-it-have-been-found-with-short.html</link>
+      <description>&lt;div&gt;Initially, the ESHG program was overwhelming.  With the exception of the official opening and closing sessions, every timeslot had multiple parallel sessions - and sometimes those also had compet</description>
+      <pubDate>2025-06-29T22:56:00.001-04:00</pubDate>
+      <source>Omics! Omics!</source>
+      <guid>https://omicsomics.blogspot.com/2025/06/could-it-have-been-found-with-short.html</guid>
+    </item>
+    
+    <item>
+      <title>A recap of virtual cell releases circa June 2025</title>
+      <link>https://ekernf01.github.io/virtual-cell-june-2025</link>
+      <description>In October 2024, I twote that “something is deeply wrong” with what we now call virtual cell models. A lot has happened since then: modelers are advancing new architectures and mining new sources of i</description>
+      <pubDate>2025-06-29T00:00:00+00:00</pubDate>
+      <source>Eric Kernfeld</source>
+      <guid>https://ekernf01.github.io/virtual-cell-june-2025</guid>
+    </item>
+    
+    <item>
+      <title>Food For Thought On ONT's Proteomics Push</title>
+      <link>https://omicsomics.blogspot.com/2025/06/food-for-thought-on-onts-proteomics-push.html</link>
+      <description>&lt;div&gt;This year, instead of touring London after the Nanopore confab I headed to Italy for the European Society of Human Genetics meeting.  Upon hearing Lakmal Jayasinghe describe ONT's proteomics plan</description>
+      <pubDate>2025-06-26T08:13:00.001-04:00</pubDate>
+      <source>Omics! Omics!</source>
+      <guid>https://omicsomics.blogspot.com/2025/06/food-for-thought-on-onts-proteomics-push.html</guid>
+    </item>
+    
+    <item>
+      <title>Five flavors of stratified LD score regression (Part 1, Vanilla)</title>
+      <link>https://ekernf01.github.io/vanilla</link>
+      <description>Linkage disequilibrium score regression (LDSC) is a workhorse technique at the intersection of quantitative genetics and functional genomics. The core use of S-LDSC is to detect and quantify functiona</description>
+      <pubDate>2025-06-22T00:00:00+00:00</pubDate>
+      <source>Eric Kernfeld</source>
+      <guid>https://ekernf01.github.io/vanilla</guid>
+    </item>
+    
+    <item>
+      <title>Five flavors of stratified LD score regression (Part 2, Strawberry)</title>
+      <link>https://ekernf01.github.io/strawberry</link>
+      <description>Stratified linkage disequilibrium score regression (S-LDSC) is a workhorse technique at the intersection of human genetics and functional genomics, but its exposition is heavily genetics-coded. In cel</description>
+      <pubDate>2025-06-22T00:00:00+00:00</pubDate>
+      <source>Eric Kernfeld</source>
+      <guid>https://ekernf01.github.io/strawberry</guid>
+    </item>
+    
+    <item>
+      <title>Five flavors of stratified LD score regression (Part 3, Cranberry)</title>
+      <link>https://ekernf01.github.io/cranberry</link>
+      <description>Stratified linkage disequilibrium score regression (S-LDSC) is a workhorse technique at the intersection of human genetics and functional genomics, but its exposition is heavily genetics-coded. In cel</description>
+      <pubDate>2025-06-22T00:00:00+00:00</pubDate>
+      <source>Eric Kernfeld</source>
+      <guid>https://ekernf01.github.io/cranberry</guid>
+    </item>
+    
+    <item>
+      <title>Roche Gives SBX Updates - and a Name!</title>
+      <link>https://omicsomics.blogspot.com/2025/06/roche-gives-sbx-updates-and-name.html</link>
+      <description>Last week I double-dipped on conferences, going from London Calling to European Society for Human Genetics (ESHG) in Milan.  I have a raft of notes and ideas from these, which I'll try to spool out ov</description>
+      <pubDate>2025-06-02T08:35:00.000-04:00</pubDate>
+      <source>Omics! Omics!</source>
+      <guid>https://omicsomics.blogspot.com/2025/06/roche-gives-sbx-updates-and-name.html</guid>
+    </item>
+    
+    <item>
+      <title>Dorado v1.0.0 and the v5.2.0 basecalling models</title>
+      <link>https://rrwick.github.io/2025/05/27/dorado-v1.html</link>
+      <description></description>
+      <pubDate>2025-05-27T00:00:00+00:00</pubDate>
+      <source>Ryan Wick’s bioinformatics blog</source>
+      <guid>https://rrwick.github.io/2025/05/27/dorado-v1.html</guid>
+    </item>
+    
+    <item>
+      <title>Oxford Nanopore Should Spin Out Protein Sequencing</title>
+      <link>https://omicsomics.blogspot.com/2025/05/oxford-nanopore-should-spin-out-protein.html</link>
+      <description>&lt;div&gt;I've toyed with writing something on these lines for a long time but never quite pulled the trigger.  But the more I think about it, the more imperative my logic feels for spinning off the nascen</description>
+      <pubDate>2025-05-21T02:46:00.001-04:00</pubDate>
+      <source>Omics! Omics!</source>
+      <guid>https://omicsomics.blogspot.com/2025/05/oxford-nanopore-should-spin-out-protein.html</guid>
+    </item>
+    
+    <item>
+      <title>Multi-sample Integrative Analysis of Spatial Transcriptomics Data using Sketching and Harmony in Seurat</title>
+      <link>http://jefworks-lab.github.io//blog/2025/04/22/harmony-with-sketching-in-seurat/</link>
+      <description>I often write up code tutorials as a way for me to take notes on what I’ve been learning. But they also serve a secondary purpose as training material for students in my lab. In particular, they provi</description>
+      <pubDate>2025-04-22T00:00:00+00:00</pubDate>
+      <source>JEFworks Lab</source>
+      <guid>http://jefworks-lab.github.io//blog/2025/04/22/harmony-with-sketching-in-seurat/</guid>
+    </item>
+    
+    <item>
+      <title>FASTQ assemblies with Dorado polish</title>
+      <link>https://rrwick.github.io/2025/02/19/fastq-assemblies.html</link>
+      <description></description>
+      <pubDate>2025-02-19T00:00:00+00:00</pubDate>
+      <source>Ryan Wick’s bioinformatics blog</source>
+      <guid>https://rrwick.github.io/2025/02/19/fastq-assemblies.html</guid>
+    </item>
+    
+    <item>
+      <title>Medaka vs Dorado polish</title>
+      <link>https://rrwick.github.io/2025/02/07/dorado-polish.html</link>
+      <description></description>
+      <pubDate>2025-02-07T00:00:00+00:00</pubDate>
+      <source>Ryan Wick’s bioinformatics blog</source>
+      <guid>https://rrwick.github.io/2025/02/07/dorado-polish.html</guid>
+    </item>
+    
+    <item>
+      <title>Announcing: the chill-filter Web site - DNA sample composition at a glance!</title>
+      <link>http://ivory.idyll.org/blog/2024-announcing-chill-filter.html</link>
+      <description>&lt;p&gt;what's in my sample, dude?&lt;/p&gt;</description>
+      <pubDate>2024-12-27T00:00:00+01:00</pubDate>
+      <source>Living in an Ivory Basement</source>
+      <guid>http://ivory.idyll.org/blog/2024-announcing-chill-filter.html</guid>
+    </item>
+    
+    <item>
+      <title>A first look at CycloneSEQ data</title>
+      <link>https://rrwick.github.io/2024/12/17/cycloneseq.html</link>
+      <description></description>
+      <pubDate>2024-12-17T00:00:00+00:00</pubDate>
+      <source>Ryan Wick’s bioinformatics blog</source>
+      <guid>https://rrwick.github.io/2024/12/17/cycloneseq.html</guid>
+    </item>
+    
+    <item>
+      <title>Using AI to find heterogeneous scientific speakers</title>
+      <link>http://jefworks-lab.github.io//blog/2024/11/04/using-ai-to-prevent-manels/</link>
+      <description>(Alt title: how I am using AI to prevent manels and how you can too)</description>
+      <pubDate>2024-11-04T00:00:00+00:00</pubDate>
+      <source>JEFworks Lab</source>
+      <guid>http://jefworks-lab.github.io//blog/2024/11/04/using-ai-to-prevent-manels/</guid>
+    </item>
+    
+    <item>
+      <title>Why Rust is an increasingly beloved part of my programming toolbox</title>
+      <link>http://ivory.idyll.org/blog/2024-why-i-like-rust.html</link>
+      <description>&lt;p&gt;Rust is nice!&lt;/p&gt;</description>
+      <pubDate>2024-10-16T00:00:00+02:00</pubDate>
+      <source>Living in an Ivory Basement</source>
+      <guid>http://ivory.idyll.org/blog/2024-why-i-like-rust.html</guid>
+    </item>
+    
+    <item>
+      <title>The many ways to calculate Moran’s I for identifying spatially variable genes in spatial transcriptomics data</title>
+      <link>http://jefworks-lab.github.io//blog/2024/08/29/the-many-ways-to-detect-svgs-using-moransI/</link>
+      <description>In this blog post, I will compare 4 implementations of Moran’s I in R (MERINGUE, Rfast2, ape, and spdep) to identify spatially variable genes (SVGs) in spatial transcriptomics data.</description>
+      <pubDate>2024-08-29T00:00:00+00:00</pubDate>
+      <source>JEFworks Lab</source>
+      <guid>http://jefworks-lab.github.io//blog/2024/08/29/the-many-ways-to-detect-svgs-using-moransI/</guid>
+    </item>
+    
+    <item>
+      <title>Recent advances in the sourmash ecosystem (August 2024)</title>
+      <link>http://ivory.idyll.org/blog/2024-sourmash-advances.html</link>
+      <description>&lt;p&gt;sourmash is faster and better than before!&lt;/p&gt;</description>
+      <pubDate>2024-08-16T00:00:00+02:00</pubDate>
+      <source>Living in an Ivory Basement</source>
+      <guid>http://ivory.idyll.org/blog/2024-sourmash-advances.html</guid>
+    </item>
+    
+    <item>
+      <title>Characterizing spatial heterogeneity using spatial bootstrapping with SEraster</title>
+      <link>http://jefworks-lab.github.io//blog/2024/07/23/spatial-bootstrapping-with-seraster/</link>
+      <description>SEraster aggregates single cell spatial omics data into square/hex pixels for scalable analysis</description>
+      <pubDate>2024-07-23T00:00:00+00:00</pubDate>
+      <source>JEFworks Lab</source>
+      <guid>http://jefworks-lab.github.io//blog/2024/07/23/spatial-bootstrapping-with-seraster/</guid>
+    </item>
+    
+    <item>
+      <title>Speeding sourmash the heck up</title>
+      <link>http://ivory.idyll.org/blog/2024-speeding-sourmash-the-heck-up.html</link>
+      <description>&lt;p&gt;Faster things are always nice, right?&lt;/p&gt;</description>
+      <pubDate>2024-02-20T00:00:00+01:00</pubDate>
+      <source>Living in an Ivory Basement</source>
+      <guid>http://ivory.idyll.org/blog/2024-speeding-sourmash-the-heck-up.html</guid>
+    </item>
+    
+</channel>
+</rss>

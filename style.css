@@ -109,3 +109,27 @@ aside a:hover {
     /* orange hover */
     text-decoration: underline;
 }
+
+/* Pagination links */
+.pagination {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.pagination a {
+    display: inline-block;
+    margin: 0 0.5rem;
+    padding: 0.4rem 0.8rem;
+    background: #e6f0fa;
+    /* pastel blue */
+    color: #1d3557;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 0.95rem;
+}
+
+.pagination a:hover {
+    background: #f4a261;
+    /* pastel orange */
+    color: #fff;
+}
