@@ -5,3 +5,4 @@ http://jefworks-lab.github.io//feed.xml
 https://joynyaanga.com/index.xml
 https://divingintogeneticsandgenomics.com/index.xml
 https://rrwick.github.io/feed
+https://omicsomics.blogspot.com/feeds/posts/default
