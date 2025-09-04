@@ -26,7 +26,7 @@ for url in feeds:
                 "link": entry.link,
                 "source": title,
                 "published": entry.get("published", ""),
-                "summary": entry.get("summary", "")[:500],
+                "summary": entry.get("summary", "")[:200],
             }
         )
 
@@ -61,9 +61,12 @@ for i, page_items in enumerate(pages, start=1):
     # Add pagination links
     nav_links = []
     if i > 1:
-        nav_links.append(f'<a href="page{i - 1}.html">← Previous</a>')
+        if i == 2:
+            nav_links.append('<a href="index.html">← Previous</a>')
+    else:
+        nav_links.append(f'<a href="page{i-1}.html">← Previous</a>')
     if i < len(pages):
-        nav_links.append(f'<a href="page{i + 1}.html">Next →</a>')
+        nav_links.append(f'<a href="page{i+1}.html">Next →</a>')
 
     html = (
         template.replace("{{ content }}", "\n".join(entry_html))
