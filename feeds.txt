@@ -4,3 +4,4 @@ https://ekernf01.github.io/feed.xml
 http://jefworks-lab.github.io//feed.xml
 https://joynyaanga.com/index.xml
 https://divingintogeneticsandgenomics.com/index.xml
+https://rrwick.github.io/feed
