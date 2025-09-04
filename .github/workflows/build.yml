@@ -18,6 +18,8 @@ jobs:
         run: pip install feedparser
       - name: Build site
         run: python build.py
+      - name: Add CNAME
+        run: echo "bioinf-bloggers.com" > public/CNAME
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
