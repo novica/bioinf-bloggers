@@ -5,16 +5,24 @@
     <meta charset="utf-8">
     <title>Bioinformatics Blogs</title>
     <link rel="stylesheet" href="style.css">
+    <!-- RSS autodiscovery -->
+    <link rel="alternate" type="application/rss+xml" title="Bioinformatics Blogs RSS" href="feed.xml" />
 </head>
 
 <body>
     <header>
         <h1>Bioinformatics Blogs</h1>
         <p>A feed of the latest posts of Bioinformatics blogs around the world</p>
+        <p><a href="feed.xml">📡 Subscribe via RSS</a></p>
     </header>
     <main>
         <div id="content">
             {{ content }}
+
+            <!-- Pagination placeholder -->
+            <div class="pagination">
+                {{ pagination }}
+            </div>
         </div>
         <aside>
             <h3>Feeds</h3>
