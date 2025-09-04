@@ -26,7 +26,7 @@ for url in feeds:
                 "link": entry.link,
                 "source": title,
                 "published": entry.get("published", ""),
-                "summary": entry.get("summary", "")[:200],
+                "summary": entry.get("summary", "")[:500],
             }
         )
 
