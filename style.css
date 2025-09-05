@@ -73,6 +73,14 @@ article h2 a:hover {
     margin-bottom: 0.5rem;
 }
 
+/* Sidebar container */
+aside {
+  padding: 0;
+  margin: 0;
+  background: none; /* remove big block background */
+  box-shadow: none;
+}
+
 /* Sidebar boxes */
 .sidebar-box {
   background: #fff;
