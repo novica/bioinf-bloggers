@@ -77,33 +77,40 @@ article h2 a:hover {
 aside {
   padding: 0;
   margin: 0;
-  background: none; /* remove big block background */
+  background: none;
   box-shadow: none;
 }
 
 /* Sidebar boxes */
 .sidebar-box {
-  background: #fff;
-  border-radius: 10px;
+  background: #f9fbfd; /* light pastel blue */
+  border-left: 6px solid #f4a261; /* orange accent */
+  border-radius: 8px;
   padding: 1rem;
   margin-bottom: 1.5rem;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
 }
+
 .sidebar-box h3 {
   margin-top: 0;
   color: #1d3557;
 }
+
 .sidebar-box ul {
   list-style: none;
   padding-left: 0;
+  margin: 0;
 }
+
 .sidebar-box li {
   margin-bottom: 0.5rem;
 }
+
 .sidebar-box a {
   color: #457b9d;
   text-decoration: none;
 }
+
 .sidebar-box a:hover {
   color: #f4a261;
   text-decoration: underline;
