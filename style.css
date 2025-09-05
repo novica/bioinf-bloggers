@@ -73,42 +73,34 @@ article h2 a:hover {
     margin-bottom: 0.5rem;
 }
 
-/* Sidebar */
-aside {
-    background: #fffaf5;
-    /* very light pastel orange */
-    border-radius: 10px;
-    padding: 1rem;
-    box-shadow: 0 2px 8px rgba(244, 162, 97, 0.1);
-    /* orange shadow */
-    height: fit-content;
+/* Sidebar boxes */
+.sidebar-box {
+  background: #fff;
+  border-radius: 10px;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+.sidebar-box h3 {
+  margin-top: 0;
+  color: #1d3557;
+}
+.sidebar-box ul {
+  list-style: none;
+  padding-left: 0;
+}
+.sidebar-box li {
+  margin-bottom: 0.5rem;
+}
+.sidebar-box a {
+  color: #457b9d;
+  text-decoration: none;
+}
+.sidebar-box a:hover {
+  color: #f4a261;
+  text-decoration: underline;
 }
 
-aside h3 {
-    margin-top: 0;
-    color: #1d3557;
-}
-
-aside ul {
-    list-style: none;
-    padding-left: 0;
-}
-
-aside li {
-    margin-bottom: 0.5rem;
-}
-
-aside a {
-    text-decoration: none;
-    color: #457b9d;
-    /* medium blue */
-}
-
-aside a:hover {
-    color: #f4a261;
-    /* orange hover */
-    text-decoration: underline;
-}
 
 /* Pagination links */
 .pagination {
