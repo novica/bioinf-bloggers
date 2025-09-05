@@ -1,8 +1,8 @@
-https://davetang.org/muse/feed/
-http://ivory.idyll.org/blog/feeds/all.atom.xml
-https://ekernf01.github.io/feed.xml
-http://jefworks-lab.github.io//feed.xml
-https://joynyaanga.com/index.xml
-https://divingintogeneticsandgenomics.com/index.xml
-https://rrwick.github.io/feed
-https://omicsomics.blogspot.com/feeds/posts/default
+Dave Tang's blog, https://davetang.org/muse/feed/
+Living in an Ivory Basement, http://ivory.idyll.org/blog/feeds/all.atom.xml
+Eric Kernfeld, https://ekernf01.github.io/feed.xml
+JEFworks Lab, http://jefworks-lab.github.io//feed.xml
+Joy McIlvaine, PhD, https://joynyaanga.com/index.xml
+Chatomics on Chatomics, https://divingintogeneticsandgenomics.com/index.xml
+Ryan Wick’s bioinformatics blog, https://rrwick.github.io/feed
+Omics! Omics!, https://omicsomics.blogspot.com/feeds/posts/default

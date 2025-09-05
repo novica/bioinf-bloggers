@@ -4,18 +4,28 @@ from pathlib import Path
 from xml.sax.saxutils import escape
 
 # === Config ===
-PAGE_SIZE = 20
+PAGE_SIZE = 10
 OUTPUT_DIR = Path("public")
 FEEDS_FILE = Path("feeds.txt")
 
 # === Load feeds ===
-feeds = FEEDS_FILE.read_text().splitlines()
+feeds = []
+for line in FEEDS_FILE.read_text().splitlines():
+    if "," in line:
+        name, url = line.split("|", 1)
+        feeds.append((name.strip(), url.strip()))
+    else:
+        # fallback: no name given, use URL
+        feeds.append((line.strip(), line.strip()))
+
+
+# Fetch feeds and items
 items = []
 feed_list = []
 
-for url in feeds:
+for name, url in feeds:
     feed = feedparser.parse(url)
-    title = feed.feed.get("title", url)
+    title = name or feed.feed.get("title", url)
     link = feed.feed.get("link", url)
     feed_list.append((title, link))
 
@@ -29,6 +39,9 @@ for url in feeds:
                 "summary": entry.get("summary", "")[:200],
             }
         )
+
+# Sort feed list alphabetically
+feed_list.sort(key=lambda x: x[0].lower())
 
 # Sort newest first
 items.sort(key=lambda x: x["published"], reverse=True)
@@ -63,10 +76,10 @@ for i, page_items in enumerate(pages, start=1):
     if i > 1:
         if i == 2:
             nav_links.append('<a href="index.html">← Previous</a>')
-    else:
-        nav_links.append(f'<a href="page{i-1}.html">← Previous</a>')
+        else:
+            nav_links.append(f'<a href="page{i - 1}.html">← Previous</a>')
     if i < len(pages):
-        nav_links.append(f'<a href="page{i+1}.html">Next →</a>')
+        nav_links.append(f'<a href="page{i + 1}.html">Next →</a>')
 
     html = (
         template.replace("{{ content }}", "\n".join(entry_html))
