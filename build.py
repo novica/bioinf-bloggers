@@ -1,7 +1,29 @@
 import feedparser
-import datetime
 from pathlib import Path
 from xml.sax.saxutils import escape
+import calendar
+from email.utils import parsedate_to_datetime
+from datetime import datetime, timezone
+
+
+def extract_dt(entry) -> datetime:
+    # Prefer parsed structs from feedparser
+    for attr in ("published_parsed", "updated_parsed"):
+        t = entry.get(attr)
+        if t:
+            # t is time.struct_time (UTC). Make it aware.
+            return datetime.fromtimestamp(calendar.timegm(t), tz=timezone.utc)
+    # Fallback: try RFC2822/ISO-ish strings
+    for attr in ("published", "updated"):
+        s = entry.get(attr)
+        if s:
+            try:
+                return parsedate_to_datetime(s).astimezone(timezone.utc)
+            except Exception:
+                pass
+    # No date at all → push to the end
+    return datetime(1970, 1, 1, tzinfo=timezone.utc)
+
 
 # === Config ===
 PAGE_SIZE = 10
@@ -30,13 +52,19 @@ for name, url in feeds:
     feed_list.append((title, link))
 
     for entry in feed.entries[:5]:
+        dt = extract_dt(entry)
+        display_date = (
+            entry.get("published") or entry.get("updated") or dt.strftime("%Y-%m-%d")
+        )
+
         items.append(
             {
                 "title": entry.title,
                 "link": entry.link,
                 "source": title,
-                "published": entry.get("published", ""),
+                "published": display_date,
                 "summary": entry.get("summary", "")[:200],
+                "dt": dt,  # for sorting
             }
         )
 
@@ -44,7 +72,7 @@ for name, url in feeds:
 feed_list.sort(key=lambda x: x[0].lower())
 
 # Sort newest first
-items.sort(key=lambda x: x["published"], reverse=True)
+items.sort(key=lambda x: x["dt"], reverse=True)
 
 # === Sidebar ===
 sidebar_html = "\n".join(
