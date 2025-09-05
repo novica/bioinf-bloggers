@@ -4,7 +4,7 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Fri, 05 Sep 2025 06:33:42 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 05 Sep 2025 06:49:59 +0000</lastBuildDate>
   
     <item>
       <title>One tip per day</title>
@@ -34,24 +34,6 @@
     </item>
     
     <item>
-      <title>Linkage mapping reveals loci that underlie differences in C. elegans growth</title>
-      <link>https://joynyaanga.com/publication/n2cb/</link>
-      <description></description>
-      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
-      <source>Joy McIlvaine, PhD</source>
-      <guid>https://joynyaanga.com/publication/n2cb/</guid>
-    </item>
-    
-    <item>
-      <title>C. elegans toxicant responses vary among genetically diverse individuals</title>
-      <link>https://joynyaanga.com/publication/toxins/</link>
-      <description></description>
-      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
-      <source>Joy McIlvaine, PhD</source>
-      <guid>https://joynyaanga.com/publication/toxins/</guid>
-    </item>
-    
-    <item>
       <title>How to create a GenomicRanges object in Bioconductor using canonical transcripts</title>
       <link>https://divingintogeneticsandgenomics.com/post/canonical-tx/</link>
       <description>&lt;p&gt;&lt;strong&gt;To not miss a post like this, sign up for my &lt;a href="https://divingintogeneticsandgenomics.ck.page/profile"&gt;newsletter&lt;/a&gt; to learn computational
@@ -60,24 +42,6 @@ biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
       <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
       <source>Chatomics on Chatomics</source>
       <guid>https://divingintogeneticsandgenomics.com/post/canonical-tx/</guid>
-    </item>
-    
-    <item>
-      <title>Changes in body shape implicate cuticle stretch in C. elegans growth control</title>
-      <link>https://joynyaanga.com/publication/growth/</link>
-      <description></description>
-      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
-      <source>Joy McIlvaine, PhD</source>
-      <guid>https://joynyaanga.com/publication/growth/</guid>
-    </item>
-    
-    <item>
-      <title>C. elegans growth and development</title>
-      <link>https://joynyaanga.com/project/growth-and-dev/</link>
-      <description>&lt;p&gt;From 2018 - 2022 I embarked on the arduous journey that is graduate school. After many experiments, endless lines of code, and countless hours spent thesis writing, I successfully defended my disse</description>
-      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
-      <source>Joy McIlvaine, PhD</source>
-      <guid>https://joynyaanga.com/project/growth-and-dev/</guid>
     </item>
     
     <item>
@@ -105,15 +69,6 @@ biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
       <pubDate>Sat, 30 Aug 2025 03:01:22 +0000</pubDate>
       <source>Dave Tang's blog</source>
       <guid>https://davetang.org/muse/2025/08/30/on-professionalism/</guid>
-    </item>
-    
-    <item>
-      <title>Empowering Research - ATAC-seq pipeline development</title>
-      <link>https://joynyaanga.com/project/atacseq/</link>
-      <description>&lt;p&gt;I am excited to share a recent project I&amp;rsquo;ve been working on that showcases my skills in pipeline development, project management, and handling ATAC-seq data. Let&amp;rsquo;s dive into the details</description>
-      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
-      <source>Joy McIlvaine, PhD</source>
-      <guid>https://joynyaanga.com/project/atacseq/</guid>
     </item>
     
     <item>

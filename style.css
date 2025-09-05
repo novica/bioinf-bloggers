@@ -133,3 +133,23 @@ aside a:hover {
     /* pastel orange */
     color: #fff;
 }
+
+/* Footer */
+footer {
+  background: #e6f0fa; /* pastel blue */
+  text-align: center;
+  padding: 1rem;
+  margin-top: 2rem;
+  font-size: 0.9rem;
+  color: #444;
+  border-top: 3px solid #f4a261; /* pastel orange accent */
+}
+footer a {
+  color: #457b9d;
+  text-decoration: none;
+  margin: 0 0.5rem;
+}
+footer a:hover {
+  color: #f4a261;
+  text-decoration: underline;
+}
