@@ -12,7 +12,7 @@ FEEDS_FILE = Path("feeds.txt")
 feeds = []
 for line in FEEDS_FILE.read_text().splitlines():
     if "," in line:
-        name, url = line.split("|", 1)
+        name, url = line.split(",", 1)
         feeds.append((name.strip(), url.strip()))
     else:
         # fallback: no name given, use URL
