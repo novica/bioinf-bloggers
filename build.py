@@ -137,13 +137,15 @@ for item in items[:50]:  # latest 50
     </item>
     """)
 
+last_build = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
+
 rss_feed = f"""<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>{datetime.datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S +0000")}</lastBuildDate>
+  <lastBuildDate>{last_build}</lastBuildDate>
   {"".join(rss_items)}
 </channel>
 </rss>
