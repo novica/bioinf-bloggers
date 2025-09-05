@@ -4,62 +4,15 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Fri, 05 Sep 2025 07:14:53 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 05 Sep 2025 07:33:05 +0000</lastBuildDate>
   
     <item>
-      <title>One tip per day</title>
-      <link>https://davetang.org/muse/2025/05/14/one-tip-per-day/</link>
-      <description>&lt;p&gt;I have been adding one tip per day to my daily tips GitHub repo for the past month. It's a simple setup: I manually add tips to a YAML file I use a Python script to convert YAML to Markdown A helpe</description>
-      <pubDate>Wed, 14 May 2025 10:11:09 +0000</pubDate>
-      <source>Dave Tang's blog</source>
-      <guid>https://davetang.org/muse/2025/05/14/one-tip-per-day/</guid>
-    </item>
-    
-    <item>
-      <title>Hosting your own Git repositories</title>
-      <link>https://davetang.org/muse/2025/08/14/hosting-your-own-git-repositories/</link>
-      <description>&lt;p&gt;As you may have already heard, GitHub just got less independent at Microsoft after CEO resignation. What does this mean? Well, I guess nobody knows for certain but it probably will mean that GitHub</description>
-      <pubDate>Wed, 13 Aug 2025 23:34:00 +0000</pubDate>
-      <source>Dave Tang's blog</source>
-      <guid>https://davetang.org/muse/2025/08/14/hosting-your-own-git-repositories/</guid>
-    </item>
-    
-    <item>
-      <title>Retrieval-Augmented Generation</title>
-      <link>https://davetang.org/muse/2025/05/27/retrieval-augmented-generation/</link>
-      <description>&lt;p&gt;Back in February I learned about Open WebUI and have been wanting to test it out with Retrieval-Augmented Generation (RAG). I'll follow the tutorial available on Open WebUI's site. The goal of RAG </description>
-      <pubDate>Tue, 27 May 2025 08:11:38 +0000</pubDate>
-      <source>Dave Tang's blog</source>
-      <guid>https://davetang.org/muse/2025/05/27/retrieval-augmented-generation/</guid>
-    </item>
-    
-    <item>
-      <title>How to create a GenomicRanges object in Bioconductor using canonical transcripts</title>
-      <link>https://divingintogeneticsandgenomics.com/post/canonical-tx/</link>
-      <description>&lt;p&gt;&lt;strong&gt;To not miss a post like this, sign up for my &lt;a href="https://divingintogeneticsandgenomics.ck.page/profile"&gt;newsletter&lt;/a&gt; to learn computational
-biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
-&lt;</description>
-      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
-      <source>Chatomics on Chatomics</source>
-      <guid>https://divingintogeneticsandgenomics.com/post/canonical-tx/</guid>
-    </item>
-    
-    <item>
-      <title>Reproducible Computing in Bioinformatics: Lessons from My Latest Talk</title>
-      <link>https://divingintogeneticsandgenomics.com/post/repro-comp/</link>
-      <description>&lt;p&gt;Hey everyone, it’s Tommy here. If you’ve been following my blog or my Twitter/X (&lt;span class="citation"&gt;@tangming2005&lt;/span&gt;), you know I love diving into the practical side of bioinformatics and g</description>
-      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
-      <source>Chatomics on Chatomics</source>
-      <guid>https://divingintogeneticsandgenomics.com/post/repro-comp/</guid>
-    </item>
-    
-    <item>
-      <title>How long does it take to run gpt-oss:20b?</title>
-      <link>https://davetang.org/muse/2025/08/10/how-long-does-it-take-to-run-gpt-oss20b/</link>
-      <description>&lt;p&gt;gpt-oss is OpenAI's open-weight models designed for powerful reasoning, agentic tasks, and versatile developer use cases. You can easily use it via Ollama and read more about it in their blog post.</description>
-      <pubDate>Sun, 10 Aug 2025 05:37:04 +0000</pubDate>
-      <source>Dave Tang's blog</source>
-      <guid>https://davetang.org/muse/2025/08/10/how-long-does-it-take-to-run-gpt-oss20b/</guid>
+      <title>Cross-sample homopolymer polishing with Pypolca</title>
+      <link>https://rrwick.github.io/2025/09/04/homopolymer-polishing.html</link>
+      <description></description>
+      <pubDate>2025-09-04T00:00:00+00:00</pubDate>
+      <source>Ryan Wick’s bioinformatics blog</source>
+      <guid>https://rrwick.github.io/2025/09/04/homopolymer-polishing.html</guid>
     </item>
     
     <item>
@@ -72,23 +25,57 @@ biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
     </item>
     
     <item>
-      <title>Panel discussion: From Physics-Based Modeling to AI-driven Drug Discovery</title>
-      <link>https://divingintogeneticsandgenomics.com/talk/2025-atombeat-panel/</link>
-      <description>&lt;p&gt;&lt;img alt="" src="https://divingintogeneticsandgenomics.com/img/atombeat.jpeg" /&gt;&lt;/p&gt;</description>
-      <pubDate>Fri, 18 Jul 2025 12:00:00 +0000</pubDate>
+      <title>Reproducible Computing in Bioinformatics: Lessons from My Latest Talk</title>
+      <link>https://divingintogeneticsandgenomics.com/post/repro-comp/</link>
+      <description>&lt;p&gt;Hey everyone, it’s Tommy here. If you’ve been following my blog or my Twitter/X (&lt;span class="citation"&gt;@tangming2005&lt;/span&gt;), you know I love diving into the practical side of bioinformatics and g</description>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
       <source>Chatomics on Chatomics</source>
-      <guid>https://divingintogeneticsandgenomics.com/talk/2025-atombeat-panel/</guid>
+      <guid>https://divingintogeneticsandgenomics.com/post/repro-comp/</guid>
     </item>
     
     <item>
-      <title>Mastering Bioinformatics in the Age of AI: Foundational Skills for the Modern Scientist</title>
-      <link>https://divingintogeneticsandgenomics.com/post/ai-bioinformatics/</link>
-      <description>&lt;p&gt;&lt;strong&gt;To not miss a post like this, sign up for my &lt;a href="https://divingintogeneticsandgenomics.ck.page/profile"&gt;newsletter&lt;/a&gt; to learn computational
-biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
-&lt;</description>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
-      <source>Chatomics on Chatomics</source>
-      <guid>https://divingintogeneticsandgenomics.com/post/ai-bioinformatics/</guid>
+      <title>Hosting your own Git repositories</title>
+      <link>https://davetang.org/muse/2025/08/14/hosting-your-own-git-repositories/</link>
+      <description>&lt;p&gt;As you may have already heard, GitHub just got less independent at Microsoft after CEO resignation. What does this mean? Well, I guess nobody knows for certain but it probably will mean that GitHub</description>
+      <pubDate>Wed, 13 Aug 2025 23:34:00 +0000</pubDate>
+      <source>Dave Tang's blog</source>
+      <guid>https://davetang.org/muse/2025/08/14/hosting-your-own-git-repositories/</guid>
+    </item>
+    
+    <item>
+      <title>Job search 2025 post-mortem and advice</title>
+      <link>https://ekernf01.github.io/job_search_2025</link>
+      <description>The comp bio job market is scarier than usual: 2023 was a biotech bankruptcy bloodbath, 2024 was a little better, and as far as layoffs, 2025 has been worse. Academic and government sectors are also r</description>
+      <pubDate>2025-08-13T00:00:00+00:00</pubDate>
+      <source>Eric Kernfeld</source>
+      <guid>https://ekernf01.github.io/job_search_2025</guid>
+    </item>
+    
+    <item>
+      <title>How long does it take to run gpt-oss:20b?</title>
+      <link>https://davetang.org/muse/2025/08/10/how-long-does-it-take-to-run-gpt-oss20b/</link>
+      <description>&lt;p&gt;gpt-oss is OpenAI's open-weight models designed for powerful reasoning, agentic tasks, and versatile developer use cases. You can easily use it via Ollama and read more about it in their blog post.</description>
+      <pubDate>Sun, 10 Aug 2025 05:37:04 +0000</pubDate>
+      <source>Dave Tang's blog</source>
+      <guid>https://davetang.org/muse/2025/08/10/how-long-does-it-take-to-run-gpt-oss20b/</guid>
+    </item>
+    
+    <item>
+      <title>10X Scoops Scale</title>
+      <link>https://omicsomics.blogspot.com/2025/08/10x-scoops-scale.html</link>
+      <description>&lt;a href="https://www.genengnews.com/topics/omics/10x-genomics-scales-up-agrees-to-acquire-scale-biosciences/"&gt;News broke this afternoon &lt;/a&gt;that microfluidics single cell genomics leader 10X Genomics </description>
+      <pubDate>2025-08-07T23:01:00.003-04:00</pubDate>
+      <source>Omics! Omics!</source>
+      <guid>https://omicsomics.blogspot.com/2025/08/10x-scoops-scale.html</guid>
+    </item>
+    
+    <item>
+      <title>Announcing taxburst, an update of the Krona software for taxonomy exploration</title>
+      <link>http://ivory.idyll.org/blog/2025-announcing-taxburst-030.html</link>
+      <description>&lt;p&gt;Announcing taxburst for metagenome taxonomy!&lt;/p&gt;</description>
+      <pubDate>2025-08-08T00:00:00+02:00</pubDate>
+      <source>Living in an Ivory Basement</source>
+      <guid>http://ivory.idyll.org/blog/2025-announcing-taxburst-030.html</guid>
     </item>
     
     <item>
@@ -103,39 +90,23 @@ biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
     </item>
     
     <item>
-      <title>Cross-sample homopolymer polishing with Pypolca</title>
-      <link>https://rrwick.github.io/2025/09/04/homopolymer-polishing.html</link>
-      <description></description>
-      <pubDate>2025-09-04T00:00:00+00:00</pubDate>
-      <source>Ryan Wick’s bioinformatics blog</source>
-      <guid>https://rrwick.github.io/2025/09/04/homopolymer-polishing.html</guid>
+      <title>Panel discussion: From Physics-Based Modeling to AI-driven Drug Discovery</title>
+      <link>https://divingintogeneticsandgenomics.com/talk/2025-atombeat-panel/</link>
+      <description>&lt;p&gt;&lt;img alt="" src="https://divingintogeneticsandgenomics.com/img/atombeat.jpeg" /&gt;&lt;/p&gt;</description>
+      <pubDate>Fri, 18 Jul 2025 12:00:00 +0000</pubDate>
+      <source>Chatomics on Chatomics</source>
+      <guid>https://divingintogeneticsandgenomics.com/talk/2025-atombeat-panel/</guid>
     </item>
     
     <item>
-      <title>Job search 2025 post-mortem and advice</title>
-      <link>https://ekernf01.github.io/job_search_2025</link>
-      <description>The comp bio job market is scarier than usual: 2023 was a biotech bankruptcy bloodbath, 2024 was a little better, and as far as layoffs, 2025 has been worse. Academic and government sectors are also r</description>
-      <pubDate>2025-08-13T00:00:00+00:00</pubDate>
-      <source>Eric Kernfeld</source>
-      <guid>https://ekernf01.github.io/job_search_2025</guid>
-    </item>
-    
-    <item>
-      <title>Announcing taxburst, an update of the Krona software for taxonomy exploration</title>
-      <link>http://ivory.idyll.org/blog/2025-announcing-taxburst-030.html</link>
-      <description>&lt;p&gt;Announcing taxburst for metagenome taxonomy!&lt;/p&gt;</description>
-      <pubDate>2025-08-08T00:00:00+02:00</pubDate>
-      <source>Living in an Ivory Basement</source>
-      <guid>http://ivory.idyll.org/blog/2025-announcing-taxburst-030.html</guid>
-    </item>
-    
-    <item>
-      <title>10X Scoops Scale</title>
-      <link>https://omicsomics.blogspot.com/2025/08/10x-scoops-scale.html</link>
-      <description>&lt;a href="https://www.genengnews.com/topics/omics/10x-genomics-scales-up-agrees-to-acquire-scale-biosciences/"&gt;News broke this afternoon &lt;/a&gt;that microfluidics single cell genomics leader 10X Genomics </description>
-      <pubDate>2025-08-07T23:01:00.003-04:00</pubDate>
-      <source>Omics! Omics!</source>
-      <guid>https://omicsomics.blogspot.com/2025/08/10x-scoops-scale.html</guid>
+      <title>How to create a GenomicRanges object in Bioconductor using canonical transcripts</title>
+      <link>https://divingintogeneticsandgenomics.com/post/canonical-tx/</link>
+      <description>&lt;p&gt;&lt;strong&gt;To not miss a post like this, sign up for my &lt;a href="https://divingintogeneticsandgenomics.ck.page/profile"&gt;newsletter&lt;/a&gt; to learn computational
+biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
+&lt;</description>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <source>Chatomics on Chatomics</source>
+      <guid>https://divingintogeneticsandgenomics.com/post/canonical-tx/</guid>
     </item>
     
     <item>
@@ -145,6 +116,17 @@ biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
       <pubDate>2025-07-10T00:00:00+00:00</pubDate>
       <source>JEFworks Lab</source>
       <guid>http://jefworks-lab.github.io//blog/2025/07/10/analyzing-ice-detention-data/</guid>
+    </item>
+    
+    <item>
+      <title>Mastering Bioinformatics in the Age of AI: Foundational Skills for the Modern Scientist</title>
+      <link>https://divingintogeneticsandgenomics.com/post/ai-bioinformatics/</link>
+      <description>&lt;p&gt;&lt;strong&gt;To not miss a post like this, sign up for my &lt;a href="https://divingintogeneticsandgenomics.ck.page/profile"&gt;newsletter&lt;/a&gt; to learn computational
+biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
+&lt;</description>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <source>Chatomics on Chatomics</source>
+      <guid>https://divingintogeneticsandgenomics.com/post/ai-bioinformatics/</guid>
     </item>
     
     <item>
@@ -211,6 +193,15 @@ biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
     </item>
     
     <item>
+      <title>Retrieval-Augmented Generation</title>
+      <link>https://davetang.org/muse/2025/05/27/retrieval-augmented-generation/</link>
+      <description>&lt;p&gt;Back in February I learned about Open WebUI and have been wanting to test it out with Retrieval-Augmented Generation (RAG). I'll follow the tutorial available on Open WebUI's site. The goal of RAG </description>
+      <pubDate>Tue, 27 May 2025 08:11:38 +0000</pubDate>
+      <source>Dave Tang's blog</source>
+      <guid>https://davetang.org/muse/2025/05/27/retrieval-augmented-generation/</guid>
+    </item>
+    
+    <item>
       <title>Dorado v1.0.0 and the v5.2.0 basecalling models</title>
       <link>https://rrwick.github.io/2025/05/27/dorado-v1.html</link>
       <description></description>
@@ -226,6 +217,15 @@ biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
       <pubDate>2025-05-21T02:46:00.001-04:00</pubDate>
       <source>Omics! Omics!</source>
       <guid>https://omicsomics.blogspot.com/2025/05/oxford-nanopore-should-spin-out-protein.html</guid>
+    </item>
+    
+    <item>
+      <title>One tip per day</title>
+      <link>https://davetang.org/muse/2025/05/14/one-tip-per-day/</link>
+      <description>&lt;p&gt;I have been adding one tip per day to my daily tips GitHub repo for the past month. It's a simple setup: I manually add tips to a YAML file I use a Python script to convert YAML to Markdown A helpe</description>
+      <pubDate>Wed, 14 May 2025 10:11:09 +0000</pubDate>
+      <source>Dave Tang's blog</source>
+      <guid>https://davetang.org/muse/2025/05/14/one-tip-per-day/</guid>
     </item>
     
     <item>
