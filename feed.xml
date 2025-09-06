@@ -4,8 +4,53 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Sat, 06 Sep 2025 06:29:58 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 06 Sep 2025 19:14:09 +0000</lastBuildDate>
   
+    <item>
+      <title>Novel sequencing technology links DNA and RNA to provide molecular insights into breast cancer progression</title>
+      <link>https://www.rna-seqblog.com/novel-sequencing-technology-links-dna-and-rna-to-provide-molecular-insights-into-breast-cancer-progression/</link>
+      <description>wellDR-seq combines genome and RNA sequencing in single cells, revealing how DNA copy number changes shape gene expression and helping decode breast cancer evolution...</description>
+      <pubDate>Fri, 05 Sep 2025 12:03:13 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/novel-sequencing-technology-links-dna-and-rna-to-provide-molecular-insights-into-breast-cancer-progression/</guid>
+    </item>
+    
+    <item>
+      <title>Multiomic single-cell DNA–RNA sequencing – functional phenotyping of genomic variants using</title>
+      <link>https://www.rna-seqblog.com/multiomic-single-cell-dna-rna-sequencing-functional-phenotyping-of-genomic-variants-using/</link>
+      <description>Single-cell DNA-RNA sequencing links genetic variants to changes in gene expression, showing how mutations drive cancer biology and advancing the power of RNA sequencing in disease research...</description>
+      <pubDate>Fri, 05 Sep 2025 12:03:03 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/multiomic-single-cell-dna-rna-sequencing-functional-phenotyping-of-genomic-variants-using/</guid>
+    </item>
+    
+    <item>
+      <title>Alzheimer’s erodes brain cells’ control of gene expression, undermining function, cognition</title>
+      <link>https://www.rna-seqblog.com/alzheimers-erodes-brain-cells-control-of-gene-expression-undermining-function-cognition/</link>
+      <description>Combining RNA sequencing and epigenomic profiling of 3.5 million cells, MIT researchers show Alzheimer’s progression and resilience depend on preserving gene regulation and chromatin stability across </description>
+      <pubDate>Fri, 05 Sep 2025 12:02:57 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/alzheimers-erodes-brain-cells-control-of-gene-expression-undermining-function-cognition/</guid>
+    </item>
+    
+    <item>
+      <title>Slide-tags enables single-nucleus barcoding for multimodal spatial genomics</title>
+      <link>https://www.rna-seqblog.com/slide-tags-enables-single-nucleus-barcoding-for-multimodal-spatial-genomics/</link>
+      <description>Understanding how cells are arranged in tissues is just as important as knowing what genes they are expressing. Traditional single-cell and single-nucleus RNA sequencing has given researchers valuable</description>
+      <pubDate>Thu, 04 Sep 2025 11:47:26 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/slide-tags-enables-single-nucleus-barcoding-for-multimodal-spatial-genomics/</guid>
+    </item>
+    
+    <item>
+      <title>T-CellAnnoTator – reproducible single-cell annotation of programs underlying T cell subsets, activation states and functions</title>
+      <link>https://www.rna-seqblog.com/t-cellannotator-reproducible-single-cell-annotation-of-programs-underlying-t-cell-subsets-activation-states-and-functions/</link>
+      <description>Researchers are gaining a clearer picture of how T cells, the body’s key defenders in the immune system, actually work. T cells are known for recognizing threats like viruses or cancer cells and then </description>
+      <pubDate>Thu, 04 Sep 2025 11:47:11 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/t-cellannotator-reproducible-single-cell-annotation-of-programs-underlying-t-cell-subsets-activation-states-and-functions/</guid>
+    </item>
+    
     <item>
       <title>Cross-sample homopolymer polishing with Pypolca</title>
       <link>https://rrwick.github.io/2025/09/04/homopolymer-polishing.html</link>
@@ -238,6 +283,16 @@ biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
     </item>
     
     <item>
+      <title>Short RNA-seq read alignment with minimap2</title>
+      <link>http://lh3.github.io/2025/04/18/short-rna-seq-read-alignment-with-minimap2</link>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;TL;DR:&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;the new preset &lt;code class="language-plaintext highlighter-rouge"&gt;splice:sr&lt;/code&gt; in minimap2 can align short RNA-seq reads.
+It is similar to STAR in resource </description>
+      <pubDate>2025-04-18T00:00:00+00:00</pubDate>
+      <source>Heng Li's blog</source>
+      <guid>http://lh3.github.io/2025/04/18/short-rna-seq-read-alignment-with-minimap2</guid>
+    </item>
+    
+    <item>
       <title>FASTQ assemblies with Dorado polish</title>
       <link>https://rrwick.github.io/2025/02/19/fastq-assemblies.html</link>
       <description></description>
@@ -292,6 +347,15 @@ biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
     </item>
     
     <item>
+      <title>Why is bwa-aln used for ancient DNA reads?</title>
+      <link>http://lh3.github.io/2024/09/28/why-is-bwa-aln-still-used</link>
+      <description>&lt;p&gt;&lt;a href="https://github.com/lh3/bwa"&gt;BWA&lt;/a&gt; implements three algorithms: &lt;a href="https://pubmed.ncbi.nlm.nih.gov/19451168/"&gt;bwa-aln&lt;/a&gt;, &lt;a href="https://pubmed.ncbi.nlm.nih.gov/20080505/"&gt;bwa-sw</description>
+      <pubDate>2024-09-28T00:00:00+00:00</pubDate>
+      <source>Heng Li's blog</source>
+      <guid>http://lh3.github.io/2024/09/28/why-is-bwa-aln-still-used</guid>
+    </item>
+    
+    <item>
       <title>The many ways to calculate Moran’s I for identifying spatially variable genes in spatial transcriptomics data</title>
       <link>http://jefworks-lab.github.io//blog/2024/08/29/the-many-ways-to-detect-svgs-using-moransI/</link>
       <description>In this blog post, I will compare 4 implementations of Moran’s I in R (MERINGUE, Rfast2, ape, and spdep) to identify spatially variable genes (SVGs) in spatial transcriptomics data.</description>
@@ -316,6 +380,39 @@ biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
       <pubDate>2024-07-23T00:00:00+00:00</pubDate>
       <source>JEFworks Lab</source>
       <guid>http://jefworks-lab.github.io//blog/2024/07/23/spatial-bootstrapping-with-seraster/</guid>
+    </item>
+    
+    <item>
+      <title>Where did BWA come from?</title>
+      <link>http://lh3.github.io/2024/04/12/where-did-bwa-come-from</link>
+      <description>&lt;p&gt;My blog posts are often motivated by casual conversations with other
+scientists. This blog post is an example. Someone asked me how I thought of
+using a compression algorithm for alignment in &lt;a hr</description>
+      <pubDate>2024-04-12T00:00:00+00:00</pubDate>
+      <source>Heng Li's blog</source>
+      <guid>http://lh3.github.io/2024/04/12/where-did-bwa-come-from</guid>
+    </item>
+    
+    <item>
+      <title>On the definition of pangenome</title>
+      <link>http://lh3.github.io/2024/03/29/what-is-a-pangenome</link>
+      <description>&lt;p&gt;Historically, the term “pan-genome” (or more often “pangenome” in recent
+literature) was first coined &lt;a href="https://pubmed.ncbi.nlm.nih.gov/11261250/"&gt;by Sigaux&lt;/a&gt; in
+2000 for a purpose distinc</description>
+      <pubDate>2024-03-29T00:00:00+00:00</pubDate>
+      <source>Heng Li's blog</source>
+      <guid>http://lh3.github.io/2024/03/29/what-is-a-pangenome</guid>
+    </item>
+    
+    <item>
+      <title>What high-performance language to learn?</title>
+      <link>http://lh3.github.io/2024/03/05/what-high-performance-language-to-learn</link>
+      <description>&lt;p&gt;In the past couple of months, I have been asked several times about what language(s) to learn
+if someone wants to write high-performance programs.
+This is a sensitive topic that often triggers heat</description>
+      <pubDate>2024-03-05T00:00:00+00:00</pubDate>
+      <source>Heng Li's blog</source>
+      <guid>http://lh3.github.io/2024/03/05/what-high-performance-language-to-learn</guid>
     </item>
     
     <item>
