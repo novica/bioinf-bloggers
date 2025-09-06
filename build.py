@@ -113,6 +113,7 @@ for i, page_items in enumerate(pages, start=1):
         template.replace("{{ content }}", "\n".join(entry_html))
         .replace("{{ sidebar }}", sidebar_html)
         .replace("{{ pagination }}", " ".join(nav_links))
+        .replace("{{ last_build }}", last_build)
     )
 
     filename = "index.html" if i == 1 else f"page{i}.html"
