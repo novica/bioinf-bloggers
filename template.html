@@ -24,42 +24,46 @@
                 {{ pagination }}
             </div>
         </div>
-    <aside>
-        <div class="sidebar-box">
-            <h3>Feeds</h3>
-            <ul>
-            {{ sidebar }}
-            </ul>
-        </div>
+        <aside>
+            <div class="sidebar-box">
+                <h3>Feeds</h3>
+                <ul>
+                    {{ sidebar }}
+                </ul>
+            </div>
 
-        <div class="sidebar-box">
-            <h3>Reddit Community</h3>
-            <ul>
-            <li><a href="https://www.reddit.com/r/bioinformatics/">r/bioinformatics</a></li>
-            <li><a href="https://www.reddit.com/r/bioinformaticscareers/">r/bioinformaticscareers</a></li>
+            <div class="sidebar-box">
+                <h3>Reddit Community</h3>
+                <ul>
+                    <li><a href="https://www.reddit.com/r/bioinformatics/">r/bioinformatics</a></li>
+                    <li><a href="https://www.reddit.com/r/bioinformaticscareers/">r/bioinformaticscareers</a></li>
 
-            </ul>
-        </div>
+                </ul>
+            </div>
 
-    <div class="sidebar-box">
-        <h3>About</h3>
-        <p>I started following bioinfomatics topics out of professional curiosity. 
-            Then I realized it would be nice to have resources in one place.
-            Then I thought I should build the place since it didn't exist.
-            The post that started it all: <a href="https://www.reddit.com/r/bioinformatics/comments/1go98kz/any_bioinformatics_blogs_out_there/">Any Bioinformatics blogs out there?</a>.</p>
-    </div>
-    </aside>
+            <div class="sidebar-box">
+                <h3>About</h3>
+                <p>I started following bioinfomatics topics out of professional curiosity.
+                    Then I realized it would be nice to have resources in one place.
+                    Then I thought I should build the place since it didn't exist.
+                    The post that started it all: <a
+                        href="https://www.reddit.com/r/bioinformatics/comments/1go98kz/any_bioinformatics_blogs_out_there/">Any
+                        Bioinformatics blogs out there?</a>.</p>
+            </div>
+        </aside>
     </main>
 </body>
-  <footer>
+<footer>
     <p>All blog content © their respective authors. Aggregated here for convenience.</p>
     <p>
-      <a href="feed.xml">RSS</a> |
-      <a href="https://github.com/novica/bioinf-bloggers">Source on GitHub</a> |
-      <a href="https://ko-fi.com/J3J8133RYV">Buy me a coffee</a>
+        <a href="feed.xml">RSS</a> |
+        <a href="https://github.com/novica/bioinf-bloggers">Source on GitHub</a> |
+        <a href="https://ko-fi.com/J3J8133RYV">Buy me a coffee</a>
     </p>
-  </footer>
+    <p>Last build: {{ last_build }}</p>
+</footer>
 </body>
+
 </html>
 
 </html>
