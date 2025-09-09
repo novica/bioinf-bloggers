@@ -4,12 +4,39 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Mon, 08 Sep 2025 06:35:49 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 09 Sep 2025 06:34:43 +0000</lastBuildDate>
   
+    <item>
+      <title>New method calculates rate of gene expression to understand cell fate</title>
+      <link>https://www.rna-seqblog.com/new-method-calculates-rate-of-gene-expression-to-understand-cell-fate/</link>
+      <description>RNA sequencing with spVelo enhances RNA velocity analysis by integrating spatial and multi-batch data, offering deeper insights into gene expression dynamics and cell fate decisions...</description>
+      <pubDate>Mon, 08 Sep 2025 10:51:49 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/new-method-calculates-rate-of-gene-expression-to-understand-cell-fate/</guid>
+    </item>
+    
+    <item>
+      <title>Sweetwater – an interpretable and adaptive autoencoder for efficient tissue deconvolution</title>
+      <link>https://www.rna-seqblog.com/sweetwater-an-interpretable-and-adaptive-autoencoder-for-efficient-tissue-deconvolution/</link>
+      <description>Sweetwater improves RNA sequencing deconvolution by combining multiple references and reducing biases, offering researchers a...</description>
+      <pubDate>Mon, 08 Sep 2025 10:51:27 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/sweetwater-an-interpretable-and-adaptive-autoencoder-for-efficient-tissue-deconvolution/</guid>
+    </item>
+    
+    <item>
+      <title>Scientific Director of Clinical NGS</title>
+      <link>https://www.rna-seqblog.com/scientific-director-of-clinical-ngs/</link>
+      <description>Memorial Sloan Kettering is hiring a Scientific Director to lead clinical RNA sequencing and NGS-based test development, driving innovation in cancer diagnostics and precision oncology...</description>
+      <pubDate>Mon, 08 Sep 2025 10:51:14 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/scientific-director-of-clinical-ngs/</guid>
+    </item>
+    
     <item>
       <title>Novel sequencing technology links DNA and RNA to provide molecular insights into breast cancer progression</title>
       <link>https://www.rna-seqblog.com/novel-sequencing-technology-links-dna-and-rna-to-provide-molecular-insights-into-breast-cancer-progression/</link>
-      <description>wellDR-seq combines genome and RNA sequencing in single cells, revealing how DNA copy number changes shape gene expression and helping decode breast cancer evolution...</description>
+      <description>Breast cancer is one of the most complex diseases to study because tumors are not made up of identical cells. Instead, they contain different subpopulations of cells that can change over time. Underst</description>
       <pubDate>Fri, 05 Sep 2025 12:03:13 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/novel-sequencing-technology-links-dna-and-rna-to-provide-molecular-insights-into-breast-cancer-progression/</guid>
@@ -18,37 +45,10 @@
     <item>
       <title>Multiomic single-cell DNA–RNA sequencing – functional phenotyping of genomic variants using</title>
       <link>https://www.rna-seqblog.com/multiomic-single-cell-dna-rna-sequencing-functional-phenotyping-of-genomic-variants-using/</link>
-      <description>Single-cell DNA-RNA sequencing links genetic variants to changes in gene expression, showing how mutations drive cancer biology and advancing the power of RNA sequencing in disease research...</description>
+      <description>Understanding how genetic variants affect our cells is one of the biggest challenges in biology. Some changes in DNA can disrupt how genes function, which may lead to diseases such as cancer. But conn</description>
       <pubDate>Fri, 05 Sep 2025 12:03:03 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/multiomic-single-cell-dna-rna-sequencing-functional-phenotyping-of-genomic-variants-using/</guid>
-    </item>
-    
-    <item>
-      <title>Alzheimer’s erodes brain cells’ control of gene expression, undermining function, cognition</title>
-      <link>https://www.rna-seqblog.com/alzheimers-erodes-brain-cells-control-of-gene-expression-undermining-function-cognition/</link>
-      <description>Combining RNA sequencing and epigenomic profiling of 3.5 million cells, MIT researchers show Alzheimer’s progression and resilience depend on preserving gene regulation and chromatin stability across </description>
-      <pubDate>Fri, 05 Sep 2025 12:02:57 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/alzheimers-erodes-brain-cells-control-of-gene-expression-undermining-function-cognition/</guid>
-    </item>
-    
-    <item>
-      <title>Slide-tags enables single-nucleus barcoding for multimodal spatial genomics</title>
-      <link>https://www.rna-seqblog.com/slide-tags-enables-single-nucleus-barcoding-for-multimodal-spatial-genomics/</link>
-      <description>Understanding how cells are arranged in tissues is just as important as knowing what genes they are expressing. Traditional single-cell and single-nucleus RNA sequencing has given researchers valuable</description>
-      <pubDate>Thu, 04 Sep 2025 11:47:26 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/slide-tags-enables-single-nucleus-barcoding-for-multimodal-spatial-genomics/</guid>
-    </item>
-    
-    <item>
-      <title>T-CellAnnoTator – reproducible single-cell annotation of programs underlying T cell subsets, activation states and functions</title>
-      <link>https://www.rna-seqblog.com/t-cellannotator-reproducible-single-cell-annotation-of-programs-underlying-t-cell-subsets-activation-states-and-functions/</link>
-      <description>Researchers are gaining a clearer picture of how T cells, the body’s key defenders in the immune system, actually work. T cells are known for recognizing threats like viruses or cancer cells and then </description>
-      <pubDate>Thu, 04 Sep 2025 11:47:11 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/t-cellannotator-reproducible-single-cell-annotation-of-programs-underlying-t-cell-subsets-activation-states-and-functions/</guid>
     </item>
     
     <item>
