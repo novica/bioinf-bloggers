@@ -8,3 +8,4 @@ Ryan Wick’s bioinformatics blog, https://rrwick.github.io/feed
 Omics! Omics!, https://omicsomics.blogspot.com/feeds/posts/default
 RNA-Seq Blog, https://www.rna-seqblog.com/feed/
 Heng Li's blog, https://lh3.github.io/rss.xml
+Paired Ends (Stephen Turner's blog), https://blog.stephenturner.us/feed.xml
