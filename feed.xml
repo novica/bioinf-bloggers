@@ -4,8 +4,35 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Tue, 09 Sep 2025 06:34:43 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 10 Sep 2025 06:33:38 +0000</lastBuildDate>
   
+    <item>
+      <title>Tiny fish open new horizons for autism research</title>
+      <link>https://www.rna-seqblog.com/tiny-fish-open-new-horizons-for-autism-research/</link>
+      <description>Researchers at Niigata University used zebrafish models to show how environment shapes social behavior in autism, with RNA sequencing revealing changes in sensory pathways linked to anxiety and intera</description>
+      <pubDate>Tue, 09 Sep 2025 10:58:23 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/tiny-fish-open-new-horizons-for-autism-research/</guid>
+    </item>
+    
+    <item>
+      <title>Using synthetic RNA to benchmark poly(A) length inference from direct RNA sequencing</title>
+      <link>https://www.rna-seqblog.com/using-synthetic-rna-to-benchmark-polya-length-inference-from-direct-rna-sequencing/</link>
+      <description>Researchers at the University of Melbourne used RNA sequencing and deep learning to benchmark tools for measuring poly(A) tail...</description>
+      <pubDate>Tue, 09 Sep 2025 10:57:58 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/using-synthetic-rna-to-benchmark-polya-length-inference-from-direct-rna-sequencing/</guid>
+    </item>
+    
+    <item>
+      <title>Make your development environment portable and reproducible</title>
+      <link>https://blog.stephenturner.us/p/development-environment-portable-reproducible</link>
+      <description>Dotfiles, VM setup scripts, R "verse" packages, and dev containers</description>
+      <pubDate>Tue, 09 Sep 2025 10:02:21 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/development-environment-portable-reproducible</guid>
+    </item>
+    
     <item>
       <title>New method calculates rate of gene expression to understand cell fate</title>
       <link>https://www.rna-seqblog.com/new-method-calculates-rate-of-gene-expression-to-understand-cell-fate/</link>
@@ -18,7 +45,7 @@
     <item>
       <title>Sweetwater – an interpretable and adaptive autoencoder for efficient tissue deconvolution</title>
       <link>https://www.rna-seqblog.com/sweetwater-an-interpretable-and-adaptive-autoencoder-for-efficient-tissue-deconvolution/</link>
-      <description>Sweetwater improves RNA sequencing deconvolution by combining multiple references and reducing biases, offering researchers a...</description>
+      <description>Understanding the genetic activity of different cell types is crucial for studying diseases and developing treatments. However, most RNA sequencing experiments measure gene activity from a mixture of </description>
       <pubDate>Mon, 08 Sep 2025 10:51:27 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/sweetwater-an-interpretable-and-adaptive-autoencoder-for-efficient-tissue-deconvolution/</guid>
@@ -27,28 +54,19 @@
     <item>
       <title>Scientific Director of Clinical NGS</title>
       <link>https://www.rna-seqblog.com/scientific-director-of-clinical-ngs/</link>
-      <description>Memorial Sloan Kettering is hiring a Scientific Director to lead clinical RNA sequencing and NGS-based test development, driving innovation in cancer diagnostics and precision oncology...</description>
+      <description>About Us: The people of Memorial Sloan Kettering Cancer Center (MSK) are united by a singular mission: ending cancer for life. Our specialized care teams provide personalized, compassionate, expert ca</description>
       <pubDate>Mon, 08 Sep 2025 10:51:14 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/scientific-director-of-clinical-ngs/</guid>
     </item>
     
     <item>
-      <title>Novel sequencing technology links DNA and RNA to provide molecular insights into breast cancer progression</title>
-      <link>https://www.rna-seqblog.com/novel-sequencing-technology-links-dna-and-rna-to-provide-molecular-insights-into-breast-cancer-progression/</link>
-      <description>Breast cancer is one of the most complex diseases to study because tumors are not made up of identical cells. Instead, they contain different subpopulations of cells that can change over time. Underst</description>
-      <pubDate>Fri, 05 Sep 2025 12:03:13 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/novel-sequencing-technology-links-dna-and-rna-to-provide-molecular-insights-into-breast-cancer-progression/</guid>
-    </item>
-    
-    <item>
-      <title>Multiomic single-cell DNA–RNA sequencing – functional phenotyping of genomic variants using</title>
-      <link>https://www.rna-seqblog.com/multiomic-single-cell-dna-rna-sequencing-functional-phenotyping-of-genomic-variants-using/</link>
-      <description>Understanding how genetic variants affect our cells is one of the biggest challenges in biology. Some changes in DNA can disrupt how genes function, which may lead to diseases such as cancer. But conn</description>
-      <pubDate>Fri, 05 Sep 2025 12:03:03 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/multiomic-single-cell-dna-rna-sequencing-functional-phenotyping-of-genomic-variants-using/</guid>
+      <title>Closing my tabs (Sep 5 2025)</title>
+      <link>https://blog.stephenturner.us/p/closing-my-tabs-sep-5-2025</link>
+      <description>NIH budget, AI, R, Bluesky &amp; Science, state of biotech, AI in higher ed, R packages Top 40, structural variation, statistical power, Python documentary, Manhattan Project, tidymodels, ...</description>
+      <pubDate>Fri, 05 Sep 2025 15:03:53 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/closing-my-tabs-sep-5-2025</guid>
     </item>
     
     <item>
@@ -61,12 +79,39 @@
     </item>
     
     <item>
+      <title>Weekly Recap (Sep 2025 part 1)</title>
+      <link>https://blog.stephenturner.us/p/weekly-recap-sep-2025-part-1</link>
+      <description>Biobank-scale relatedness estimation, SNP calling and phasing with long RNA-seq reads, predicting expression-altering promoter mutations with DL, cross-species filtering for comparative genomics, ...</description>
+      <pubDate>Tue, 02 Sep 2025 09:43:19 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/weekly-recap-sep-2025-part-1</guid>
+    </item>
+    
+    <item>
       <title>On professionalism</title>
       <link>https://davetang.org/muse/2025/08/30/on-professionalism/</link>
       <description>&lt;p&gt;I'm a huge fan of Conan O'Brien; there's just something about his demeanour, humour, and wittiness that I admire. I discovered him on YouTube around 2012 and was quite oblivious to who he was, what</description>
       <pubDate>Sat, 30 Aug 2025 03:01:22 +0000</pubDate>
       <source>Dave Tang's blog</source>
       <guid>https://davetang.org/muse/2025/08/30/on-professionalism/</guid>
+    </item>
+    
+    <item>
+      <title>Closing my tabs (Aug 29, 2025)</title>
+      <link>https://blog.stephenturner.us/p/closing-my-tabs-aug-29-2025</link>
+      <description>RAND corp AIxBio report, AI accelerating: GPT-4b for stem cell reprogramming; AI is slowing down; UVA SDS on Bluesky; LLMs and education; Python needs R's CRAN; learning R+Python together</description>
+      <pubDate>Fri, 29 Aug 2025 13:24:13 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/closing-my-tabs-aug-29-2025</guid>
+    </item>
+    
+    <item>
+      <title>Using OpenAI Codex in Positron</title>
+      <link>https://blog.stephenturner.us/p/codex-positron</link>
+      <description>Developing an R package using the OpenAI Codex agent in Positron</description>
+      <pubDate>Thu, 28 Aug 2025 09:51:28 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/codex-positron</guid>
     </item>
     
     <item>
