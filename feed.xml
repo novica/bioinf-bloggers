@@ -4,8 +4,45 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Thu, 11 Sep 2025 06:34:03 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 12 Sep 2025 06:33:44 +0000</lastBuildDate>
   
+    <item>
+      <title>70 years of AI hype</title>
+      <link>https://blog.stephenturner.us/p/70-years-of-ai-hype</link>
+      <description>Quoting from Olivia Guest et al. (2025) "Against the Uncritical Adoption of AI Technologies in Academia."</description>
+      <pubDate>Thu, 11 Sep 2025 14:01:54 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/70-years-of-ai-hype</guid>
+    </item>
+    
+    <item>
+      <title>Rare immune cells offer new hope for treating acute respiratory distress syndrome</title>
+      <link>https://www.rna-seqblog.com/rare-immune-cells-offer-new-hope-for-treating-acute-respiratory-distress-syndrome/</link>
+      <description>Single-cell RNA sequencing shows basophils produce IL-4, suppress neutrophil-driven inflammation, and support lung recovery in ARDS, highlighting a new therapeutic pathway....</description>
+      <pubDate>Thu, 11 Sep 2025 12:55:27 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/rare-immune-cells-offer-new-hope-for-treating-acute-respiratory-distress-syndrome/</guid>
+    </item>
+    
+    <item>
+      <title>SLRanger – an integrated approach for spliced leader detection and operon prediction using long RNA reads</title>
+      <link>https://www.rna-seqblog.com/slranger-an-integrated-approach-for-spliced-leader-detection-and-operon-prediction-using-long-rna-reads/</link>
+      <description>RNA sequencing with SLRanger enables accurate detection of spliced leader trans-splicing and operon prediction in eukaryotes...</description>
+      <pubDate>Thu, 11 Sep 2025 12:55:07 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/slranger-an-integrated-approach-for-spliced-leader-detection-and-operon-prediction-using-long-rna-reads/</guid>
+    </item>
+    
+    <item>
+      <title>A quick look at Roche's SBX</title>
+      <link>http://lh3.github.io/2025/09/11/a-quick-look-at-roches-sbx</link>
+      <description>&lt;p&gt;&lt;a href="https://sequencing.roche.com/us/en/article-listing/sequencing-platform-technologies.html"&gt;Sequencing by Expansion (SBX)&lt;/a&gt; is Roche’s new short-read sequencing technology.
+Roche released </description>
+      <pubDate>2025-09-11T00:00:00+00:00</pubDate>
+      <source>Heng Li's blog</source>
+      <guid>http://lh3.github.io/2025/09/11/a-quick-look-at-roches-sbx</guid>
+    </item>
+    
     <item>
       <title>Genome-wide mapping of RNA-protein associations through sequencing</title>
       <link>https://www.rna-seqblog.com/genome-wide-mapping-of-rna-protein-associations-through-sequencing/</link>
@@ -18,7 +55,7 @@
     <item>
       <title>Bayesian inference for copy number intra-tumoral heterogeneity from single-cell RNA-sequencing data</title>
       <link>https://www.rna-seqblog.com/bayesian-inference-for-copy-number-intra-tumoral-heterogeneity-from-single-cell-rna-sequencing-data/</link>
-      <description>Chloris uses single-cell RNA sequencing to identify tumor clones and their copy number alterations, revealing functional differences and improving understanding of tumor heterogeneity....</description>
+      <description>Researchers from St. Vincent's Institute of Medical Research have introduced a new computational tool called Chloris that helps scientists better understand the complex structure of tumors at the sing</description>
       <pubDate>Wed, 10 Sep 2025 16:39:04 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/bayesian-inference-for-copy-number-intra-tumoral-heterogeneity-from-single-cell-rna-sequencing-data/</guid>
@@ -36,19 +73,10 @@
     <item>
       <title>Tiny fish open new horizons for autism research</title>
       <link>https://www.rna-seqblog.com/tiny-fish-open-new-horizons-for-autism-research/</link>
-      <description>Researchers at Niigata University used zebrafish models to show how environment shapes social behavior in autism, with RNA sequencing revealing changes in sensory pathways linked to anxiety and intera</description>
+      <description>Researchers from Brain Research Institute, Niigata University, Japan have revealed that environment influences social behaviours in autism. By using zebrafish that have a mutation in ube3a, a gene lin</description>
       <pubDate>Tue, 09 Sep 2025 10:58:23 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/tiny-fish-open-new-horizons-for-autism-research/</guid>
-    </item>
-    
-    <item>
-      <title>Using synthetic RNA to benchmark poly(A) length inference from direct RNA sequencing</title>
-      <link>https://www.rna-seqblog.com/using-synthetic-rna-to-benchmark-polya-length-inference-from-direct-rna-sequencing/</link>
-      <description>Poly(A) tails are stretches of adenine nucleotides added to the end of messenger RNA (mRNA) molecules. These tails play a crucial role in determining how long RNA molecules survive in the cell, how ef</description>
-      <pubDate>Tue, 09 Sep 2025 10:57:58 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/using-synthetic-rna-to-benchmark-polya-length-inference-from-direct-rna-sequencing/</guid>
     </item>
     
     <item>
@@ -58,15 +86,6 @@
       <pubDate>Tue, 09 Sep 2025 10:02:21 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/development-environment-portable-reproducible</guid>
-    </item>
-    
-    <item>
-      <title>New method calculates rate of gene expression to understand cell fate</title>
-      <link>https://www.rna-seqblog.com/new-method-calculates-rate-of-gene-expression-to-understand-cell-fate/</link>
-      <description>Essentially all cells in an organism’s body have the same genetic blueprint, or genome, but the set of genes that are actively expressed at any given time in a cell determines what type of cell it wil</description>
-      <pubDate>Mon, 08 Sep 2025 10:51:49 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/new-method-calculates-rate-of-gene-expression-to-understand-cell-fate/</guid>
     </item>
     
     <item>
@@ -103,15 +122,6 @@
       <pubDate>Sat, 30 Aug 2025 03:01:22 +0000</pubDate>
       <source>Dave Tang's blog</source>
       <guid>https://davetang.org/muse/2025/08/30/on-professionalism/</guid>
-    </item>
-    
-    <item>
-      <title>Closing my tabs (Aug 29, 2025)</title>
-      <link>https://blog.stephenturner.us/p/closing-my-tabs-aug-29-2025</link>
-      <description>RAND corp AIxBio report, AI accelerating: GPT-4b for stem cell reprogramming; AI is slowing down; UVA SDS on Bluesky; LLMs and education; Python needs R's CRAN; learning R+Python together</description>
-      <pubDate>Fri, 29 Aug 2025 13:24:13 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/closing-my-tabs-aug-29-2025</guid>
     </item>
     
     <item>
@@ -447,17 +457,6 @@ literature) was first coined &lt;a href="https://pubmed.ncbi.nlm.nih.gov/1126125
       <pubDate>2024-03-29T00:00:00+00:00</pubDate>
       <source>Heng Li's blog</source>
       <guid>http://lh3.github.io/2024/03/29/what-is-a-pangenome</guid>
-    </item>
-    
-    <item>
-      <title>What high-performance language to learn?</title>
-      <link>http://lh3.github.io/2024/03/05/what-high-performance-language-to-learn</link>
-      <description>&lt;p&gt;In the past couple of months, I have been asked several times about what language(s) to learn
-if someone wants to write high-performance programs.
-This is a sensitive topic that often triggers heat</description>
-      <pubDate>2024-03-05T00:00:00+00:00</pubDate>
-      <source>Heng Li's blog</source>
-      <guid>http://lh3.github.io/2024/03/05/what-high-performance-language-to-learn</guid>
     </item>
     
     <item>
