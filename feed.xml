@@ -4,8 +4,17 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Fri, 12 Sep 2025 06:33:44 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 13 Sep 2025 06:29:42 +0000</lastBuildDate>
   
+    <item>
+      <title>Closing my tabs (Sep 12, 2025)</title>
+      <link>https://blog.stephenturner.us/p/closing-my-tabs-sep-12-2025</link>
+      <description>AI in academia, $1B NSF cut, AI+biosecurity, bacterial DNA from mammoth bones, understanding LLMs and their math, bioacoustics for conservation, Synthetic Eden, lots of R/AI updates, CRISPR horses...</description>
+      <pubDate>Fri, 12 Sep 2025 10:44:54 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/closing-my-tabs-sep-12-2025</guid>
+    </item>
+    
     <item>
       <title>70 years of AI hype</title>
       <link>https://blog.stephenturner.us/p/70-years-of-ai-hype</link>
@@ -104,15 +113,6 @@ Roche released </description>
       <pubDate>2025-09-04T00:00:00+00:00</pubDate>
       <source>Ryan Wick’s bioinformatics blog</source>
       <guid>https://rrwick.github.io/2025/09/04/homopolymer-polishing.html</guid>
-    </item>
-    
-    <item>
-      <title>Weekly Recap (Sep 2025 part 1)</title>
-      <link>https://blog.stephenturner.us/p/weekly-recap-sep-2025-part-1</link>
-      <description>Biobank-scale relatedness estimation, SNP calling and phasing with long RNA-seq reads, predicting expression-altering promoter mutations with DL, cross-species filtering for comparative genomics, ...</description>
-      <pubDate>Tue, 02 Sep 2025 09:43:19 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/weekly-recap-sep-2025-part-1</guid>
     </item>
     
     <item>
