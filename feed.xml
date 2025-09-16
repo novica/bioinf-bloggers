@@ -4,8 +4,35 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Mon, 15 Sep 2025 06:36:15 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 16 Sep 2025 06:34:29 +0000</lastBuildDate>
   
+    <item>
+      <title>New tool automates cell identification in complex datasets</title>
+      <link>https://www.rna-seqblog.com/new-tool-automates-cell-identification-in-complex-datasets/</link>
+      <description>Researchers developed optimized methods to detect and infer immune cell type names from single-cell RNA sequencing data, enhancing accuracy in immunology research and computational analysis...</description>
+      <pubDate>Mon, 15 Sep 2025 12:25:05 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/new-tool-automates-cell-identification-in-complex-datasets/</guid>
+    </item>
+    
+    <item>
+      <title>How evolution explains autism rates in humans</title>
+      <link>https://www.rna-seqblog.com/how-evolution-explains-autism-rates-in-humans/</link>
+      <description>Single-cell RNA sequencing reveals rapid evolution of human L2/3 IT neurons and autism-linked genes, suggesting natural selection shaped unique cognitive traits and neurodiversity in humans...</description>
+      <pubDate>Mon, 15 Sep 2025 12:24:55 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/how-evolution-explains-autism-rates-in-humans/</guid>
+    </item>
+    
+    <item>
+      <title>Long-term alcohol use suspends liver cells in limbo, preventing regeneration</title>
+      <link>https://www.rna-seqblog.com/long-term-alcohol-use-suspends-liver-cells-in-limbo-preventing-regeneration/</link>
+      <description>Researchers used RNA sequencing to reveal widespread RNA missplicing in alcohol-associated liver disease, linking inflammation-driven ESRP2 deficiency to impaired liver...</description>
+      <pubDate>Mon, 15 Sep 2025 12:24:45 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/long-term-alcohol-use-suspends-liver-cells-in-limbo-preventing-regeneration/</guid>
+    </item>
+    
     <item>
       <title>Closing my tabs (Sep 12, 2025)</title>
       <link>https://blog.stephenturner.us/p/closing-my-tabs-sep-12-2025</link>
@@ -27,7 +54,7 @@
     <item>
       <title>Rare immune cells offer new hope for treating acute respiratory distress syndrome</title>
       <link>https://www.rna-seqblog.com/rare-immune-cells-offer-new-hope-for-treating-acute-respiratory-distress-syndrome/</link>
-      <description>Single-cell RNA sequencing shows basophils produce IL-4, suppress neutrophil-driven inflammation, and support lung recovery in ARDS, highlighting a new therapeutic pathway....</description>
+      <description>Basophils are found to suppress lung inflammation during the recovery stage of ARDS, revealing potential treatment strategies for this life-threatening condition Basophils, a type of white blood cell,</description>
       <pubDate>Thu, 11 Sep 2025 12:55:27 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/rare-immune-cells-offer-new-hope-for-treating-acute-respiratory-distress-syndrome/</guid>
@@ -36,7 +63,7 @@
     <item>
       <title>SLRanger – an integrated approach for spliced leader detection and operon prediction using long RNA reads</title>
       <link>https://www.rna-seqblog.com/slranger-an-integrated-approach-for-spliced-leader-detection-and-operon-prediction-using-long-rna-reads/</link>
-      <description>RNA sequencing with SLRanger enables accurate detection of spliced leader trans-splicing and operon prediction in eukaryotes...</description>
+      <description>In many organisms, including simple animals like worms, genes are often arranged in clusters called operons. When these genes are copied into RNA, they need an extra step of processing called spliced </description>
       <pubDate>Thu, 11 Sep 2025 12:55:07 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/slranger-an-integrated-approach-for-spliced-leader-detection-and-operon-prediction-using-long-rna-reads/</guid>
@@ -53,39 +80,12 @@ Roche released </description>
     </item>
     
     <item>
-      <title>Genome-wide mapping of RNA-protein associations through sequencing</title>
-      <link>https://www.rna-seqblog.com/genome-wide-mapping-of-rna-protein-associations-through-sequencing/</link>
-      <description>PRIM-seq combines barcoding and RNA sequencing to map over 350,000 RNA-protein interactions, offering new insight into gene regulation and disease-related molecular...</description>
-      <pubDate>Wed, 10 Sep 2025 16:39:15 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/genome-wide-mapping-of-rna-protein-associations-through-sequencing/</guid>
-    </item>
-    
-    <item>
-      <title>Bayesian inference for copy number intra-tumoral heterogeneity from single-cell RNA-sequencing data</title>
-      <link>https://www.rna-seqblog.com/bayesian-inference-for-copy-number-intra-tumoral-heterogeneity-from-single-cell-rna-sequencing-data/</link>
-      <description>Researchers from St. Vincent's Institute of Medical Research have introduced a new computational tool called Chloris that helps scientists better understand the complex structure of tumors at the sing</description>
-      <pubDate>Wed, 10 Sep 2025 16:39:04 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/bayesian-inference-for-copy-number-intra-tumoral-heterogeneity-from-single-cell-rna-sequencing-data/</guid>
-    </item>
-    
-    <item>
       <title>Single-cell analysis and infectious disease forecasting: Google's new AI scientist</title>
       <link>https://blog.stephenturner.us/p/google-ai-bioinformatics-covid-forecasting</link>
       <description>In Google's new paper, "An AI system to help scientists write expert-level empirical software" an AI supposedly "invents" new methods in bioinformatics and infectious disease modeling &amp; forecasting.</description>
       <pubDate>Wed, 10 Sep 2025 12:54:43 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/google-ai-bioinformatics-covid-forecasting</guid>
-    </item>
-    
-    <item>
-      <title>Tiny fish open new horizons for autism research</title>
-      <link>https://www.rna-seqblog.com/tiny-fish-open-new-horizons-for-autism-research/</link>
-      <description>Researchers from Brain Research Institute, Niigata University, Japan have revealed that environment influences social behaviours in autism. By using zebrafish that have a mutation in ube3a, a gene lin</description>
-      <pubDate>Tue, 09 Sep 2025 10:58:23 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/tiny-fish-open-new-horizons-for-autism-research/</guid>
     </item>
     
     <item>
