@@ -4,12 +4,39 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Tue, 16 Sep 2025 06:34:29 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 17 Sep 2025 06:34:36 +0000</lastBuildDate>
   
+    <item>
+      <title>Korea University study reveals hidden complexity in recurrent brain tumors</title>
+      <link>https://www.rna-seqblog.com/korea-university-study-reveals-hidden-complexity-in-recurrent-brain-tumors/</link>
+      <description>Using RNA sequencing at single-cell resolution, Korea University researchers mapped how meningiomas progress to recurrence, uncovering COL6A3 as a key driver of tumor evolution and treatment resistanc</description>
+      <pubDate>Tue, 16 Sep 2025 12:53:21 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/korea-university-study-reveals-hidden-complexity-in-recurrent-brain-tumors/</guid>
+    </item>
+    
+    <item>
+      <title>scSiameseClu – a Siamese clustering framework for interpreting single-cell RNA sequencing data</title>
+      <link>https://www.rna-seqblog.com/scsiameseclu-a-siamese-clustering-framework-for-interpreting-single-cell-rna-sequencing-data/</link>
+      <description>scSiameseClu improves RNA sequencing analysis by enhancing single-cell clustering, reducing noise, and capturing complex biological relationships, enabling more accurate cell type identification and i</description>
+      <pubDate>Tue, 16 Sep 2025 12:53:08 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/scsiameseclu-a-siamese-clustering-framework-for-interpreting-single-cell-rna-sequencing-data/</guid>
+    </item>
+    
+    <item>
+      <title>Single Cell Discoveries partners with Immunewatch to enhance TCR insights</title>
+      <link>https://www.rna-seqblog.com/single-cell-discoveries-partners-with-immunewatch-to-enhance-tcr-insights/</link>
+      <description>Single Cell Discoveries and ImmuneWatch combine TCR sequencing with RNA sequencing insights, enabling epitope prediction and advancing immune profiling for deeper understanding of T cell specificity a</description>
+      <pubDate>Tue, 16 Sep 2025 12:53:02 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/single-cell-discoveries-partners-with-immunewatch-to-enhance-tcr-insights/</guid>
+    </item>
+    
     <item>
       <title>New tool automates cell identification in complex datasets</title>
       <link>https://www.rna-seqblog.com/new-tool-automates-cell-identification-in-complex-datasets/</link>
-      <description>Researchers developed optimized methods to detect and infer immune cell type names from single-cell RNA sequencing data, enhancing accuracy in immunology research and computational analysis...</description>
+      <description>Analyzing single-cell RNA sequencing (scRNA-seq) data is crucial for understanding complex biological processes and disease development, but identifying individual cell types within these vast dataset</description>
       <pubDate>Mon, 15 Sep 2025 12:25:05 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/new-tool-automates-cell-identification-in-complex-datasets/</guid>
@@ -18,19 +45,10 @@
     <item>
       <title>How evolution explains autism rates in humans</title>
       <link>https://www.rna-seqblog.com/how-evolution-explains-autism-rates-in-humans/</link>
-      <description>Single-cell RNA sequencing reveals rapid evolution of human L2/3 IT neurons and autism-linked genes, suggesting natural selection shaped unique cognitive traits and neurodiversity in humans...</description>
+      <description>About one in 31 (3.2%) children in the United States has been identified with Autism Spectrum Disorder. Globally, the World Health Organization estimates that around one in 100 children have autism. F</description>
       <pubDate>Mon, 15 Sep 2025 12:24:55 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/how-evolution-explains-autism-rates-in-humans/</guid>
-    </item>
-    
-    <item>
-      <title>Long-term alcohol use suspends liver cells in limbo, preventing regeneration</title>
-      <link>https://www.rna-seqblog.com/long-term-alcohol-use-suspends-liver-cells-in-limbo-preventing-regeneration/</link>
-      <description>Researchers used RNA sequencing to reveal widespread RNA missplicing in alcohol-associated liver disease, linking inflammation-driven ESRP2 deficiency to impaired liver...</description>
-      <pubDate>Mon, 15 Sep 2025 12:24:45 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/long-term-alcohol-use-suspends-liver-cells-in-limbo-preventing-regeneration/</guid>
     </item>
     
     <item>
@@ -49,24 +67,6 @@
       <pubDate>Thu, 11 Sep 2025 14:01:54 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/70-years-of-ai-hype</guid>
-    </item>
-    
-    <item>
-      <title>Rare immune cells offer new hope for treating acute respiratory distress syndrome</title>
-      <link>https://www.rna-seqblog.com/rare-immune-cells-offer-new-hope-for-treating-acute-respiratory-distress-syndrome/</link>
-      <description>Basophils are found to suppress lung inflammation during the recovery stage of ARDS, revealing potential treatment strategies for this life-threatening condition Basophils, a type of white blood cell,</description>
-      <pubDate>Thu, 11 Sep 2025 12:55:27 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/rare-immune-cells-offer-new-hope-for-treating-acute-respiratory-distress-syndrome/</guid>
-    </item>
-    
-    <item>
-      <title>SLRanger – an integrated approach for spliced leader detection and operon prediction using long RNA reads</title>
-      <link>https://www.rna-seqblog.com/slranger-an-integrated-approach-for-spliced-leader-detection-and-operon-prediction-using-long-rna-reads/</link>
-      <description>In many organisms, including simple animals like worms, genes are often arranged in clusters called operons. When these genes are copied into RNA, they need an extra step of processing called spliced </description>
-      <pubDate>Thu, 11 Sep 2025 12:55:07 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/slranger-an-integrated-approach-for-spliced-leader-detection-and-operon-prediction-using-long-rna-reads/</guid>
     </item>
     
     <item>
