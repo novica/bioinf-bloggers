@@ -4,12 +4,48 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Wed, 17 Sep 2025 06:34:36 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 18 Sep 2025 06:34:14 +0000</lastBuildDate>
   
+    <item>
+      <title>Mirror Life: Through the Looking Glass of Biology</title>
+      <link>https://blog.stephenturner.us/p/mirror-life</link>
+      <description>Why the discussion surrounding mirror life echoes past scientific "shocks," and how adaptive governance, not outright bans, can foster responsible innovation.</description>
+      <pubDate>Wed, 17 Sep 2025 21:47:44 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/mirror-life</guid>
+    </item>
+    
+    <item>
+      <title>M&amp;M – an RNA-seq based pan-cancer classifier for paediatric tumours</title>
+      <link>https://www.rna-seqblog.com/mm-an-rna-seq-based-pan-cancer-classifier-for-paediatric-tumours/</link>
+      <description>RNA sequencing has enabled a new machine learning tool called M&amp;amp;M that improves pediatric cancer diagnosis across 52 tumor types, offering higher accuracy for rare and difficult-to-classify cases.</description>
+      <pubDate>Wed, 17 Sep 2025 10:36:33 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/mm-an-rna-seq-based-pan-cancer-classifier-for-paediatric-tumours/</guid>
+    </item>
+    
+    <item>
+      <title>Spotting stealth multiplets for better single-cell experiment design</title>
+      <link>https://www.rna-seqblog.com/spotting-stealth-multiplets-for-better-single-cell-experiment-design/</link>
+      <description>Researchers evaluated hidden multiplets in single-cell RNA sequencing using sample multiplexing, providing guidance to optimize experimental design and improve reliability in gene expression analysis.</description>
+      <pubDate>Wed, 17 Sep 2025 10:36:17 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/spotting-stealth-multiplets-for-better-single-cell-experiment-design/</guid>
+    </item>
+    
+    <item>
+      <title>Mapping plant stem cell regulators with single cell RNA sequencing for crop improvement</title>
+      <link>https://www.rna-seqblog.com/mapping-plant-stem-cell-regulators-with-single-cell-rna-sequencing-for-crop-improvement/</link>
+      <description>Using single-cell RNA sequencing, researchers mapped key regulators in maize and Arabidopsis stem cells, uncovering new genes linked to crop productivity and providing a valuable atlas for plant biolo</description>
+      <pubDate>Wed, 17 Sep 2025 10:36:08 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/mapping-plant-stem-cell-regulators-with-single-cell-rna-sequencing-for-crop-improvement/</guid>
+    </item>
+    
     <item>
       <title>Korea University study reveals hidden complexity in recurrent brain tumors</title>
       <link>https://www.rna-seqblog.com/korea-university-study-reveals-hidden-complexity-in-recurrent-brain-tumors/</link>
-      <description>Using RNA sequencing at single-cell resolution, Korea University researchers mapped how meningiomas progress to recurrence, uncovering COL6A3 as a key driver of tumor evolution and treatment resistanc</description>
+      <description>Meningiomas are the most common primary brain tumors, accounting for nearly one-third of all central nervous system (CNS) tumors. While most are benign and manageable, 20–30% progress to high-grade fo</description>
       <pubDate>Tue, 16 Sep 2025 12:53:21 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/korea-university-study-reveals-hidden-complexity-in-recurrent-brain-tumors/</guid>
@@ -18,37 +54,10 @@
     <item>
       <title>scSiameseClu – a Siamese clustering framework for interpreting single-cell RNA sequencing data</title>
       <link>https://www.rna-seqblog.com/scsiameseclu-a-siamese-clustering-framework-for-interpreting-single-cell-rna-sequencing-data/</link>
-      <description>scSiameseClu improves RNA sequencing analysis by enhancing single-cell clustering, reducing noise, and capturing complex biological relationships, enabling more accurate cell type identification and i</description>
+      <description>Single-cell RNA sequencing, or scRNA-seq, has given scientists an unprecedented ability to look at gene expression in individual cells. Instead of seeing an average across millions of cells, researche</description>
       <pubDate>Tue, 16 Sep 2025 12:53:08 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/scsiameseclu-a-siamese-clustering-framework-for-interpreting-single-cell-rna-sequencing-data/</guid>
-    </item>
-    
-    <item>
-      <title>Single Cell Discoveries partners with Immunewatch to enhance TCR insights</title>
-      <link>https://www.rna-seqblog.com/single-cell-discoveries-partners-with-immunewatch-to-enhance-tcr-insights/</link>
-      <description>Single Cell Discoveries and ImmuneWatch combine TCR sequencing with RNA sequencing insights, enabling epitope prediction and advancing immune profiling for deeper understanding of T cell specificity a</description>
-      <pubDate>Tue, 16 Sep 2025 12:53:02 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/single-cell-discoveries-partners-with-immunewatch-to-enhance-tcr-insights/</guid>
-    </item>
-    
-    <item>
-      <title>New tool automates cell identification in complex datasets</title>
-      <link>https://www.rna-seqblog.com/new-tool-automates-cell-identification-in-complex-datasets/</link>
-      <description>Analyzing single-cell RNA sequencing (scRNA-seq) data is crucial for understanding complex biological processes and disease development, but identifying individual cell types within these vast dataset</description>
-      <pubDate>Mon, 15 Sep 2025 12:25:05 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/new-tool-automates-cell-identification-in-complex-datasets/</guid>
-    </item>
-    
-    <item>
-      <title>How evolution explains autism rates in humans</title>
-      <link>https://www.rna-seqblog.com/how-evolution-explains-autism-rates-in-humans/</link>
-      <description>About one in 31 (3.2%) children in the United States has been identified with Autism Spectrum Disorder. Globally, the World Health Organization estimates that around one in 100 children have autism. F</description>
-      <pubDate>Mon, 15 Sep 2025 12:24:55 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/how-evolution-explains-autism-rates-in-humans/</guid>
     </item>
     
     <item>
@@ -95,15 +104,6 @@ Roche released </description>
       <pubDate>Tue, 09 Sep 2025 10:02:21 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/development-environment-portable-reproducible</guid>
-    </item>
-    
-    <item>
-      <title>Closing my tabs (Sep 5 2025)</title>
-      <link>https://blog.stephenturner.us/p/closing-my-tabs-sep-5-2025</link>
-      <description>NIH budget, AI, R, Bluesky &amp; Science, state of biotech, AI in higher ed, R packages Top 40, structural variation, statistical power, Python documentary, Manhattan Project, tidymodels, ...</description>
-      <pubDate>Fri, 05 Sep 2025 15:03:53 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/closing-my-tabs-sep-5-2025</guid>
     </item>
     
     <item>
