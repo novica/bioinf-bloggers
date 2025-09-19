@@ -4,8 +4,35 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Thu, 18 Sep 2025 06:34:14 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 19 Sep 2025 06:33:58 +0000</lastBuildDate>
   
+    <item>
+      <title>Integrated single-cell atlas of human atherosclerotic plaques</title>
+      <link>https://www.rna-seqblog.com/integrated-single-cell-atlas-of-human-atherosclerotic-plaques/</link>
+      <description>Researchers built a single-cell atlas of atherosclerotic plaques using RNA sequencing, identifying specialized immune and structural cells that drive plaque progression and potential cardiovascular co</description>
+      <pubDate>Thu, 18 Sep 2025 13:10:31 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/integrated-single-cell-atlas-of-human-atherosclerotic-plaques/</guid>
+    </item>
+    
+    <item>
+      <title>NAP-seq for full-length noncapped RNA sequencing</title>
+      <link>https://www.rna-seqblog.com/nap-seq-for-full-length-noncapped-rna-sequencing/</link>
+      <description>Using RNA sequencing with NAP-seq, researchers uncovered hidden classes of structured noncoding RNAs that regulate processes such as muscle differentiation and cell proliferation in humans and mice...</description>
+      <pubDate>Thu, 18 Sep 2025 13:10:22 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/nap-seq-for-full-length-noncapped-rna-sequencing/</guid>
+    </item>
+    
+    <item>
+      <title>Uncovering the limits of single-cell chromatin studies</title>
+      <link>https://www.rna-seqblog.com/uncovering-the-limits-of-single-cell-chromatin-studies/</link>
+      <description>Researchers show that while scATAC-seq provides valuable single-cell data, its sparsity limits resolution, highlighting the need for improved efficiency compared to RNA sequencing approaches...</description>
+      <pubDate>Thu, 18 Sep 2025 13:10:11 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/uncovering-the-limits-of-single-cell-chromatin-studies/</guid>
+    </item>
+    
     <item>
       <title>Mirror Life: Through the Looking Glass of Biology</title>
       <link>https://blog.stephenturner.us/p/mirror-life</link>
@@ -18,7 +45,7 @@
     <item>
       <title>M&amp;M – an RNA-seq based pan-cancer classifier for paediatric tumours</title>
       <link>https://www.rna-seqblog.com/mm-an-rna-seq-based-pan-cancer-classifier-for-paediatric-tumours/</link>
-      <description>RNA sequencing has enabled a new machine learning tool called M&amp;amp;M that improves pediatric cancer diagnosis across 52 tumor types, offering higher accuracy for rare and difficult-to-classify cases.</description>
+      <description>Diagnosing childhood cancers is one of the most difficult challenges in modern medicine. While many cancers can be identified by looking at tumor cells under a microscope, rare tumors are much harder </description>
       <pubDate>Wed, 17 Sep 2025 10:36:33 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/mm-an-rna-seq-based-pan-cancer-classifier-for-paediatric-tumours/</guid>
@@ -27,37 +54,10 @@
     <item>
       <title>Spotting stealth multiplets for better single-cell experiment design</title>
       <link>https://www.rna-seqblog.com/spotting-stealth-multiplets-for-better-single-cell-experiment-design/</link>
-      <description>Researchers evaluated hidden multiplets in single-cell RNA sequencing using sample multiplexing, providing guidance to optimize experimental design and improve reliability in gene expression analysis.</description>
+      <description>Researchers at EMBL Barcelona have quantitatively evaluated the risk of undetected artefacts in single-cell RNA sequencing experiments Fumio Nakaki combined theoretical modelling with experimental ben</description>
       <pubDate>Wed, 17 Sep 2025 10:36:17 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/spotting-stealth-multiplets-for-better-single-cell-experiment-design/</guid>
-    </item>
-    
-    <item>
-      <title>Mapping plant stem cell regulators with single cell RNA sequencing for crop improvement</title>
-      <link>https://www.rna-seqblog.com/mapping-plant-stem-cell-regulators-with-single-cell-rna-sequencing-for-crop-improvement/</link>
-      <description>Using single-cell RNA sequencing, researchers mapped key regulators in maize and Arabidopsis stem cells, uncovering new genes linked to crop productivity and providing a valuable atlas for plant biolo</description>
-      <pubDate>Wed, 17 Sep 2025 10:36:08 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/mapping-plant-stem-cell-regulators-with-single-cell-rna-sequencing-for-crop-improvement/</guid>
-    </item>
-    
-    <item>
-      <title>Korea University study reveals hidden complexity in recurrent brain tumors</title>
-      <link>https://www.rna-seqblog.com/korea-university-study-reveals-hidden-complexity-in-recurrent-brain-tumors/</link>
-      <description>Meningiomas are the most common primary brain tumors, accounting for nearly one-third of all central nervous system (CNS) tumors. While most are benign and manageable, 20–30% progress to high-grade fo</description>
-      <pubDate>Tue, 16 Sep 2025 12:53:21 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/korea-university-study-reveals-hidden-complexity-in-recurrent-brain-tumors/</guid>
-    </item>
-    
-    <item>
-      <title>scSiameseClu – a Siamese clustering framework for interpreting single-cell RNA sequencing data</title>
-      <link>https://www.rna-seqblog.com/scsiameseclu-a-siamese-clustering-framework-for-interpreting-single-cell-rna-sequencing-data/</link>
-      <description>Single-cell RNA sequencing, or scRNA-seq, has given scientists an unprecedented ability to look at gene expression in individual cells. Instead of seeing an average across millions of cells, researche</description>
-      <pubDate>Tue, 16 Sep 2025 12:53:08 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/scsiameseclu-a-siamese-clustering-framework-for-interpreting-single-cell-rna-sequencing-data/</guid>
     </item>
     
     <item>
