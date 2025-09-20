@@ -4,8 +4,35 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Fri, 19 Sep 2025 06:33:58 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 20 Sep 2025 06:30:53 +0000</lastBuildDate>
   
+    <item>
+      <title>iRECODE – A new computational method that brings clarity to single-cell analysis</title>
+      <link>https://www.rna-seqblog.com/irecode-a-new-computational-method-that-brings-clarity-to-single-cell-analysis/</link>
+      <description>iRECODE improves RNA sequencing analysis by reducing technical and batch noise, enabling clearer detection of rare cell types and subtle biological changes across diverse single-cell datasets...</description>
+      <pubDate>Fri, 19 Sep 2025 11:18:12 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/irecode-a-new-computational-method-that-brings-clarity-to-single-cell-analysis/</guid>
+    </item>
+    
+    <item>
+      <title>Decoding the selfish gene, from evolutionary cheaters to disease control</title>
+      <link>https://www.rna-seqblog.com/decoding-the-selfish-gene-from-evolutionary-cheaters-to-disease-control/</link>
+      <description>Researchers used single-cell RNA sequencing to uncover how a selfish gene disrupts sperm development in stalk-eyed flies, offering insights into controlling harmful insect populations through meiotic </description>
+      <pubDate>Fri, 19 Sep 2025 11:18:04 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/decoding-the-selfish-gene-from-evolutionary-cheaters-to-disease-control/</guid>
+    </item>
+    
+    <item>
+      <title>Weekly recap (Sep 19, 2025)</title>
+      <link>https://blog.stephenturner.us/p/weekly-recap-sep-19-2025</link>
+      <description>AI-generated genomes, R news for my posit::conf() FOMO, biosecurity, mirror life, teaching and AI, ELSI for AI, in defense of CRAN, Anthropic Economy Index, OpenAI report on how people use ChatGPT</description>
+      <pubDate>Fri, 19 Sep 2025 09:45:45 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/weekly-recap-sep-19-2025</guid>
+    </item>
+    
     <item>
       <title>Integrated single-cell atlas of human atherosclerotic plaques</title>
       <link>https://www.rna-seqblog.com/integrated-single-cell-atlas-of-human-atherosclerotic-plaques/</link>
@@ -18,7 +45,7 @@
     <item>
       <title>NAP-seq for full-length noncapped RNA sequencing</title>
       <link>https://www.rna-seqblog.com/nap-seq-for-full-length-noncapped-rna-sequencing/</link>
-      <description>Using RNA sequencing with NAP-seq, researchers uncovered hidden classes of structured noncoding RNAs that regulate processes such as muscle differentiation and cell proliferation in humans and mice...</description>
+      <description>Researchers from Sun Yat-sen University have developed a new method called NAP-seq that shines light on the hidden world of “dark matter” RNAs. These RNAs, which make up nearly 80% of the human genome</description>
       <pubDate>Thu, 18 Sep 2025 13:10:22 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/nap-seq-for-full-length-noncapped-rna-sequencing/</guid>
@@ -27,7 +54,7 @@
     <item>
       <title>Uncovering the limits of single-cell chromatin studies</title>
       <link>https://www.rna-seqblog.com/uncovering-the-limits-of-single-cell-chromatin-studies/</link>
-      <description>Researchers show that while scATAC-seq provides valuable single-cell data, its sparsity limits resolution, highlighting the need for improved efficiency compared to RNA sequencing approaches...</description>
+      <description>Researchers are constantly developing new tools to understand how our genes are regulated. One such tool is single-cell ATAC-seq, short for Assay for Transposase Accessible Chromatin with Sequencing, </description>
       <pubDate>Thu, 18 Sep 2025 13:10:11 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/uncovering-the-limits-of-single-cell-chromatin-studies/</guid>
@@ -40,24 +67,6 @@
       <pubDate>Wed, 17 Sep 2025 21:47:44 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/mirror-life</guid>
-    </item>
-    
-    <item>
-      <title>M&amp;M – an RNA-seq based pan-cancer classifier for paediatric tumours</title>
-      <link>https://www.rna-seqblog.com/mm-an-rna-seq-based-pan-cancer-classifier-for-paediatric-tumours/</link>
-      <description>Diagnosing childhood cancers is one of the most difficult challenges in modern medicine. While many cancers can be identified by looking at tumor cells under a microscope, rare tumors are much harder </description>
-      <pubDate>Wed, 17 Sep 2025 10:36:33 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/mm-an-rna-seq-based-pan-cancer-classifier-for-paediatric-tumours/</guid>
-    </item>
-    
-    <item>
-      <title>Spotting stealth multiplets for better single-cell experiment design</title>
-      <link>https://www.rna-seqblog.com/spotting-stealth-multiplets-for-better-single-cell-experiment-design/</link>
-      <description>Researchers at EMBL Barcelona have quantitatively evaluated the risk of undetected artefacts in single-cell RNA sequencing experiments Fumio Nakaki combined theoretical modelling with experimental ben</description>
-      <pubDate>Wed, 17 Sep 2025 10:36:17 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/spotting-stealth-multiplets-for-better-single-cell-experiment-design/</guid>
     </item>
     
     <item>
@@ -95,15 +104,6 @@ Roche released </description>
       <pubDate>Wed, 10 Sep 2025 12:54:43 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/google-ai-bioinformatics-covid-forecasting</guid>
-    </item>
-    
-    <item>
-      <title>Make your development environment portable and reproducible</title>
-      <link>https://blog.stephenturner.us/p/development-environment-portable-reproducible</link>
-      <description>Dotfiles, VM setup scripts, R "verse" packages, and dev containers</description>
-      <pubDate>Tue, 09 Sep 2025 10:02:21 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/development-environment-portable-reproducible</guid>
     </item>
     
     <item>
