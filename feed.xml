@@ -4,7 +4,7 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Sun, 21 Sep 2025 06:32:17 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 22 Sep 2025 06:35:54 +0000</lastBuildDate>
   
     <item>
       <title>iRECODE – A new computational method that brings clarity to single-cell analysis</title>
@@ -179,6 +179,15 @@ Roche released </description>
     </item>
     
     <item>
+      <title>Lessons from a Nobel Laureate (on deep learning and academia/industry)</title>
+      <link>https://www.johnlees.me/posts/alphafold-lessons/</link>
+      <description>&lt;p&gt;Last week I saw &lt;a href="https://en.wikipedia.org/wiki/John_M._Jumper" rel="noopener noreffer " target="_blank"&gt;John Jumper&lt;/a&gt; give a presentation on his team&amp;rsquo;s development of AlphaFold 1/2/</description>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      <source>John Lees' blog</source>
+      <guid>https://www.johnlees.me/posts/alphafold-lessons/</guid>
+    </item>
+    
+    <item>
       <title>Crashing Excel to Curing Cancer: How AI and Open Science Transformed One Scientist’s Path</title>
       <link>https://divingintogeneticsandgenomics.com/talk/2025-ai-on-the-hill-podcast/</link>
       <description>&lt;p&gt;We’re bringing a podcast to the conversation: AI on the Hill — and our very first episode is now live!&lt;/p&gt;
@@ -187,6 +196,26 @@ Roche released </description>
       <pubDate>Fri, 01 Aug 2025 12:00:00 +0000</pubDate>
       <source>Chatomics on Chatomics</source>
       <guid>https://divingintogeneticsandgenomics.com/talk/2025-ai-on-the-hill-podcast/</guid>
+    </item>
+    
+    <item>
+      <title>Hunting collisions with ntHash</title>
+      <link>https://www.bacpop.org/blog/huntingcollisionswithnthash/</link>
+      <description>A quick introduction The ultraviolet catastrophe ntHash and collisions The checks Summary This blog post summarises some checks and comprobations done while developing Sparrowhawk after we discovered </description>
+      <pubDate>Tue, 22 Jul 2025 23:06:29 +0100</pubDate>
+      <source>Bacterial population genomics blog</source>
+      <guid>https://www.bacpop.org/blog/huntingcollisionswithnthash/</guid>
+    </item>
+    
+    <item>
+      <title>Using fixed parameters/constants in mcstate likelihoods</title>
+      <link>https://www.johnlees.me/posts/mcstate-constants/</link>
+      <description>&lt;p&gt;&lt;em&gt;NB: mcstate is being replaced by &lt;a href="https://mrc-ide.github.io/odin-monty/" rel="noopener noreffer " target="_blank"&gt;monty&lt;/a&gt; which will make this easier&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;How do y</description>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+      <source>John Lees' blog</source>
+      <guid>https://www.johnlees.me/posts/mcstate-constants/</guid>
     </item>
     
     <item>
@@ -254,6 +283,17 @@ biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
       <pubDate>2025-06-26T08:13:00.001-04:00</pubDate>
       <source>Omics! Omics!</source>
       <guid>https://omicsomics.blogspot.com/2025/06/food-for-thought-on-onts-proteomics-push.html</guid>
+    </item>
+    
+    <item>
+      <title>Dogs and the central limit theorem</title>
+      <link>https://www.johnlees.me/posts/dogs-clt/</link>
+      <description>&lt;p&gt;At school/University I had vaguely heard of the Central Limit Theorem (CLT) but never properly
+understood it or looked it up. My understanding was pretty much along the lines
+of &amp;lsquo;most measure</description>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <source>John Lees' blog</source>
+      <guid>https://www.johnlees.me/posts/dogs-clt/</guid>
     </item>
     
     <item>
@@ -329,6 +369,17 @@ biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
     </item>
     
     <item>
+      <title>Some of my petty pedantry and why it doesn't matter</title>
+      <link>https://www.johnlees.me/posts/pedantry/</link>
+      <description>&lt;p&gt;I already have at least one of these &lt;a href="https://www.johnlees.me/posts/p-value-2-2e-16/" rel=""&gt;on this blog&lt;/a&gt; (which incidentally is my most
+popular post).
+&lt;figure&gt;&lt;a class="lightgallery" h</description>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <source>John Lees' blog</source>
+      <guid>https://www.johnlees.me/posts/pedantry/</guid>
+    </item>
+    
+    <item>
       <title>Multi-sample Integrative Analysis of Spatial Transcriptomics Data using Sketching and Harmony in Seurat</title>
       <link>http://jefworks-lab.github.io//blog/2025/04/22/harmony-with-sketching-in-seurat/</link>
       <description>I often write up code tutorials as a way for me to take notes on what I’ve been learning. But they also serve a secondary purpose as training material for students in my lab. In particular, they provi</description>
@@ -363,6 +414,15 @@ It is similar to STAR in resource </description>
       <pubDate>2025-02-07T00:00:00+00:00</pubDate>
       <source>Ryan Wick’s bioinformatics blog</source>
       <guid>https://rrwick.github.io/2025/02/07/dorado-polish.html</guid>
+    </item>
+    
+    <item>
+      <title>Reflections and rants after three years of being a journal editor</title>
+      <link>https://www.johnlees.me/posts/mgen-editor/</link>
+      <description>&lt;p&gt;Over the past three years I&amp;rsquo;ve served as an Editor for the &lt;del&gt;American Joᴜrnαl of Traffic and Transportation Engineering&lt;/del&gt;&lt;sup id="fnref:1"&gt;&lt;a class="footnote-ref" href="https://www.joh</description>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <source>John Lees' blog</source>
+      <guid>https://www.johnlees.me/posts/mgen-editor/</guid>
     </item>
     
     <item>
@@ -408,64 +468,6 @@ It is similar to STAR in resource </description>
       <pubDate>2024-09-28T00:00:00+00:00</pubDate>
       <source>Heng Li's blog</source>
       <guid>http://lh3.github.io/2024/09/28/why-is-bwa-aln-still-used</guid>
-    </item>
-    
-    <item>
-      <title>The many ways to calculate Moran’s I for identifying spatially variable genes in spatial transcriptomics data</title>
-      <link>http://jefworks-lab.github.io//blog/2024/08/29/the-many-ways-to-detect-svgs-using-moransI/</link>
-      <description>In this blog post, I will compare 4 implementations of Moran’s I in R (MERINGUE, Rfast2, ape, and spdep) to identify spatially variable genes (SVGs) in spatial transcriptomics data.</description>
-      <pubDate>2024-08-29T00:00:00+00:00</pubDate>
-      <source>JEFworks Lab</source>
-      <guid>http://jefworks-lab.github.io//blog/2024/08/29/the-many-ways-to-detect-svgs-using-moransI/</guid>
-    </item>
-    
-    <item>
-      <title>Recent advances in the sourmash ecosystem (August 2024)</title>
-      <link>http://ivory.idyll.org/blog/2024-sourmash-advances.html</link>
-      <description>&lt;p&gt;sourmash is faster and better than before!&lt;/p&gt;</description>
-      <pubDate>2024-08-16T00:00:00+02:00</pubDate>
-      <source>Living in an Ivory Basement</source>
-      <guid>http://ivory.idyll.org/blog/2024-sourmash-advances.html</guid>
-    </item>
-    
-    <item>
-      <title>Characterizing spatial heterogeneity using spatial bootstrapping with SEraster</title>
-      <link>http://jefworks-lab.github.io//blog/2024/07/23/spatial-bootstrapping-with-seraster/</link>
-      <description>SEraster aggregates single cell spatial omics data into square/hex pixels for scalable analysis</description>
-      <pubDate>2024-07-23T00:00:00+00:00</pubDate>
-      <source>JEFworks Lab</source>
-      <guid>http://jefworks-lab.github.io//blog/2024/07/23/spatial-bootstrapping-with-seraster/</guid>
-    </item>
-    
-    <item>
-      <title>Where did BWA come from?</title>
-      <link>http://lh3.github.io/2024/04/12/where-did-bwa-come-from</link>
-      <description>&lt;p&gt;My blog posts are often motivated by casual conversations with other
-scientists. This blog post is an example. Someone asked me how I thought of
-using a compression algorithm for alignment in &lt;a hr</description>
-      <pubDate>2024-04-12T00:00:00+00:00</pubDate>
-      <source>Heng Li's blog</source>
-      <guid>http://lh3.github.io/2024/04/12/where-did-bwa-come-from</guid>
-    </item>
-    
-    <item>
-      <title>On the definition of pangenome</title>
-      <link>http://lh3.github.io/2024/03/29/what-is-a-pangenome</link>
-      <description>&lt;p&gt;Historically, the term “pan-genome” (or more often “pangenome” in recent
-literature) was first coined &lt;a href="https://pubmed.ncbi.nlm.nih.gov/11261250/"&gt;by Sigaux&lt;/a&gt; in
-2000 for a purpose distinc</description>
-      <pubDate>2024-03-29T00:00:00+00:00</pubDate>
-      <source>Heng Li's blog</source>
-      <guid>http://lh3.github.io/2024/03/29/what-is-a-pangenome</guid>
-    </item>
-    
-    <item>
-      <title>Speeding sourmash the heck up</title>
-      <link>http://ivory.idyll.org/blog/2024-speeding-sourmash-the-heck-up.html</link>
-      <description>&lt;p&gt;Faster things are always nice, right?&lt;/p&gt;</description>
-      <pubDate>2024-02-20T00:00:00+01:00</pubDate>
-      <source>Living in an Ivory Basement</source>
-      <guid>http://ivory.idyll.org/blog/2024-speeding-sourmash-the-heck-up.html</guid>
     </item>
     
 </channel>
