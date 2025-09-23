@@ -4,8 +4,35 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Mon, 22 Sep 2025 06:36:03 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 23 Sep 2025 06:34:37 +0000</lastBuildDate>
   
+    <item>
+      <title>Benchmark update: metaMDBG and Myloasm</title>
+      <link>https://rrwick.github.io/2025/09/23/autocycler-benchmark-update.html</link>
+      <description></description>
+      <pubDate>2025-09-23T00:00:00+00:00</pubDate>
+      <source>Ryan Wick’s bioinformatics blog</source>
+      <guid>https://rrwick.github.io/2025/09/23/autocycler-benchmark-update.html</guid>
+    </item>
+    
+    <item>
+      <title>scHSC – enhancing single-cell RNA-seq clustering via hard sample contrastive learning</title>
+      <link>https://www.rna-seqblog.com/schsc-enhancing-single-cell-rna-seq-clustering-via-hard-sample-contrastive-learning/</link>
+      <description>Researchers developed scHSC, a deep learning method that improves clustering accuracy in single-cell RNA sequencing data by focusing on hard samples and integrating gene expression with cell relations</description>
+      <pubDate>Mon, 22 Sep 2025 11:18:52 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/schsc-enhancing-single-cell-rna-seq-clustering-via-hard-sample-contrastive-learning/</guid>
+    </item>
+    
+    <item>
+      <title>A comparison of single-cell RNA-seq methods to enable transcriptome profiling of neutrophils in clinical samples</title>
+      <link>https://www.rna-seqblog.com/a-comparison-of-single-cell-rna-seq-methods-to-enable-transcriptome-profiling-of-neutrophils-in-clinical-samples/</link>
+      <description>Neutrophils are vital immune cells but notoriously difficult to study. Researchers developed a reliable workflow using single-cell RNA sequencing to capture their transcriptomes, improving clinical tr</description>
+      <pubDate>Mon, 22 Sep 2025 11:18:38 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/a-comparison-of-single-cell-rna-seq-methods-to-enable-transcriptome-profiling-of-neutrophils-in-clinical-samples/</guid>
+    </item>
+    
     <item>
       <title>iRECODE – A new computational method that brings clarity to single-cell analysis</title>
       <link>https://www.rna-seqblog.com/irecode-a-new-computational-method-that-brings-clarity-to-single-cell-analysis/</link>
@@ -18,7 +45,7 @@
     <item>
       <title>Decoding the selfish gene, from evolutionary cheaters to disease control</title>
       <link>https://www.rna-seqblog.com/decoding-the-selfish-gene-from-evolutionary-cheaters-to-disease-control/</link>
-      <description>Researchers used single-cell RNA sequencing to uncover how a selfish gene disrupts sperm development in stalk-eyed flies, offering insights into controlling harmful insect populations through meiotic </description>
+      <description>New research is shining a light on one of genetics’ enduring puzzles - how the workings of the so-called “selfish gene” could be harnessed to control harmful insect populations. Malaysian stalk-eyed f</description>
       <pubDate>Fri, 19 Sep 2025 11:18:04 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/decoding-the-selfish-gene-from-evolutionary-cheaters-to-disease-control/</guid>
@@ -36,28 +63,10 @@
     <item>
       <title>Integrated single-cell atlas of human atherosclerotic plaques</title>
       <link>https://www.rna-seqblog.com/integrated-single-cell-atlas-of-human-atherosclerotic-plaques/</link>
-      <description>Researchers built a single-cell atlas of atherosclerotic plaques using RNA sequencing, identifying specialized immune and structural cells that drive plaque progression and potential cardiovascular co</description>
+      <description>Atherosclerosis, the buildup of fatty deposits and inflammation in the arteries, is the main driver of many cardiovascular diseases. These plaques can grow, rupture, and block blood flow, leading to l</description>
       <pubDate>Thu, 18 Sep 2025 13:10:31 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/integrated-single-cell-atlas-of-human-atherosclerotic-plaques/</guid>
-    </item>
-    
-    <item>
-      <title>NAP-seq for full-length noncapped RNA sequencing</title>
-      <link>https://www.rna-seqblog.com/nap-seq-for-full-length-noncapped-rna-sequencing/</link>
-      <description>Researchers from Sun Yat-sen University have developed a new method called NAP-seq that shines light on the hidden world of “dark matter” RNAs. These RNAs, which make up nearly 80% of the human genome</description>
-      <pubDate>Thu, 18 Sep 2025 13:10:22 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/nap-seq-for-full-length-noncapped-rna-sequencing/</guid>
-    </item>
-    
-    <item>
-      <title>Uncovering the limits of single-cell chromatin studies</title>
-      <link>https://www.rna-seqblog.com/uncovering-the-limits-of-single-cell-chromatin-studies/</link>
-      <description>Researchers are constantly developing new tools to understand how our genes are regulated. One such tool is single-cell ATAC-seq, short for Assay for Transposase Accessible Chromatin with Sequencing, </description>
-      <pubDate>Thu, 18 Sep 2025 13:10:11 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/uncovering-the-limits-of-single-cell-chromatin-studies/</guid>
     </item>
     
     <item>
@@ -432,15 +441,6 @@ It is similar to STAR in resource </description>
       <pubDate>2024-12-27T00:00:00+01:00</pubDate>
       <source>Living in an Ivory Basement</source>
       <guid>http://ivory.idyll.org/blog/2024-announcing-chill-filter.html</guid>
-    </item>
-    
-    <item>
-      <title>A first look at CycloneSEQ data</title>
-      <link>https://rrwick.github.io/2024/12/17/cycloneseq.html</link>
-      <description></description>
-      <pubDate>2024-12-17T00:00:00+00:00</pubDate>
-      <source>Ryan Wick’s bioinformatics blog</source>
-      <guid>https://rrwick.github.io/2024/12/17/cycloneseq.html</guid>
     </item>
     
     <item>
