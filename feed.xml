@@ -4,8 +4,26 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Tue, 23 Sep 2025 06:34:37 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 24 Sep 2025 06:34:10 +0000</lastBuildDate>
   
+    <item>
+      <title>RNA sequencing study ties contact sports head hits to brain damage</title>
+      <link>https://www.rna-seqblog.com/rna-sequencing-study-ties-contact-sports-head-hits-to-brain-damage/</link>
+      <description>Researchers used RNA sequencing to reveal how repeated head impacts in young athletes cause neuron loss, inflammation, and vascular damage, even without chronic traumatic encephalopathy, highlighting </description>
+      <pubDate>Tue, 23 Sep 2025 14:22:04 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/rna-sequencing-study-ties-contact-sports-head-hits-to-brain-damage/</guid>
+    </item>
+    
+    <item>
+      <title>RNA sequencing reveals how ants control odorant receptor expression through transcriptional interference</title>
+      <link>https://www.rna-seqblog.com/rna-sequencing-reveals-how-ants-control-odorant-receptor-expression-through-transcriptional-interference/</link>
+      <description>Using RNA sequencing and molecular imaging, researchers uncovered how ants enforce the one receptor one neuron rule, revealing a unique gene regulation system that maintains clear olfactory communicat</description>
+      <pubDate>Tue, 23 Sep 2025 14:21:52 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/rna-sequencing-reveals-how-ants-control-odorant-receptor-expression-through-transcriptional-interference/</guid>
+    </item>
+    
     <item>
       <title>Benchmark update: metaMDBG and Myloasm</title>
       <link>https://rrwick.github.io/2025/09/23/autocycler-benchmark-update.html</link>
@@ -27,7 +45,7 @@
     <item>
       <title>A comparison of single-cell RNA-seq methods to enable transcriptome profiling of neutrophils in clinical samples</title>
       <link>https://www.rna-seqblog.com/a-comparison-of-single-cell-rna-seq-methods-to-enable-transcriptome-profiling-of-neutrophils-in-clinical-samples/</link>
-      <description>Neutrophils are vital immune cells but notoriously difficult to study. Researchers developed a reliable workflow using single-cell RNA sequencing to capture their transcriptomes, improving clinical tr</description>
+      <description>Neutrophils, a type of white blood cell, are the body’s first responders in fighting infections and play a critical role in inflammation and immunity. Understanding how their genes are expressed can p</description>
       <pubDate>Mon, 22 Sep 2025 11:18:38 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/a-comparison-of-single-cell-rna-seq-methods-to-enable-transcriptome-profiling-of-neutrophils-in-clinical-samples/</guid>
@@ -36,19 +54,10 @@
     <item>
       <title>iRECODE – A new computational method that brings clarity to single-cell analysis</title>
       <link>https://www.rna-seqblog.com/irecode-a-new-computational-method-that-brings-clarity-to-single-cell-analysis/</link>
-      <description>iRECODE improves RNA sequencing analysis by reducing technical and batch noise, enabling clearer detection of rare cell types and subtle biological changes across diverse single-cell datasets...</description>
+      <description>The world of cells is surprisingly noisy. Each cell carries unique genetic information, but when we try to measure cellular activity, signals can be lost or blurred, and differences between experiment</description>
       <pubDate>Fri, 19 Sep 2025 11:18:12 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/irecode-a-new-computational-method-that-brings-clarity-to-single-cell-analysis/</guid>
-    </item>
-    
-    <item>
-      <title>Decoding the selfish gene, from evolutionary cheaters to disease control</title>
-      <link>https://www.rna-seqblog.com/decoding-the-selfish-gene-from-evolutionary-cheaters-to-disease-control/</link>
-      <description>New research is shining a light on one of genetics’ enduring puzzles - how the workings of the so-called “selfish gene” could be harnessed to control harmful insect populations. Malaysian stalk-eyed f</description>
-      <pubDate>Fri, 19 Sep 2025 11:18:04 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/decoding-the-selfish-gene-from-evolutionary-cheaters-to-disease-control/</guid>
     </item>
     
     <item>
@@ -58,15 +67,6 @@
       <pubDate>Fri, 19 Sep 2025 09:45:45 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/weekly-recap-sep-19-2025</guid>
-    </item>
-    
-    <item>
-      <title>Integrated single-cell atlas of human atherosclerotic plaques</title>
-      <link>https://www.rna-seqblog.com/integrated-single-cell-atlas-of-human-atherosclerotic-plaques/</link>
-      <description>Atherosclerosis, the buildup of fatty deposits and inflammation in the arteries, is the main driver of many cardiovascular diseases. These plaques can grow, rupture, and block blood flow, leading to l</description>
-      <pubDate>Thu, 18 Sep 2025 13:10:31 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/integrated-single-cell-atlas-of-human-atherosclerotic-plaques/</guid>
     </item>
     
     <item>
