@@ -4,12 +4,39 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Wed, 24 Sep 2025 06:34:10 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 25 Sep 2025 06:34:51 +0000</lastBuildDate>
   
+    <item>
+      <title>RNA sequencing of urine biomarkers enables accurate noninvasive detection of prostate cancer</title>
+      <link>https://www.rna-seqblog.com/rna-sequencing-of-urine-biomarkers-enables-accurate-noninvasive-detection-of-prostate-cancer/</link>
+      <description>Researchers used RNA sequencing of urine samples to identify a three-biomarker panel that accurately detects prostate cancer, offering a noninvasive alternative to biopsies and improved diagnosis even</description>
+      <pubDate>Wed, 24 Sep 2025 11:16:58 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/rna-sequencing-of-urine-biomarkers-enables-accurate-noninvasive-detection-of-prostate-cancer/</guid>
+    </item>
+    
+    <item>
+      <title>RNA sequencing uncovers COL6A3 as a therapeutic target in recurrent meningiomas</title>
+      <link>https://www.rna-seqblog.com/chatgpt-said-rna-sequencing-uncovers-col6a3-as-a-therapeutic-target-in-recurrent-meningiomas/</link>
+      <description>Researchers at Korea University identified COL6A3 as a driver of recurrent meningiomas using single-cell RNA sequencing. The gene’s interaction with immunosuppressive macrophages and extracellular ves</description>
+      <pubDate>Wed, 24 Sep 2025 11:16:49 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/chatgpt-said-rna-sequencing-uncovers-col6a3-as-a-therapeutic-target-in-recurrent-meningiomas/</guid>
+    </item>
+    
+    <item>
+      <title>Seeking to understand RNA better and to contribute to new therapies</title>
+      <link>https://www.rna-seqblog.com/seeking-to-understand-rna-better-and-to-contribute-to-new-therapies/</link>
+      <description>Vicente Pelechano Garcia uses RNA sequencing and bioinformatics to study how RNA regulates cell behavior, aiming to advance diagnostics and develop RNA-based treatments for diseases like cancer and in</description>
+      <pubDate>Wed, 24 Sep 2025 11:00:59 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/seeking-to-understand-rna-better-and-to-contribute-to-new-therapies/</guid>
+    </item>
+    
     <item>
       <title>RNA sequencing study ties contact sports head hits to brain damage</title>
       <link>https://www.rna-seqblog.com/rna-sequencing-study-ties-contact-sports-head-hits-to-brain-damage/</link>
-      <description>Researchers used RNA sequencing to reveal how repeated head impacts in young athletes cause neuron loss, inflammation, and vascular damage, even without chronic traumatic encephalopathy, highlighting </description>
+      <description>Repetitive head impacts can cause cell loss, inflammation, and vascular damage—even without CTE Lacing up cleats, dusting down pads, pumping up soccer balls: for many young athletes and weekend warrio</description>
       <pubDate>Tue, 23 Sep 2025 14:22:04 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/rna-sequencing-study-ties-contact-sports-head-hits-to-brain-damage/</guid>
@@ -18,10 +45,21 @@
     <item>
       <title>RNA sequencing reveals how ants control odorant receptor expression through transcriptional interference</title>
       <link>https://www.rna-seqblog.com/rna-sequencing-reveals-how-ants-control-odorant-receptor-expression-through-transcriptional-interference/</link>
-      <description>Using RNA sequencing and molecular imaging, researchers uncovered how ants enforce the one receptor one neuron rule, revealing a unique gene regulation system that maintains clear olfactory communicat</description>
+      <description>Details of an ant’s antenna stained for two different odorant receptors (in cyan and yellow). The antenna contains specialized hairs that house the dendrites of olfactory sensory neurons. (Kronauer la</description>
       <pubDate>Tue, 23 Sep 2025 14:21:52 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/rna-sequencing-reveals-how-ants-control-odorant-receptor-expression-through-transcriptional-interference/</guid>
+    </item>
+    
+    <item>
+      <title>Do not repeat yourself: List column to do RNAseq differential expression analysis</title>
+      <link>https://divingintogeneticsandgenomics.com/post/list-column-rnaseq/</link>
+      <description>&lt;p&gt;&lt;strong&gt;To not miss a post like this, sign up for my &lt;a href="https://divingintogeneticsandgenomics.ck.page/profile"&gt;newsletter&lt;/a&gt; to learn computational
+biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
+&lt;</description>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      <source>Chatomics on Chatomics</source>
+      <guid>https://divingintogeneticsandgenomics.com/post/list-column-rnaseq/</guid>
     </item>
     
     <item>
@@ -31,33 +69,6 @@
       <pubDate>2025-09-23T00:00:00+00:00</pubDate>
       <source>Ryan Wick’s bioinformatics blog</source>
       <guid>https://rrwick.github.io/2025/09/23/autocycler-benchmark-update.html</guid>
-    </item>
-    
-    <item>
-      <title>scHSC – enhancing single-cell RNA-seq clustering via hard sample contrastive learning</title>
-      <link>https://www.rna-seqblog.com/schsc-enhancing-single-cell-rna-seq-clustering-via-hard-sample-contrastive-learning/</link>
-      <description>Researchers developed scHSC, a deep learning method that improves clustering accuracy in single-cell RNA sequencing data by focusing on hard samples and integrating gene expression with cell relations</description>
-      <pubDate>Mon, 22 Sep 2025 11:18:52 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/schsc-enhancing-single-cell-rna-seq-clustering-via-hard-sample-contrastive-learning/</guid>
-    </item>
-    
-    <item>
-      <title>A comparison of single-cell RNA-seq methods to enable transcriptome profiling of neutrophils in clinical samples</title>
-      <link>https://www.rna-seqblog.com/a-comparison-of-single-cell-rna-seq-methods-to-enable-transcriptome-profiling-of-neutrophils-in-clinical-samples/</link>
-      <description>Neutrophils, a type of white blood cell, are the body’s first responders in fighting infections and play a critical role in inflammation and immunity. Understanding how their genes are expressed can p</description>
-      <pubDate>Mon, 22 Sep 2025 11:18:38 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/a-comparison-of-single-cell-rna-seq-methods-to-enable-transcriptome-profiling-of-neutrophils-in-clinical-samples/</guid>
-    </item>
-    
-    <item>
-      <title>iRECODE – A new computational method that brings clarity to single-cell analysis</title>
-      <link>https://www.rna-seqblog.com/irecode-a-new-computational-method-that-brings-clarity-to-single-cell-analysis/</link>
-      <description>The world of cells is surprisingly noisy. Each cell carries unique genetic information, but when we try to measure cellular activity, signals can be lost or blurred, and differences between experiment</description>
-      <pubDate>Fri, 19 Sep 2025 11:18:12 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/irecode-a-new-computational-method-that-brings-clarity-to-single-cell-analysis/</guid>
     </item>
     
     <item>
@@ -254,17 +265,6 @@ biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
       <pubDate>2025-07-10T00:00:00+00:00</pubDate>
       <source>JEFworks Lab</source>
       <guid>http://jefworks-lab.github.io//blog/2025/07/10/analyzing-ice-detention-data/</guid>
-    </item>
-    
-    <item>
-      <title>Mastering Bioinformatics in the Age of AI: Foundational Skills for the Modern Scientist</title>
-      <link>https://divingintogeneticsandgenomics.com/post/ai-bioinformatics/</link>
-      <description>&lt;p&gt;&lt;strong&gt;To not miss a post like this, sign up for my &lt;a href="https://divingintogeneticsandgenomics.ck.page/profile"&gt;newsletter&lt;/a&gt; to learn computational
-biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
-&lt;</description>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
-      <source>Chatomics on Chatomics</source>
-      <guid>https://divingintogeneticsandgenomics.com/post/ai-bioinformatics/</guid>
     </item>
     
     <item>
