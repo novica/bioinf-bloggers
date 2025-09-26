@@ -4,12 +4,48 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Thu, 25 Sep 2025 06:34:51 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 26 Sep 2025 06:33:44 +0000</lastBuildDate>
   
+    <item>
+      <title>The Biodiversity Cell Atlas – mapping the tree of life at cellular resolution</title>
+      <link>https://www.rna-seqblog.com/the-biodiversity-cell-atlas-mapping-the-tree-of-life-at-cellular-resolution/</link>
+      <description>The Biodiversity Cell Atlas uses single-cell RNA sequencing and genome data to map eukaryotic cell diversity, providing new insights into evolution, gene regulation, and organismal interactions...</description>
+      <pubDate>Thu, 25 Sep 2025 11:16:41 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/the-biodiversity-cell-atlas-mapping-the-tree-of-life-at-cellular-resolution/</guid>
+    </item>
+    
+    <item>
+      <title>RCANE – whole-genome pan-cancer somatic copy number aberration prediction using RNA-seq data</title>
+      <link>https://www.rna-seqblog.com/rcane-whole-genome-pan-cancer-somatic-copy-number-aberration-prediction-using-rna-seq-data/</link>
+      <description>RCANE uses RNA sequencing data to predict somatic copy-number aberrations in cancer, providing both gene expression and structural variation insights in a single cost-effective analysis...</description>
+      <pubDate>Thu, 25 Sep 2025 11:16:16 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/rcane-whole-genome-pan-cancer-somatic-copy-number-aberration-prediction-using-rna-seq-data/</guid>
+    </item>
+    
+    <item>
+      <title>KEGNI – knowledge graph enhanced framework for gene regulatory network inference</title>
+      <link>https://www.rna-seqblog.com/kegni-knowledge-graph-enhanced-framework-for-gene-regulatory-network-inference/</link>
+      <description>KEGNI uses RNA sequencing and knowledge graphs to infer gene regulatory networks, helping scientists identify driver genes and understand regulatory mechanisms in diverse cellular contexts...</description>
+      <pubDate>Thu, 25 Sep 2025 11:15:44 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/kegni-knowledge-graph-enhanced-framework-for-gene-regulatory-network-inference/</guid>
+    </item>
+    
+    <item>
+      <title>Charlottesville R Users</title>
+      <link>https://blog.stephenturner.us/p/charlottesville-r-users</link>
+      <description>Recap of the first R User Group event in Charlottesville VA</description>
+      <pubDate>Thu, 25 Sep 2025 09:56:12 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/charlottesville-r-users</guid>
+    </item>
+    
     <item>
       <title>RNA sequencing of urine biomarkers enables accurate noninvasive detection of prostate cancer</title>
       <link>https://www.rna-seqblog.com/rna-sequencing-of-urine-biomarkers-enables-accurate-noninvasive-detection-of-prostate-cancer/</link>
-      <description>Researchers used RNA sequencing of urine samples to identify a three-biomarker panel that accurately detects prostate cancer, offering a noninvasive alternative to biopsies and improved diagnosis even</description>
+      <description>Researchers at the Johns Hopkins Kimmel Cancer Center, Johns Hopkins All Children’s Hospital and four other institutions have devised a novel method to test for prostate cancer using biomarkers presen</description>
       <pubDate>Wed, 24 Sep 2025 11:16:58 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/rna-sequencing-of-urine-biomarkers-enables-accurate-noninvasive-detection-of-prostate-cancer/</guid>
@@ -18,37 +54,10 @@
     <item>
       <title>RNA sequencing uncovers COL6A3 as a therapeutic target in recurrent meningiomas</title>
       <link>https://www.rna-seqblog.com/chatgpt-said-rna-sequencing-uncovers-col6a3-as-a-therapeutic-target-in-recurrent-meningiomas/</link>
-      <description>Researchers at Korea University identified COL6A3 as a driver of recurrent meningiomas using single-cell RNA sequencing. The gene’s interaction with immunosuppressive macrophages and extracellular ves</description>
+      <description>Korea University College of Medicine Research Team Identifies New Therapeutic Target by Tracing Meningioma Recurrence Mechanism A research team led by Professor Jason Kyungha Sa from the Department of</description>
       <pubDate>Wed, 24 Sep 2025 11:16:49 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/chatgpt-said-rna-sequencing-uncovers-col6a3-as-a-therapeutic-target-in-recurrent-meningiomas/</guid>
-    </item>
-    
-    <item>
-      <title>Seeking to understand RNA better and to contribute to new therapies</title>
-      <link>https://www.rna-seqblog.com/seeking-to-understand-rna-better-and-to-contribute-to-new-therapies/</link>
-      <description>Vicente Pelechano Garcia uses RNA sequencing and bioinformatics to study how RNA regulates cell behavior, aiming to advance diagnostics and develop RNA-based treatments for diseases like cancer and in</description>
-      <pubDate>Wed, 24 Sep 2025 11:00:59 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/seeking-to-understand-rna-better-and-to-contribute-to-new-therapies/</guid>
-    </item>
-    
-    <item>
-      <title>RNA sequencing study ties contact sports head hits to brain damage</title>
-      <link>https://www.rna-seqblog.com/rna-sequencing-study-ties-contact-sports-head-hits-to-brain-damage/</link>
-      <description>Repetitive head impacts can cause cell loss, inflammation, and vascular damage—even without CTE Lacing up cleats, dusting down pads, pumping up soccer balls: for many young athletes and weekend warrio</description>
-      <pubDate>Tue, 23 Sep 2025 14:22:04 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/rna-sequencing-study-ties-contact-sports-head-hits-to-brain-damage/</guid>
-    </item>
-    
-    <item>
-      <title>RNA sequencing reveals how ants control odorant receptor expression through transcriptional interference</title>
-      <link>https://www.rna-seqblog.com/rna-sequencing-reveals-how-ants-control-odorant-receptor-expression-through-transcriptional-interference/</link>
-      <description>Details of an ant’s antenna stained for two different odorant receptors (in cyan and yellow). The antenna contains specialized hairs that house the dendrites of olfactory sensory neurons. (Kronauer la</description>
-      <pubDate>Tue, 23 Sep 2025 14:21:52 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/rna-sequencing-reveals-how-ants-control-odorant-receptor-expression-through-transcriptional-interference/</guid>
     </item>
     
     <item>
@@ -115,15 +124,6 @@ Roche released </description>
       <pubDate>2025-09-11T00:00:00+00:00</pubDate>
       <source>Heng Li's blog</source>
       <guid>http://lh3.github.io/2025/09/11/a-quick-look-at-roches-sbx</guid>
-    </item>
-    
-    <item>
-      <title>Single-cell analysis and infectious disease forecasting: Google's new AI scientist</title>
-      <link>https://blog.stephenturner.us/p/google-ai-bioinformatics-covid-forecasting</link>
-      <description>In Google's new paper, "An AI system to help scientists write expert-level empirical software" an AI supposedly "invents" new methods in bioinformatics and infectious disease modeling &amp; forecasting.</description>
-      <pubDate>Wed, 10 Sep 2025 12:54:43 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/google-ai-bioinformatics-covid-forecasting</guid>
     </item>
     
     <item>
