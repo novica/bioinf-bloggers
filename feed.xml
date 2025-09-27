@@ -4,12 +4,48 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Fri, 26 Sep 2025 06:33:44 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 27 Sep 2025 06:29:47 +0000</lastBuildDate>
   
+    <item>
+      <title>Weekly recap (Sep 26, 2025)</title>
+      <link>https://blog.stephenturner.us/p/weekly-recap-sep-26-2025</link>
+      <description>Apple gets into protein folding, parsing R/Markdown and Quarto, vibe-coding an R package, AI in biosecurity and writing, nothing about AI is inevitable, conservation applications of de-extinction tech</description>
+      <pubDate>Fri, 26 Sep 2025 12:03:11 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/weekly-recap-sep-26-2025</guid>
+    </item>
+    
+    <item>
+      <title>How clinical RNA sequencing at SickKids is accelerating Precision Child Health</title>
+      <link>https://www.rna-seqblog.com/how-clinical-rna-sequencing-at-sickkids-is-accelerating-precision-child-health/</link>
+      <description>RNA sequencing provides critical insights into cancer and rare diseases, helping refine diagnoses, confirm DNA findings, and guide targeted treatments to improve precision care for children...</description>
+      <pubDate>Fri, 26 Sep 2025 11:27:15 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/how-clinical-rna-sequencing-at-sickkids-is-accelerating-precision-child-health/</guid>
+    </item>
+    
+    <item>
+      <title>scEssentials – assessing tissue-specific gene expression of essential genes from human and mouse</title>
+      <link>https://www.rna-seqblog.com/scessentials-assessing-tissue-specific-gene-expression-of-essential-genes-from-human-and-mouse/</link>
+      <description>RNA sequencing with scEssentials reveals how essential genes remain stable across tissues and age groups, offering key insights into ageing, gene networks, and fundamental cellular processes...</description>
+      <pubDate>Fri, 26 Sep 2025 11:27:05 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/scessentials-assessing-tissue-specific-gene-expression-of-essential-genes-from-human-and-mouse/</guid>
+    </item>
+    
+    <item>
+      <title>Understanding and mitigating the impact of ambient mRNA contamination in single-cell RNA-sequencing analysis</title>
+      <link>https://www.rna-seqblog.com/understanding-and-mitigating-the-impact-of-ambient-mrna-contamination-in-single-cell-rna-sequencing-analysis/</link>
+      <description>Correcting ambient RNA contamination improves the accuracy of single-cell RNA sequencing, leading to more reliable gene...</description>
+      <pubDate>Fri, 26 Sep 2025 11:26:54 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/understanding-and-mitigating-the-impact-of-ambient-mrna-contamination-in-single-cell-rna-sequencing-analysis/</guid>
+    </item>
+    
     <item>
       <title>The Biodiversity Cell Atlas – mapping the tree of life at cellular resolution</title>
       <link>https://www.rna-seqblog.com/the-biodiversity-cell-atlas-mapping-the-tree-of-life-at-cellular-resolution/</link>
-      <description>The Biodiversity Cell Atlas uses single-cell RNA sequencing and genome data to map eukaryotic cell diversity, providing new insights into evolution, gene regulation, and organismal interactions...</description>
+      <description>Cells are the building blocks of life, but scientists still know surprisingly little about how diverse cell types are across the many branches of the tree of life. Advances in single-cell technologies</description>
       <pubDate>Thu, 25 Sep 2025 11:16:41 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/the-biodiversity-cell-atlas-mapping-the-tree-of-life-at-cellular-resolution/</guid>
@@ -18,19 +54,10 @@
     <item>
       <title>RCANE – whole-genome pan-cancer somatic copy number aberration prediction using RNA-seq data</title>
       <link>https://www.rna-seqblog.com/rcane-whole-genome-pan-cancer-somatic-copy-number-aberration-prediction-using-rna-seq-data/</link>
-      <description>RCANE uses RNA sequencing data to predict somatic copy-number aberrations in cancer, providing both gene expression and structural variation insights in a single cost-effective analysis...</description>
+      <description>Researchers are finding smarter ways to get more information from the data scientists already collect. In cancer research, transcriptome sequencing, or RNA sequencing, is commonly used to measure gene</description>
       <pubDate>Thu, 25 Sep 2025 11:16:16 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/rcane-whole-genome-pan-cancer-somatic-copy-number-aberration-prediction-using-rna-seq-data/</guid>
-    </item>
-    
-    <item>
-      <title>KEGNI – knowledge graph enhanced framework for gene regulatory network inference</title>
-      <link>https://www.rna-seqblog.com/kegni-knowledge-graph-enhanced-framework-for-gene-regulatory-network-inference/</link>
-      <description>KEGNI uses RNA sequencing and knowledge graphs to infer gene regulatory networks, helping scientists identify driver genes and understand regulatory mechanisms in diverse cellular contexts...</description>
-      <pubDate>Thu, 25 Sep 2025 11:15:44 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/kegni-knowledge-graph-enhanced-framework-for-gene-regulatory-network-inference/</guid>
     </item>
     
     <item>
@@ -40,24 +67,6 @@
       <pubDate>Thu, 25 Sep 2025 09:56:12 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/charlottesville-r-users</guid>
-    </item>
-    
-    <item>
-      <title>RNA sequencing of urine biomarkers enables accurate noninvasive detection of prostate cancer</title>
-      <link>https://www.rna-seqblog.com/rna-sequencing-of-urine-biomarkers-enables-accurate-noninvasive-detection-of-prostate-cancer/</link>
-      <description>Researchers at the Johns Hopkins Kimmel Cancer Center, Johns Hopkins All Children’s Hospital and four other institutions have devised a novel method to test for prostate cancer using biomarkers presen</description>
-      <pubDate>Wed, 24 Sep 2025 11:16:58 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/rna-sequencing-of-urine-biomarkers-enables-accurate-noninvasive-detection-of-prostate-cancer/</guid>
-    </item>
-    
-    <item>
-      <title>RNA sequencing uncovers COL6A3 as a therapeutic target in recurrent meningiomas</title>
-      <link>https://www.rna-seqblog.com/chatgpt-said-rna-sequencing-uncovers-col6a3-as-a-therapeutic-target-in-recurrent-meningiomas/</link>
-      <description>Korea University College of Medicine Research Team Identifies New Therapeutic Target by Tracing Meningioma Recurrence Mechanism A research team led by Professor Jason Kyungha Sa from the Department of</description>
-      <pubDate>Wed, 24 Sep 2025 11:16:49 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/chatgpt-said-rna-sequencing-uncovers-col6a3-as-a-therapeutic-target-in-recurrent-meningiomas/</guid>
     </item>
     
     <item>
@@ -105,15 +114,6 @@ biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
       <pubDate>Fri, 12 Sep 2025 10:44:54 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/closing-my-tabs-sep-12-2025</guid>
-    </item>
-    
-    <item>
-      <title>70 years of AI hype</title>
-      <link>https://blog.stephenturner.us/p/70-years-of-ai-hype</link>
-      <description>Quoting from Olivia Guest et al. (2025) "Against the Uncritical Adoption of AI Technologies in Academia."</description>
-      <pubDate>Thu, 11 Sep 2025 14:01:54 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/70-years-of-ai-hype</guid>
     </item>
     
     <item>
