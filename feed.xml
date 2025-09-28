@@ -4,8 +4,26 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Sat, 27 Sep 2025 06:29:47 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 28 Sep 2025 06:31:46 +0000</lastBuildDate>
   
+    <item>
+      <title>Voice control ggplot2 with ggbot2</title>
+      <link>https://blog.stephenturner.us/p/voice-control-ggplot2-with-ggbot2</link>
+      <description>Today I learned you can create and customize ggplot2 visualizations using your voice alone.</description>
+      <pubDate>Sat, 27 Sep 2025 14:22:16 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/voice-control-ggplot2-with-ggbot2</guid>
+    </item>
+    
+    <item>
+      <title>Analyzing ICE Arrest Data - Part 2</title>
+      <link>http://jefworks-lab.github.io//blog/2025/09/27/analyzing-ice-detention-data-2/</link>
+      <description>In this blog post, I continue to demonstrate how to analyze publicly available datasets related to U.S. Immigration and Customs Enforcement (ICE). This time, I take advantage of publicly available dat</description>
+      <pubDate>2025-09-27T00:00:00+00:00</pubDate>
+      <source>JEFworks Lab</source>
+      <guid>http://jefworks-lab.github.io//blog/2025/09/27/analyzing-ice-detention-data-2/</guid>
+    </item>
+    
     <item>
       <title>Weekly recap (Sep 26, 2025)</title>
       <link>https://blog.stephenturner.us/p/weekly-recap-sep-26-2025</link>
@@ -105,15 +123,6 @@ biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
       <pubDate>Wed, 17 Sep 2025 21:47:44 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/mirror-life</guid>
-    </item>
-    
-    <item>
-      <title>Closing my tabs (Sep 12, 2025)</title>
-      <link>https://blog.stephenturner.us/p/closing-my-tabs-sep-12-2025</link>
-      <description>AI in academia, $1B NSF cut, AI+biosecurity, bacterial DNA from mammoth bones, understanding LLMs and their math, bioacoustics for conservation, Synthetic Eden, lots of R/AI updates, CRISPR horses...</description>
-      <pubDate>Fri, 12 Sep 2025 10:44:54 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/closing-my-tabs-sep-12-2025</guid>
     </item>
     
     <item>
@@ -459,15 +468,6 @@ It is similar to STAR in resource </description>
       <pubDate>2024-10-16T00:00:00+02:00</pubDate>
       <source>Living in an Ivory Basement</source>
       <guid>http://ivory.idyll.org/blog/2024-why-i-like-rust.html</guid>
-    </item>
-    
-    <item>
-      <title>Why is bwa-aln used for ancient DNA reads?</title>
-      <link>http://lh3.github.io/2024/09/28/why-is-bwa-aln-still-used</link>
-      <description>&lt;p&gt;&lt;a href="https://github.com/lh3/bwa"&gt;BWA&lt;/a&gt; implements three algorithms: &lt;a href="https://pubmed.ncbi.nlm.nih.gov/19451168/"&gt;bwa-aln&lt;/a&gt;, &lt;a href="https://pubmed.ncbi.nlm.nih.gov/20080505/"&gt;bwa-sw</description>
-      <pubDate>2024-09-28T00:00:00+00:00</pubDate>
-      <source>Heng Li's blog</source>
-      <guid>http://lh3.github.io/2024/09/28/why-is-bwa-aln-still-used</guid>
     </item>
     
 </channel>
