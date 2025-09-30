@@ -4,8 +4,36 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Mon, 29 Sep 2025 06:36:26 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 30 Sep 2025 06:35:19 +0000</lastBuildDate>
   
+    <item>
+      <title>Gene expression may help predict treatment response in thyroid cancer</title>
+      <link>https://www.rna-seqblog.com/gene-expression-may-help-predict-treatment-response-in-thyroid-cancer/</link>
+      <description>Researchers used RNA sequencing to identify gene expression differences in papillary thyroid cancer, highlighting ANO1 as a potential biomarker for predicting radioactive iodine therapy response...</description>
+      <pubDate>Mon, 29 Sep 2025 11:10:50 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/gene-expression-may-help-predict-treatment-response-in-thyroid-cancer/</guid>
+    </item>
+    
+    <item>
+      <title>RNA sequencing reveals gene program for antigen archiving by lymphatic endothelial cells</title>
+      <link>https://www.rna-seqblog.com/rna-sequencing-reveals-gene-program-for-antigen-archiving-by-lymphatic-endothelial-cells/</link>
+      <description>Researchers at CU Anschutz used RNA sequencing to reveal how lymphatic endothelial cells archive antigens, uncovering genetic programs that shape immune memory and inform future vaccine and therapy st</description>
+      <pubDate>Mon, 29 Sep 2025 11:10:40 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/rna-sequencing-reveals-gene-program-for-antigen-archiving-by-lymphatic-endothelial-cells/</guid>
+    </item>
+    
+    <item>
+      <title>Our journey through low-complexity regions</title>
+      <link>http://lh3.github.io/2025/09/29/on-low-complexity-regions</link>
+      <description>&lt;p&gt;Those who inspect SVs often have probably noticed many SVs fall in LCRs or tandem repeats and they are challenging to call.
+How many and how challenging? I could not find a good answer in the liter</description>
+      <pubDate>2025-09-29T00:00:00+00:00</pubDate>
+      <source>Heng Li's blog</source>
+      <guid>http://lh3.github.io/2025/09/29/on-low-complexity-regions</guid>
+    </item>
+    
     <item>
       <title>Voice control ggplot2 with ggbot2</title>
       <link>https://blog.stephenturner.us/p/voice-control-ggplot2-with-ggbot2</link>
@@ -45,7 +73,7 @@
     <item>
       <title>scEssentials – assessing tissue-specific gene expression of essential genes from human and mouse</title>
       <link>https://www.rna-seqblog.com/scessentials-assessing-tissue-specific-gene-expression-of-essential-genes-from-human-and-mouse/</link>
-      <description>RNA sequencing with scEssentials reveals how essential genes remain stable across tissues and age groups, offering key insights into ageing, gene networks, and fundamental cellular processes...</description>
+      <description>A gene is called essential when an organism cannot survive if it is lost or damaged. Finding these genes is important because they reveal the core machinery that keeps cells and tissues alive. Traditi</description>
       <pubDate>Fri, 26 Sep 2025 11:27:05 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/scessentials-assessing-tissue-specific-gene-expression-of-essential-genes-from-human-and-mouse/</guid>
@@ -54,28 +82,10 @@
     <item>
       <title>Understanding and mitigating the impact of ambient mRNA contamination in single-cell RNA-sequencing analysis</title>
       <link>https://www.rna-seqblog.com/understanding-and-mitigating-the-impact-of-ambient-mrna-contamination-in-single-cell-rna-sequencing-analysis/</link>
-      <description>Correcting ambient RNA contamination improves the accuracy of single-cell RNA sequencing, leading to more reliable gene...</description>
+      <description>Single-cell RNA sequencing, or scRNA-seq, is a powerful method that allows scientists to study the activity of individual cells. By looking at which genes are turned on or off in single cells, researc</description>
       <pubDate>Fri, 26 Sep 2025 11:26:54 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/understanding-and-mitigating-the-impact-of-ambient-mrna-contamination-in-single-cell-rna-sequencing-analysis/</guid>
-    </item>
-    
-    <item>
-      <title>The Biodiversity Cell Atlas – mapping the tree of life at cellular resolution</title>
-      <link>https://www.rna-seqblog.com/the-biodiversity-cell-atlas-mapping-the-tree-of-life-at-cellular-resolution/</link>
-      <description>Cells are the building blocks of life, but scientists still know surprisingly little about how diverse cell types are across the many branches of the tree of life. Advances in single-cell technologies</description>
-      <pubDate>Thu, 25 Sep 2025 11:16:41 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/the-biodiversity-cell-atlas-mapping-the-tree-of-life-at-cellular-resolution/</guid>
-    </item>
-    
-    <item>
-      <title>RCANE – whole-genome pan-cancer somatic copy number aberration prediction using RNA-seq data</title>
-      <link>https://www.rna-seqblog.com/rcane-whole-genome-pan-cancer-somatic-copy-number-aberration-prediction-using-rna-seq-data/</link>
-      <description>Researchers are finding smarter ways to get more information from the data scientists already collect. In cancer research, transcriptome sequencing, or RNA sequencing, is commonly used to measure gene</description>
-      <pubDate>Thu, 25 Sep 2025 11:16:16 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/rcane-whole-genome-pan-cancer-somatic-copy-number-aberration-prediction-using-rna-seq-data/</guid>
     </item>
     
     <item>
@@ -459,15 +469,6 @@ It is similar to STAR in resource </description>
       <pubDate>2024-11-04T00:00:00+00:00</pubDate>
       <source>JEFworks Lab</source>
       <guid>http://jefworks-lab.github.io//blog/2024/11/04/using-ai-to-prevent-manels/</guid>
-    </item>
-    
-    <item>
-      <title>Why Rust is an increasingly beloved part of my programming toolbox</title>
-      <link>http://ivory.idyll.org/blog/2024-why-i-like-rust.html</link>
-      <description>&lt;p&gt;Rust is nice!&lt;/p&gt;</description>
-      <pubDate>2024-10-16T00:00:00+02:00</pubDate>
-      <source>Living in an Ivory Basement</source>
-      <guid>http://ivory.idyll.org/blog/2024-why-i-like-rust.html</guid>
     </item>
     
 </channel>
