@@ -4,12 +4,39 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Tue, 30 Sep 2025 06:35:19 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 01 Oct 2025 06:34:46 +0000</lastBuildDate>
   
+    <item>
+      <title>Fair Rules for Sharing Sequence Data</title>
+      <link>https://www.rna-seqblog.com/fair-rules-for-sharing-sequence-data/</link>
+      <description>RNA sequencing and other public datasets are reshaping microbiome research, and an international team has proposed a roadmap to ensure fair recognition and collaboration in data reuse...</description>
+      <pubDate>Tue, 30 Sep 2025 11:12:32 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/fair-rules-for-sharing-sequence-data/</guid>
+    </item>
+    
+    <item>
+      <title>Hybrid BAG-seq – DNA and RNA from the same single nucleus</title>
+      <link>https://www.rna-seqblog.com/hybrid-bag-seq-dna-and-rna-from-the-same-single-nucleus/</link>
+      <description>Hybrid BAG-seq combines DNA and RNA sequencing from single cells to reveal tumor diversity and stromal mutations, offering deeper insight into cancer biology and patient-specific disease patterns...</description>
+      <pubDate>Tue, 30 Sep 2025 11:12:19 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/hybrid-bag-seq-dna-and-rna-from-the-same-single-nucleus/</guid>
+    </item>
+    
+    <item>
+      <title>KAIST team links early life epigenetic memory to adult brain inflammation​</title>
+      <link>https://www.rna-seqblog.com/kaist-team-links-early-life-epigenetic-memory-to-adult-brain-inflammation/</link>
+      <description>KAIST researchers combined 3D epigenome profiling with RNA sequencing to reveal how NR3C1 acts as a developmental switch shaping astrocyte immune memory and influencing adult brain disorder susceptibi</description>
+      <pubDate>Tue, 30 Sep 2025 11:12:09 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/kaist-team-links-early-life-epigenetic-memory-to-adult-brain-inflammation/</guid>
+    </item>
+    
     <item>
       <title>Gene expression may help predict treatment response in thyroid cancer</title>
       <link>https://www.rna-seqblog.com/gene-expression-may-help-predict-treatment-response-in-thyroid-cancer/</link>
-      <description>Researchers used RNA sequencing to identify gene expression differences in papillary thyroid cancer, highlighting ANO1 as a potential biomarker for predicting radioactive iodine therapy response...</description>
+      <description>Histological image of papillary thyroid carcinoma. Photo: Christofer Juhlin A study led by Vincenzo Condello and Christofer Juhlin at the Karolinska Institutet, has been published in Endocrine Patholo</description>
       <pubDate>Mon, 29 Sep 2025 11:10:50 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/gene-expression-may-help-predict-treatment-response-in-thyroid-cancer/</guid>
@@ -18,7 +45,7 @@
     <item>
       <title>RNA sequencing reveals gene program for antigen archiving by lymphatic endothelial cells</title>
       <link>https://www.rna-seqblog.com/rna-sequencing-reveals-gene-program-for-antigen-archiving-by-lymphatic-endothelial-cells/</link>
-      <description>Researchers at CU Anschutz used RNA sequencing to reveal how lymphatic endothelial cells archive antigens, uncovering genetic programs that shape immune memory and inform future vaccine and therapy st</description>
+      <description>A study published today in Nature Communications describes how lymphatic endothelial cells assist in generating robust immune memory, offering new insights into how the immune system functions. Specif</description>
       <pubDate>Mon, 29 Sep 2025 11:10:40 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/rna-sequencing-reveals-gene-program-for-antigen-archiving-by-lymphatic-endothelial-cells/</guid>
@@ -27,8 +54,8 @@
     <item>
       <title>Our journey through low-complexity regions</title>
       <link>http://lh3.github.io/2025/09/29/on-low-complexity-regions</link>
-      <description>&lt;p&gt;Those who inspect SVs often have probably noticed many SVs fall in LCRs or tandem repeats and they are challenging to call.
-How many and how challenging? I could not find a good answer in the liter</description>
+      <description>&lt;p&gt;Those who inspect SVs often have probably noticed many SVs fall in low-complexity regions (LCRs) or tandem repeats and they are challenging to call.
+How many and how challenging? I could not find a</description>
       <pubDate>2025-09-29T00:00:00+00:00</pubDate>
       <source>Heng Li's blog</source>
       <guid>http://lh3.github.io/2025/09/29/on-low-complexity-regions</guid>
@@ -59,33 +86,6 @@ How many and how challenging? I could not find a good answer in the liter</descr
       <pubDate>Fri, 26 Sep 2025 12:03:11 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/weekly-recap-sep-26-2025</guid>
-    </item>
-    
-    <item>
-      <title>How clinical RNA sequencing at SickKids is accelerating Precision Child Health</title>
-      <link>https://www.rna-seqblog.com/how-clinical-rna-sequencing-at-sickkids-is-accelerating-precision-child-health/</link>
-      <description>RNA sequencing provides critical insights into cancer and rare diseases, helping refine diagnoses, confirm DNA findings, and guide targeted treatments to improve precision care for children...</description>
-      <pubDate>Fri, 26 Sep 2025 11:27:15 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/how-clinical-rna-sequencing-at-sickkids-is-accelerating-precision-child-health/</guid>
-    </item>
-    
-    <item>
-      <title>scEssentials – assessing tissue-specific gene expression of essential genes from human and mouse</title>
-      <link>https://www.rna-seqblog.com/scessentials-assessing-tissue-specific-gene-expression-of-essential-genes-from-human-and-mouse/</link>
-      <description>A gene is called essential when an organism cannot survive if it is lost or damaged. Finding these genes is important because they reveal the core machinery that keeps cells and tissues alive. Traditi</description>
-      <pubDate>Fri, 26 Sep 2025 11:27:05 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/scessentials-assessing-tissue-specific-gene-expression-of-essential-genes-from-human-and-mouse/</guid>
-    </item>
-    
-    <item>
-      <title>Understanding and mitigating the impact of ambient mRNA contamination in single-cell RNA-sequencing analysis</title>
-      <link>https://www.rna-seqblog.com/understanding-and-mitigating-the-impact-of-ambient-mrna-contamination-in-single-cell-rna-sequencing-analysis/</link>
-      <description>Single-cell RNA sequencing, or scRNA-seq, is a powerful method that allows scientists to study the activity of individual cells. By looking at which genes are turned on or off in single cells, researc</description>
-      <pubDate>Fri, 26 Sep 2025 11:26:54 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/understanding-and-mitigating-the-impact-of-ambient-mrna-contamination-in-single-cell-rna-sequencing-analysis/</guid>
     </item>
     
     <item>
