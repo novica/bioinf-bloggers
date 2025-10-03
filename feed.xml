@@ -4,8 +4,35 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Thu, 02 Oct 2025 06:33:28 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 03 Oct 2025 06:33:12 +0000</lastBuildDate>
   
+    <item>
+      <title>MOADE – a multimodal autoencoder for dissociating bulk multi-omics data</title>
+      <link>https://www.rna-seqblog.com/moade-a-multimodal-autoencoder-for-dissociating-bulk-multi-omics-data/</link>
+      <description>MOADE integrates RNA sequencing with other omics data to more accurately identify cell composition in complex tissues, improving analysis of cancer biology and personalized medicine...</description>
+      <pubDate>Thu, 02 Oct 2025 11:12:33 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/moade-a-multimodal-autoencoder-for-dissociating-bulk-multi-omics-data/</guid>
+    </item>
+    
+    <item>
+      <title>Unlocking gill health: biomarkers and management of disease in farmed Atlantic salmon</title>
+      <link>https://www.rna-seqblog.com/unlocking-gill-health-biomarkers-and-management-of-disease-in-farmed-atlantic-salmon/</link>
+      <description>Using RNA sequencing alongside microbiome and histopathology analyses, researchers identified robust biomarkers of gill health in Atlantic salmon, offering new tools for disease...</description>
+      <pubDate>Thu, 02 Oct 2025 11:12:24 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/unlocking-gill-health-biomarkers-and-management-of-disease-in-farmed-atlantic-salmon/</guid>
+    </item>
+    
+    <item>
+      <title>Construct objects with idiomatic R code</title>
+      <link>https://blog.stephenturner.us/p/construct-objects-with-idiomatic-r-code</link>
+      <description>Use the constructive package instead of dput() to construct R objects with idiomatic R code for human-readable reproducible examples</description>
+      <pubDate>Thu, 02 Oct 2025 08:24:28 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/construct-objects-with-idiomatic-r-code</guid>
+    </item>
+    
     <item>
       <title>15th Anniversary</title>
       <link>https://davetang.org/muse/2025/10/01/15th-anniversary/</link>
@@ -27,7 +54,7 @@
     <item>
       <title>Aging-TCA – a cross-species single-cell transcriptomic atlas for studying testicular aging</title>
       <link>https://www.rna-seqblog.com/aging-tca-a-cross-species-single-cell-transcriptomic-atlas-for-studying-testicular-aging/</link>
-      <description>RNA sequencing reveals how testicular cells age across species, supported by Aging-TCA, a cross-species platform for analyzing single-cell and spatial transcriptome data...</description>
+      <description>The testis is one of the most transcriptionally active tissues in the human body, meaning it expresses more genes than any other organ. Because of this, it provides a valuable way to study how aging i</description>
       <pubDate>Wed, 01 Oct 2025 13:07:01 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/aging-tca-a-cross-species-single-cell-transcriptomic-atlas-for-studying-testicular-aging/</guid>
@@ -36,28 +63,10 @@
     <item>
       <title>Fair Rules for Sharing Sequence Data</title>
       <link>https://www.rna-seqblog.com/fair-rules-for-sharing-sequence-data/</link>
-      <description>RNA sequencing and other public datasets are reshaping microbiome research, and an international team has proposed a roadmap to ensure fair recognition and collaboration in data reuse...</description>
+      <description>DNA and RNA datasets in public repositories are expanding at an unprecedented pace, creating a global atlas of microbial diversity. While open access continues to drive research forward, it also prese</description>
       <pubDate>Tue, 30 Sep 2025 11:12:32 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/fair-rules-for-sharing-sequence-data/</guid>
-    </item>
-    
-    <item>
-      <title>Hybrid BAG-seq – DNA and RNA from the same single nucleus</title>
-      <link>https://www.rna-seqblog.com/hybrid-bag-seq-dna-and-rna-from-the-same-single-nucleus/</link>
-      <description>Researchers from Cold Spring Harbor Laboratory have developed a powerful new technique called hybrid BAG-seq that can analyze DNA and RNA from the same single cell. This breakthrough allows scientists</description>
-      <pubDate>Tue, 30 Sep 2025 11:12:19 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/hybrid-bag-seq-dna-and-rna-from-the-same-single-nucleus/</guid>
-    </item>
-    
-    <item>
-      <title>KAIST team links early life epigenetic memory to adult brain inflammation​</title>
-      <link>https://www.rna-seqblog.com/kaist-team-links-early-life-epigenetic-memory-to-adult-brain-inflammation/</link>
-      <description>Why do some people remain healthy through childhood yet become more vulnerable to brain disorders such as dementia later in life? A KAIST (President Kwang Hyung Lee) -led team has uncovered a key part</description>
-      <pubDate>Tue, 30 Sep 2025 11:12:09 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/kaist-team-links-early-life-epigenetic-memory-to-adult-brain-inflammation/</guid>
     </item>
     
     <item>
@@ -133,15 +142,6 @@ biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
       <pubDate>Fri, 19 Sep 2025 09:45:45 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/weekly-recap-sep-19-2025</guid>
-    </item>
-    
-    <item>
-      <title>Mirror Life: Through the Looking Glass of Biology</title>
-      <link>https://blog.stephenturner.us/p/mirror-life</link>
-      <description>Why the discussion surrounding mirror life echoes past scientific "shocks," and how adaptive governance, not outright bans, can foster responsible innovation.</description>
-      <pubDate>Wed, 17 Sep 2025 21:47:44 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/mirror-life</guid>
     </item>
     
     <item>
