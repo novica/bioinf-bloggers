@@ -4,8 +4,53 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Mon, 06 Oct 2025 06:35:12 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 07 Oct 2025 06:34:18 +0000</lastBuildDate>
   
+    <item>
+      <title>Identification of the post-transcriptional regulation reveals complexity in peanut pod development by Direct RNA sequencing</title>
+      <link>https://www.rna-seqblog.com/identification-of-the-post-transcriptional-regulation-reveals-complexity-in-peanut-pod-development-by-direct-rna-sequencing/</link>
+      <description>RNA sequencing uncovers how alternative splicing, polyadenylation, and m6A modifications dynamically regulate peanut pod..</description>
+      <pubDate>Mon, 06 Oct 2025 11:32:14 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/identification-of-the-post-transcriptional-regulation-reveals-complexity-in-peanut-pod-development-by-direct-rna-sequencing/</guid>
+    </item>
+    
+    <item>
+      <title>PaRPI predicts RNA-Protein interactions from cross-protocol and cross-batch RNA-binding protein datasets</title>
+      <link>https://www.rna-seqblog.com/parpi-predicts-rna-protein-interactions-from-cross-protocol-and-cross-batch-rna-binding-protein-datasets/</link>
+      <description>RNA sequencing and AI-based modeling reveal how PaRPI predicts RNA-protein interactions across diverse datasets, offering new insights into gene regulation and disease mechanisms...</description>
+      <pubDate>Mon, 06 Oct 2025 11:32:04 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/parpi-predicts-rna-protein-interactions-from-cross-protocol-and-cross-batch-rna-binding-protein-datasets/</guid>
+    </item>
+    
+    <item>
+      <title>All Roads Lead to Philosophy</title>
+      <link>https://blog.stephenturner.us/p/wikipedia-philosophy</link>
+      <description>Successively clicking the first link in a Wikipedia article almost always leads to Philosophy</description>
+      <pubDate>Mon, 06 Oct 2025 11:22:42 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/wikipedia-philosophy</guid>
+    </item>
+    
+    <item>
+      <title>PRIM-seq – protein-RNA interaction mapping by sequencing</title>
+      <link>https://www.rna-seqblog.com/prim-seq-protein-rna-interaction-mapping-by-sequencing/</link>
+      <description>UC San Diego bioengineers used RNA sequencing to map over 350,000 RNA-protein interactions, uncovering hidden cellular pathways that could reveal new drug targets for cancer, Alzheimer’s, and other di</description>
+      <pubDate>Fri, 03 Oct 2025 11:17:54 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/prim-seq-protein-rna-interaction-mapping-by-sequencing/</guid>
+    </item>
+    
+    <item>
+      <title>BLEND: probabilistic cellular deconvolution with individualized single-cell reference integration</title>
+      <link>https://www.rna-seqblog.com/blend-probabilistic-cellular-deconvolution-with-individualized-single-cell-reference-integration/</link>
+      <description>Understanding the makeup of tissues is one of the toughest challenges in biology, especially when studying diseases like Alzheimer’s. Traditional methods use bulk RNA data to estimate what types of ce</description>
+      <pubDate>Fri, 03 Oct 2025 11:17:43 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/blend-probabilistic-cellular-deconvolution-with-individualized-single-cell-reference-integration/</guid>
+    </item>
+    
     <item>
       <title>Weekly recap (Oct 3, 2025)</title>
       <link>https://blog.stephenturner.us/p/weekly-recap-oct-3-2025</link>
@@ -13,6 +58,15 @@
       <pubDate>Fri, 03 Oct 2025 09:34:20 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/weekly-recap-oct-3-2025</guid>
+    </item>
+    
+    <item>
+      <title>MOADE – a multimodal autoencoder for dissociating bulk multi-omics data</title>
+      <link>https://www.rna-seqblog.com/moade-a-multimodal-autoencoder-for-dissociating-bulk-multi-omics-data/</link>
+      <description>Understanding complex tissues and tumors is a major challenge in biology, especially when different types of cells are mixed together in bulk samples. Traditional methods often rely only on RNA sequen</description>
+      <pubDate>Thu, 02 Oct 2025 11:12:33 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/moade-a-multimodal-autoencoder-for-dissociating-bulk-multi-omics-data/</guid>
     </item>
     
     <item>
@@ -68,15 +122,6 @@ How many and how challenging? I could not find a</description>
       <pubDate>Fri, 26 Sep 2025 12:03:11 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/weekly-recap-sep-26-2025</guid>
-    </item>
-    
-    <item>
-      <title>Charlottesville R Users</title>
-      <link>https://blog.stephenturner.us/p/charlottesville-r-users</link>
-      <description>Recap of the first R User Group event in Charlottesville VA</description>
-      <pubDate>Thu, 25 Sep 2025 09:56:12 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/charlottesville-r-users</guid>
     </item>
     
     <item>
@@ -424,51 +469,6 @@ It is similar to STAR in resource </description>
       <pubDate>2024-11-04T00:00:00+00:00</pubDate>
       <source>JEFworks Lab</source>
       <guid>http://jefworks-lab.github.io//blog/2024/11/04/using-ai-to-prevent-manels/</guid>
-    </item>
-    
-    <item>
-      <title>Why Rust is an increasingly beloved part of my programming toolbox</title>
-      <link>http://ivory.idyll.org/blog/2024-why-i-like-rust.html</link>
-      <description>&lt;p&gt;Rust is nice!&lt;/p&gt;</description>
-      <pubDate>2024-10-16T00:00:00+02:00</pubDate>
-      <source>Living in an Ivory Basement</source>
-      <guid>http://ivory.idyll.org/blog/2024-why-i-like-rust.html</guid>
-    </item>
-    
-    <item>
-      <title>Why is bwa-aln used for ancient DNA reads?</title>
-      <link>http://lh3.github.io/2024/09/28/why-is-bwa-aln-still-used</link>
-      <description>&lt;p&gt;&lt;a href="https://github.com/lh3/bwa"&gt;BWA&lt;/a&gt; implements three algorithms: &lt;a href="https://pubmed.ncbi.nlm.nih.gov/19451168/"&gt;bwa-aln&lt;/a&gt;, &lt;a href="https://pubmed.ncbi.nlm.nih.gov/20080505/"&gt;bwa-sw</description>
-      <pubDate>2024-09-28T00:00:00+00:00</pubDate>
-      <source>Heng Li's blog</source>
-      <guid>http://lh3.github.io/2024/09/28/why-is-bwa-aln-still-used</guid>
-    </item>
-    
-    <item>
-      <title>The many ways to calculate Moran’s I for identifying spatially variable genes in spatial transcriptomics data</title>
-      <link>http://jefworks-lab.github.io//blog/2024/08/29/the-many-ways-to-detect-svgs-using-moransI/</link>
-      <description>In this blog post, I will compare 4 implementations of Moran’s I in R (MERINGUE, Rfast2, ape, and spdep) to identify spatially variable genes (SVGs) in spatial transcriptomics data.</description>
-      <pubDate>2024-08-29T00:00:00+00:00</pubDate>
-      <source>JEFworks Lab</source>
-      <guid>http://jefworks-lab.github.io//blog/2024/08/29/the-many-ways-to-detect-svgs-using-moransI/</guid>
-    </item>
-    
-    <item>
-      <title>Recent advances in the sourmash ecosystem (August 2024)</title>
-      <link>http://ivory.idyll.org/blog/2024-sourmash-advances.html</link>
-      <description>&lt;p&gt;sourmash is faster and better than before!&lt;/p&gt;</description>
-      <pubDate>2024-08-16T00:00:00+02:00</pubDate>
-      <source>Living in an Ivory Basement</source>
-      <guid>http://ivory.idyll.org/blog/2024-sourmash-advances.html</guid>
-    </item>
-    
-    <item>
-      <title>Internship in the PIM group</title>
-      <link>https://www.bacpop.org/blog/internship_pim_group/</link>
-      <description>Antoine&amp;rsquo;s experience at EBI Lale&amp;rsquo;s experience at EBI Introduction The intersection of biology and computer science has given rise to the rapidly evolving field of bioinformatics. For aspir</description>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <source>Bacterial population genomics blog</source>
-      <guid>https://www.bacpop.org/blog/internship_pim_group/</guid>
     </item>
     
 </channel>
