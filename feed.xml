@@ -4,12 +4,39 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Tue, 07 Oct 2025 06:34:18 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 08 Oct 2025 06:35:03 +0000</lastBuildDate>
   
+    <item>
+      <title>Cisformer: a scalable cross-modality generation framework for decoding transcriptional regulation at single-cell resolution</title>
+      <link>https://www.rna-seqblog.com/cisformer-a-scalable-cross-modality-generation-framework-for-decoding-transcriptional-regulation-at-single-cell-resolution/</link>
+      <description>RNA sequencing and chromatin accessibility data integration using the Cisformer model from Zhejiang University reveals how DNA structure controls gene activity in health and...</description>
+      <pubDate>Tue, 07 Oct 2025 11:26:33 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/cisformer-a-scalable-cross-modality-generation-framework-for-decoding-transcriptional-regulation-at-single-cell-resolution/</guid>
+    </item>
+    
+    <item>
+      <title>Comparison of imaging based single-cell resolution spatial transcriptomics profiling platforms using formalin-fixed paraffin-embedded tumor samples</title>
+      <link>https://www.rna-seqblog.com/comparison-of-imaging-based-single-cell-resolution-spatial-transcriptomics-profiling-platforms-using-formalin-fixed-paraffin-embedded-tumor-samples/</link>
+      <description>Researchers compared spatial transcriptomics platforms with RNA sequencing to evaluate data quality, helping scientists select the best tools...</description>
+      <pubDate>Tue, 07 Oct 2025 11:26:08 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/comparison-of-imaging-based-single-cell-resolution-spatial-transcriptomics-profiling-platforms-using-formalin-fixed-paraffin-embedded-tumor-samples/</guid>
+    </item>
+    
+    <item>
+      <title>Uppsala set to power a new excellence cluster for RNA–protein interaction research</title>
+      <link>https://www.rna-seqblog.com/uppsala-set-to-power-a-new-excellence-cluster-for-rna-protein-interaction-research/</link>
+      <description>Researchers at Uppsala University are combining RNA sequencing, mass spectrometry, and AI to establish a national hub for large-scale mapping of RNA-protein interactions to advance drug discovery...</description>
+      <pubDate>Tue, 07 Oct 2025 11:26:00 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/uppsala-set-to-power-a-new-excellence-cluster-for-rna-protein-interaction-research/</guid>
+    </item>
+    
     <item>
       <title>Identification of the post-transcriptional regulation reveals complexity in peanut pod development by Direct RNA sequencing</title>
       <link>https://www.rna-seqblog.com/identification-of-the-post-transcriptional-regulation-reveals-complexity-in-peanut-pod-development-by-direct-rna-sequencing/</link>
-      <description>RNA sequencing uncovers how alternative splicing, polyadenylation, and m6A modifications dynamically regulate peanut pod..</description>
+      <description>Researchers from the Peking University Institute of Advanced Agricultural Sciences authors explored post-transcriptional regulation, including polyadenylation, alternative splicing, and RNA adenosine </description>
       <pubDate>Mon, 06 Oct 2025 11:32:14 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/identification-of-the-post-transcriptional-regulation-reveals-complexity-in-peanut-pod-development-by-direct-rna-sequencing/</guid>
@@ -18,7 +45,7 @@
     <item>
       <title>PaRPI predicts RNA-Protein interactions from cross-protocol and cross-batch RNA-binding protein datasets</title>
       <link>https://www.rna-seqblog.com/parpi-predicts-rna-protein-interactions-from-cross-protocol-and-cross-batch-rna-binding-protein-datasets/</link>
-      <description>RNA sequencing and AI-based modeling reveal how PaRPI predicts RNA-protein interactions across diverse datasets, offering new insights into gene regulation and disease mechanisms...</description>
+      <description>Understanding how proteins interact with RNA is crucial for uncovering how genes are regulated and how diseases develop. RNA-binding proteins (RBPs) control many essential biological processes, includ</description>
       <pubDate>Mon, 06 Oct 2025 11:32:04 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/parpi-predicts-rna-protein-interactions-from-cross-protocol-and-cross-batch-rna-binding-protein-datasets/</guid>
@@ -34,39 +61,12 @@
     </item>
     
     <item>
-      <title>PRIM-seq – protein-RNA interaction mapping by sequencing</title>
-      <link>https://www.rna-seqblog.com/prim-seq-protein-rna-interaction-mapping-by-sequencing/</link>
-      <description>UC San Diego bioengineers used RNA sequencing to map over 350,000 RNA-protein interactions, uncovering hidden cellular pathways that could reveal new drug targets for cancer, Alzheimer’s, and other di</description>
-      <pubDate>Fri, 03 Oct 2025 11:17:54 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/prim-seq-protein-rna-interaction-mapping-by-sequencing/</guid>
-    </item>
-    
-    <item>
-      <title>BLEND: probabilistic cellular deconvolution with individualized single-cell reference integration</title>
-      <link>https://www.rna-seqblog.com/blend-probabilistic-cellular-deconvolution-with-individualized-single-cell-reference-integration/</link>
-      <description>Understanding the makeup of tissues is one of the toughest challenges in biology, especially when studying diseases like Alzheimer’s. Traditional methods use bulk RNA data to estimate what types of ce</description>
-      <pubDate>Fri, 03 Oct 2025 11:17:43 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/blend-probabilistic-cellular-deconvolution-with-individualized-single-cell-reference-integration/</guid>
-    </item>
-    
-    <item>
       <title>Weekly recap (Oct 3, 2025)</title>
       <link>https://blog.stephenturner.us/p/weekly-recap-oct-3-2025</link>
       <description>R updates (from rOpenSci, Blaze, R Works, RWeekly, Posit), Slidecrafting, AI highs &amp; lows, structural variation, biotech, RAG, tinytable, "vibe work," and a few compbio and related papers</description>
       <pubDate>Fri, 03 Oct 2025 09:34:20 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/weekly-recap-oct-3-2025</guid>
-    </item>
-    
-    <item>
-      <title>MOADE – a multimodal autoencoder for dissociating bulk multi-omics data</title>
-      <link>https://www.rna-seqblog.com/moade-a-multimodal-autoencoder-for-dissociating-bulk-multi-omics-data/</link>
-      <description>Understanding complex tissues and tumors is a major challenge in biology, especially when different types of cells are mixed together in bulk samples. Traditional methods often rely only on RNA sequen</description>
-      <pubDate>Thu, 02 Oct 2025 11:12:33 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/moade-a-multimodal-autoencoder-for-dissociating-bulk-multi-omics-data/</guid>
     </item>
     
     <item>
