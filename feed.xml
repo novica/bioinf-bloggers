@@ -4,12 +4,39 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Wed, 08 Oct 2025 06:35:03 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 09 Oct 2025 06:35:15 +0000</lastBuildDate>
   
+    <item>
+      <title>HALO – hierarchical causal modeling for single cell multi-omics data</title>
+      <link>https://www.rna-seqblog.com/halo-hierarchical-causal-modeling-for-single-cell-multi-omics-data/</link>
+      <description>HALO uses RNA sequencing and chromatin data to reveal how gene regulation changes over time, offering new insights into cell differentiation and disease mechanisms.</description>
+      <pubDate>Wed, 08 Oct 2025 11:30:25 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/halo-hierarchical-causal-modeling-for-single-cell-multi-omics-data/</guid>
+    </item>
+    
+    <item>
+      <title>The ‘DART’ side of transcription: New role for NSUN2 in the RNA-dependent DNA damage response</title>
+      <link>https://www.rna-seqblog.com/the-dart-side-of-transcription-new-role-for-nsun2-in-the-rna-dependent-dna-damage-response/</link>
+      <description>Using RNA sequencing and molecular biology tools, researchers revealed how NSUN2 and DICER work together to remove RNA-DNA hybrids and promote efficient DNA repair...</description>
+      <pubDate>Wed, 08 Oct 2025 11:30:14 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/the-dart-side-of-transcription-new-role-for-nsun2-in-the-rna-dependent-dna-damage-response/</guid>
+    </item>
+    
+    <item>
+      <title>DeepScence – single-cell and spatial detection of senescent cells</title>
+      <link>https://www.rna-seqblog.com/deepscence-single-cell-and-spatial-detection-of-senescent-cells/</link>
+      <description>DeepScence uses RNA sequencing and deep learning to accurately detect senescent cells in single-cell and spatial transcriptomics, revealing their molecular and spatial patterns in tissues...</description>
+      <pubDate>Wed, 08 Oct 2025 10:53:46 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/deepscence-single-cell-and-spatial-detection-of-senescent-cells/</guid>
+    </item>
+    
     <item>
       <title>Cisformer: a scalable cross-modality generation framework for decoding transcriptional regulation at single-cell resolution</title>
       <link>https://www.rna-seqblog.com/cisformer-a-scalable-cross-modality-generation-framework-for-decoding-transcriptional-regulation-at-single-cell-resolution/</link>
-      <description>RNA sequencing and chromatin accessibility data integration using the Cisformer model from Zhejiang University reveals how DNA structure controls gene activity in health and...</description>
+      <description>Understanding how genes are turned on or off inside individual cells is a key challenge in modern biology. Researchers from Tongji University have developed a powerful new computational model called C</description>
       <pubDate>Tue, 07 Oct 2025 11:26:33 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/cisformer-a-scalable-cross-modality-generation-framework-for-decoding-transcriptional-regulation-at-single-cell-resolution/</guid>
@@ -18,37 +45,10 @@
     <item>
       <title>Comparison of imaging based single-cell resolution spatial transcriptomics profiling platforms using formalin-fixed paraffin-embedded tumor samples</title>
       <link>https://www.rna-seqblog.com/comparison-of-imaging-based-single-cell-resolution-spatial-transcriptomics-profiling-platforms-using-formalin-fixed-paraffin-embedded-tumor-samples/</link>
-      <description>Researchers compared spatial transcriptomics platforms with RNA sequencing to evaluate data quality, helping scientists select the best tools...</description>
+      <description>A research team led by researchers at The University of Texas MD Anderson Cancer Center has taken a closer look at some of the most advanced tools used in spatial transcriptomics, a field that allows </description>
       <pubDate>Tue, 07 Oct 2025 11:26:08 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/comparison-of-imaging-based-single-cell-resolution-spatial-transcriptomics-profiling-platforms-using-formalin-fixed-paraffin-embedded-tumor-samples/</guid>
-    </item>
-    
-    <item>
-      <title>Uppsala set to power a new excellence cluster for RNA–protein interaction research</title>
-      <link>https://www.rna-seqblog.com/uppsala-set-to-power-a-new-excellence-cluster-for-rna-protein-interaction-research/</link>
-      <description>Researchers at Uppsala University are combining RNA sequencing, mass spectrometry, and AI to establish a national hub for large-scale mapping of RNA-protein interactions to advance drug discovery...</description>
-      <pubDate>Tue, 07 Oct 2025 11:26:00 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/uppsala-set-to-power-a-new-excellence-cluster-for-rna-protein-interaction-research/</guid>
-    </item>
-    
-    <item>
-      <title>Identification of the post-transcriptional regulation reveals complexity in peanut pod development by Direct RNA sequencing</title>
-      <link>https://www.rna-seqblog.com/identification-of-the-post-transcriptional-regulation-reveals-complexity-in-peanut-pod-development-by-direct-rna-sequencing/</link>
-      <description>Researchers from the Peking University Institute of Advanced Agricultural Sciences authors explored post-transcriptional regulation, including polyadenylation, alternative splicing, and RNA adenosine </description>
-      <pubDate>Mon, 06 Oct 2025 11:32:14 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/identification-of-the-post-transcriptional-regulation-reveals-complexity-in-peanut-pod-development-by-direct-rna-sequencing/</guid>
-    </item>
-    
-    <item>
-      <title>PaRPI predicts RNA-Protein interactions from cross-protocol and cross-batch RNA-binding protein datasets</title>
-      <link>https://www.rna-seqblog.com/parpi-predicts-rna-protein-interactions-from-cross-protocol-and-cross-batch-rna-binding-protein-datasets/</link>
-      <description>Understanding how proteins interact with RNA is crucial for uncovering how genes are regulated and how diseases develop. RNA-binding proteins (RBPs) control many essential biological processes, includ</description>
-      <pubDate>Mon, 06 Oct 2025 11:32:04 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/parpi-predicts-rna-protein-interactions-from-cross-protocol-and-cross-batch-rna-binding-protein-datasets/</guid>
     </item>
     
     <item>
