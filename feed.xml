@@ -4,8 +4,44 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Fri, 10 Oct 2025 06:34:36 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 11 Oct 2025 06:30:36 +0000</lastBuildDate>
   
+    <item>
+      <title>BestopCloud: an integrated one-stop solution for single-cell RNA sequencing data analysis</title>
+      <link>https://www.rna-seqblog.com/bestopcloud-an-integrated-one-stop-solution-for-single-cell-rna-sequencing-data-analysis/</link>
+      <description>BestopCloud simplifies RNA sequencing data analysis with an intuitive cloud platform, enabling researchers to process, analyze, and visualize single-cell results without extensive programming expertis</description>
+      <pubDate>Fri, 10 Oct 2025 11:56:36 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/bestopcloud-an-integrated-one-stop-solution-for-single-cell-rna-sequencing-data-analysis/</guid>
+    </item>
+    
+    <item>
+      <title>PCsRNAdb: a comprehensive resource of small noncoding RNAs across cancers</title>
+      <link>https://www.rna-seqblog.com/pcsrnadb-a-comprehensive-resource-of-small-noncoding-rnas-across-cancers/</link>
+      <description>A new database uses RNA sequencing data to map small noncoding RNAs across 19 cancer types, providing researchers with powerful tools for studying gene regulation and cancer biology...</description>
+      <pubDate>Fri, 10 Oct 2025 11:56:20 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/pcsrnadb-a-comprehensive-resource-of-small-noncoding-rnas-across-cancers/</guid>
+    </item>
+    
+    <item>
+      <title>So3D – a comprehensive three-dimensional spatial omics resource for decoding tissue architecture in physiology and disease</title>
+      <link>https://www.rna-seqblog.com/so3d-a-comprehensive-three-dimensional-spatial-omics-resource-for-decoding-tissue-architecture-in-physiology-and-disease/</link>
+      <description>So3D integrates spatial omics and RNA sequencing data to reveal how cells interact within three-dimensional tissues, offering new insights into tissue organization, gene activity, and disease mechanis</description>
+      <pubDate>Fri, 10 Oct 2025 11:56:06 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/so3d-a-comprehensive-three-dimensional-spatial-omics-resource-for-decoding-tissue-architecture-in-physiology-and-disease/</guid>
+    </item>
+    
+    <item>
+      <title>Weekly recap (Oct 10, 2025)</title>
+      <link>https://blog.stephenturner.us/p/weekly-recap-oct-10-2025</link>
+      <description>AI x biosecurity, R updates (Blaze, RWeekly, R Consortium), genome engineering &amp; conservation, AI &amp; labor, RAG, Lost Science, AI in medicine, ggplot2, Quarto, DNA forensics in the genomic era</description>
+      <pubDate>Fri, 10 Oct 2025 09:12:29 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/weekly-recap-oct-10-2025</guid>
+    </item>
+    
     <item>
       <title>Ship of ThesION</title>
       <link>https://omicsomics.blogspot.com/2025/10/ship-of-thesion.html</link>
@@ -18,7 +54,7 @@
     <item>
       <title>MetaGraph – efficient and accurate search in petabase-scale sequence repositories</title>
       <link>https://www.rna-seqblog.com/metagraph-efficient-and-accurate-search-in-petabase-scale-sequence-repositories/</link>
-      <description>RNA sequencing data becomes fully searchable through MetaGraph, a framework that compresses and indexes global genetic datasets for faster, low-cost biological discovery...</description>
+      <description>The amount of biological sequencing data available in public databases is growing at an astonishing rate. Researchers now have access to millions of DNA and RNA sequences collected from across all for</description>
       <pubDate>Thu, 09 Oct 2025 11:18:47 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/metagraph-efficient-and-accurate-search-in-petabase-scale-sequence-repositories/</guid>
@@ -27,37 +63,10 @@
     <item>
       <title>Unlocking cellular complexity with Cell2Text</title>
       <link>https://www.rna-seqblog.com/unlocking-cellular-complexity-with-cell2text/</link>
-      <description>RNA sequencing meets AI in Cell2Text, a new framework that generates readable cell descriptions from expression data for clearer biological insights...</description>
+      <description>Single-cell RNA sequencing has changed how scientists explore the inner workings of cells by measuring gene activity in individual cells. This technology helps identify different cell types and states</description>
       <pubDate>Thu, 09 Oct 2025 11:18:29 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/unlocking-cellular-complexity-with-cell2text/</guid>
-    </item>
-    
-    <item>
-      <title>Takara Bio USA, Inc. announces a series of updates to its spatial biology product portfolio, extending its innovation with a new class of spatial technology</title>
-      <link>https://www.rna-seqblog.com/takara-bio-usa-inc-announces-a-series-of-updates-to-its-spatial-biology-product-portfolio-extending-its-innovation-with-a-new-class-of-spatial-technology/</link>
-      <description>Takara Bio USA expands its Trekker spatial biology kits to integrate RNA sequencing...</description>
-      <pubDate>Thu, 09 Oct 2025 11:18:17 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/takara-bio-usa-inc-announces-a-series-of-updates-to-its-spatial-biology-product-portfolio-extending-its-innovation-with-a-new-class-of-spatial-technology/</guid>
-    </item>
-    
-    <item>
-      <title>HALO – hierarchical causal modeling for single cell multi-omics data</title>
-      <link>https://www.rna-seqblog.com/halo-hierarchical-causal-modeling-for-single-cell-multi-omics-data/</link>
-      <description>Researchers at the University of Pittsburgh have developed an innovative framework called HALO that reveals how changes in gene activity and chromatin structure interact over time. While open chromati</description>
-      <pubDate>Wed, 08 Oct 2025 11:30:25 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/halo-hierarchical-causal-modeling-for-single-cell-multi-omics-data/</guid>
-    </item>
-    
-    <item>
-      <title>The ‘DART’ side of transcription: New role for NSUN2 in the RNA-dependent DNA damage response</title>
-      <link>https://www.rna-seqblog.com/the-dart-side-of-transcription-new-role-for-nsun2-in-the-rna-dependent-dna-damage-response/</link>
-      <description>A recent study from the Gullerova lab at the Sir William Dunn School of Pathology, led by Dr Alagia reveals an important mechanism by which cells repair DNA damage. Published in Nature Communications,</description>
-      <pubDate>Wed, 08 Oct 2025 11:30:14 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/the-dart-side-of-transcription-new-role-for-nsun2-in-the-rna-dependent-dna-damage-response/</guid>
     </item>
     
     <item>
@@ -122,15 +131,6 @@ How many and how challenging? I could not find a</description>
       <pubDate>2025-09-27T00:00:00+00:00</pubDate>
       <source>JEFworks Lab</source>
       <guid>http://jefworks-lab.github.io//blog/2025/09/27/analyzing-ice-detention-data-2/</guid>
-    </item>
-    
-    <item>
-      <title>Weekly recap (Sep 26, 2025)</title>
-      <link>https://blog.stephenturner.us/p/weekly-recap-sep-26-2025</link>
-      <description>Apple gets into protein folding, parsing R/Markdown and Quarto, vibe-coding an R package, AI in biosecurity and writing, nothing about AI is inevitable, conservation applications of de-extinction tech</description>
-      <pubDate>Fri, 26 Sep 2025 12:03:11 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/weekly-recap-sep-26-2025</guid>
     </item>
     
     <item>
