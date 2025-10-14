@@ -4,12 +4,57 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Mon, 13 Oct 2025 06:36:23 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 14 Oct 2025 06:34:46 +0000</lastBuildDate>
   
+    <item>
+      <title>The utility of ultra-deep RNA sequencing in Mendelian disorder diagnostics</title>
+      <link>https://www.rna-seqblog.com/the-utility-of-ultra-deep-rna-sequencing-in-mendelian-disorder-diagnostics/</link>
+      <description>Ultra-deep RNA sequencing reveals rare splicing events and low-abundance transcripts that improve the diagnosis of Mendelian disorders, expanding variant interpretation and clinical discovery potentia</description>
+      <pubDate>Mon, 13 Oct 2025 11:31:02 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/the-utility-of-ultra-deep-rna-sequencing-in-mendelian-disorder-diagnostics/</guid>
+    </item>
+    
+    <item>
+      <title>New tool offers single-cell study of specific genetic variants</title>
+      <link>https://www.rna-seqblog.com/new-tool-offers-single-cell-study-of-specific-genetic-variants/</link>
+      <description>Researchers developed SDR-seq, a single-cell DNA-RNA sequencing method that uses RNA sequencing to link non-coding genetic variants with gene expression and disease mechanisms....</description>
+      <pubDate>Mon, 13 Oct 2025 11:30:47 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/new-tool-offers-single-cell-study-of-specific-genetic-variants/</guid>
+    </item>
+    
+    <item>
+      <title>Alithea Genomics introduces extraction-free, RNA-seq for 3D drug screening and toxicology</title>
+      <link>https://www.rna-seqblog.com/alithea-genomics-introduces-extraction-free-rna-seq-for-3d-drug-screening-and-toxicology/</link>
+      <description>Alithea Genomics introduces MERCURIUS™ Spheroid DRUG-seq, an extraction-free RNA sequencing solution enabling scalable, high-throughput transcriptomic profiling in...</description>
+      <pubDate>Mon, 13 Oct 2025 11:30:34 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/alithea-genomics-introduces-extraction-free-rna-seq-for-3d-drug-screening-and-toxicology/</guid>
+    </item>
+    
+    <item>
+      <title>Positron: data explorer exports dplyr code</title>
+      <link>https://blog.stephenturner.us/p/positron-data-explorer-exports-dplyr-code</link>
+      <description>Positron allows you to export dplyr/SQL code for actions you take in the data explorer (like sorting and filtering)</description>
+      <pubDate>Mon, 13 Oct 2025 09:53:37 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/positron-data-explorer-exports-dplyr-code</guid>
+    </item>
+    
+    <item>
+      <title>RNA velocity in situ infers gene expression dynamics using spatial transcriptomics data</title>
+      <link>http://jefworks-lab.github.io//blog/2025/10/13/rna-velocity-in-situ-analysis/</link>
+      <description>Introduction</description>
+      <pubDate>2025-10-13T00:00:00+00:00</pubDate>
+      <source>JEFworks Lab</source>
+      <guid>http://jefworks-lab.github.io//blog/2025/10/13/rna-velocity-in-situ-analysis/</guid>
+    </item>
+    
     <item>
       <title>BestopCloud: an integrated one-stop solution for single-cell RNA sequencing data analysis</title>
       <link>https://www.rna-seqblog.com/bestopcloud-an-integrated-one-stop-solution-for-single-cell-rna-sequencing-data-analysis/</link>
-      <description>BestopCloud simplifies RNA sequencing data analysis with an intuitive cloud platform, enabling researchers to process, analyze, and visualize single-cell results without extensive programming expertis</description>
+      <description>Researchers from Beijing BestopCell Co have introduced BestopCloud, an advanced cloud-based platform that makes the analysis of single-cell RNA sequencing (scRNA-seq) data more accessible and efficien</description>
       <pubDate>Fri, 10 Oct 2025 11:56:36 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/bestopcloud-an-integrated-one-stop-solution-for-single-cell-rna-sequencing-data-analysis/</guid>
@@ -18,19 +63,10 @@
     <item>
       <title>PCsRNAdb: a comprehensive resource of small noncoding RNAs across cancers</title>
       <link>https://www.rna-seqblog.com/pcsrnadb-a-comprehensive-resource-of-small-noncoding-rnas-across-cancers/</link>
-      <description>A new database uses RNA sequencing data to map small noncoding RNAs across 19 cancer types, providing researchers with powerful tools for studying gene regulation and cancer biology...</description>
+      <description>Researchers from Sun Yat-sen University have developed an extensive new database that could deepen our understanding of small noncoding RNAs, or sncRNAs, in cancer. These tiny RNA molecules, which inc</description>
       <pubDate>Fri, 10 Oct 2025 11:56:20 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/pcsrnadb-a-comprehensive-resource-of-small-noncoding-rnas-across-cancers/</guid>
-    </item>
-    
-    <item>
-      <title>So3D – a comprehensive three-dimensional spatial omics resource for decoding tissue architecture in physiology and disease</title>
-      <link>https://www.rna-seqblog.com/so3d-a-comprehensive-three-dimensional-spatial-omics-resource-for-decoding-tissue-architecture-in-physiology-and-disease/</link>
-      <description>So3D integrates spatial omics and RNA sequencing data to reveal how cells interact within three-dimensional tissues, offering new insights into tissue organization, gene activity, and disease mechanis</description>
-      <pubDate>Fri, 10 Oct 2025 11:56:06 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/so3d-a-comprehensive-three-dimensional-spatial-omics-resource-for-decoding-tissue-architecture-in-physiology-and-disease/</guid>
     </item>
     
     <item>
@@ -49,24 +85,6 @@
       <pubDate>2025-10-09T11:47:00.000-04:00</pubDate>
       <source>Omics! Omics!</source>
       <guid>https://omicsomics.blogspot.com/2025/10/ship-of-thesion.html</guid>
-    </item>
-    
-    <item>
-      <title>MetaGraph – efficient and accurate search in petabase-scale sequence repositories</title>
-      <link>https://www.rna-seqblog.com/metagraph-efficient-and-accurate-search-in-petabase-scale-sequence-repositories/</link>
-      <description>The amount of biological sequencing data available in public databases is growing at an astonishing rate. Researchers now have access to millions of DNA and RNA sequences collected from across all for</description>
-      <pubDate>Thu, 09 Oct 2025 11:18:47 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/metagraph-efficient-and-accurate-search-in-petabase-scale-sequence-repositories/</guid>
-    </item>
-    
-    <item>
-      <title>Unlocking cellular complexity with Cell2Text</title>
-      <link>https://www.rna-seqblog.com/unlocking-cellular-complexity-with-cell2text/</link>
-      <description>Single-cell RNA sequencing has changed how scientists explore the inner workings of cells by measuring gene activity in individual cells. This technology helps identify different cell types and states</description>
-      <pubDate>Thu, 09 Oct 2025 11:18:29 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/unlocking-cellular-complexity-with-cell2text/</guid>
     </item>
     
     <item>
@@ -113,15 +131,6 @@ How many and how challenging? I could not find a</description>
       <pubDate>2025-09-29T00:00:00+00:00</pubDate>
       <source>Heng Li's blog</source>
       <guid>http://lh3.github.io/2025/09/29/on-low-complexity-regions</guid>
-    </item>
-    
-    <item>
-      <title>Voice control ggplot2 with ggbot2</title>
-      <link>https://blog.stephenturner.us/p/voice-control-ggplot2-with-ggbot2</link>
-      <description>Today I learned you can create and customize ggplot2 visualizations using your voice alone.</description>
-      <pubDate>Sat, 27 Sep 2025 14:22:16 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/voice-control-ggplot2-with-ggbot2</guid>
     </item>
     
     <item>
@@ -460,15 +469,6 @@ It is similar to STAR in resource </description>
       <pubDate>2024-12-27T00:00:00+01:00</pubDate>
       <source>Living in an Ivory Basement</source>
       <guid>http://ivory.idyll.org/blog/2024-announcing-chill-filter.html</guid>
-    </item>
-    
-    <item>
-      <title>Using AI to find heterogeneous scientific speakers</title>
-      <link>http://jefworks-lab.github.io//blog/2024/11/04/using-ai-to-prevent-manels/</link>
-      <description>(Alt title: how I am using AI to prevent manels and how you can too)</description>
-      <pubDate>2024-11-04T00:00:00+00:00</pubDate>
-      <source>JEFworks Lab</source>
-      <guid>http://jefworks-lab.github.io//blog/2024/11/04/using-ai-to-prevent-manels/</guid>
     </item>
     
 </channel>
