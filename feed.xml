@@ -4,8 +4,35 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Tue, 14 Oct 2025 06:34:46 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 15 Oct 2025 06:34:55 +0000</lastBuildDate>
   
+    <item>
+      <title>PacBio: $300 Genome Via Chemistry Update</title>
+      <link>https://omicsomics.blogspot.com/2025/10/pacbio-300-genome-via-chemistry-update.html</link>
+      <description>ASHG is here in Boston, just down the street from Ginkgo's HQ.  I'm in a new role in Ginkgo Automation, trying to convince the NGS world that our automation platform is the bee's knees.  So excellent </description>
+      <pubDate>2025-10-14T09:45:00.004-04:00</pubDate>
+      <source>Omics! Omics!</source>
+      <guid>https://omicsomics.blogspot.com/2025/10/pacbio-300-genome-via-chemistry-update.html</guid>
+    </item>
+    
+    <item>
+      <title>Understanding Gene-LLMs: how large language models are learning the language of life</title>
+      <link>https://www.rna-seqblog.com/understanding-gene-llms-how-large-language-models-are-learning-the-language-of-life/</link>
+      <description>RNA sequencing and AI-powered Gene-LLMs are revealing the hidden grammar of the genome, advancing discoveries in gene regulation, diagnostics, and personalized medicine...</description>
+      <pubDate>Tue, 14 Oct 2025 11:26:57 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/understanding-gene-llms-how-large-language-models-are-learning-the-language-of-life/</guid>
+    </item>
+    
+    <item>
+      <title>SMART-RNA-Metavirome – a practical RNA metavirome platform compatible with high-throughput sequencing of both short and long reads</title>
+      <link>https://www.rna-seqblog.com/smart-rna-metavirome-a-practical-rna-metavirome-platform-compatible-with-high-throughput-sequencing-of-both-short-and-long-reads/</link>
+      <description>A new RNA sequencing platform called SMART-RNA-Metavirome enhances detection of low-abundance viruses in mosquitoes and clinical...</description>
+      <pubDate>Tue, 14 Oct 2025 11:26:48 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/smart-rna-metavirome-a-practical-rna-metavirome-platform-compatible-with-high-throughput-sequencing-of-both-short-and-long-reads/</guid>
+    </item>
+    
     <item>
       <title>The utility of ultra-deep RNA sequencing in Mendelian disorder diagnostics</title>
       <link>https://www.rna-seqblog.com/the-utility-of-ultra-deep-rna-sequencing-in-mendelian-disorder-diagnostics/</link>
@@ -18,7 +45,7 @@
     <item>
       <title>New tool offers single-cell study of specific genetic variants</title>
       <link>https://www.rna-seqblog.com/new-tool-offers-single-cell-study-of-specific-genetic-variants/</link>
-      <description>Researchers developed SDR-seq, a single-cell DNA-RNA sequencing method that uses RNA sequencing to link non-coding genetic variants with gene expression and disease mechanisms....</description>
+      <description>With a closer look at genomic variation, scientists now have a faster, more precise way to uncover new links to disease EMBL scientists created SDR-seq, a tool for single-cell DNA-RNA-sequencing that </description>
       <pubDate>Mon, 13 Oct 2025 11:30:47 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/new-tool-offers-single-cell-study-of-specific-genetic-variants/</guid>
@@ -27,7 +54,7 @@
     <item>
       <title>Alithea Genomics introduces extraction-free, RNA-seq for 3D drug screening and toxicology</title>
       <link>https://www.rna-seqblog.com/alithea-genomics-introduces-extraction-free-rna-seq-for-3d-drug-screening-and-toxicology/</link>
-      <description>Alithea Genomics introduces MERCURIUS™ Spheroid DRUG-seq, an extraction-free RNA sequencing solution enabling scalable, high-throughput transcriptomic profiling in...</description>
+      <description>The MERCURIUS™ Spheroid DRUG-seq is a novel, extraction-free RNA sequencing library preparation kit built for 3D spheroid models Alithea Genomics has launched its MERCURIUS™ Spheroid DRUG-seq, a novel</description>
       <pubDate>Mon, 13 Oct 2025 11:30:34 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/alithea-genomics-introduces-extraction-free-rna-seq-for-3d-drug-screening-and-toxicology/</guid>
@@ -49,24 +76,6 @@
       <pubDate>2025-10-13T00:00:00+00:00</pubDate>
       <source>JEFworks Lab</source>
       <guid>http://jefworks-lab.github.io//blog/2025/10/13/rna-velocity-in-situ-analysis/</guid>
-    </item>
-    
-    <item>
-      <title>BestopCloud: an integrated one-stop solution for single-cell RNA sequencing data analysis</title>
-      <link>https://www.rna-seqblog.com/bestopcloud-an-integrated-one-stop-solution-for-single-cell-rna-sequencing-data-analysis/</link>
-      <description>Researchers from Beijing BestopCell Co have introduced BestopCloud, an advanced cloud-based platform that makes the analysis of single-cell RNA sequencing (scRNA-seq) data more accessible and efficien</description>
-      <pubDate>Fri, 10 Oct 2025 11:56:36 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/bestopcloud-an-integrated-one-stop-solution-for-single-cell-rna-sequencing-data-analysis/</guid>
-    </item>
-    
-    <item>
-      <title>PCsRNAdb: a comprehensive resource of small noncoding RNAs across cancers</title>
-      <link>https://www.rna-seqblog.com/pcsrnadb-a-comprehensive-resource-of-small-noncoding-rnas-across-cancers/</link>
-      <description>Researchers from Sun Yat-sen University have developed an extensive new database that could deepen our understanding of small noncoding RNAs, or sncRNAs, in cancer. These tiny RNA molecules, which inc</description>
-      <pubDate>Fri, 10 Oct 2025 11:56:20 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/pcsrnadb-a-comprehensive-resource-of-small-noncoding-rnas-across-cancers/</guid>
     </item>
     
     <item>
@@ -376,15 +385,6 @@ of &amp;lsquo;most measure</description>
       <pubDate>2025-06-22T00:00:00+00:00</pubDate>
       <source>Eric Kernfeld</source>
       <guid>https://ekernf01.github.io/cranberry</guid>
-    </item>
-    
-    <item>
-      <title>Roche Gives SBX Updates - and a Name!</title>
-      <link>https://omicsomics.blogspot.com/2025/06/roche-gives-sbx-updates-and-name.html</link>
-      <description>Last week I double-dipped on conferences, going from London Calling to European Society for Human Genetics (ESHG) in Milan.  I have a raft of notes and ideas from these, which I'll try to spool out ov</description>
-      <pubDate>2025-06-02T08:35:00.000-04:00</pubDate>
-      <source>Omics! Omics!</source>
-      <guid>https://omicsomics.blogspot.com/2025/06/roche-gives-sbx-updates-and-name.html</guid>
     </item>
     
     <item>
