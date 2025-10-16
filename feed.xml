@@ -4,8 +4,44 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Wed, 15 Oct 2025 06:34:55 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 16 Oct 2025 06:34:44 +0000</lastBuildDate>
   
+    <item>
+      <title>Asymmetries in Biosecurity</title>
+      <link>https://blog.stephenturner.us/p/asymmetries-in-biosecurity</link>
+      <description>RAND Report: Why biology still favors the offense in biosecurity</description>
+      <pubDate>Wed, 15 Oct 2025 18:56:11 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/asymmetries-in-biosecurity</guid>
+    </item>
+    
+    <item>
+      <title>ASHG Posters: The Agony and The Ecstasy</title>
+      <link>https://omicsomics.blogspot.com/2025/10/ashg-posters-agony-and-ecstasy.html</link>
+      <description>ASHG is a huge meeting, probably the second largest I've ever attended after ASCO.  ASBMB is similar in size perhaps, though I think a hair smaller and definitely a bigger than ESHG.  And certainly mu</description>
+      <pubDate>2025-10-15T08:58:00.001-04:00</pubDate>
+      <source>Omics! Omics!</source>
+      <guid>https://omicsomics.blogspot.com/2025/10/ashg-posters-agony-and-ecstasy.html</guid>
+    </item>
+    
+    <item>
+      <title>A review of technical considerations for planning an RNA-Sequencing experiment</title>
+      <link>https://www.rna-seqblog.com/a-review-of-technical-considerations-for-planning-an-rna-sequencing-experiment/</link>
+      <description>This article highlights key technical and analytical considerations for RNA sequencing experiments, helping researchers plan effective strategies for data quality, cost, and biological...</description>
+      <pubDate>Wed, 15 Oct 2025 11:18:05 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/a-review-of-technical-considerations-for-planning-an-rna-sequencing-experiment/</guid>
+    </item>
+    
+    <item>
+      <title>RNA sequencing reveals early photoreceptor development and retinoblastoma vulnerability</title>
+      <link>https://www.rna-seqblog.com/rna-sequencing-reveals-early-photoreceptor-development-and-retinoblastoma-vulnerability/</link>
+      <description>Using RNA sequencing, researchers mapped early human photoreceptor development and discovered why cone cells, unlike rods, are more susceptible to retinoblastoma-linked genetic...</description>
+      <pubDate>Wed, 15 Oct 2025 11:17:56 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/rna-sequencing-reveals-early-photoreceptor-development-and-retinoblastoma-vulnerability/</guid>
+    </item>
+    
     <item>
       <title>PacBio: $300 Genome Via Chemistry Update</title>
       <link>https://omicsomics.blogspot.com/2025/10/pacbio-300-genome-via-chemistry-update.html</link>
@@ -27,7 +63,7 @@
     <item>
       <title>SMART-RNA-Metavirome – a practical RNA metavirome platform compatible with high-throughput sequencing of both short and long reads</title>
       <link>https://www.rna-seqblog.com/smart-rna-metavirome-a-practical-rna-metavirome-platform-compatible-with-high-throughput-sequencing-of-both-short-and-long-reads/</link>
-      <description>A new RNA sequencing platform called SMART-RNA-Metavirome enhances detection of low-abundance viruses in mosquitoes and clinical...</description>
+      <description>Researchers from Southern Medical University have developed an innovative tool called the SMART-RNA-Metavirome platform that enhances scientists’ ability to detect and analyze RNA viruses in complex s</description>
       <pubDate>Tue, 14 Oct 2025 11:26:48 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/smart-rna-metavirome-a-practical-rna-metavirome-platform-compatible-with-high-throughput-sequencing-of-both-short-and-long-reads/</guid>
@@ -36,28 +72,10 @@
     <item>
       <title>The utility of ultra-deep RNA sequencing in Mendelian disorder diagnostics</title>
       <link>https://www.rna-seqblog.com/the-utility-of-ultra-deep-rna-sequencing-in-mendelian-disorder-diagnostics/</link>
-      <description>Ultra-deep RNA sequencing reveals rare splicing events and low-abundance transcripts that improve the diagnosis of Mendelian disorders, expanding variant interpretation and clinical discovery potentia</description>
+      <description>Researchers from Baylor College of Medicine have demonstrated that using ultra-deep RNA sequencing can dramatically improve the diagnosis of genetic diseases. Traditional RNA sequencing typically capt</description>
       <pubDate>Mon, 13 Oct 2025 11:31:02 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/the-utility-of-ultra-deep-rna-sequencing-in-mendelian-disorder-diagnostics/</guid>
-    </item>
-    
-    <item>
-      <title>New tool offers single-cell study of specific genetic variants</title>
-      <link>https://www.rna-seqblog.com/new-tool-offers-single-cell-study-of-specific-genetic-variants/</link>
-      <description>With a closer look at genomic variation, scientists now have a faster, more precise way to uncover new links to disease EMBL scientists created SDR-seq, a tool for single-cell DNA-RNA-sequencing that </description>
-      <pubDate>Mon, 13 Oct 2025 11:30:47 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/new-tool-offers-single-cell-study-of-specific-genetic-variants/</guid>
-    </item>
-    
-    <item>
-      <title>Alithea Genomics introduces extraction-free, RNA-seq for 3D drug screening and toxicology</title>
-      <link>https://www.rna-seqblog.com/alithea-genomics-introduces-extraction-free-rna-seq-for-3d-drug-screening-and-toxicology/</link>
-      <description>The MERCURIUS™ Spheroid DRUG-seq is a novel, extraction-free RNA sequencing library preparation kit built for 3D spheroid models Alithea Genomics has launched its MERCURIUS™ Spheroid DRUG-seq, a novel</description>
-      <pubDate>Mon, 13 Oct 2025 11:30:34 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/alithea-genomics-introduces-extraction-free-rna-seq-for-3d-drug-screening-and-toxicology/</guid>
     </item>
     
     <item>
@@ -112,15 +130,6 @@
       <pubDate>Fri, 03 Oct 2025 09:34:20 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/weekly-recap-oct-3-2025</guid>
-    </item>
-    
-    <item>
-      <title>Construct objects with idiomatic R code</title>
-      <link>https://blog.stephenturner.us/p/construct-objects-with-idiomatic-r-code</link>
-      <description>Use the constructive package instead of dput() to construct R objects with idiomatic R code for human-readable reproducible examples</description>
-      <pubDate>Thu, 02 Oct 2025 08:24:28 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/construct-objects-with-idiomatic-r-code</guid>
     </item>
     
     <item>
@@ -338,15 +347,6 @@ biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
       <pubDate>2025-06-29T00:00:00+00:00</pubDate>
       <source>Eric Kernfeld</source>
       <guid>https://ekernf01.github.io/virtual-cell-june-2025</guid>
-    </item>
-    
-    <item>
-      <title>Food For Thought On ONT's Proteomics Push</title>
-      <link>https://omicsomics.blogspot.com/2025/06/food-for-thought-on-onts-proteomics-push.html</link>
-      <description>&lt;div&gt;This year, instead of touring London after the Nanopore confab I headed to Italy for the European Society of Human Genetics meeting.  Upon hearing Lakmal Jayasinghe describe ONT's proteomics plan</description>
-      <pubDate>2025-06-26T08:13:00.001-04:00</pubDate>
-      <source>Omics! Omics!</source>
-      <guid>https://omicsomics.blogspot.com/2025/06/food-for-thought-on-onts-proteomics-push.html</guid>
     </item>
     
     <item>
