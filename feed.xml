@@ -4,8 +4,44 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Thu, 16 Oct 2025 06:34:44 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 17 Oct 2025 06:33:58 +0000</lastBuildDate>
   
+    <item>
+      <title>Most graduate students propose to do too much</title>
+      <link>https://blog.stephenturner.us/p/most-graduate-students-propose-to</link>
+      <description>Quoting Claus Wilke</description>
+      <pubDate>Thu, 16 Oct 2025 17:44:23 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/most-graduate-students-propose-to</guid>
+    </item>
+    
+    <item>
+      <title>Baylor Genetics presents new data on clinical and diagnostic utility of RNA sequencing for rare disease at the ASHG 2025 annual meeting</title>
+      <link>https://www.rna-seqblog.com/baylor-genetics-presents-new-data-on-clinical-and-diagnostic-utility-of-rna-sequencing-for-rare-disease-at-the-ashg-2025-annual-meeting/</link>
+      <description>Baylor Genetics highlights how RNA sequencing enhances rare disease diagnostics by reclassifying genetic variants and uncovering pathogenic mechanisms undetected by traditional DNA-based methods...</description>
+      <pubDate>Thu, 16 Oct 2025 11:17:45 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/baylor-genetics-presents-new-data-on-clinical-and-diagnostic-utility-of-rna-sequencing-for-rare-disease-at-the-ashg-2025-annual-meeting/</guid>
+    </item>
+    
+    <item>
+      <title>Carolina Molecular selected as certified service provider for CS Genetics’ single-cell sequencing platform</title>
+      <link>https://www.rna-seqblog.com/carolina-molecular-selected-as-certified-service-provider-for-cs-genetics-single-cell-sequencing-platform/</link>
+      <description>Carolina Molecular partners with CS Genetics to offer advanced single-cell RNA sequencing using the SimpleCell platform, enabling faster, scalable, and more affordable gene expression insights across </description>
+      <pubDate>Thu, 16 Oct 2025 11:17:14 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/carolina-molecular-selected-as-certified-service-provider-for-cs-genetics-single-cell-sequencing-platform/</guid>
+    </item>
+    
+    <item>
+      <title>Plasmidsaurus launches ultrafast RNA-seq service with unprecedented speed, affordability, and convenience</title>
+      <link>https://www.rna-seqblog.com/plasmidsaurus-launches-ultrafast-rna-seq-service-with-unprecedented-speed-affordability-and-convenience/</link>
+      <description>Plasmidsaurus introduces an ultrafast RNA sequencing service delivering high-quality gene expression data in just three days, combining speed, affordability, and simplicity for researchers in academia</description>
+      <pubDate>Thu, 16 Oct 2025 11:17:02 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/plasmidsaurus-launches-ultrafast-rna-seq-service-with-unprecedented-speed-affordability-and-convenience/</guid>
+    </item>
+    
     <item>
       <title>Asymmetries in Biosecurity</title>
       <link>https://blog.stephenturner.us/p/asymmetries-in-biosecurity</link>
@@ -27,7 +63,7 @@
     <item>
       <title>A review of technical considerations for planning an RNA-Sequencing experiment</title>
       <link>https://www.rna-seqblog.com/a-review-of-technical-considerations-for-planning-an-rna-sequencing-experiment/</link>
-      <description>This article highlights key technical and analytical considerations for RNA sequencing experiments, helping researchers plan effective strategies for data quality, cost, and biological...</description>
+      <description>Planning an RNA sequencing (RNA-Seq) experiment is one of the most crucial steps in any genomics research project. While RNA-Seq has become a standard method for studying gene expression, designing a </description>
       <pubDate>Wed, 15 Oct 2025 11:18:05 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/a-review-of-technical-considerations-for-planning-an-rna-sequencing-experiment/</guid>
@@ -36,7 +72,7 @@
     <item>
       <title>RNA sequencing reveals early photoreceptor development and retinoblastoma vulnerability</title>
       <link>https://www.rna-seqblog.com/rna-sequencing-reveals-early-photoreceptor-development-and-retinoblastoma-vulnerability/</link>
-      <description>Using RNA sequencing, researchers mapped early human photoreceptor development and discovered why cone cells, unlike rods, are more susceptible to retinoblastoma-linked genetic...</description>
+      <description>The retina is a light-sensitive neural tissue that lines the back of the eye, comprised of retinal cells that are essential for vision. All human retinal cells, subclassed as cone or rod photoreceptor</description>
       <pubDate>Wed, 15 Oct 2025 11:17:56 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/rna-sequencing-reveals-early-photoreceptor-development-and-retinoblastoma-vulnerability/</guid>
@@ -49,33 +85,6 @@
       <pubDate>2025-10-14T09:45:00.004-04:00</pubDate>
       <source>Omics! Omics!</source>
       <guid>https://omicsomics.blogspot.com/2025/10/pacbio-300-genome-via-chemistry-update.html</guid>
-    </item>
-    
-    <item>
-      <title>Understanding Gene-LLMs: how large language models are learning the language of life</title>
-      <link>https://www.rna-seqblog.com/understanding-gene-llms-how-large-language-models-are-learning-the-language-of-life/</link>
-      <description>RNA sequencing and AI-powered Gene-LLMs are revealing the hidden grammar of the genome, advancing discoveries in gene regulation, diagnostics, and personalized medicine...</description>
-      <pubDate>Tue, 14 Oct 2025 11:26:57 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/understanding-gene-llms-how-large-language-models-are-learning-the-language-of-life/</guid>
-    </item>
-    
-    <item>
-      <title>SMART-RNA-Metavirome – a practical RNA metavirome platform compatible with high-throughput sequencing of both short and long reads</title>
-      <link>https://www.rna-seqblog.com/smart-rna-metavirome-a-practical-rna-metavirome-platform-compatible-with-high-throughput-sequencing-of-both-short-and-long-reads/</link>
-      <description>Researchers from Southern Medical University have developed an innovative tool called the SMART-RNA-Metavirome platform that enhances scientists’ ability to detect and analyze RNA viruses in complex s</description>
-      <pubDate>Tue, 14 Oct 2025 11:26:48 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/smart-rna-metavirome-a-practical-rna-metavirome-platform-compatible-with-high-throughput-sequencing-of-both-short-and-long-reads/</guid>
-    </item>
-    
-    <item>
-      <title>The utility of ultra-deep RNA sequencing in Mendelian disorder diagnostics</title>
-      <link>https://www.rna-seqblog.com/the-utility-of-ultra-deep-rna-sequencing-in-mendelian-disorder-diagnostics/</link>
-      <description>Researchers from Baylor College of Medicine have demonstrated that using ultra-deep RNA sequencing can dramatically improve the diagnosis of genetic diseases. Traditional RNA sequencing typically capt</description>
-      <pubDate>Mon, 13 Oct 2025 11:31:02 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/the-utility-of-ultra-deep-rna-sequencing-in-mendelian-disorder-diagnostics/</guid>
     </item>
     
     <item>
@@ -121,15 +130,6 @@
       <pubDate>Mon, 06 Oct 2025 11:22:42 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/wikipedia-philosophy</guid>
-    </item>
-    
-    <item>
-      <title>Weekly recap (Oct 3, 2025)</title>
-      <link>https://blog.stephenturner.us/p/weekly-recap-oct-3-2025</link>
-      <description>R updates (from rOpenSci, Blaze, R Works, RWeekly, Posit), Slidecrafting, AI highs &amp; lows, structural variation, biotech, RAG, tinytable, "vibe work," and a few compbio and related papers</description>
-      <pubDate>Fri, 03 Oct 2025 09:34:20 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/weekly-recap-oct-3-2025</guid>
     </item>
     
     <item>
