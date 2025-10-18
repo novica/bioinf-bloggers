@@ -4,8 +4,44 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Fri, 17 Oct 2025 06:33:58 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 18 Oct 2025 06:31:37 +0000</lastBuildDate>
   
+    <item>
+      <title>Weekly recap (Oct 17, 2025)</title>
+      <link>https://blog.stephenturner.us/p/weekly-recap-oct-17-2025</link>
+      <description>Bioconductor on GPUs, tidyomics, Quarto 1.8, Anthropic red-teaming on AIxBio, PGS in the clinic, Shock Doctrine in genome engineering, GenAI for data viz with R, Datapalooza, 4 compact rejections</description>
+      <pubDate>Fri, 17 Oct 2025 12:35:55 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/weekly-recap-oct-17-2025</guid>
+    </item>
+    
+    <item>
+      <title>LnCeVar 2.0 – an updated resource and web tools for genomic variations disrupting ceRNA networks</title>
+      <link>https://www.rna-seqblog.com/lncevar-2-0-an-updated-resource-and-web-tools-for-genomic-variations-disrupting-cerna-networks-from-single-cell-spatial-transcriptomics-data/</link>
+      <description>LnCeVar 2.0 integrates RNA sequencing and single-cell data to reveal how small genetic changes disrupt ceRNA networks, improving understanding of complex diseases like...</description>
+      <pubDate>Fri, 17 Oct 2025 11:24:45 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/lncevar-2-0-an-updated-resource-and-web-tools-for-genomic-variations-disrupting-cerna-networks-from-single-cell-spatial-transcriptomics-data/</guid>
+    </item>
+    
+    <item>
+      <title>Understanding gene expression in pancreatic islet cells through RNA sequencing</title>
+      <link>https://www.rna-seqblog.com/understanding-gene-expression-in-pancreatic-islet-cells-through-rna-sequencing/</link>
+      <description>Researchers used RNA sequencing to identify novel cell-type markers in human pancreatic islets and highlighted the need for specialized snRNA-seq annotation methods...</description>
+      <pubDate>Fri, 17 Oct 2025 11:24:36 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/understanding-gene-expression-in-pancreatic-islet-cells-through-rna-sequencing/</guid>
+    </item>
+    
+    <item>
+      <title>Lexogen Launches miRVEL Profiling Small RNA-Seq Kit for Streamlined and Cost-Efficient sRNA Expression Analysis</title>
+      <link>https://www.rna-seqblog.com/lexogen-launches-mirvel-profiling-small-rna-seq-kit-for-streamlined-and-cost-efficient-srna-expression-analysis/</link>
+      <description>Lexogen’s miRVEL Profiling Kit streamlines small RNA research, enabling faster, reliable library prep for RNA sequencing and accurate...</description>
+      <pubDate>Fri, 17 Oct 2025 10:51:57 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/lexogen-launches-mirvel-profiling-small-rna-seq-kit-for-streamlined-and-cost-efficient-srna-expression-analysis/</guid>
+    </item>
+    
     <item>
       <title>Most graduate students propose to do too much</title>
       <link>https://blog.stephenturner.us/p/most-graduate-students-propose-to</link>
@@ -18,7 +54,7 @@
     <item>
       <title>Baylor Genetics presents new data on clinical and diagnostic utility of RNA sequencing for rare disease at the ASHG 2025 annual meeting</title>
       <link>https://www.rna-seqblog.com/baylor-genetics-presents-new-data-on-clinical-and-diagnostic-utility-of-rna-sequencing-for-rare-disease-at-the-ashg-2025-annual-meeting/</link>
-      <description>Baylor Genetics highlights how RNA sequencing enhances rare disease diagnostics by reclassifying genetic variants and uncovering pathogenic mechanisms undetected by traditional DNA-based methods...</description>
+      <description>Research underscores clinical utility of RNA sequencing in providing critical insights to drive diagnoses and medical management Baylor Genetics, a clinical diagnostic laboratory at the forefront of g</description>
       <pubDate>Thu, 16 Oct 2025 11:17:45 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/baylor-genetics-presents-new-data-on-clinical-and-diagnostic-utility-of-rna-sequencing-for-rare-disease-at-the-ashg-2025-annual-meeting/</guid>
@@ -27,19 +63,10 @@
     <item>
       <title>Carolina Molecular selected as certified service provider for CS Genetics’ single-cell sequencing platform</title>
       <link>https://www.rna-seqblog.com/carolina-molecular-selected-as-certified-service-provider-for-cs-genetics-single-cell-sequencing-platform/</link>
-      <description>Carolina Molecular partners with CS Genetics to offer advanced single-cell RNA sequencing using the SimpleCell platform, enabling faster, scalable, and more affordable gene expression insights across </description>
+      <description>Carolina Molecular, a clinical sequencing lab and NGS foundry, and CS Genetics, an emerging leader in single-cell RNA sequencing (scRNA-Seq) technology, today announced that Carolina Molecular has bee</description>
       <pubDate>Thu, 16 Oct 2025 11:17:14 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/carolina-molecular-selected-as-certified-service-provider-for-cs-genetics-single-cell-sequencing-platform/</guid>
-    </item>
-    
-    <item>
-      <title>Plasmidsaurus launches ultrafast RNA-seq service with unprecedented speed, affordability, and convenience</title>
-      <link>https://www.rna-seqblog.com/plasmidsaurus-launches-ultrafast-rna-seq-service-with-unprecedented-speed-affordability-and-convenience/</link>
-      <description>Plasmidsaurus introduces an ultrafast RNA sequencing service delivering high-quality gene expression data in just three days, combining speed, affordability, and simplicity for researchers in academia</description>
-      <pubDate>Thu, 16 Oct 2025 11:17:02 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/plasmidsaurus-launches-ultrafast-rna-seq-service-with-unprecedented-speed-affordability-and-convenience/</guid>
     </item>
     
     <item>
@@ -58,24 +85,6 @@
       <pubDate>2025-10-15T08:58:00.001-04:00</pubDate>
       <source>Omics! Omics!</source>
       <guid>https://omicsomics.blogspot.com/2025/10/ashg-posters-agony-and-ecstasy.html</guid>
-    </item>
-    
-    <item>
-      <title>A review of technical considerations for planning an RNA-Sequencing experiment</title>
-      <link>https://www.rna-seqblog.com/a-review-of-technical-considerations-for-planning-an-rna-sequencing-experiment/</link>
-      <description>Planning an RNA sequencing (RNA-Seq) experiment is one of the most crucial steps in any genomics research project. While RNA-Seq has become a standard method for studying gene expression, designing a </description>
-      <pubDate>Wed, 15 Oct 2025 11:18:05 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/a-review-of-technical-considerations-for-planning-an-rna-sequencing-experiment/</guid>
-    </item>
-    
-    <item>
-      <title>RNA sequencing reveals early photoreceptor development and retinoblastoma vulnerability</title>
-      <link>https://www.rna-seqblog.com/rna-sequencing-reveals-early-photoreceptor-development-and-retinoblastoma-vulnerability/</link>
-      <description>The retina is a light-sensitive neural tissue that lines the back of the eye, comprised of retinal cells that are essential for vision. All human retinal cells, subclassed as cone or rod photoreceptor</description>
-      <pubDate>Wed, 15 Oct 2025 11:17:56 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/rna-sequencing-reveals-early-photoreceptor-development-and-retinoblastoma-vulnerability/</guid>
     </item>
     
     <item>
@@ -121,15 +130,6 @@
       <pubDate>2025-10-09T11:47:00.000-04:00</pubDate>
       <source>Omics! Omics!</source>
       <guid>https://omicsomics.blogspot.com/2025/10/ship-of-thesion.html</guid>
-    </item>
-    
-    <item>
-      <title>All Roads Lead to Philosophy</title>
-      <link>https://blog.stephenturner.us/p/wikipedia-philosophy</link>
-      <description>Successively clicking the first link in a Wikipedia article almost always leads to Philosophy</description>
-      <pubDate>Mon, 06 Oct 2025 11:22:42 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/wikipedia-philosophy</guid>
     </item>
     
     <item>
