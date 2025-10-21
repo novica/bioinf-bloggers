@@ -4,8 +4,26 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Mon, 20 Oct 2025 06:35:53 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 21 Oct 2025 06:34:54 +0000</lastBuildDate>
   
+    <item>
+      <title>RNA sequencing uncovers and predicts widespread molecular changes in ALS brain cells</title>
+      <link>https://www.rna-seqblog.com/rna-sequencing-uncovers-and-predicts-widespread-molecular-changes-in-als-brain-cells/</link>
+      <description>Researchers used RNA sequencing and deep learning to uncover widespread RNA and protein dysregulation in ALS brain cells, revealing mechanisms that may drive disease progression...</description>
+      <pubDate>Mon, 20 Oct 2025 11:26:33 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/rna-sequencing-uncovers-and-predicts-widespread-molecular-changes-in-als-brain-cells/</guid>
+    </item>
+    
+    <item>
+      <title>Decoding the genetic regulation of RNA splicing with artificial intelligence</title>
+      <link>https://www.rna-seqblog.com/decoding-the-genetic-regulation-of-rna-splicing-with-artificial-intelligence/</link>
+      <description>Researchers used RNA sequencing and neural network modeling to uncover how splicing factors interact and drive cancer-related changes in gene expression...</description>
+      <pubDate>Mon, 20 Oct 2025 11:26:23 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/decoding-the-genetic-regulation-of-rna-splicing-with-artificial-intelligence/</guid>
+    </item>
+    
     <item>
       <title>Weekly recap (Oct 17, 2025)</title>
       <link>https://blog.stephenturner.us/p/weekly-recap-oct-17-2025</link>
@@ -27,7 +45,7 @@
     <item>
       <title>Understanding gene expression in pancreatic islet cells through RNA sequencing</title>
       <link>https://www.rna-seqblog.com/understanding-gene-expression-in-pancreatic-islet-cells-through-rna-sequencing/</link>
-      <description>Researchers used RNA sequencing to identify novel cell-type markers in human pancreatic islets and highlighted the need for specialized snRNA-seq annotation methods...</description>
+      <description>Researchers from Lund University compared two powerful RNA sequencing methods, single-cell (scRNA-seq) and single-nuclei (snRNA-seq), to understand how human pancreatic islet cells express their genes</description>
       <pubDate>Fri, 17 Oct 2025 11:24:36 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/understanding-gene-expression-in-pancreatic-islet-cells-through-rna-sequencing/</guid>
@@ -36,7 +54,7 @@
     <item>
       <title>Lexogen Launches miRVEL Profiling Small RNA-Seq Kit for Streamlined and Cost-Efficient sRNA Expression Analysis</title>
       <link>https://www.rna-seqblog.com/lexogen-launches-mirvel-profiling-small-rna-seq-kit-for-streamlined-and-cost-efficient-srna-expression-analysis/</link>
-      <description>Lexogen’s miRVEL Profiling Kit streamlines small RNA research, enabling faster, reliable library prep for RNA sequencing and accurate...</description>
+      <description>Lexogen, a leader in RNA sequencing technologies, announces the launch of the miRVEL Profiling Small RNA-Seq Library Prep Kit, designed to facilitate small RNA research. The innovative kit integrates </description>
       <pubDate>Fri, 17 Oct 2025 10:51:57 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/lexogen-launches-mirvel-profiling-small-rna-seq-kit-for-streamlined-and-cost-efficient-srna-expression-analysis/</guid>
@@ -49,24 +67,6 @@
       <pubDate>Thu, 16 Oct 2025 17:44:23 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/most-graduate-students-propose-to</guid>
-    </item>
-    
-    <item>
-      <title>Baylor Genetics presents new data on clinical and diagnostic utility of RNA sequencing for rare disease at the ASHG 2025 annual meeting</title>
-      <link>https://www.rna-seqblog.com/baylor-genetics-presents-new-data-on-clinical-and-diagnostic-utility-of-rna-sequencing-for-rare-disease-at-the-ashg-2025-annual-meeting/</link>
-      <description>Research underscores clinical utility of RNA sequencing in providing critical insights to drive diagnoses and medical management Baylor Genetics, a clinical diagnostic laboratory at the forefront of g</description>
-      <pubDate>Thu, 16 Oct 2025 11:17:45 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/baylor-genetics-presents-new-data-on-clinical-and-diagnostic-utility-of-rna-sequencing-for-rare-disease-at-the-ashg-2025-annual-meeting/</guid>
-    </item>
-    
-    <item>
-      <title>Carolina Molecular selected as certified service provider for CS Genetics’ single-cell sequencing platform</title>
-      <link>https://www.rna-seqblog.com/carolina-molecular-selected-as-certified-service-provider-for-cs-genetics-single-cell-sequencing-platform/</link>
-      <description>Carolina Molecular, a clinical sequencing lab and NGS foundry, and CS Genetics, an emerging leader in single-cell RNA sequencing (scRNA-Seq) technology, today announced that Carolina Molecular has bee</description>
-      <pubDate>Thu, 16 Oct 2025 11:17:14 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/carolina-molecular-selected-as-certified-service-provider-for-cs-genetics-single-cell-sequencing-platform/</guid>
     </item>
     
     <item>
