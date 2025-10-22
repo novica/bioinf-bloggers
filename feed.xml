@@ -4,8 +4,26 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Tue, 21 Oct 2025 06:34:54 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 22 Oct 2025 06:35:58 +0000</lastBuildDate>
   
+    <item>
+      <title>tcga-data-nf – reproducible processing of TCGA regulatory networks</title>
+      <link>https://www.rna-seqblog.com/tcga-data-nf-reproducible-processing-of-tcga-regulatory-networks/</link>
+      <description>Researchers developed a Nextflow-based workflow that integrates RNA sequencing and other omics data from TCGA to build reproducible cancer regulatory networks and uncover epigenetic differences across</description>
+      <pubDate>Tue, 21 Oct 2025 11:20:59 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/tcga-data-nf-reproducible-processing-of-tcga-regulatory-networks/</guid>
+    </item>
+    
+    <item>
+      <title>Benchmarking scRNA-seq copy number variation callers</title>
+      <link>https://www.rna-seqblog.com/benchmarking-scrna-seq-copy-number-variation-callers/</link>
+      <description>Researchers compared computational tools for identifying copy number variations using RNA sequencing, revealing key performance differences and providing a framework to improve CNV detection accuracy </description>
+      <pubDate>Tue, 21 Oct 2025 11:20:37 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/benchmarking-scrna-seq-copy-number-variation-callers/</guid>
+    </item>
+    
     <item>
       <title>RNA sequencing uncovers and predicts widespread molecular changes in ALS brain cells</title>
       <link>https://www.rna-seqblog.com/rna-sequencing-uncovers-and-predicts-widespread-molecular-changes-in-als-brain-cells/</link>
@@ -18,7 +36,7 @@
     <item>
       <title>Decoding the genetic regulation of RNA splicing with artificial intelligence</title>
       <link>https://www.rna-seqblog.com/decoding-the-genetic-regulation-of-rna-splicing-with-artificial-intelligence/</link>
-      <description>Researchers used RNA sequencing and neural network modeling to uncover how splicing factors interact and drive cancer-related changes in gene expression...</description>
+      <description>Researchers from the Center for Genomic Regulation in Barcelona have developed a new way to study how splicing factors control gene expression in cancer. Splicing factors determine how genes are piece</description>
       <pubDate>Mon, 20 Oct 2025 11:26:23 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/decoding-the-genetic-regulation-of-rna-splicing-with-artificial-intelligence/</guid>
@@ -36,28 +54,10 @@
     <item>
       <title>LnCeVar 2.0 – an updated resource and web tools for genomic variations disrupting ceRNA networks</title>
       <link>https://www.rna-seqblog.com/lncevar-2-0-an-updated-resource-and-web-tools-for-genomic-variations-disrupting-cerna-networks-from-single-cell-spatial-transcriptomics-data/</link>
-      <description>LnCeVar 2.0 integrates RNA sequencing and single-cell data to reveal how small genetic changes disrupt ceRNA networks, improving understanding of complex diseases like...</description>
+      <description>Researchers Harbin Medical University have released LnCeVar 2.0, a powerful database designed to help scientists explore how small genetic variations affect cellular communication in diseases such as </description>
       <pubDate>Fri, 17 Oct 2025 11:24:45 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/lncevar-2-0-an-updated-resource-and-web-tools-for-genomic-variations-disrupting-cerna-networks-from-single-cell-spatial-transcriptomics-data/</guid>
-    </item>
-    
-    <item>
-      <title>Understanding gene expression in pancreatic islet cells through RNA sequencing</title>
-      <link>https://www.rna-seqblog.com/understanding-gene-expression-in-pancreatic-islet-cells-through-rna-sequencing/</link>
-      <description>Researchers from Lund University compared two powerful RNA sequencing methods, single-cell (scRNA-seq) and single-nuclei (snRNA-seq), to understand how human pancreatic islet cells express their genes</description>
-      <pubDate>Fri, 17 Oct 2025 11:24:36 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/understanding-gene-expression-in-pancreatic-islet-cells-through-rna-sequencing/</guid>
-    </item>
-    
-    <item>
-      <title>Lexogen Launches miRVEL Profiling Small RNA-Seq Kit for Streamlined and Cost-Efficient sRNA Expression Analysis</title>
-      <link>https://www.rna-seqblog.com/lexogen-launches-mirvel-profiling-small-rna-seq-kit-for-streamlined-and-cost-efficient-srna-expression-analysis/</link>
-      <description>Lexogen, a leader in RNA sequencing technologies, announces the launch of the miRVEL Profiling Small RNA-Seq Library Prep Kit, designed to facilitate small RNA research. The innovative kit integrates </description>
-      <pubDate>Fri, 17 Oct 2025 10:51:57 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/lexogen-launches-mirvel-profiling-small-rna-seq-kit-for-streamlined-and-cost-efficient-srna-expression-analysis/</guid>
     </item>
     
     <item>
