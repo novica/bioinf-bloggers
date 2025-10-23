@@ -4,8 +4,26 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Wed, 22 Oct 2025 06:35:58 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 23 Oct 2025 06:35:11 +0000</lastBuildDate>
   
+    <item>
+      <title>Disrupting cancer’s secret hubs: A new way to halt tumor growth</title>
+      <link>https://www.rna-seqblog.com/disrupting-cancers-secret-hubs-a-new-way-to-halt-tumor-growth/</link>
+      <description>Using RNA sequencing and advanced molecular tools, researchers at Texas A&amp;amp;M Health uncovered how RNA builds “droplet hubs” that drive kidney cancer growth and discovered a way to dissolve them...</description>
+      <pubDate>Wed, 22 Oct 2025 11:17:13 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/disrupting-cancers-secret-hubs-a-new-way-to-halt-tumor-growth/</guid>
+    </item>
+    
+    <item>
+      <title>Emixed – probabilistic multi-omics cellular deconvolution of bulk omics data</title>
+      <link>https://www.rna-seqblog.com/emixed-probabilistic-multi-omics-cellular-deconvolution-of-bulk-omics-data/</link>
+      <description>RNA sequencing and DNA methylation data are combined in EMixed to improve cellular deconvolution and reveal deeper insights into tissue composition and cellular diversity...</description>
+      <pubDate>Wed, 22 Oct 2025 11:17:03 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/emixed-probabilistic-multi-omics-cellular-deconvolution-of-bulk-omics-data/</guid>
+    </item>
+    
     <item>
       <title>tcga-data-nf – reproducible processing of TCGA regulatory networks</title>
       <link>https://www.rna-seqblog.com/tcga-data-nf-reproducible-processing-of-tcga-regulatory-networks/</link>
@@ -18,7 +36,7 @@
     <item>
       <title>Benchmarking scRNA-seq copy number variation callers</title>
       <link>https://www.rna-seqblog.com/benchmarking-scrna-seq-copy-number-variation-callers/</link>
-      <description>Researchers compared computational tools for identifying copy number variations using RNA sequencing, revealing key performance differences and providing a framework to improve CNV detection accuracy </description>
+      <description>Researchers at LMU Munich have conducted a comprehensive evaluation of computational tools used to detect copy number variations (CNVs) from single-cell RNA sequencing (scRNA-seq) data. CNVs, which ar</description>
       <pubDate>Tue, 21 Oct 2025 11:20:37 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/benchmarking-scrna-seq-copy-number-variation-callers/</guid>
@@ -27,19 +45,10 @@
     <item>
       <title>RNA sequencing uncovers and predicts widespread molecular changes in ALS brain cells</title>
       <link>https://www.rna-seqblog.com/rna-sequencing-uncovers-and-predicts-widespread-molecular-changes-in-als-brain-cells/</link>
-      <description>Researchers used RNA sequencing and deep learning to uncover widespread RNA and protein dysregulation in ALS brain cells, revealing mechanisms that may drive disease progression...</description>
+      <description>Researchers at the University of Toronto’s Temerty Faculty of Medicine have found widespread genetic and protein changes in the brain cells of people with amyotrophic lateral sclerosis (ALS), which ma</description>
       <pubDate>Mon, 20 Oct 2025 11:26:33 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/rna-sequencing-uncovers-and-predicts-widespread-molecular-changes-in-als-brain-cells/</guid>
-    </item>
-    
-    <item>
-      <title>Decoding the genetic regulation of RNA splicing with artificial intelligence</title>
-      <link>https://www.rna-seqblog.com/decoding-the-genetic-regulation-of-rna-splicing-with-artificial-intelligence/</link>
-      <description>Researchers from the Center for Genomic Regulation in Barcelona have developed a new way to study how splicing factors control gene expression in cancer. Splicing factors determine how genes are piece</description>
-      <pubDate>Mon, 20 Oct 2025 11:26:23 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/decoding-the-genetic-regulation-of-rna-splicing-with-artificial-intelligence/</guid>
     </item>
     
     <item>
@@ -49,15 +58,6 @@
       <pubDate>Fri, 17 Oct 2025 12:35:55 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/weekly-recap-oct-17-2025</guid>
-    </item>
-    
-    <item>
-      <title>LnCeVar 2.0 – an updated resource and web tools for genomic variations disrupting ceRNA networks</title>
-      <link>https://www.rna-seqblog.com/lncevar-2-0-an-updated-resource-and-web-tools-for-genomic-variations-disrupting-cerna-networks-from-single-cell-spatial-transcriptomics-data/</link>
-      <description>Researchers Harbin Medical University have released LnCeVar 2.0, a powerful database designed to help scientists explore how small genetic variations affect cellular communication in diseases such as </description>
-      <pubDate>Fri, 17 Oct 2025 11:24:45 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/lncevar-2-0-an-updated-resource-and-web-tools-for-genomic-variations-disrupting-cerna-networks-from-single-cell-spatial-transcriptomics-data/</guid>
     </item>
     
     <item>
