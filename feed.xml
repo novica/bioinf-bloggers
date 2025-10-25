@@ -4,8 +4,44 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Fri, 24 Oct 2025 06:34:09 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 25 Oct 2025 06:31:19 +0000</lastBuildDate>
   
+    <item>
+      <title>Unlocking the regulatory code of RNA: launching the Human RNome Project</title>
+      <link>https://www.rna-seqblog.com/unlocking-the-regulatory-code-of-rna-launching-the-human-rnome-project/</link>
+      <description>RNA sequencing is helping scientists chart the Human RNome, revealing how RNA modifications control gene expression and shape breakthroughs in biology, medicine, and biotechnology...</description>
+      <pubDate>Fri, 24 Oct 2025 11:27:14 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/unlocking-the-regulatory-code-of-rna-launching-the-human-rnome-project/</guid>
+    </item>
+    
+    <item>
+      <title>Glial diversity revealed through RNA sequencing across brain regions and species</title>
+      <link>https://www.rna-seqblog.com/glial-diversity-revealed-through-rna-sequencing-across-brain-regions-and-species/</link>
+      <description>Using RNA sequencing and histology, Salk researchers reveal that glial cell organization varies across brain regions and species, highlighting glia’s critical and conserved role in brain function...</description>
+      <pubDate>Fri, 24 Oct 2025 11:26:57 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/glial-diversity-revealed-through-rna-sequencing-across-brain-regions-and-species/</guid>
+    </item>
+    
+    <item>
+      <title>Twist Bioscience and Element Biosciences Advance Collaboration with Launch of New Trinity Freestyle™ Sequencing Workflow for the AVITI™ System</title>
+      <link>https://www.rna-seqblog.com/twist-bioscience-and-element-biosciences-advance-collaboration-with-launch-of-new-trinity-freestyle-sequencing-workflow-for-the-aviti-system/</link>
+      <description>Twist Bioscience and Element Biosciences launched a fast, end-to-end RNA sequencing workflow for AVITI platforms, enabling...</description>
+      <pubDate>Fri, 24 Oct 2025 11:26:45 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/twist-bioscience-and-element-biosciences-advance-collaboration-with-launch-of-new-trinity-freestyle-sequencing-workflow-for-the-aviti-system/</guid>
+    </item>
+    
+    <item>
+      <title>Weekly recap (Oct 24, 2025)</title>
+      <link>https://blog.stephenturner.us/p/weekly-recap-oct-24-2025</link>
+      <description>Polyglot data science pipeline (R+Python+Julia) with rixpress, EuroBioC2025/BCN, Python packaging for R devs, Python in 2025, R/Pharma, DARPA, ASHG, the R Data Scientist, Quarto, universities and AI</description>
+      <pubDate>Fri, 24 Oct 2025 08:30:58 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/weekly-recap-oct-24-2025</guid>
+    </item>
+    
     <item>
       <title>Switching word processors with Zotero</title>
       <link>https://blog.stephenturner.us/p/switching-word-processors-with-zotero</link>
@@ -18,7 +54,7 @@
     <item>
       <title>Algorithm maps genetic connection between Alzheimer’s and specific neurons</title>
       <link>https://www.rna-seqblog.com/algorithm-maps-genetic-connection-between-alzheimers-and-specific-neurons/</link>
-      <description>Researchers integrated genome-wide association data with single-cell RNA sequencing to pinpoint specific brain cell types genetically linked to dementia, clarifying contradictions in Alzheimer’s disea</description>
+      <description>Tool can pinpoint disease-relevant cell types across many complex conditions The number of people living with dementia worldwide was estimated at 57 million in 2021 with nearly 10 million new cases re</description>
       <pubDate>Thu, 23 Oct 2025 11:26:34 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/algorithm-maps-genetic-connection-between-alzheimers-and-specific-neurons/</guid>
@@ -27,37 +63,10 @@
     <item>
       <title>Nanostraw electroporation for temporal RNA sampling from living 2D and 3D cell culture systems</title>
       <link>https://www.rna-seqblog.com/nanostraw-electroporation-for-temporal-rna-sampling-from-living-2d-and-3d-cell-culture-systems/</link>
-      <description>RNA sequencing using nanoelectroextraction enables repeated sampling from living cells, allowing scientists to track gene expression changes over time without destroying samples...</description>
+      <description>Scientists have long faced a major challenge when studying how genes behave inside living cells: to measure gene activity, they usually have to destroy the cells. Traditional methods of RNA extraction</description>
       <pubDate>Thu, 23 Oct 2025 11:26:16 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/nanostraw-electroporation-for-temporal-rna-sampling-from-living-2d-and-3d-cell-culture-systems/</guid>
-    </item>
-    
-    <item>
-      <title>GraphComm – predicting cell cell communication using a graph based deep learning method in single cell RNA sequencing data</title>
-      <link>https://www.rna-seqblog.com/graphcomm-predicting-cell-cell-communication-using-a-graph-based-deep-learning-method-in-single-cell-rna-sequencing-data/</link>
-      <description>GraphComm uses RNA sequencing data and deep learning to map complex cell–cell communication networks, revealing how cells coordinate through ligands, receptors, and...</description>
-      <pubDate>Thu, 23 Oct 2025 11:26:04 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/graphcomm-predicting-cell-cell-communication-using-a-graph-based-deep-learning-method-in-single-cell-rna-sequencing-data/</guid>
-    </item>
-    
-    <item>
-      <title>Disrupting cancer’s secret hubs: A new way to halt tumor growth</title>
-      <link>https://www.rna-seqblog.com/disrupting-cancers-secret-hubs-a-new-way-to-halt-tumor-growth/</link>
-      <description>When RNA gets hijacked, cancer grows, and scientists have finally learned how to make it stop By revealing how RNA builds the “droplet hubs” that drive cancer growth, and how to dismantle them, Texas </description>
-      <pubDate>Wed, 22 Oct 2025 11:17:13 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/disrupting-cancers-secret-hubs-a-new-way-to-halt-tumor-growth/</guid>
-    </item>
-    
-    <item>
-      <title>Emixed – probabilistic multi-omics cellular deconvolution of bulk omics data</title>
-      <link>https://www.rna-seqblog.com/emixed-probabilistic-multi-omics-cellular-deconvolution-of-bulk-omics-data/</link>
-      <description>Researchers at the University of Pittsburgh have developed a powerful new computational method called EMixed that can more precisely uncover the cellular composition of complex tissues. Understanding </description>
-      <pubDate>Wed, 22 Oct 2025 11:17:03 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/emixed-probabilistic-multi-omics-cellular-deconvolution-of-bulk-omics-data/</guid>
     </item>
     
     <item>
@@ -103,15 +112,6 @@
       <pubDate>2025-10-14T09:45:00.004-04:00</pubDate>
       <source>Omics! Omics!</source>
       <guid>https://omicsomics.blogspot.com/2025/10/pacbio-300-genome-via-chemistry-update.html</guid>
-    </item>
-    
-    <item>
-      <title>Positron: data explorer exports dplyr code</title>
-      <link>https://blog.stephenturner.us/p/positron-data-explorer-exports-dplyr-code</link>
-      <description>Positron allows you to export dplyr/SQL code for actions you take in the data explorer (like sorting and filtering)</description>
-      <pubDate>Mon, 13 Oct 2025 09:53:37 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/positron-data-explorer-exports-dplyr-code</guid>
     </item>
     
     <item>
