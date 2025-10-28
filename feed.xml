@@ -4,12 +4,39 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Mon, 27 Oct 2025 06:38:36 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 28 Oct 2025 06:36:31 +0000</lastBuildDate>
   
+    <item>
+      <title>New Single cell Methods Guide 2025</title>
+      <link>https://www.rna-seqblog.com/new-single-cell-methods-guide-2025/</link>
+      <description>Illumina’s latest Single Cell Methods Guide explores how single cell and RNA sequencing innovations are advancing multiomic research and enabling large-scale analysis of complex biological systems...</description>
+      <pubDate>Mon, 27 Oct 2025 11:24:20 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/new-single-cell-methods-guide-2025/</guid>
+    </item>
+    
+    <item>
+      <title>CytoTRACE 2 – improved reconstruction of single-cell developmental potential</title>
+      <link>https://www.rna-seqblog.com/cytotrace-2-improved-reconstruction-of-single-cell-developmental-potential/</link>
+      <description>CytoTRACE 2 uses deep learning and RNA sequencing to more accurately predict how individual cells develop and specialize, offering new insights into cell fate and potency....</description>
+      <pubDate>Mon, 27 Oct 2025 11:24:03 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/cytotrace-2-improved-reconstruction-of-single-cell-developmental-potential/</guid>
+    </item>
+    
+    <item>
+      <title>OpenPedCan expands access to pediatric cancer data for researchers worldwide</title>
+      <link>https://www.rna-seqblog.com/openpedcan-expands-access-to-pediatric-cancer-data-for-researchers-worldwide/</link>
+      <description>The OpenPedCan Project harmonizes genomic and clinical data from over 6,000 pediatric tumors across 100 cancer types, creating an open-access resource to advance...</description>
+      <pubDate>Mon, 27 Oct 2025 11:23:56 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/openpedcan-expands-access-to-pediatric-cancer-data-for-researchers-worldwide/</guid>
+    </item>
+    
     <item>
       <title>Unlocking the regulatory code of RNA: launching the Human RNome Project</title>
       <link>https://www.rna-seqblog.com/unlocking-the-regulatory-code-of-rna-launching-the-human-rnome-project/</link>
-      <description>RNA sequencing is helping scientists chart the Human RNome, revealing how RNA modifications control gene expression and shape breakthroughs in biology, medicine, and biotechnology...</description>
+      <description>Researchers around the world are embarking on an ambitious global effort known as the Human RNome Project, a groundbreaking initiative led by the International Human RNome Project Consortium, which in</description>
       <pubDate>Fri, 24 Oct 2025 11:27:14 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/unlocking-the-regulatory-code-of-rna-launching-the-human-rnome-project/</guid>
@@ -18,19 +45,10 @@
     <item>
       <title>Glial diversity revealed through RNA sequencing across brain regions and species</title>
       <link>https://www.rna-seqblog.com/glial-diversity-revealed-through-rna-sequencing-across-brain-regions-and-species/</link>
-      <description>Using RNA sequencing and histology, Salk researchers reveal that glial cell organization varies across brain regions and species, highlighting glia’s critical and conserved role in brain function...</description>
+      <description>Salk Institute study suggests glia may play a larger role in shaping neural circuit function than was previously appreciated Histology reveals the organization of neurons (white), astrocytes (red), an</description>
       <pubDate>Fri, 24 Oct 2025 11:26:57 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/glial-diversity-revealed-through-rna-sequencing-across-brain-regions-and-species/</guid>
-    </item>
-    
-    <item>
-      <title>Twist Bioscience and Element Biosciences Advance Collaboration with Launch of New Trinity Freestyle™ Sequencing Workflow for the AVITI™ System</title>
-      <link>https://www.rna-seqblog.com/twist-bioscience-and-element-biosciences-advance-collaboration-with-launch-of-new-trinity-freestyle-sequencing-workflow-for-the-aviti-system/</link>
-      <description>Twist Bioscience and Element Biosciences launched a fast, end-to-end RNA sequencing workflow for AVITI platforms, enabling...</description>
-      <pubDate>Fri, 24 Oct 2025 11:26:45 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/twist-bioscience-and-element-biosciences-advance-collaboration-with-launch-of-new-trinity-freestyle-sequencing-workflow-for-the-aviti-system/</guid>
     </item>
     
     <item>
@@ -49,24 +67,6 @@
       <pubDate>Thu, 23 Oct 2025 12:36:53 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/switching-word-processors-with-zotero</guid>
-    </item>
-    
-    <item>
-      <title>Algorithm maps genetic connection between Alzheimer’s and specific neurons</title>
-      <link>https://www.rna-seqblog.com/algorithm-maps-genetic-connection-between-alzheimers-and-specific-neurons/</link>
-      <description>Tool can pinpoint disease-relevant cell types across many complex conditions The number of people living with dementia worldwide was estimated at 57 million in 2021 with nearly 10 million new cases re</description>
-      <pubDate>Thu, 23 Oct 2025 11:26:34 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/algorithm-maps-genetic-connection-between-alzheimers-and-specific-neurons/</guid>
-    </item>
-    
-    <item>
-      <title>Nanostraw electroporation for temporal RNA sampling from living 2D and 3D cell culture systems</title>
-      <link>https://www.rna-seqblog.com/nanostraw-electroporation-for-temporal-rna-sampling-from-living-2d-and-3d-cell-culture-systems/</link>
-      <description>Scientists have long faced a major challenge when studying how genes behave inside living cells: to measure gene activity, they usually have to destroy the cells. Traditional methods of RNA extraction</description>
-      <pubDate>Thu, 23 Oct 2025 11:26:16 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/nanostraw-electroporation-for-temporal-rna-sampling-from-living-2d-and-3d-cell-culture-systems/</guid>
     </item>
     
     <item>
