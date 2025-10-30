@@ -4,8 +4,26 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Wed, 29 Oct 2025 06:37:03 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 30 Oct 2025 06:35:07 +0000</lastBuildDate>
   
+    <item>
+      <title>Matching gene expression to metabolite production in single plant cells</title>
+      <link>https://www.rna-seqblog.com/matching-gene-expression-to-metabolite-production-in-single-plant-cells/</link>
+      <description>Researchers combined single-cell RNA sequencing with mass spectrometry to analyze gene expression and metabolite profiles in the same plant cell, offering new insights into...</description>
+      <pubDate>Wed, 29 Oct 2025 11:28:30 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/matching-gene-expression-to-metabolite-production-in-single-plant-cells/</guid>
+    </item>
+    
+    <item>
+      <title>P-body-seq permits comprehensive profiling of P-body contents</title>
+      <link>https://www.rna-seqblog.com/p-body-seq-permits-comprehensive-profiling-of-p-body-contents/</link>
+      <description>Researchers used RNA sequencing to show how RNA condensates called P-bodies control stem cell fate by storing untranslated RNAs that guide developmental decisions across vertebrate species..</description>
+      <pubDate>Wed, 29 Oct 2025 11:28:07 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/p-body-seq-permits-comprehensive-profiling-of-p-body-contents/</guid>
+    </item>
+    
     <item>
       <title>New Single cell Methods Guide 2025</title>
       <link>https://www.rna-seqblog.com/new-single-cell-methods-guide-2025/</link>
@@ -18,7 +36,7 @@
     <item>
       <title>CytoTRACE 2 – improved reconstruction of single-cell developmental potential</title>
       <link>https://www.rna-seqblog.com/cytotrace-2-improved-reconstruction-of-single-cell-developmental-potential/</link>
-      <description>CytoTRACE 2 uses deep learning and RNA sequencing to more accurately predict how individual cells develop and specialize, offering new insights into cell fate and potency....</description>
+      <description>Researchers at Stanford University, have introduced a powerful new computational framework called CytoTRACE 2 that improves our ability to predict how individual cells develop and specialize. This inn</description>
       <pubDate>Mon, 27 Oct 2025 11:24:03 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/cytotrace-2-improved-reconstruction-of-single-cell-developmental-potential/</guid>
@@ -27,28 +45,10 @@
     <item>
       <title>OpenPedCan expands access to pediatric cancer data for researchers worldwide</title>
       <link>https://www.rna-seqblog.com/openpedcan-expands-access-to-pediatric-cancer-data-for-researchers-worldwide/</link>
-      <description>The OpenPedCan Project harmonizes genomic and clinical data from over 6,000 pediatric tumors across 100 cancer types, creating an open-access resource to advance...</description>
+      <description>The OpenPedCan Project harmonizes genomic and clinical data from over 6,000 pediatric tumors across 100 cancer types, creating an open-access resource to advance collaboration and accelerate childhood</description>
       <pubDate>Mon, 27 Oct 2025 11:23:56 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/openpedcan-expands-access-to-pediatric-cancer-data-for-researchers-worldwide/</guid>
-    </item>
-    
-    <item>
-      <title>Unlocking the regulatory code of RNA: launching the Human RNome Project</title>
-      <link>https://www.rna-seqblog.com/unlocking-the-regulatory-code-of-rna-launching-the-human-rnome-project/</link>
-      <description>Researchers around the world are embarking on an ambitious global effort known as the Human RNome Project, a groundbreaking initiative led by the International Human RNome Project Consortium, which in</description>
-      <pubDate>Fri, 24 Oct 2025 11:27:14 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/unlocking-the-regulatory-code-of-rna-launching-the-human-rnome-project/</guid>
-    </item>
-    
-    <item>
-      <title>Glial diversity revealed through RNA sequencing across brain regions and species</title>
-      <link>https://www.rna-seqblog.com/glial-diversity-revealed-through-rna-sequencing-across-brain-regions-and-species/</link>
-      <description>Salk Institute study suggests glia may play a larger role in shaping neural circuit function than was previously appreciated Histology reveals the organization of neurons (white), astrocytes (red), an</description>
-      <pubDate>Fri, 24 Oct 2025 11:26:57 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/glial-diversity-revealed-through-rna-sequencing-across-brain-regions-and-species/</guid>
     </item>
     
     <item>
