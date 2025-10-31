@@ -4,8 +4,26 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Thu, 30 Oct 2025 06:35:07 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 31 Oct 2025 06:35:31 +0000</lastBuildDate>
   
+    <item>
+      <title>Bioinformatics perspectives on transcriptomics: A comprehensive review of bulk and single-cell RNA sequencing analyses</title>
+      <link>https://www.rna-seqblog.com/bioinformatics-perspectives-on-transcriptomics-a-comprehensive-review-of-bulk-and-single-cell-rna-sequencing-analyses/</link>
+      <description>RNA sequencing technologies reveal how gene expression varies across tissues and individual cells, offering new insights into biology through advanced bioinformatics and computational...</description>
+      <pubDate>Thu, 30 Oct 2025 11:29:25 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/bioinformatics-perspectives-on-transcriptomics-a-comprehensive-review-of-bulk-and-single-cell-rna-sequencing-analyses/</guid>
+    </item>
+    
+    <item>
+      <title>MultiGATE – integrative analysis and regulatory inference in spatial multi-omics data via graph representation learning</title>
+      <link>https://www.rna-seqblog.com/multigate-integrative-analysis-and-regulatory-inference-in-spatial-multi-omics-data-via-graph-representation-learning/</link>
+      <description>RNA sequencing combined with spatial multi-omics and AI-driven analysis enables deeper insights into transcriptional regulation and cellular organization within tissues...</description>
+      <pubDate>Thu, 30 Oct 2025 11:29:13 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/multigate-integrative-analysis-and-regulatory-inference-in-spatial-multi-omics-data-via-graph-representation-learning/</guid>
+    </item>
+    
     <item>
       <title>Matching gene expression to metabolite production in single plant cells</title>
       <link>https://www.rna-seqblog.com/matching-gene-expression-to-metabolite-production-in-single-plant-cells/</link>
@@ -18,7 +36,7 @@
     <item>
       <title>P-body-seq permits comprehensive profiling of P-body contents</title>
       <link>https://www.rna-seqblog.com/p-body-seq-permits-comprehensive-profiling-of-p-body-contents/</link>
-      <description>Researchers used RNA sequencing to show how RNA condensates called P-bodies control stem cell fate by storing untranslated RNAs that guide developmental decisions across vertebrate species..</description>
+      <description>A team led by researchers at Baylor College of Medicine has uncovered a surprising mechanism that helps determine how stem cells decide what type of cell they will become. Their work focuses on RNA co</description>
       <pubDate>Wed, 29 Oct 2025 11:28:07 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/p-body-seq-permits-comprehensive-profiling-of-p-body-contents/</guid>
@@ -27,28 +45,10 @@
     <item>
       <title>New Single cell Methods Guide 2025</title>
       <link>https://www.rna-seqblog.com/new-single-cell-methods-guide-2025/</link>
-      <description>Illumina’s latest Single Cell Methods Guide explores how single cell and RNA sequencing innovations are advancing multiomic research and enabling large-scale analysis of complex biological systems...</description>
+      <description>New guide for emerging single cell methods: Methyl-Seq, CRISPR-Cas9 Screening, Gene Expression, ATAC-Seq, Multiomics, and more! Single cell sequencing is changing rapidly, with new methods that enable</description>
       <pubDate>Mon, 27 Oct 2025 11:24:20 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/new-single-cell-methods-guide-2025/</guid>
-    </item>
-    
-    <item>
-      <title>CytoTRACE 2 – improved reconstruction of single-cell developmental potential</title>
-      <link>https://www.rna-seqblog.com/cytotrace-2-improved-reconstruction-of-single-cell-developmental-potential/</link>
-      <description>Researchers at Stanford University, have introduced a powerful new computational framework called CytoTRACE 2 that improves our ability to predict how individual cells develop and specialize. This inn</description>
-      <pubDate>Mon, 27 Oct 2025 11:24:03 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/cytotrace-2-improved-reconstruction-of-single-cell-developmental-potential/</guid>
-    </item>
-    
-    <item>
-      <title>OpenPedCan expands access to pediatric cancer data for researchers worldwide</title>
-      <link>https://www.rna-seqblog.com/openpedcan-expands-access-to-pediatric-cancer-data-for-researchers-worldwide/</link>
-      <description>The OpenPedCan Project harmonizes genomic and clinical data from over 6,000 pediatric tumors across 100 cancer types, creating an open-access resource to advance collaboration and accelerate childhood</description>
-      <pubDate>Mon, 27 Oct 2025 11:23:56 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/openpedcan-expands-access-to-pediatric-cancer-data-for-researchers-worldwide/</guid>
     </item>
     
     <item>
