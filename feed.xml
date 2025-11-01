@@ -4,12 +4,66 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Fri, 31 Oct 2025 06:35:31 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 01 Nov 2025 06:31:57 +0000</lastBuildDate>
   
+    <item>
+      <title>Bioconductor 3.22 Released</title>
+      <link>https://blog.stephenturner.us/p/bioconductor-3-22</link>
+      <description>59 new software packages, updates for genomics, single-cell transcriptomics, spatial omics, QC tooling, core I/O, GFF/CIGAR handling, much more.</description>
+      <pubDate>Fri, 31 Oct 2025 15:26:35 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/bioconductor-3-22</guid>
+    </item>
+    
+    <item>
+      <title>sysVI – integrating single-cell RNA-seq datasets with substantial batch effects</title>
+      <link>https://www.rna-seqblog.com/sysvi-integrating-single-cell-rna-seq-datasets-with-substantial-batch-effects/</link>
+      <description>Researchers at Helmholtz Munich developed sysVI, a machine learning method that improves integration of RNA sequencing data across diverse systems while preserving vital...</description>
+      <pubDate>Fri, 31 Oct 2025 11:29:47 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/sysvi-integrating-single-cell-rna-seq-datasets-with-substantial-batch-effects/</guid>
+    </item>
+    
+    <item>
+      <title>RNA sequencing reveals age-related changes in T cells that weaken vaccine responses</title>
+      <link>https://www.rna-seqblog.com/how-rna-sequencing-reveals-age-related-changes-in-t-cells-that-weaken-vaccine-responses/</link>
+      <description>Researchers used single-cell RNA sequencing to reveal how aging alters T cell function, explaining weaker vaccine responses in older adults and guiding future vaccine innovations...</description>
+      <pubDate>Fri, 31 Oct 2025 11:29:38 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/how-rna-sequencing-reveals-age-related-changes-in-t-cells-that-weaken-vaccine-responses/</guid>
+    </item>
+    
+    <item>
+      <title>Single-Cell Splicing EStimation – deciphering splicing heterogeneity at single-cell resolution</title>
+      <link>https://www.rna-seqblog.com/single-cell-splicing-estimation-deciphering-splicing-heterogeneity-at-single-cell-resolution/</link>
+      <description>Researchers developed SCSES, a computational tool that enhances RNA sequencing data by accurately detecting alternative splicing and revealing hidden cellular diversity...</description>
+      <pubDate>Fri, 31 Oct 2025 11:28:09 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/single-cell-splicing-estimation-deciphering-splicing-heterogeneity-at-single-cell-resolution/</guid>
+    </item>
+    
+    <item>
+      <title>Weekly Recap (Oct 31, 2025)</title>
+      <link>https://blog.stephenturner.us/p/weekly-recap-oct-31-2025</link>
+      <description>AI in science, Quarto, biodiversity, changed grant titles, new papers &amp; preprints, Nextflow plugin registry, Via Scientific, R updates from R Data Scientist, rOpenSci, Posit, R Weekly, and R Works &amp;#1</description>
+      <pubDate>Fri, 31 Oct 2025 09:30:52 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/weekly-recap-oct-31-2025</guid>
+    </item>
+    
+    <item>
+      <title>Traitors null hypothesis</title>
+      <link>https://www.johnlees.me/posts/traitors/</link>
+      <description>&lt;p&gt;The rest of the UK and I have been watching &lt;a href="https://www.bbc.co.uk/iplayer/episodes/m002csng/the-celebrity-traitors" rel="noopener noreffer " target="_blank"&gt;the Celebrity Traitors&lt;/a&gt; over</description>
+      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+      <source>John Lees' blog</source>
+      <guid>https://www.johnlees.me/posts/traitors/</guid>
+    </item>
+    
     <item>
       <title>Bioinformatics perspectives on transcriptomics: A comprehensive review of bulk and single-cell RNA sequencing analyses</title>
       <link>https://www.rna-seqblog.com/bioinformatics-perspectives-on-transcriptomics-a-comprehensive-review-of-bulk-and-single-cell-rna-sequencing-analyses/</link>
-      <description>RNA sequencing technologies reveal how gene expression varies across tissues and individual cells, offering new insights into biology through advanced bioinformatics and computational...</description>
+      <description>Researchers from the Yucatan Scientific Research Center have published an insightful review examining how advances in RNA sequencing (RNA-seq) technologies are revolutionizing the field of transcripto</description>
       <pubDate>Thu, 30 Oct 2025 11:29:25 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/bioinformatics-perspectives-on-transcriptomics-a-comprehensive-review-of-bulk-and-single-cell-rna-sequencing-analyses/</guid>
@@ -18,37 +72,19 @@
     <item>
       <title>MultiGATE – integrative analysis and regulatory inference in spatial multi-omics data via graph representation learning</title>
       <link>https://www.rna-seqblog.com/multigate-integrative-analysis-and-regulatory-inference-in-spatial-multi-omics-data-via-graph-representation-learning/</link>
-      <description>RNA sequencing combined with spatial multi-omics and AI-driven analysis enables deeper insights into transcriptional regulation and cellular organization within tissues...</description>
+      <description>Researchers from the Chinese University of Hong Kong have introduced an innovative approach called MultiGATE, designed to integrate complex spatial multi-omics data. Spatial multi-omics combines infor</description>
       <pubDate>Thu, 30 Oct 2025 11:29:13 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/multigate-integrative-analysis-and-regulatory-inference-in-spatial-multi-omics-data-via-graph-representation-learning/</guid>
     </item>
     
     <item>
-      <title>Matching gene expression to metabolite production in single plant cells</title>
-      <link>https://www.rna-seqblog.com/matching-gene-expression-to-metabolite-production-in-single-plant-cells/</link>
-      <description>Researchers combined single-cell RNA sequencing with mass spectrometry to analyze gene expression and metabolite profiles in the same plant cell, offering new insights into...</description>
-      <pubDate>Wed, 29 Oct 2025 11:28:30 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/matching-gene-expression-to-metabolite-production-in-single-plant-cells/</guid>
-    </item>
-    
-    <item>
-      <title>P-body-seq permits comprehensive profiling of P-body contents</title>
-      <link>https://www.rna-seqblog.com/p-body-seq-permits-comprehensive-profiling-of-p-body-contents/</link>
-      <description>A team led by researchers at Baylor College of Medicine has uncovered a surprising mechanism that helps determine how stem cells decide what type of cell they will become. Their work focuses on RNA co</description>
-      <pubDate>Wed, 29 Oct 2025 11:28:07 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/p-body-seq-permits-comprehensive-profiling-of-p-body-contents/</guid>
-    </item>
-    
-    <item>
-      <title>New Single cell Methods Guide 2025</title>
-      <link>https://www.rna-seqblog.com/new-single-cell-methods-guide-2025/</link>
-      <description>New guide for emerging single cell methods: Methyl-Seq, CRISPR-Cas9 Screening, Gene Expression, ATAC-Seq, Multiomics, and more! Single cell sequencing is changing rapidly, with new methods that enable</description>
-      <pubDate>Mon, 27 Oct 2025 11:24:20 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/new-single-cell-methods-guide-2025/</guid>
+      <title>Understanding prcomp() center and scale Arguments for Single-Cell RNA-seq PCA</title>
+      <link>https://divingintogeneticsandgenomics.com/post/understanding-prcomp-center-scale-arguments/</link>
+      <description>&lt;p&gt;During my work with single-cell RNA-seq data, I’ve often encountered confusion about PCA and specifically when to use the &lt;code&gt;center&lt;/code&gt; and &lt;code&gt;scale&lt;/code&gt; arguments in R’s &lt;code&gt;prcomp()&lt;</description>
+      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
+      <source>Chatomics on Chatomics</source>
+      <guid>https://divingintogeneticsandgenomics.com/post/understanding-prcomp-center-scale-arguments/</guid>
     </item>
     
     <item>
@@ -76,24 +112,6 @@
       <pubDate>Fri, 17 Oct 2025 12:35:55 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/weekly-recap-oct-17-2025</guid>
-    </item>
-    
-    <item>
-      <title>Most graduate students propose to do too much</title>
-      <link>https://blog.stephenturner.us/p/most-graduate-students-propose-to</link>
-      <description>Quoting Claus Wilke</description>
-      <pubDate>Thu, 16 Oct 2025 17:44:23 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/most-graduate-students-propose-to</guid>
-    </item>
-    
-    <item>
-      <title>Asymmetries in Biosecurity</title>
-      <link>https://blog.stephenturner.us/p/asymmetries-in-biosecurity</link>
-      <description>RAND Report: Why biology still favors the offense in biosecurity</description>
-      <pubDate>Wed, 15 Oct 2025 18:56:11 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/asymmetries-in-biosecurity</guid>
     </item>
     
     <item>
@@ -312,17 +330,6 @@ Roche released </description>
     </item>
     
     <item>
-      <title>How to create a GenomicRanges object in Bioconductor using canonical transcripts</title>
-      <link>https://divingintogeneticsandgenomics.com/post/canonical-tx/</link>
-      <description>&lt;p&gt;&lt;strong&gt;To not miss a post like this, sign up for my &lt;a href="https://divingintogeneticsandgenomics.ck.page/profile"&gt;newsletter&lt;/a&gt; to learn computational
-biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
-&lt;</description>
-      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
-      <source>Chatomics on Chatomics</source>
-      <guid>https://divingintogeneticsandgenomics.com/post/canonical-tx/</guid>
-    </item>
-    
-    <item>
       <title>Analyzing ICE Detention Data from 2021 to 2025</title>
       <link>http://jefworks-lab.github.io//blog/2025/07/10/analyzing-ice-detention-data/</link>
       <description>The ability to code and explore big datasets are generally useful skills that transfer well beyond our work of biomedical spatial omics analysis. In this blog post, I analyze publicly available datase</description>
@@ -451,15 +458,6 @@ It is similar to STAR in resource </description>
       <pubDate>2025-02-07T00:00:00+00:00</pubDate>
       <source>Ryan Wick’s bioinformatics blog</source>
       <guid>https://rrwick.github.io/2025/02/07/dorado-polish.html</guid>
-    </item>
-    
-    <item>
-      <title>Reflections and rants after three years of being a journal editor</title>
-      <link>https://www.johnlees.me/posts/mgen-editor/</link>
-      <description>&lt;p&gt;Over the past three years I&amp;rsquo;ve served as an Editor for the &lt;del&gt;American Joᴜrnαl of Traffic and Transportation Engineering&lt;/del&gt;&lt;sup id="fnref:1"&gt;&lt;a class="footnote-ref" href="https://www.joh</description>
-      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
-      <source>John Lees' blog</source>
-      <guid>https://www.johnlees.me/posts/mgen-editor/</guid>
     </item>
     
     <item>
