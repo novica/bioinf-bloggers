@@ -4,8 +4,44 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Mon, 03 Nov 2025 06:37:12 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 04 Nov 2025 06:36:25 +0000</lastBuildDate>
   
+    <item>
+      <title>Decoding interferon signaling in kidney cancer with single-cell RNA sequencing</title>
+      <link>https://www.rna-seqblog.com/decoding-interferon-signaling-in-kidney-cancer-with-single-cell-rna-sequencing/</link>
+      <description>Single-cell RNA sequencing reveals how interferon signaling in macrophages drives resistance to immunotherapy in renal cell carcinoma, offering new insights for biomarker discovery and treatment strat</description>
+      <pubDate>Mon, 03 Nov 2025 12:53:52 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/decoding-interferon-signaling-in-kidney-cancer-with-single-cell-rna-sequencing/</guid>
+    </item>
+    
+    <item>
+      <title>isoLASER -long-read RNA-seq demarcates cis- and trans-directed alternative RNA splicing</title>
+      <link>https://www.rna-seqblog.com/isolaser-long-read-rna-seq-demarcates-cis-and-trans-directed-alternative-rna-splicing/</link>
+      <description>RNA sequencing using long-read technology reveals how cis- and trans-acting elements control splicing in disease-related genes including MAPT and BIN1...</description>
+      <pubDate>Mon, 03 Nov 2025 12:15:49 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/isolaser-long-read-rna-seq-demarcates-cis-and-trans-directed-alternative-rna-splicing/</guid>
+    </item>
+    
+    <item>
+      <title>From bench to bioinformatics: networking the next generation in genetic sequencing</title>
+      <link>https://www.rna-seqblog.com/from-bench-to-bioinformatics-networking-the-next-generation-in-genetic-sequencing/</link>
+      <description>RNA sequencing advances are empowering veterinary diagnosticians to detect emerging pathogens faster and improve animal health surveillance through hands-on training in next-generation sequencing and </description>
+      <pubDate>Mon, 03 Nov 2025 12:15:35 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/from-bench-to-bioinformatics-networking-the-next-generation-in-genetic-sequencing/</guid>
+    </item>
+    
+    <item>
+      <title>WIRED: AI of a Thousand Faces</title>
+      <link>https://blog.stephenturner.us/p/wired-ai-of-a-thousand-faces</link>
+      <description>WIRED published a special issue with 17 readings from the furthest reaches of the AI age</description>
+      <pubDate>Mon, 03 Nov 2025 11:10:23 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/wired-ai-of-a-thousand-faces</guid>
+    </item>
+    
     <item>
       <title>Bioconductor 3.22 Released</title>
       <link>https://blog.stephenturner.us/p/bioconductor-3-22</link>
@@ -27,19 +63,10 @@
     <item>
       <title>RNA sequencing reveals age-related changes in T cells that weaken vaccine responses</title>
       <link>https://www.rna-seqblog.com/how-rna-sequencing-reveals-age-related-changes-in-t-cells-that-weaken-vaccine-responses/</link>
-      <description>Researchers used single-cell RNA sequencing to reveal how aging alters T cell function, explaining weaker vaccine responses in older adults and guiding future vaccine innovations...</description>
+      <description>As flu season approaches and public health officials roll out their annual push for vaccination, Allen Institute scientists are learning why vaccines can trigger a weaker response in older adults, aro</description>
       <pubDate>Fri, 31 Oct 2025 11:29:38 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/how-rna-sequencing-reveals-age-related-changes-in-t-cells-that-weaken-vaccine-responses/</guid>
-    </item>
-    
-    <item>
-      <title>Single-Cell Splicing EStimation – deciphering splicing heterogeneity at single-cell resolution</title>
-      <link>https://www.rna-seqblog.com/single-cell-splicing-estimation-deciphering-splicing-heterogeneity-at-single-cell-resolution/</link>
-      <description>Researchers developed SCSES, a computational tool that enhances RNA sequencing data by accurately detecting alternative splicing and revealing hidden cellular diversity...</description>
-      <pubDate>Fri, 31 Oct 2025 11:28:09 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/single-cell-splicing-estimation-deciphering-splicing-heterogeneity-at-single-cell-resolution/</guid>
     </item>
     
     <item>
@@ -58,24 +85,6 @@
       <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
       <source>John Lees' blog</source>
       <guid>https://www.johnlees.me/posts/traitors/</guid>
-    </item>
-    
-    <item>
-      <title>Bioinformatics perspectives on transcriptomics: A comprehensive review of bulk and single-cell RNA sequencing analyses</title>
-      <link>https://www.rna-seqblog.com/bioinformatics-perspectives-on-transcriptomics-a-comprehensive-review-of-bulk-and-single-cell-rna-sequencing-analyses/</link>
-      <description>Researchers from the Yucatan Scientific Research Center have published an insightful review examining how advances in RNA sequencing (RNA-seq) technologies are revolutionizing the field of transcripto</description>
-      <pubDate>Thu, 30 Oct 2025 11:29:25 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/bioinformatics-perspectives-on-transcriptomics-a-comprehensive-review-of-bulk-and-single-cell-rna-sequencing-analyses/</guid>
-    </item>
-    
-    <item>
-      <title>MultiGATE – integrative analysis and regulatory inference in spatial multi-omics data via graph representation learning</title>
-      <link>https://www.rna-seqblog.com/multigate-integrative-analysis-and-regulatory-inference-in-spatial-multi-omics-data-via-graph-representation-learning/</link>
-      <description>Researchers from the Chinese University of Hong Kong have introduced an innovative approach called MultiGATE, designed to integrate complex spatial multi-omics data. Spatial multi-omics combines infor</description>
-      <pubDate>Thu, 30 Oct 2025 11:29:13 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/multigate-integrative-analysis-and-regulatory-inference-in-spatial-multi-omics-data-via-graph-representation-learning/</guid>
     </item>
     
     <item>
@@ -103,15 +112,6 @@
       <pubDate>Thu, 23 Oct 2025 12:36:53 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/switching-word-processors-with-zotero</guid>
-    </item>
-    
-    <item>
-      <title>Weekly recap (Oct 17, 2025)</title>
-      <link>https://blog.stephenturner.us/p/weekly-recap-oct-17-2025</link>
-      <description>Bioconductor on GPUs, tidyomics, Quarto 1.8, Anthropic red-teaming on AIxBio, PGS in the clinic, Shock Doctrine in genome engineering, GenAI for data viz with R, Datapalooza, 4 compact rejections</description>
-      <pubDate>Fri, 17 Oct 2025 12:35:55 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/weekly-recap-oct-17-2025</guid>
     </item>
     
     <item>
