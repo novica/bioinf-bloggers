@@ -4,8 +4,44 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Tue, 04 Nov 2025 06:36:25 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 05 Nov 2025 06:35:45 +0000</lastBuildDate>
   
+    <item>
+      <title>Nineteen</title>
+      <link>https://omicsomics.blogspot.com/2025/11/nineteen.html</link>
+      <description>If I had been more atop things, I would have written this just under a week ago, on the nineteenth anniversary of my starting to write in this space.  That's a milestone, and actually writing somethin</description>
+      <pubDate>2025-11-04T23:16:00.001-05:00</pubDate>
+      <source>Omics! Omics!</source>
+      <guid>https://omicsomics.blogspot.com/2025/11/nineteen.html</guid>
+    </item>
+    
+    <item>
+      <title>Nicheformer – a new foundation model that reveals how cells are organized in tissues</title>
+      <link>https://www.rna-seqblog.com/nicheformer-a-new-foundation-model-that-reveals-how-cells-are-organized-in-tissues/</link>
+      <description>RNA sequencing combined with spatial transcriptomics allows Nicheformer to reconstruct cellular neighborhoods, revealing how tissue structure and gene expression are...</description>
+      <pubDate>Tue, 04 Nov 2025 12:24:03 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/nicheformer-a-new-foundation-model-that-reveals-how-cells-are-organized-in-tissues/</guid>
+    </item>
+    
+    <item>
+      <title>KATMAP infers splicing factor activity and regulatory targets from knockdown data</title>
+      <link>https://www.rna-seqblog.com/katmap-infers-splicing-factor-activity-and-regulatory-targets-from-knockdown-data/</link>
+      <description>RNA sequencing reveals how KATMAP predicts splicing factor activity and regulatory targets, offering new insights into RNA processing and gene regulation...</description>
+      <pubDate>Tue, 04 Nov 2025 12:23:51 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/katmap-infers-splicing-factor-activity-and-regulatory-targets-from-knockdown-data/</guid>
+    </item>
+    
+    <item>
+      <title>Answer ALS completes release of full dataset and integrates ALS TDI ARC study data into Neuromine</title>
+      <link>https://www.rna-seqblog.com/answer-als-completes-release-of-full-dataset-and-integrates-als-tdi-arc-study-data-into-neuromine/</link>
+      <description>Answer ALS and ALS TDI data integration in Neuromine offers researchers RNA sequencing and multi-omics insights from over 2,500 ALS patient profiles to accelerate therapy...</description>
+      <pubDate>Tue, 04 Nov 2025 12:10:41 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/answer-als-completes-release-of-full-dataset-and-integrates-als-tdi-arc-study-data-into-neuromine/</guid>
+    </item>
+    
     <item>
       <title>Decoding interferon signaling in kidney cancer with single-cell RNA sequencing</title>
       <link>https://www.rna-seqblog.com/decoding-interferon-signaling-in-kidney-cancer-with-single-cell-rna-sequencing/</link>
@@ -18,19 +54,10 @@
     <item>
       <title>isoLASER -long-read RNA-seq demarcates cis- and trans-directed alternative RNA splicing</title>
       <link>https://www.rna-seqblog.com/isolaser-long-read-rna-seq-demarcates-cis-and-trans-directed-alternative-rna-splicing/</link>
-      <description>RNA sequencing using long-read technology reveals how cis- and trans-acting elements control splicing in disease-related genes including MAPT and BIN1...</description>
+      <description>Researchers at UCLA have made a significant advance in understanding how genes influence RNA splicing, a fundamental process that determines how genetic information is used to make proteins. RNA splic</description>
       <pubDate>Mon, 03 Nov 2025 12:15:49 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/isolaser-long-read-rna-seq-demarcates-cis-and-trans-directed-alternative-rna-splicing/</guid>
-    </item>
-    
-    <item>
-      <title>From bench to bioinformatics: networking the next generation in genetic sequencing</title>
-      <link>https://www.rna-seqblog.com/from-bench-to-bioinformatics-networking-the-next-generation-in-genetic-sequencing/</link>
-      <description>RNA sequencing advances are empowering veterinary diagnosticians to detect emerging pathogens faster and improve animal health surveillance through hands-on training in next-generation sequencing and </description>
-      <pubDate>Mon, 03 Nov 2025 12:15:35 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/from-bench-to-bioinformatics-networking-the-next-generation-in-genetic-sequencing/</guid>
     </item>
     
     <item>
@@ -49,24 +76,6 @@
       <pubDate>Fri, 31 Oct 2025 15:26:35 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/bioconductor-3-22</guid>
-    </item>
-    
-    <item>
-      <title>sysVI – integrating single-cell RNA-seq datasets with substantial batch effects</title>
-      <link>https://www.rna-seqblog.com/sysvi-integrating-single-cell-rna-seq-datasets-with-substantial-batch-effects/</link>
-      <description>Researchers at Helmholtz Munich developed sysVI, a machine learning method that improves integration of RNA sequencing data across diverse systems while preserving vital...</description>
-      <pubDate>Fri, 31 Oct 2025 11:29:47 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/sysvi-integrating-single-cell-rna-seq-datasets-with-substantial-batch-effects/</guid>
-    </item>
-    
-    <item>
-      <title>RNA sequencing reveals age-related changes in T cells that weaken vaccine responses</title>
-      <link>https://www.rna-seqblog.com/how-rna-sequencing-reveals-age-related-changes-in-t-cells-that-weaken-vaccine-responses/</link>
-      <description>As flu season approaches and public health officials roll out their annual push for vaccination, Allen Institute scientists are learning why vaccines can trigger a weaker response in older adults, aro</description>
-      <pubDate>Fri, 31 Oct 2025 11:29:38 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/how-rna-sequencing-reveals-age-related-changes-in-t-cells-that-weaken-vaccine-responses/</guid>
     </item>
     
     <item>
@@ -336,15 +345,6 @@ Roche released </description>
       <pubDate>2025-07-10T00:00:00+00:00</pubDate>
       <source>JEFworks Lab</source>
       <guid>http://jefworks-lab.github.io//blog/2025/07/10/analyzing-ice-detention-data/</guid>
-    </item>
-    
-    <item>
-      <title>Could It Have Been Found With Short Reads?</title>
-      <link>https://omicsomics.blogspot.com/2025/06/could-it-have-been-found-with-short.html</link>
-      <description>&lt;div&gt;Initially, the ESHG program was overwhelming.  With the exception of the official opening and closing sessions, every timeslot had multiple parallel sessions - and sometimes those also had compet</description>
-      <pubDate>2025-06-29T22:56:00.001-04:00</pubDate>
-      <source>Omics! Omics!</source>
-      <guid>https://omicsomics.blogspot.com/2025/06/could-it-have-been-found-with-short.html</guid>
     </item>
     
     <item>
