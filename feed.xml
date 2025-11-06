@@ -4,8 +4,35 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Wed, 05 Nov 2025 06:35:45 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 06 Nov 2025 06:36:00 +0000</lastBuildDate>
   
+    <item>
+      <title>Stress hormones silence key brain genes through chromatin-bound RNAs, study reveals</title>
+      <link>https://www.rna-seqblog.com/stress-hormones-silence-key-brain-genes-through-chromatin-bound-rnas-study-reveals/</link>
+      <description>RNA sequencing reveals how stress hormones trigger chromatin silencing through lncRNAs that recruit PRC2, uncovering an epigenetic pathway linking stress signaling to altered neuronal gene expression.</description>
+      <pubDate>Wed, 05 Nov 2025 12:44:15 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/stress-hormones-silence-key-brain-genes-through-chromatin-bound-rnas-study-reveals/</guid>
+    </item>
+    
+    <item>
+      <title>DirectRM – integrated detection of landscape and crosstalk between multiple RNA modifications using direct RNA sequencing</title>
+      <link>https://www.rna-seqblog.com/directrm-integrated-detection-of-landscape-and-crosstalk-between-multiple-rna-modifications-using-direct-rna-sequencing/</link>
+      <description>RNA sequencing with DirectRM reveals how multiple RNA modifications interact within transcripts and molecules, offering a new way to explore the complexity of the...</description>
+      <pubDate>Wed, 05 Nov 2025 12:44:06 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/directrm-integrated-detection-of-landscape-and-crosstalk-between-multiple-rna-modifications-using-direct-rna-sequencing/</guid>
+    </item>
+    
+    <item>
+      <title>Scientific Director of Clinical NGS</title>
+      <link>https://www.rna-seqblog.com/scientific-director-of-clinical-ngs-2/</link>
+      <description>Memorial Sloan Kettering is hiring a Scientific Director of Clinical NGS to advance RNA sequencing and NGS-based cancer diagnostics, enabling precise tumor profiling, non-invasive testing, and persona</description>
+      <pubDate>Wed, 05 Nov 2025 12:40:48 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/scientific-director-of-clinical-ngs-2/</guid>
+    </item>
+    
     <item>
       <title>Nineteen</title>
       <link>https://omicsomics.blogspot.com/2025/11/nineteen.html</link>
@@ -18,7 +45,7 @@
     <item>
       <title>Nicheformer – a new foundation model that reveals how cells are organized in tissues</title>
       <link>https://www.rna-seqblog.com/nicheformer-a-new-foundation-model-that-reveals-how-cells-are-organized-in-tissues/</link>
-      <description>RNA sequencing combined with spatial transcriptomics allows Nicheformer to reconstruct cellular neighborhoods, revealing how tissue structure and gene expression are...</description>
+      <description>Missing Context in Single-Cell Data Single-cell RNA sequencing has transformed biology by showing which genes are active in individual cells. However, this approach requires cells to be removed from t</description>
       <pubDate>Tue, 04 Nov 2025 12:24:03 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/nicheformer-a-new-foundation-model-that-reveals-how-cells-are-organized-in-tissues/</guid>
@@ -27,37 +54,10 @@
     <item>
       <title>KATMAP infers splicing factor activity and regulatory targets from knockdown data</title>
       <link>https://www.rna-seqblog.com/katmap-infers-splicing-factor-activity-and-regulatory-targets-from-knockdown-data/</link>
-      <description>RNA sequencing reveals how KATMAP predicts splicing factor activity and regulatory targets, offering new insights into RNA processing and gene regulation...</description>
+      <description>Researchers at the Massachusetts Institute of Technology have introduced a new computational framework called KATMAP that helps scientists uncover how specific proteins known as splicing factors contr</description>
       <pubDate>Tue, 04 Nov 2025 12:23:51 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/katmap-infers-splicing-factor-activity-and-regulatory-targets-from-knockdown-data/</guid>
-    </item>
-    
-    <item>
-      <title>Answer ALS completes release of full dataset and integrates ALS TDI ARC study data into Neuromine</title>
-      <link>https://www.rna-seqblog.com/answer-als-completes-release-of-full-dataset-and-integrates-als-tdi-arc-study-data-into-neuromine/</link>
-      <description>Answer ALS and ALS TDI data integration in Neuromine offers researchers RNA sequencing and multi-omics insights from over 2,500 ALS patient profiles to accelerate therapy...</description>
-      <pubDate>Tue, 04 Nov 2025 12:10:41 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/answer-als-completes-release-of-full-dataset-and-integrates-als-tdi-arc-study-data-into-neuromine/</guid>
-    </item>
-    
-    <item>
-      <title>Decoding interferon signaling in kidney cancer with single-cell RNA sequencing</title>
-      <link>https://www.rna-seqblog.com/decoding-interferon-signaling-in-kidney-cancer-with-single-cell-rna-sequencing/</link>
-      <description>Single-cell RNA sequencing reveals how interferon signaling in macrophages drives resistance to immunotherapy in renal cell carcinoma, offering new insights for biomarker discovery and treatment strat</description>
-      <pubDate>Mon, 03 Nov 2025 12:53:52 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/decoding-interferon-signaling-in-kidney-cancer-with-single-cell-rna-sequencing/</guid>
-    </item>
-    
-    <item>
-      <title>isoLASER -long-read RNA-seq demarcates cis- and trans-directed alternative RNA splicing</title>
-      <link>https://www.rna-seqblog.com/isolaser-long-read-rna-seq-demarcates-cis-and-trans-directed-alternative-rna-splicing/</link>
-      <description>Researchers at UCLA have made a significant advance in understanding how genes influence RNA splicing, a fundamental process that determines how genetic information is used to make proteins. RNA splic</description>
-      <pubDate>Mon, 03 Nov 2025 12:15:49 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/isolaser-long-read-rna-seq-demarcates-cis-and-trans-directed-alternative-rna-splicing/</guid>
     </item>
     
     <item>
