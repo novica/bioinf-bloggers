@@ -4,12 +4,39 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Thu, 06 Nov 2025 06:36:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 07 Nov 2025 06:36:10 +0000</lastBuildDate>
   
+    <item>
+      <title>Researchers introduce a new tool for more accurate RNA modification detection from nanopore signals</title>
+      <link>https://www.rna-seqblog.com/researchers-introduce-a-new-tool-for-more-accurate-rna-modification-detection-from-nanopore-signals/</link>
+      <description>Researchers used RNA sequencing data to develop SegPore, a computational model that improves the accuracy of RNA modification detection from direct nanopore sequencing...</description>
+      <pubDate>Thu, 06 Nov 2025 12:32:09 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/researchers-introduce-a-new-tool-for-more-accurate-rna-modification-detection-from-nanopore-signals/</guid>
+    </item>
+    
+    <item>
+      <title>SPT Labtech and Alithea Genomics collaborate to automate ultra sensitive single-cell transcriptomic workflows</title>
+      <link>https://www.rna-seqblog.com/spt-labtech-and-alithea-genomics-collaborate-to-automate-ultra-sensitive-single-cell-transcriptomic-workflows/</link>
+      <description>SPT Labtech and Alithea Genomics have partnered to automate single-cell RNA sequencing, improving throughput...</description>
+      <pubDate>Thu, 06 Nov 2025 12:31:51 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/spt-labtech-and-alithea-genomics-collaborate-to-automate-ultra-sensitive-single-cell-transcriptomic-workflows/</guid>
+    </item>
+    
+    <item>
+      <title>Riboswitch discovery by combining RNA-seq and genome-wide identification of transcriptional start sites</title>
+      <link>https://www.rna-seqblog.com/riboswitch-discovery-by-combining-rna-seq-and-genome-wide-identification-of-transcriptional-start-sites/</link>
+      <description>Researchers used RNA sequencing and dRNA-seq to map transcription start sites and identify new riboswitches that regulate gene activity at the RNA level...</description>
+      <pubDate>Thu, 06 Nov 2025 12:31:42 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/riboswitch-discovery-by-combining-rna-seq-and-genome-wide-identification-of-transcriptional-start-sites/</guid>
+    </item>
+    
     <item>
       <title>Stress hormones silence key brain genes through chromatin-bound RNAs, study reveals</title>
       <link>https://www.rna-seqblog.com/stress-hormones-silence-key-brain-genes-through-chromatin-bound-rnas-study-reveals/</link>
-      <description>RNA sequencing reveals how stress hormones trigger chromatin silencing through lncRNAs that recruit PRC2, uncovering an epigenetic pathway linking stress signaling to altered neuronal gene expression.</description>
+      <description>New research led by Professor Yogesh Dwivedi at the University of Alabama at Birmingham uncovers how long noncoding RNAs engage chromatin-silencing machinery under glucocorticoid receptor activation, </description>
       <pubDate>Wed, 05 Nov 2025 12:44:15 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/stress-hormones-silence-key-brain-genes-through-chromatin-bound-rnas-study-reveals/</guid>
@@ -18,19 +45,10 @@
     <item>
       <title>DirectRM – integrated detection of landscape and crosstalk between multiple RNA modifications using direct RNA sequencing</title>
       <link>https://www.rna-seqblog.com/directrm-integrated-detection-of-landscape-and-crosstalk-between-multiple-rna-modifications-using-direct-rna-sequencing/</link>
-      <description>RNA sequencing with DirectRM reveals how multiple RNA modifications interact within transcripts and molecules, offering a new way to explore the complexity of the...</description>
+      <description>Researchers at Fujian Medical University have developed a powerful new method for studying chemical modifications on RNA molecules, offering a clearer view of the epitranscriptome. The team’s new plat</description>
       <pubDate>Wed, 05 Nov 2025 12:44:06 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/directrm-integrated-detection-of-landscape-and-crosstalk-between-multiple-rna-modifications-using-direct-rna-sequencing/</guid>
-    </item>
-    
-    <item>
-      <title>Scientific Director of Clinical NGS</title>
-      <link>https://www.rna-seqblog.com/scientific-director-of-clinical-ngs-2/</link>
-      <description>Memorial Sloan Kettering is hiring a Scientific Director of Clinical NGS to advance RNA sequencing and NGS-based cancer diagnostics, enabling precise tumor profiling, non-invasive testing, and persona</description>
-      <pubDate>Wed, 05 Nov 2025 12:40:48 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/scientific-director-of-clinical-ngs-2/</guid>
     </item>
     
     <item>
@@ -40,24 +58,6 @@
       <pubDate>2025-11-04T23:16:00.001-05:00</pubDate>
       <source>Omics! Omics!</source>
       <guid>https://omicsomics.blogspot.com/2025/11/nineteen.html</guid>
-    </item>
-    
-    <item>
-      <title>Nicheformer – a new foundation model that reveals how cells are organized in tissues</title>
-      <link>https://www.rna-seqblog.com/nicheformer-a-new-foundation-model-that-reveals-how-cells-are-organized-in-tissues/</link>
-      <description>Missing Context in Single-Cell Data Single-cell RNA sequencing has transformed biology by showing which genes are active in individual cells. However, this approach requires cells to be removed from t</description>
-      <pubDate>Tue, 04 Nov 2025 12:24:03 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/nicheformer-a-new-foundation-model-that-reveals-how-cells-are-organized-in-tissues/</guid>
-    </item>
-    
-    <item>
-      <title>KATMAP infers splicing factor activity and regulatory targets from knockdown data</title>
-      <link>https://www.rna-seqblog.com/katmap-infers-splicing-factor-activity-and-regulatory-targets-from-knockdown-data/</link>
-      <description>Researchers at the Massachusetts Institute of Technology have introduced a new computational framework called KATMAP that helps scientists uncover how specific proteins known as splicing factors contr</description>
-      <pubDate>Tue, 04 Nov 2025 12:23:51 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/katmap-infers-splicing-factor-activity-and-regulatory-targets-from-knockdown-data/</guid>
     </item>
     
     <item>
