@@ -4,12 +4,48 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Fri, 07 Nov 2025 06:36:10 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Nov 2025 06:32:29 +0000</lastBuildDate>
   
+    <item>
+      <title>Weekly Recap (Nov 7, 2025)</title>
+      <link>https://blog.stephenturner.us/p/weekly-recap-nov-7-2025</link>
+      <description>LLMs for learning to code, R updates (R Data Scientist, R Weekly), RAG, layoffs &amp; AI, DuckDB for data science, Anthropic+Iceland, AI in science, AI in drug discovery, Nextflow &amp; pathogen surveillance</description>
+      <pubDate>Fri, 07 Nov 2025 13:54:30 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/weekly-recap-nov-7-2025</guid>
+    </item>
+    
+    <item>
+      <title>Elucidation of a novel mechanism regulating bone growth</title>
+      <link>https://www.rna-seqblog.com/elucidation-of-a-novel-mechanism-regulating-bone-growth/</link>
+      <description>RNA sequencing revealed that Dnmt1 controls energy metabolism in growth plate chondrocytes, ensuring proper bone elongation and offering insight into bone growth disorders...</description>
+      <pubDate>Fri, 07 Nov 2025 12:25:14 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/elucidation-of-a-novel-mechanism-regulating-bone-growth/</guid>
+    </item>
+    
+    <item>
+      <title>Enhanced adipogenesis and fatty acid transport in Tibetan pigs revealed by single-cell RNA sequencing</title>
+      <link>https://www.rna-seqblog.com/enhanced-adipogenesis-and-fatty-acid-transport-in-tibetan-pigs-revealed-by-single-cell-rna-sequencing/</link>
+      <description>Using single-cell RNA sequencing, researchers uncovered enhanced adipogenesis and fatty acid transport in Tibetan pigs, explaining their superior fat accumulation and cold adaptation compared to Duroc</description>
+      <pubDate>Fri, 07 Nov 2025 12:25:00 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/enhanced-adipogenesis-and-fatty-acid-transport-in-tibetan-pigs-revealed-by-single-cell-rna-sequencing/</guid>
+    </item>
+    
+    <item>
+      <title>QIAGEN to acquire Parse Biosciences, expanding its Sample technologies portfolio into highly scalable single-cell solutions</title>
+      <link>https://www.rna-seqblog.com/qiagen-to-acquire-parse-biosciences-expanding-its-sample-technologies-portfolio-into-highly-scalable-single-cell-solutions/</link>
+      <description>QIAGEN’s acquisition of Parse Biosciences expands its RNA sequencing and single-cell analysis capabilities, fueling AI-powered drug discovery through scalable, instrument-free...</description>
+      <pubDate>Fri, 07 Nov 2025 12:24:52 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/qiagen-to-acquire-parse-biosciences-expanding-its-sample-technologies-portfolio-into-highly-scalable-single-cell-solutions/</guid>
+    </item>
+    
     <item>
       <title>Researchers introduce a new tool for more accurate RNA modification detection from nanopore signals</title>
       <link>https://www.rna-seqblog.com/researchers-introduce-a-new-tool-for-more-accurate-rna-modification-detection-from-nanopore-signals/</link>
-      <description>Researchers used RNA sequencing data to develop SegPore, a computational model that improves the accuracy of RNA modification detection from direct nanopore sequencing...</description>
+      <description>Researchers from the University of Eastern Finland and Aalto University have developed a computational framework called SegPore, which enhances the accuracy of RNA modification detection from direct R</description>
       <pubDate>Thu, 06 Nov 2025 12:32:09 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/researchers-introduce-a-new-tool-for-more-accurate-rna-modification-detection-from-nanopore-signals/</guid>
@@ -18,37 +54,10 @@
     <item>
       <title>SPT Labtech and Alithea Genomics collaborate to automate ultra sensitive single-cell transcriptomic workflows</title>
       <link>https://www.rna-seqblog.com/spt-labtech-and-alithea-genomics-collaborate-to-automate-ultra-sensitive-single-cell-transcriptomic-workflows/</link>
-      <description>SPT Labtech and Alithea Genomics have partnered to automate single-cell RNA sequencing, improving throughput...</description>
+      <description>SPT Labtech, a global leader in the design and development of laboratory automation and liquid handling solutions, and Alithea Genomics, a pioneer in the field of large-scale RNA sequencing and transc</description>
       <pubDate>Thu, 06 Nov 2025 12:31:51 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/spt-labtech-and-alithea-genomics-collaborate-to-automate-ultra-sensitive-single-cell-transcriptomic-workflows/</guid>
-    </item>
-    
-    <item>
-      <title>Riboswitch discovery by combining RNA-seq and genome-wide identification of transcriptional start sites</title>
-      <link>https://www.rna-seqblog.com/riboswitch-discovery-by-combining-rna-seq-and-genome-wide-identification-of-transcriptional-start-sites/</link>
-      <description>Researchers used RNA sequencing and dRNA-seq to map transcription start sites and identify new riboswitches that regulate gene activity at the RNA level...</description>
-      <pubDate>Thu, 06 Nov 2025 12:31:42 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/riboswitch-discovery-by-combining-rna-seq-and-genome-wide-identification-of-transcriptional-start-sites/</guid>
-    </item>
-    
-    <item>
-      <title>Stress hormones silence key brain genes through chromatin-bound RNAs, study reveals</title>
-      <link>https://www.rna-seqblog.com/stress-hormones-silence-key-brain-genes-through-chromatin-bound-rnas-study-reveals/</link>
-      <description>New research led by Professor Yogesh Dwivedi at the University of Alabama at Birmingham uncovers how long noncoding RNAs engage chromatin-silencing machinery under glucocorticoid receptor activation, </description>
-      <pubDate>Wed, 05 Nov 2025 12:44:15 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/stress-hormones-silence-key-brain-genes-through-chromatin-bound-rnas-study-reveals/</guid>
-    </item>
-    
-    <item>
-      <title>DirectRM – integrated detection of landscape and crosstalk between multiple RNA modifications using direct RNA sequencing</title>
-      <link>https://www.rna-seqblog.com/directrm-integrated-detection-of-landscape-and-crosstalk-between-multiple-rna-modifications-using-direct-rna-sequencing/</link>
-      <description>Researchers at Fujian Medical University have developed a powerful new method for studying chemical modifications on RNA molecules, offering a clearer view of the epitranscriptome. The team’s new plat</description>
-      <pubDate>Wed, 05 Nov 2025 12:44:06 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/directrm-integrated-detection-of-landscape-and-crosstalk-between-multiple-rna-modifications-using-direct-rna-sequencing/</guid>
     </item>
     
     <item>
@@ -112,15 +121,6 @@
       <pubDate>Fri, 24 Oct 2025 08:30:58 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/weekly-recap-oct-24-2025</guid>
-    </item>
-    
-    <item>
-      <title>Switching word processors with Zotero</title>
-      <link>https://blog.stephenturner.us/p/switching-word-processors-with-zotero</link>
-      <description>Moving from Google Docs to Word will break your Zotero citations/bibliography linkages unless you do this first.</description>
-      <pubDate>Thu, 23 Oct 2025 12:36:53 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/switching-word-processors-with-zotero</guid>
     </item>
     
     <item>
