@@ -4,8 +4,18 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Sat, 08 Nov 2025 06:32:29 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 09 Nov 2025 06:32:46 +0000</lastBuildDate>
   
+    <item>
+      <title>Reviving BETA for Python 3: Integrating ChIP-seq and RNA-seq to Predict TF Targets</title>
+      <link>https://divingintogeneticsandgenomics.com/post/reviving-beta-chip-seq-rna-seq-integration-python3/</link>
+      <description>&lt;p&gt;I started to learn bioinformatics because I needed to analyze public ChIP-seq data in 2012.
+That&amp;rsquo;s how I got to know &lt;a href="https://liulab-dfci.github.io/" target="_blank"&gt;Shirley Liu&amp;rsquo</description>
+      <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
+      <source>Chatomics on Chatomics</source>
+      <guid>https://divingintogeneticsandgenomics.com/post/reviving-beta-chip-seq-rna-seq-integration-python3/</guid>
+    </item>
+    
     <item>
       <title>Weekly Recap (Nov 7, 2025)</title>
       <link>https://blog.stephenturner.us/p/weekly-recap-nov-7-2025</link>
@@ -327,15 +337,6 @@ Roche released </description>
       <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
       <source>John Lees' blog</source>
       <guid>https://www.johnlees.me/posts/mcstate-constants/</guid>
-    </item>
-    
-    <item>
-      <title>Panel discussion: From Physics-Based Modeling to AI-driven Drug Discovery</title>
-      <link>https://divingintogeneticsandgenomics.com/talk/2025-atombeat-panel/</link>
-      <description>&lt;p&gt;&lt;img alt="" src="https://divingintogeneticsandgenomics.com/img/atombeat.jpeg" /&gt;&lt;/p&gt;</description>
-      <pubDate>Fri, 18 Jul 2025 12:00:00 +0000</pubDate>
-      <source>Chatomics on Chatomics</source>
-      <guid>https://divingintogeneticsandgenomics.com/talk/2025-atombeat-panel/</guid>
     </item>
     
     <item>
