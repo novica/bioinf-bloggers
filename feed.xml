@@ -4,8 +4,35 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Mon, 10 Nov 2025 06:38:19 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 11 Nov 2025 06:37:06 +0000</lastBuildDate>
   
+    <item>
+      <title>MntJULiP and Jutils – differential splicing analysis of RNA-seq data with covariates</title>
+      <link>https://www.rna-seqblog.com/mntjulip-and-jutils-differential-splicing-analysis-of-rna-seq-data-with-covariates/</link>
+      <description>Using RNA sequencing, researchers from Johns Hopkins University developed MntJULiP and Jutils to accurately detect RNA splicing changes influenced by age, sex, and other biological...</description>
+      <pubDate>Mon, 10 Nov 2025 13:18:30 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/mntjulip-and-jutils-differential-splicing-analysis-of-rna-seq-data-with-covariates/</guid>
+    </item>
+    
+    <item>
+      <title>Women are three times more likely than men to get severe long COVID: Here’s why</title>
+      <link>https://www.rna-seqblog.com/women-are-three-times-more-likely-than-men-to-get-severe-long-covid-heres-why/</link>
+      <description>Researchers used RNA sequencing to uncover immune, hormonal, and metabolic differences explaining why women with long COVID often experience more severe and persistent symptoms than men...</description>
+      <pubDate>Mon, 10 Nov 2025 13:18:21 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/women-are-three-times-more-likely-than-men-to-get-severe-long-covid-heres-why/</guid>
+    </item>
+    
+    <item>
+      <title>posit::conf(2025) talks on YouTube</title>
+      <link>https://blog.stephenturner.us/p/posit-conf-2025-youtube-playlist</link>
+      <description>Over 100 recorded talks from posit::conf(2025) are now available on YouTube</description>
+      <pubDate>Mon, 10 Nov 2025 10:57:23 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/posit-conf-2025-youtube-playlist</guid>
+    </item>
+    
     <item>
       <title>Reviving BETA for Python 3: Integrating ChIP-seq and RNA-seq to Predict TF Targets</title>
       <link>https://divingintogeneticsandgenomics.com/post/reviving-beta-chip-seq-rna-seq-integration-python3/</link>
@@ -37,7 +64,7 @@ That&amp;rsquo;s how I got to know &lt;a href="https://liulab-dfci.github.io/" t
     <item>
       <title>Enhanced adipogenesis and fatty acid transport in Tibetan pigs revealed by single-cell RNA sequencing</title>
       <link>https://www.rna-seqblog.com/enhanced-adipogenesis-and-fatty-acid-transport-in-tibetan-pigs-revealed-by-single-cell-rna-sequencing/</link>
-      <description>Using single-cell RNA sequencing, researchers uncovered enhanced adipogenesis and fatty acid transport in Tibetan pigs, explaining their superior fat accumulation and cold adaptation compared to Duroc</description>
+      <description>Adipose tissue is a crucial energy-regulating organ in mammals, responsible not only for storing excess energy but also participating in body temperature maintenance and metabolic balance. Adipocyte d</description>
       <pubDate>Fri, 07 Nov 2025 12:25:00 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/enhanced-adipogenesis-and-fatty-acid-transport-in-tibetan-pigs-revealed-by-single-cell-rna-sequencing/</guid>
@@ -46,28 +73,10 @@ That&amp;rsquo;s how I got to know &lt;a href="https://liulab-dfci.github.io/" t
     <item>
       <title>QIAGEN to acquire Parse Biosciences, expanding its Sample technologies portfolio into highly scalable single-cell solutions</title>
       <link>https://www.rna-seqblog.com/qiagen-to-acquire-parse-biosciences-expanding-its-sample-technologies-portfolio-into-highly-scalable-single-cell-solutions/</link>
-      <description>QIAGEN’s acquisition of Parse Biosciences expands its RNA sequencing and single-cell analysis capabilities, fueling AI-powered drug discovery through scalable, instrument-free...</description>
+      <description>Parse Biosciences is a fast-growing innovator in single-cell sample preparation, with technologies used in more than 3,000 labs across over 40 countries Acquisition strengthens QIAGEN’s presence in th</description>
       <pubDate>Fri, 07 Nov 2025 12:24:52 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/qiagen-to-acquire-parse-biosciences-expanding-its-sample-technologies-portfolio-into-highly-scalable-single-cell-solutions/</guid>
-    </item>
-    
-    <item>
-      <title>Researchers introduce a new tool for more accurate RNA modification detection from nanopore signals</title>
-      <link>https://www.rna-seqblog.com/researchers-introduce-a-new-tool-for-more-accurate-rna-modification-detection-from-nanopore-signals/</link>
-      <description>Researchers from the University of Eastern Finland and Aalto University have developed a computational framework called SegPore, which enhances the accuracy of RNA modification detection from direct R</description>
-      <pubDate>Thu, 06 Nov 2025 12:32:09 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/researchers-introduce-a-new-tool-for-more-accurate-rna-modification-detection-from-nanopore-signals/</guid>
-    </item>
-    
-    <item>
-      <title>SPT Labtech and Alithea Genomics collaborate to automate ultra sensitive single-cell transcriptomic workflows</title>
-      <link>https://www.rna-seqblog.com/spt-labtech-and-alithea-genomics-collaborate-to-automate-ultra-sensitive-single-cell-transcriptomic-workflows/</link>
-      <description>SPT Labtech, a global leader in the design and development of laboratory automation and liquid handling solutions, and Alithea Genomics, a pioneer in the field of large-scale RNA sequencing and transc</description>
-      <pubDate>Thu, 06 Nov 2025 12:31:51 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/spt-labtech-and-alithea-genomics-collaborate-to-automate-ultra-sensitive-single-cell-transcriptomic-workflows/</guid>
     </item>
     
     <item>
@@ -122,15 +131,6 @@ That&amp;rsquo;s how I got to know &lt;a href="https://liulab-dfci.github.io/" t
       <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
       <source>Chatomics on Chatomics</source>
       <guid>https://divingintogeneticsandgenomics.com/post/understanding-prcomp-center-scale-arguments/</guid>
-    </item>
-    
-    <item>
-      <title>Weekly recap (Oct 24, 2025)</title>
-      <link>https://blog.stephenturner.us/p/weekly-recap-oct-24-2025</link>
-      <description>Polyglot data science pipeline (R+Python+Julia) with rixpress, EuroBioC2025/BCN, Python packaging for R devs, Python in 2025, R/Pharma, DARPA, ASHG, the R Data Scientist, Quarto, universities and AI</description>
-      <pubDate>Fri, 24 Oct 2025 08:30:58 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/weekly-recap-oct-24-2025</guid>
     </item>
     
     <item>
