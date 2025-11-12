@@ -4,12 +4,57 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Tue, 11 Nov 2025 06:37:06 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 12 Nov 2025 06:36:50 +0000</lastBuildDate>
   
+    <item>
+      <title>Bell Labs Wasn't Built in a Day. Or Two Years.</title>
+      <link>https://omicsomics.blogspot.com/2025/11/bell-labs-wasnt-built-in-day-or-two.html</link>
+      <description>&lt;div&gt;Rome is famous for persisting for centuries - and having not been built in a day. If you go there, then one of the most magnificent sites is the most famous sporting arena in the world, the Flavi</description>
+      <pubDate>2025-11-11T22:34:00.001-05:00</pubDate>
+      <source>Omics! Omics!</source>
+      <guid>https://omicsomics.blogspot.com/2025/11/bell-labs-wasnt-built-in-day-or-two.html</guid>
+    </item>
+    
+    <item>
+      <title>Virome profiling of Culex tarsalis through small RNA-seq</title>
+      <link>https://www.rna-seqblog.com/virome-profiling-of-culex-tarsalis-through-small-rna-seq/</link>
+      <description>RNA sequencing reveals diverse insect-specific viruses in Culex tarsalis mosquitoes, improving understanding of viral interactions and aiding mosquito-borne disease surveillance...</description>
+      <pubDate>Tue, 11 Nov 2025 12:14:32 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/virome-profiling-of-culex-tarsalis-through-small-rna-seq/</guid>
+    </item>
+    
+    <item>
+      <title>RNA sequencing reveals immune biomarkers for improved diagnosis of extrapulmonary tuberculosis</title>
+      <link>https://www.rna-seqblog.com/rna-sequencing-reveals-immune-biomarkers-for-improved-diagnosis-of-extrapulmonary-tuberculosis/</link>
+      <description>RNA sequencing identifies immune biomarkers for extrapulmonary tuberculosis, revealing new molecular signatures in blood that may improve diagnosis and enable personalized treatment...</description>
+      <pubDate>Tue, 11 Nov 2025 12:14:09 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/rna-sequencing-reveals-immune-biomarkers-for-improved-diagnosis-of-extrapulmonary-tuberculosis/</guid>
+    </item>
+    
+    <item>
+      <title>HydraRNA – a hybrid architecture based full-length RNA language model</title>
+      <link>https://www.rna-seqblog.com/hydrarna-a-hybrid-architecture-based-full-length-rna-language-model/</link>
+      <description>RNA sequencing and AI-powered modeling with HydraRNA reveal new insights into mRNA function, stability, and mutation effects, advancing RNA biology and therapeutic design...</description>
+      <pubDate>Tue, 11 Nov 2025 12:13:57 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/hydrarna-a-hybrid-architecture-based-full-length-rna-language-model/</guid>
+    </item>
+    
+    <item>
+      <title>Nextflow Summit 2025 Talks on YouTube</title>
+      <link>https://blog.stephenturner.us/p/nextflow-summit-2025-youtube-playlist</link>
+      <description>29 talks from the 2025 Nextflow Summit are now available on YouTube</description>
+      <pubDate>Tue, 11 Nov 2025 10:47:52 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/nextflow-summit-2025-youtube-playlist</guid>
+    </item>
+    
     <item>
       <title>MntJULiP and Jutils – differential splicing analysis of RNA-seq data with covariates</title>
       <link>https://www.rna-seqblog.com/mntjulip-and-jutils-differential-splicing-analysis-of-rna-seq-data-with-covariates/</link>
-      <description>Using RNA sequencing, researchers from Johns Hopkins University developed MntJULiP and Jutils to accurately detect RNA splicing changes influenced by age, sex, and other biological...</description>
+      <description>As RNA sequencing technology continues to advance, scientists are generating massive datasets that capture how genes are expressed in different tissues and disease conditions. However, these datasets </description>
       <pubDate>Mon, 10 Nov 2025 13:18:30 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/mntjulip-and-jutils-differential-splicing-analysis-of-rna-seq-data-with-covariates/</guid>
@@ -18,7 +63,7 @@
     <item>
       <title>Women are three times more likely than men to get severe long COVID: Here’s why</title>
       <link>https://www.rna-seqblog.com/women-are-three-times-more-likely-than-men-to-get-severe-long-covid-heres-why/</link>
-      <description>Researchers used RNA sequencing to uncover immune, hormonal, and metabolic differences explaining why women with long COVID often experience more severe and persistent symptoms than men...</description>
+      <description>New U of A research reveals underlying mechanisms of how long COVID affects women and men differently. Research published today in Cell Reports Medicine reveals key biological differences that may exp</description>
       <pubDate>Mon, 10 Nov 2025 13:18:21 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/women-are-three-times-more-likely-than-men-to-get-severe-long-covid-heres-why/</guid>
@@ -53,33 +98,6 @@ That&amp;rsquo;s how I got to know &lt;a href="https://liulab-dfci.github.io/" t
     </item>
     
     <item>
-      <title>Elucidation of a novel mechanism regulating bone growth</title>
-      <link>https://www.rna-seqblog.com/elucidation-of-a-novel-mechanism-regulating-bone-growth/</link>
-      <description>RNA sequencing revealed that Dnmt1 controls energy metabolism in growth plate chondrocytes, ensuring proper bone elongation and offering insight into bone growth disorders...</description>
-      <pubDate>Fri, 07 Nov 2025 12:25:14 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/elucidation-of-a-novel-mechanism-regulating-bone-growth/</guid>
-    </item>
-    
-    <item>
-      <title>Enhanced adipogenesis and fatty acid transport in Tibetan pigs revealed by single-cell RNA sequencing</title>
-      <link>https://www.rna-seqblog.com/enhanced-adipogenesis-and-fatty-acid-transport-in-tibetan-pigs-revealed-by-single-cell-rna-sequencing/</link>
-      <description>Adipose tissue is a crucial energy-regulating organ in mammals, responsible not only for storing excess energy but also participating in body temperature maintenance and metabolic balance. Adipocyte d</description>
-      <pubDate>Fri, 07 Nov 2025 12:25:00 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/enhanced-adipogenesis-and-fatty-acid-transport-in-tibetan-pigs-revealed-by-single-cell-rna-sequencing/</guid>
-    </item>
-    
-    <item>
-      <title>QIAGEN to acquire Parse Biosciences, expanding its Sample technologies portfolio into highly scalable single-cell solutions</title>
-      <link>https://www.rna-seqblog.com/qiagen-to-acquire-parse-biosciences-expanding-its-sample-technologies-portfolio-into-highly-scalable-single-cell-solutions/</link>
-      <description>Parse Biosciences is a fast-growing innovator in single-cell sample preparation, with technologies used in more than 3,000 labs across over 40 countries Acquisition strengthens QIAGEN’s presence in th</description>
-      <pubDate>Fri, 07 Nov 2025 12:24:52 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/qiagen-to-acquire-parse-biosciences-expanding-its-sample-technologies-portfolio-into-highly-scalable-single-cell-solutions/</guid>
-    </item>
-    
-    <item>
       <title>Nineteen</title>
       <link>https://omicsomics.blogspot.com/2025/11/nineteen.html</link>
       <description>If I had been more atop things, I would have written this just under a week ago, on the nineteenth anniversary of my starting to write in this space.  That's a milestone, and actually writing somethin</description>
@@ -104,15 +122,6 @@ That&amp;rsquo;s how I got to know &lt;a href="https://liulab-dfci.github.io/" t
       <pubDate>Fri, 31 Oct 2025 15:26:35 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/bioconductor-3-22</guid>
-    </item>
-    
-    <item>
-      <title>Weekly Recap (Oct 31, 2025)</title>
-      <link>https://blog.stephenturner.us/p/weekly-recap-oct-31-2025</link>
-      <description>AI in science, Quarto, biodiversity, changed grant titles, new papers &amp; preprints, Nextflow plugin registry, Via Scientific, R updates from R Data Scientist, rOpenSci, Posit, R Weekly, and R Works &amp;#1</description>
-      <pubDate>Fri, 31 Oct 2025 09:30:52 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/weekly-recap-oct-31-2025</guid>
     </item>
     
     <item>
@@ -279,15 +288,6 @@ Roche released </description>
       <pubDate>Sun, 10 Aug 2025 05:37:04 +0000</pubDate>
       <source>Dave Tang's blog</source>
       <guid>https://davetang.org/muse/2025/08/10/how-long-does-it-take-to-run-gpt-oss20b/</guid>
-    </item>
-    
-    <item>
-      <title>10X Scoops Scale</title>
-      <link>https://omicsomics.blogspot.com/2025/08/10x-scoops-scale.html</link>
-      <description>&lt;a href="https://www.genengnews.com/topics/omics/10x-genomics-scales-up-agrees-to-acquire-scale-biosciences/"&gt;News broke this afternoon &lt;/a&gt;that microfluidics single cell genomics leader 10X Genomics </description>
-      <pubDate>2025-08-07T23:01:00.003-04:00</pubDate>
-      <source>Omics! Omics!</source>
-      <guid>https://omicsomics.blogspot.com/2025/08/10x-scoops-scale.html</guid>
     </item>
     
     <item>
