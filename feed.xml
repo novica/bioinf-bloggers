@@ -4,12 +4,39 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Thu, 13 Nov 2025 06:36:48 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 14 Nov 2025 06:36:44 +0000</lastBuildDate>
   
+    <item>
+      <title>GREGoR – accelerating genomics for rare diseases</title>
+      <link>https://www.rna-seqblog.com/gregor-accelerating-genomics-for-rare-diseases/</link>
+      <description>Researchers use RNA sequencing and global data sharing through the GREGoR Consortium to improve rare disease diagnosis and advance genomic understanding across thousands of unsolved cases...</description>
+      <pubDate>Thu, 13 Nov 2025 12:18:33 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/gregor-accelerating-genomics-for-rare-diseases/</guid>
+    </item>
+    
+    <item>
+      <title>Long-read sequencing disentangles isoform complexity at allele-specific loci</title>
+      <link>https://www.rna-seqblog.com/long-read-sequencing-disentangles-isoform-complexity-at-allele-specific-loci/</link>
+      <description>Using long-read RNA sequencing, researchers uncover how allele-specific differences shape gene expression, revealing complex isoforms and confirming imprinting patterns at key...</description>
+      <pubDate>Thu, 13 Nov 2025 12:18:23 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/long-read-sequencing-disentangles-isoform-complexity-at-allele-specific-loci/</guid>
+    </item>
+    
+    <item>
+      <title>Leading genomics research powers innovation and direct human impact</title>
+      <link>https://www.rna-seqblog.com/leading-genomics-research-powers-innovation-and-direct-human-impact/</link>
+      <description>Researchers at UC Santa Cruz highlight how RNA sequencing and genomics innovations are transforming cancer diagnostics, personalized medicine, and ecological research through collaboration and technol</description>
+      <pubDate>Thu, 13 Nov 2025 12:18:08 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/leading-genomics-research-powers-innovation-and-direct-human-impact/</guid>
+    </item>
+    
     <item>
       <title>CellWhisperer – multimodal learning enables chat-based exploration of single-cell data</title>
       <link>https://www.rna-seqblog.com/cellwhisperer-multimodal-learning-enables-chat-based-exploration-of-single-cell-data/</link>
-      <description>CellWhisperer uses AI and RNA sequencing data to let researchers explore single-cell gene expression through natural-language chats, making complex biological data easier to understand and analyze...</description>
+      <description>Researchers from the CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences have introduced a powerful new tool called CellWhisperer that changes how scientists can explore co</description>
       <pubDate>Wed, 12 Nov 2025 12:21:59 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/cellwhisperer-multimodal-learning-enables-chat-based-exploration-of-single-cell-data/</guid>
@@ -18,19 +45,10 @@
     <item>
       <title>With new donation and NIH grant, Brown aims to capitalize on potential of RNA research</title>
       <link>https://www.rna-seqblog.com/with-new-donation-and-nih-grant-brown-aims-to-capitalize-on-potential-of-rna-research/</link>
-      <description>Brown University’s expanded RNA research initiative combines RNA sequencing, molecular medicine, and new funding to accelerate discoveries in human health, therapeutics, and gene expression across mul</description>
+      <description>Following a gift from Brown trustee Giammaria Giuliani P’28 and Sabrina Giuliani P’28, Brown’s RNA center will be named the Giuliani RNA Center. Established in 2024, the RNA center aims to advance sci</description>
       <pubDate>Wed, 12 Nov 2025 12:21:49 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/with-new-donation-and-nih-grant-brown-aims-to-capitalize-on-potential-of-rna-research/</guid>
-    </item>
-    
-    <item>
-      <title>Personalized cancer insights, grounded in biology, DNA/RNA &amp; AI delivered in an average of 10 days</title>
-      <link>https://www.rna-seqblog.com/personalized-cancer-insights-grounded-in-biology-dna-rna-ai-delivered-in-an-average-of-10-days/</link>
-      <description>First Ascent Biomedical integrates functional drug testing, RNA sequencing, and AI to deliver personalized cancer treatment insights in just ten days, helping oncologists act before cancer progresses.</description>
-      <pubDate>Wed, 12 Nov 2025 12:21:38 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/personalized-cancer-insights-grounded-in-biology-dna-rna-ai-delivered-in-an-average-of-10-days/</guid>
     </item>
     
     <item>
@@ -40,24 +58,6 @@
       <pubDate>2025-11-11T22:34:00.001-05:00</pubDate>
       <source>Omics! Omics!</source>
       <guid>https://omicsomics.blogspot.com/2025/11/bell-labs-wasnt-built-in-day-or-two.html</guid>
-    </item>
-    
-    <item>
-      <title>Virome profiling of Culex tarsalis through small RNA-seq</title>
-      <link>https://www.rna-seqblog.com/virome-profiling-of-culex-tarsalis-through-small-rna-seq/</link>
-      <description>Exploring the Hidden Viruses in Mosquitoes with RNA Sequencing Researchers from Pennsylvania State University have uncovered new insights into the viral world living inside Culex tarsalis mosquitoes. </description>
-      <pubDate>Tue, 11 Nov 2025 12:14:32 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/virome-profiling-of-culex-tarsalis-through-small-rna-seq/</guid>
-    </item>
-    
-    <item>
-      <title>RNA sequencing reveals immune biomarkers for improved diagnosis of extrapulmonary tuberculosis</title>
-      <link>https://www.rna-seqblog.com/rna-sequencing-reveals-immune-biomarkers-for-improved-diagnosis-of-extrapulmonary-tuberculosis/</link>
-      <description>A research team involving the University of Bonn has identified specific biomarkers, thus taking an important step toward quicker diagnoses and personalized treatment. Researchers from the LIMES Insti</description>
-      <pubDate>Tue, 11 Nov 2025 12:14:09 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/rna-sequencing-reveals-immune-biomarkers-for-improved-diagnosis-of-extrapulmonary-tuberculosis/</guid>
     </item>
     
     <item>
