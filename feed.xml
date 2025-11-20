@@ -4,8 +4,35 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Wed, 19 Nov 2025 06:36:08 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 20 Nov 2025 06:35:35 +0000</lastBuildDate>
   
+    <item>
+      <title>RNA sequencing reveals how muscle stem cells guide macrophages to drive tadpole tail regeneration</title>
+      <link>https://www.rna-seqblog.com/rna-sequencing-reveals-how-muscle-stem-cells-guide-macrophages-to-drive-tadpole-tail-regeneration/</link>
+      <description>RNA sequencing reveals how muscle stem cells use c1qtnf3 to shift macrophages toward regeneration, enabling African clawed frog tadpoles to regrow functional tails...</description>
+      <pubDate>Wed, 19 Nov 2025 11:55:35 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/rna-sequencing-reveals-how-muscle-stem-cells-guide-macrophages-to-drive-tadpole-tail-regeneration/</guid>
+    </item>
+    
+    <item>
+      <title>RNA sequencing provides functional insights and diagnostic resolution in previously unsolved rare disease cases</title>
+      <link>https://www.rna-seqblog.com/rna-sequencing-provides-functional-insights-and-diagnostic-resolution-in-previously-unsolved-rare-disease-cases/</link>
+      <description>RNA sequencing uncovers hidden splicing and regulatory defects, improving diagnostic clarity for rare disease cases when DNA tests fall short.</description>
+      <pubDate>Wed, 19 Nov 2025 11:55:15 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/rna-sequencing-provides-functional-insights-and-diagnostic-resolution-in-previously-unsolved-rare-disease-cases/</guid>
+    </item>
+    
+    <item>
+      <title>Parse Biosciences Announces FFPE-compatible Barcoding Technology for Whole Transcriptome Single Cell Analysis</title>
+      <link>https://www.rna-seqblog.com/parse-biosciences-announces-ffpe-compatible-barcoding-technology-for-whole-transcriptome-single-cell-analysis/</link>
+      <description>RNA sequencing of FFPE tissues gains whole transcriptome, single cell resolution through...</description>
+      <pubDate>Wed, 19 Nov 2025 11:55:03 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/parse-biosciences-announces-ffpe-compatible-barcoding-technology-for-whole-transcriptome-single-cell-analysis/</guid>
+    </item>
+    
     <item>
       <title>Labels for Clear Feedback in Peer Review</title>
       <link>https://blog.stephenturner.us/p/labels-for-clear-feedback-in-peer-review</link>
@@ -18,7 +45,7 @@
     <item>
       <title>The world’s oldest RNA extracted from woolly mammoth</title>
       <link>https://www.rna-seqblog.com/the-worlds-oldest-rna-extracted-from-woolly-mammoth/</link>
-      <description>Researchers retrieved exceptionally preserved RNA from a 40,000-year-old woolly mammoth, revealing gene activity patterns and demonstrating the deep-time potential of RNA sequencing for understanding </description>
+      <description>Researchers from Stockholm University have for the first time ever managed to successfully isolate and sequence RNA molecules from Ice Age woolly mammoths. These RNA sequences are the oldest ever reco</description>
       <pubDate>Mon, 17 Nov 2025 14:59:01 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/the-worlds-oldest-rna-extracted-from-woolly-mammoth/</guid>
@@ -27,37 +54,10 @@
     <item>
       <title>Foli-seq – fecal exfoliome sequencing captures immune dynamics of the healthy and inflamed gut</title>
       <link>https://www.rna-seqblog.com/foli-seq-fecal-exfoliome-sequencing-captures-immune-dynamics-of-the-healthy-and-inflamed-gut/</link>
-      <description>Foli-seq uses fecal human cells to reveal gut and immune activity, expanding RNA sequencing to noninvasive monitoring of intestinal health and inflammation...</description>
+      <description>Scientists have long used gut microbiome sequencing to understand how microbes affect health. But feces contain more than bacteria. They also carry tiny amounts of human cells that have naturally shed</description>
       <pubDate>Mon, 17 Nov 2025 14:58:44 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/foli-seq-fecal-exfoliome-sequencing-captures-immune-dynamics-of-the-healthy-and-inflamed-gut/</guid>
-    </item>
-    
-    <item>
-      <title>Uli-epic – profiling RNA modifications from ultra-low input samples</title>
-      <link>https://www.rna-seqblog.com/uli-epic-profiling-rna-modifications-from-ultra-low-input-samples/</link>
-      <description>Uli-epic enables precise RNA modification mapping from ultra small samples, expanding the power of RNA sequencing for studying chemical changes in neural stem cells and sperm...</description>
-      <pubDate>Mon, 17 Nov 2025 14:58:33 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/uli-epic-profiling-rna-modifications-from-ultra-low-input-samples/</guid>
-    </item>
-    
-    <item>
-      <title>Reversing fibrosis – new research provides insight for novel therapies</title>
-      <link>https://www.rna-seqblog.com/reversing-fibrosis-new-research-provides-insight-for-novel-therapies/</link>
-      <description>Yale School of Medicine (YSM) researchers have made key breakthroughs in understanding how to treat fibrotic diseases such as scleroderma and graft-versus-host disease. Fibrotic diseases are a group o</description>
-      <pubDate>Fri, 14 Nov 2025 13:14:30 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/reversing-fibrosis-new-research-provides-insight-for-novel-therapies/</guid>
-    </item>
-    
-    <item>
-      <title>The new era of single-molecule RNA modification detection through nanopore base-calling models</title>
-      <link>https://www.rna-seqblog.com/the-new-era-of-single-molecule-rna-modification-detection-through-nanopore-base-calling-models/</link>
-      <description>Researchers from the Centre for Genomic Regulation (CRG) in Barcelona explore how scientists are using advanced sequencing tools to study chemical changes on RNA. These RNA modifications can affect ho</description>
-      <pubDate>Fri, 14 Nov 2025 13:14:23 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/the-new-era-of-single-molecule-rna-modification-detection-through-nanopore-base-calling-models/</guid>
     </item>
     
     <item>
