@@ -4,8 +4,26 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Thu, 20 Nov 2025 06:35:35 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 21 Nov 2025 06:37:15 +0000</lastBuildDate>
   
+    <item>
+      <title>ERNIE-RNA – an RNA language model with structure-enhanced representations</title>
+      <link>https://www.rna-seqblog.com/ernie-rna-an-rna-language-model-with-structure-enhanced-representations/</link>
+      <description>ERNIE-RNA leverages RNA sequencing data to learn both sequence and structural features, enabling highly accurate predictions of RNA secondary structure and function even...</description>
+      <pubDate>Thu, 20 Nov 2025 11:11:53 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/ernie-rna-an-rna-language-model-with-structure-enhanced-representations/</guid>
+    </item>
+    
+    <item>
+      <title>Single-cell insights into leaf development in Brassica rapa</title>
+      <link>https://www.rna-seqblog.com/single-cell-insights-into-leaf-development-in-brassica-rapa/</link>
+      <description>Single cell RNA sequencing reveals how Brassica rapa leaf vascular cells develop and differentiate, uncovering key regulatory genes shaping xylem, phloem, and overall leaf morphogenesis...</description>
+      <pubDate>Thu, 20 Nov 2025 11:11:39 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/single-cell-insights-into-leaf-development-in-brassica-rapa/</guid>
+    </item>
+    
     <item>
       <title>RNA sequencing reveals how muscle stem cells guide macrophages to drive tadpole tail regeneration</title>
       <link>https://www.rna-seqblog.com/rna-sequencing-reveals-how-muscle-stem-cells-guide-macrophages-to-drive-tadpole-tail-regeneration/</link>
@@ -18,7 +36,7 @@
     <item>
       <title>RNA sequencing provides functional insights and diagnostic resolution in previously unsolved rare disease cases</title>
       <link>https://www.rna-seqblog.com/rna-sequencing-provides-functional-insights-and-diagnostic-resolution-in-previously-unsolved-rare-disease-cases/</link>
-      <description>RNA sequencing uncovers hidden splicing and regulatory defects, improving diagnostic clarity for rare disease cases when DNA tests fall short.</description>
+      <description>Understanding genetic disorders can be challenging, especially when standard DNA tests do not provide clear answers. A team led by researchers from ARUP Laboratories examined how RNA sequencing can fi</description>
       <pubDate>Wed, 19 Nov 2025 11:55:15 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/rna-sequencing-provides-functional-insights-and-diagnostic-resolution-in-previously-unsolved-rare-disease-cases/</guid>
@@ -27,7 +45,7 @@
     <item>
       <title>Parse Biosciences Announces FFPE-compatible Barcoding Technology for Whole Transcriptome Single Cell Analysis</title>
       <link>https://www.rna-seqblog.com/parse-biosciences-announces-ffpe-compatible-barcoding-technology-for-whole-transcriptome-single-cell-analysis/</link>
-      <description>RNA sequencing of FFPE tissues gains whole transcriptome, single cell resolution through...</description>
+      <description>New method enables single cell discovery from archived tissue samples, expanding access to translational and clinical research Parse Biosciences, the leading provider of scalable and accessible single</description>
       <pubDate>Wed, 19 Nov 2025 11:55:03 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/parse-biosciences-announces-ffpe-compatible-barcoding-technology-for-whole-transcriptome-single-cell-analysis/</guid>
@@ -40,24 +58,6 @@
       <pubDate>Mon, 17 Nov 2025 23:54:39 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/labels-for-clear-feedback-in-peer-review</guid>
-    </item>
-    
-    <item>
-      <title>The world’s oldest RNA extracted from woolly mammoth</title>
-      <link>https://www.rna-seqblog.com/the-worlds-oldest-rna-extracted-from-woolly-mammoth/</link>
-      <description>Researchers from Stockholm University have for the first time ever managed to successfully isolate and sequence RNA molecules from Ice Age woolly mammoths. These RNA sequences are the oldest ever reco</description>
-      <pubDate>Mon, 17 Nov 2025 14:59:01 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/the-worlds-oldest-rna-extracted-from-woolly-mammoth/</guid>
-    </item>
-    
-    <item>
-      <title>Foli-seq – fecal exfoliome sequencing captures immune dynamics of the healthy and inflamed gut</title>
-      <link>https://www.rna-seqblog.com/foli-seq-fecal-exfoliome-sequencing-captures-immune-dynamics-of-the-healthy-and-inflamed-gut/</link>
-      <description>Scientists have long used gut microbiome sequencing to understand how microbes affect health. But feces contain more than bacteria. They also carry tiny amounts of human cells that have naturally shed</description>
-      <pubDate>Mon, 17 Nov 2025 14:58:44 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/foli-seq-fecal-exfoliome-sequencing-captures-immune-dynamics-of-the-healthy-and-inflamed-gut/</guid>
     </item>
     
     <item>
