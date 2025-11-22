@@ -4,8 +4,35 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Fri, 21 Nov 2025 06:37:15 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 22 Nov 2025 06:32:45 +0000</lastBuildDate>
   
+    <item>
+      <title>scSpecies – enhancement of network architecture alignment in comparative single-cell studies</title>
+      <link>https://www.rna-seqblog.com/scspecies-enhancement-of-network-architecture-alignment-in-comparative-single-cell-studies/</link>
+      <description>A new deep learning tool improves cross species single cell comparisons and integrates insights with RNA sequencing to enhance...</description>
+      <pubDate>Fri, 21 Nov 2025 12:25:15 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/scspecies-enhancement-of-network-architecture-alignment-in-comparative-single-cell-studies/</guid>
+    </item>
+    
+    <item>
+      <title>Systematic benchmarking of imaging spatial transcriptomics platforms in FFPE tissues</title>
+      <link>https://www.rna-seqblog.com/systematic-benchmarking-of-imaging-spatial-transcriptomics-platforms-in-ffpe-tissues/</link>
+      <description>A comparison of imaging spatial transcriptomics platforms reveals strengths and tradeoffs across technologies using FFPE tissues and integrates insights with RNA sequencing...</description>
+      <pubDate>Fri, 21 Nov 2025 12:25:05 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/systematic-benchmarking-of-imaging-spatial-transcriptomics-platforms-in-ffpe-tissues/</guid>
+    </item>
+    
+    <item>
+      <title>Weekly Recap (Nov 21, 2025)</title>
+      <link>https://blog.stephenturner.us/p/weekly-recap-nov-21-2025</link>
+      <description>R updates (R Data Scientist, R weekly)</description>
+      <pubDate>Fri, 21 Nov 2025 10:39:56 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/weekly-recap-nov-21-2025</guid>
+    </item>
+    
     <item>
       <title>ERNIE-RNA – an RNA language model with structure-enhanced representations</title>
       <link>https://www.rna-seqblog.com/ernie-rna-an-rna-language-model-with-structure-enhanced-representations/</link>
@@ -18,7 +45,7 @@
     <item>
       <title>Single-cell insights into leaf development in Brassica rapa</title>
       <link>https://www.rna-seqblog.com/single-cell-insights-into-leaf-development-in-brassica-rapa/</link>
-      <description>Single cell RNA sequencing reveals how Brassica rapa leaf vascular cells develop and differentiate, uncovering key regulatory genes shaping xylem, phloem, and overall leaf morphogenesis...</description>
+      <description>Leaf vasculature plays a pivotal role in nutrient transport and leaf morphology. A new study in Brassica rapa reveals the developmental trajectories of vascular tissues in Chinese cabbage using single</description>
       <pubDate>Thu, 20 Nov 2025 11:11:39 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/single-cell-insights-into-leaf-development-in-brassica-rapa/</guid>
@@ -27,28 +54,10 @@
     <item>
       <title>RNA sequencing reveals how muscle stem cells guide macrophages to drive tadpole tail regeneration</title>
       <link>https://www.rna-seqblog.com/rna-sequencing-reveals-how-muscle-stem-cells-guide-macrophages-to-drive-tadpole-tail-regeneration/</link>
-      <description>RNA sequencing reveals how muscle stem cells use c1qtnf3 to shift macrophages toward regeneration, enabling African clawed frog tadpoles to regrow functional tails...</description>
+      <description>Researchers discover how muscle stem cells shift the role of macrophages, normally responsible for immune function, to promote regeneration of tadpole tails. Researchers Sumika Kato, Takeo Kubo, and T</description>
       <pubDate>Wed, 19 Nov 2025 11:55:35 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/rna-sequencing-reveals-how-muscle-stem-cells-guide-macrophages-to-drive-tadpole-tail-regeneration/</guid>
-    </item>
-    
-    <item>
-      <title>RNA sequencing provides functional insights and diagnostic resolution in previously unsolved rare disease cases</title>
-      <link>https://www.rna-seqblog.com/rna-sequencing-provides-functional-insights-and-diagnostic-resolution-in-previously-unsolved-rare-disease-cases/</link>
-      <description>Understanding genetic disorders can be challenging, especially when standard DNA tests do not provide clear answers. A team led by researchers from ARUP Laboratories examined how RNA sequencing can fi</description>
-      <pubDate>Wed, 19 Nov 2025 11:55:15 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/rna-sequencing-provides-functional-insights-and-diagnostic-resolution-in-previously-unsolved-rare-disease-cases/</guid>
-    </item>
-    
-    <item>
-      <title>Parse Biosciences Announces FFPE-compatible Barcoding Technology for Whole Transcriptome Single Cell Analysis</title>
-      <link>https://www.rna-seqblog.com/parse-biosciences-announces-ffpe-compatible-barcoding-technology-for-whole-transcriptome-single-cell-analysis/</link>
-      <description>New method enables single cell discovery from archived tissue samples, expanding access to translational and clinical research Parse Biosciences, the leading provider of scalable and accessible single</description>
-      <pubDate>Wed, 19 Nov 2025 11:55:03 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/parse-biosciences-announces-ffpe-compatible-barcoding-technology-for-whole-transcriptome-single-cell-analysis/</guid>
     </item>
     
     <item>
@@ -104,15 +113,6 @@ That&amp;rsquo;s how I got to know &lt;a href="https://liulab-dfci.github.io/" t
       <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
       <source>Chatomics on Chatomics</source>
       <guid>https://divingintogeneticsandgenomics.com/post/reviving-beta-chip-seq-rna-seq-integration-python3/</guid>
-    </item>
-    
-    <item>
-      <title>Weekly Recap (Nov 7, 2025)</title>
-      <link>https://blog.stephenturner.us/p/weekly-recap-nov-7-2025</link>
-      <description>LLMs for learning to code, R updates (R Data Scientist, R Weekly), RAG, layoffs &amp; AI, DuckDB for data science, Anthropic+Iceland, AI in science, AI in drug discovery, Nextflow &amp; pathogen surveillance</description>
-      <pubDate>Fri, 07 Nov 2025 13:54:30 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/weekly-recap-nov-7-2025</guid>
     </item>
     
     <item>
