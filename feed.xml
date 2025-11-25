@@ -4,12 +4,39 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Mon, 24 Nov 2025 06:37:29 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 25 Nov 2025 06:38:10 +0000</lastBuildDate>
   
+    <item>
+      <title>G4mer – An RNA language model for transcriptome-wide identification of G-quadruplexes</title>
+      <link>https://www.rna-seqblog.com/g4mer-an-rna-language-model-for-transcriptome-wide-identification-of-g-quadruplexes/</link>
+      <description>RNA sequencing reveals how genetic variants alter RNA G-quadruplex formation, using an RNA language model that links structural changes to differences in gene expression...</description>
+      <pubDate>Mon, 24 Nov 2025 12:25:44 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/g4mer-an-rna-language-model-for-transcriptome-wide-identification-of-g-quadruplexes/</guid>
+    </item>
+    
+    <item>
+      <title>Benchmarking deep learning methods for biologically conserved single-cell integration</title>
+      <link>https://www.rna-seqblog.com/benchmarking-deep-learning-methods-for-biologically-conserved-single-cell-integration/</link>
+      <description>Improved deep-learning methods enable more accurate single-cell RNA sequencing data integration by preserving subtle biological variation even within annotated cell types...</description>
+      <pubDate>Mon, 24 Nov 2025 12:25:33 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/benchmarking-deep-learning-methods-for-biologically-conserved-single-cell-integration/</guid>
+    </item>
+    
+    <item>
+      <title>Study uncovers and predicts widespread molecular changes in ALS brain cells</title>
+      <link>https://www.rna-seqblog.com/study-uncovers-and-predicts-widespread-molecular-changes-in-als-brain-cells/</link>
+      <description>RNA sequencing of individual brain cell nuclei reveals widespread genetic and protein network changes in ALS, helping identify mechanisms and potential biomarkers linked to disease progression...</description>
+      <pubDate>Mon, 24 Nov 2025 12:25:21 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/study-uncovers-and-predicts-widespread-molecular-changes-in-als-brain-cells/</guid>
+    </item>
+    
     <item>
       <title>scSpecies – enhancement of network architecture alignment in comparative single-cell studies</title>
       <link>https://www.rna-seqblog.com/scspecies-enhancement-of-network-architecture-alignment-in-comparative-single-cell-studies/</link>
-      <description>A new deep learning tool improves cross species single cell comparisons and integrates insights with RNA sequencing to enhance...</description>
+      <description>Comparing human and animal cells can reveal powerful insights about health and disease, but the data from each species often look very different. Researchers at the University of Freiburg have develop</description>
       <pubDate>Fri, 21 Nov 2025 12:25:15 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/scspecies-enhancement-of-network-architecture-alignment-in-comparative-single-cell-studies/</guid>
@@ -18,7 +45,7 @@
     <item>
       <title>Systematic benchmarking of imaging spatial transcriptomics platforms in FFPE tissues</title>
       <link>https://www.rna-seqblog.com/systematic-benchmarking-of-imaging-spatial-transcriptomics-platforms-in-ffpe-tissues/</link>
-      <description>A comparison of imaging spatial transcriptomics platforms reveals strengths and tradeoffs across technologies using FFPE tissues and integrates insights with RNA sequencing...</description>
+      <description>Imaging spatial transcriptomics is reshaping how scientists study tissues because it reveals not only which genes are active, but also where in the tissue those genes are expressed. This spatial conte</description>
       <pubDate>Fri, 21 Nov 2025 12:25:05 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/systematic-benchmarking-of-imaging-spatial-transcriptomics-platforms-in-ffpe-tissues/</guid>
@@ -31,33 +58,6 @@
       <pubDate>Fri, 21 Nov 2025 10:39:56 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/weekly-recap-nov-21-2025</guid>
-    </item>
-    
-    <item>
-      <title>ERNIE-RNA – an RNA language model with structure-enhanced representations</title>
-      <link>https://www.rna-seqblog.com/ernie-rna-an-rna-language-model-with-structure-enhanced-representations/</link>
-      <description>ERNIE-RNA leverages RNA sequencing data to learn both sequence and structural features, enabling highly accurate predictions of RNA secondary structure and function even...</description>
-      <pubDate>Thu, 20 Nov 2025 11:11:53 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/ernie-rna-an-rna-language-model-with-structure-enhanced-representations/</guid>
-    </item>
-    
-    <item>
-      <title>Single-cell insights into leaf development in Brassica rapa</title>
-      <link>https://www.rna-seqblog.com/single-cell-insights-into-leaf-development-in-brassica-rapa/</link>
-      <description>Leaf vasculature plays a pivotal role in nutrient transport and leaf morphology. A new study in Brassica rapa reveals the developmental trajectories of vascular tissues in Chinese cabbage using single</description>
-      <pubDate>Thu, 20 Nov 2025 11:11:39 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/single-cell-insights-into-leaf-development-in-brassica-rapa/</guid>
-    </item>
-    
-    <item>
-      <title>RNA sequencing reveals how muscle stem cells guide macrophages to drive tadpole tail regeneration</title>
-      <link>https://www.rna-seqblog.com/rna-sequencing-reveals-how-muscle-stem-cells-guide-macrophages-to-drive-tadpole-tail-regeneration/</link>
-      <description>Researchers discover how muscle stem cells shift the role of macrophages, normally responsible for immune function, to promote regeneration of tadpole tails. Researchers Sumika Kato, Takeo Kubo, and T</description>
-      <pubDate>Wed, 19 Nov 2025 11:55:35 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/rna-sequencing-reveals-how-muscle-stem-cells-guide-macrophages-to-drive-tadpole-tail-regeneration/</guid>
     </item>
     
     <item>
