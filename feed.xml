@@ -4,12 +4,48 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Tue, 25 Nov 2025 06:38:10 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 26 Nov 2025 06:37:33 +0000</lastBuildDate>
   
+    <item>
+      <title>A DNA search engine</title>
+      <link>https://www.rna-seqblog.com/a-dna-search-engine/</link>
+      <description>MetaGraph enables fast full text searches across global DNA repositories, offering a precise and scalable alternative to downloading datasets and supporting breakthroughs in genomics that rely on RNA </description>
+      <pubDate>Tue, 25 Nov 2025 12:30:00 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/a-dna-search-engine/</guid>
+    </item>
+    
+    <item>
+      <title>Helixer: ab initio prediction of primary eukaryotic gene models</title>
+      <link>https://www.rna-seqblog.com/helixer-ab-initio-prediction-of-primary-eukaryotic-gene-models/</link>
+      <description>Helixer uses deep learning for accurate gene prediction in diverse species, offering a fast, accessible alternative that avoids RNA sequencing requirements...</description>
+      <pubDate>Tue, 25 Nov 2025 12:29:33 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/helixer-ab-initio-prediction-of-primary-eukaryotic-gene-models/</guid>
+    </item>
+    
+    <item>
+      <title>The Festival of Genomics &amp; Biodata in London</title>
+      <link>https://www.rna-seqblog.com/the-festival-of-genomics-biodata-in-london/</link>
+      <description>The Festival of Genomics and Biodata 2026 offers two days of cutting edge science, technology and networking, bringing together researchers, clinicians and innovators across more than sixteen content </description>
+      <pubDate>Tue, 25 Nov 2025 12:29:19 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/the-festival-of-genomics-biodata-in-london/</guid>
+    </item>
+    
+    <item>
+      <title>The Genesis Mission</title>
+      <link>https://blog.stephenturner.us/p/genesis-mission-ai-manhattan-project</link>
+      <description>An AI Manhattan Project for Science and Biotech</description>
+      <pubDate>Tue, 25 Nov 2025 09:37:12 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/genesis-mission-ai-manhattan-project</guid>
+    </item>
+    
     <item>
       <title>G4mer – An RNA language model for transcriptome-wide identification of G-quadruplexes</title>
       <link>https://www.rna-seqblog.com/g4mer-an-rna-language-model-for-transcriptome-wide-identification-of-g-quadruplexes/</link>
-      <description>RNA sequencing reveals how genetic variants alter RNA G-quadruplex formation, using an RNA language model that links structural changes to differences in gene expression...</description>
+      <description>RNA does much more than simply carry genetic information from DNA to protein. Its ability to fold into complex three-dimensional shapes allows it to act as a regulator of gene expression. Among these </description>
       <pubDate>Mon, 24 Nov 2025 12:25:44 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/g4mer-an-rna-language-model-for-transcriptome-wide-identification-of-g-quadruplexes/</guid>
@@ -18,37 +54,10 @@
     <item>
       <title>Benchmarking deep learning methods for biologically conserved single-cell integration</title>
       <link>https://www.rna-seqblog.com/benchmarking-deep-learning-methods-for-biologically-conserved-single-cell-integration/</link>
-      <description>Improved deep-learning methods enable more accurate single-cell RNA sequencing data integration by preserving subtle biological variation even within annotated cell types...</description>
+      <description>Researchers at Sun Yat-sen University set out to solve a growing challenge in single-cell biology. As single-cell RNA sequencing generates data from millions of cells, scientists often need to combine</description>
       <pubDate>Mon, 24 Nov 2025 12:25:33 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/benchmarking-deep-learning-methods-for-biologically-conserved-single-cell-integration/</guid>
-    </item>
-    
-    <item>
-      <title>Study uncovers and predicts widespread molecular changes in ALS brain cells</title>
-      <link>https://www.rna-seqblog.com/study-uncovers-and-predicts-widespread-molecular-changes-in-als-brain-cells/</link>
-      <description>RNA sequencing of individual brain cell nuclei reveals widespread genetic and protein network changes in ALS, helping identify mechanisms and potential biomarkers linked to disease progression...</description>
-      <pubDate>Mon, 24 Nov 2025 12:25:21 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/study-uncovers-and-predicts-widespread-molecular-changes-in-als-brain-cells/</guid>
-    </item>
-    
-    <item>
-      <title>scSpecies – enhancement of network architecture alignment in comparative single-cell studies</title>
-      <link>https://www.rna-seqblog.com/scspecies-enhancement-of-network-architecture-alignment-in-comparative-single-cell-studies/</link>
-      <description>Comparing human and animal cells can reveal powerful insights about health and disease, but the data from each species often look very different. Researchers at the University of Freiburg have develop</description>
-      <pubDate>Fri, 21 Nov 2025 12:25:15 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/scspecies-enhancement-of-network-architecture-alignment-in-comparative-single-cell-studies/</guid>
-    </item>
-    
-    <item>
-      <title>Systematic benchmarking of imaging spatial transcriptomics platforms in FFPE tissues</title>
-      <link>https://www.rna-seqblog.com/systematic-benchmarking-of-imaging-spatial-transcriptomics-platforms-in-ffpe-tissues/</link>
-      <description>Imaging spatial transcriptomics is reshaping how scientists study tissues because it reveals not only which genes are active, but also where in the tissue those genes are expressed. This spatial conte</description>
-      <pubDate>Fri, 21 Nov 2025 12:25:05 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/systematic-benchmarking-of-imaging-spatial-transcriptomics-platforms-in-ffpe-tissues/</guid>
     </item>
     
     <item>
@@ -94,15 +103,6 @@
       <pubDate>Tue, 11 Nov 2025 10:47:52 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/nextflow-summit-2025-youtube-playlist</guid>
-    </item>
-    
-    <item>
-      <title>posit::conf(2025) talks on YouTube</title>
-      <link>https://blog.stephenturner.us/p/posit-conf-2025-youtube-playlist</link>
-      <description>Over 100 recorded talks from posit::conf(2025) are now available on YouTube</description>
-      <pubDate>Mon, 10 Nov 2025 10:57:23 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/posit-conf-2025-youtube-playlist</guid>
     </item>
     
     <item>
