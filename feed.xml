@@ -4,12 +4,48 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Wed, 26 Nov 2025 06:37:33 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 27 Nov 2025 06:38:12 +0000</lastBuildDate>
   
+    <item>
+      <title>scKGBERT – a knowledge-enhanced foundation model for single-cell transcriptomics</title>
+      <link>https://www.rna-seqblog.com/sckgbert-a-knowledge-enhanced-foundation-model-for-single-cell-transcriptomics/</link>
+      <description>scKGBERT combines large scale RNA sequencing data with protein interaction networks to improve biomarker discovery and cell characterization for precision medicine...</description>
+      <pubDate>Wed, 26 Nov 2025 16:02:19 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/sckgbert-a-knowledge-enhanced-foundation-model-for-single-cell-transcriptomics/</guid>
+    </item>
+    
+    <item>
+      <title>RNA-Seq reveals how brain protein OTULIN controls tau expression and could transform Alzheimer’s treatment</title>
+      <link>https://www.rna-seqblog.com/rna-seq-reveals-how-brain-protein-otulin-controls-tau-expression-and-could-transform-alzheimers-treatment/</link>
+      <description>Researchers reveal OTULIN as a key regulator of tau production and RNA sequencing signatures in neurons, uncovering new therapeutic opportunities for Alzheimer’s disease and related tauopathies...</description>
+      <pubDate>Wed, 26 Nov 2025 16:02:05 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/rna-seq-reveals-how-brain-protein-otulin-controls-tau-expression-and-could-transform-alzheimers-treatment/</guid>
+    </item>
+    
+    <item>
+      <title>Lexogen and Ochre Bio advance large-scale RNA sequencing to accelerate functional genomics and RNA therapy discovery</title>
+      <link>https://www.rna-seqblog.com/lexogen-and-ochre-bio-advance-large-scale-rna-sequencing-to-accelerate-functional-genomics-and-rna-therapy-discovery/</link>
+      <description>Lexogen and Ochre Bio generated large-scale functional genomics data from human hepatocytes, delivering high-fidelity RNA sequencing to advance AI-driven target...</description>
+      <pubDate>Wed, 26 Nov 2025 16:01:50 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/lexogen-and-ochre-bio-advance-large-scale-rna-sequencing-to-accelerate-functional-genomics-and-rna-therapy-discovery/</guid>
+    </item>
+    
+    <item>
+      <title>Weekly Recap (Nov 26, 2025)</title>
+      <link>https://blog.stephenturner.us/p/weekly-recap-nov-26-2025</link>
+      <description>R updates (R Data Scientist, R+AI conference, R weekly), Claude 4.5 Opus, Genesis Mission, AI+science, AI updates (Posit, AI Data Scientist), missing heritability, AI+edu, biotech, AIxBio, new papers</description>
+      <pubDate>Wed, 26 Nov 2025 10:51:13 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/weekly-recap-nov-26-2025</guid>
+    </item>
+    
     <item>
       <title>A DNA search engine</title>
       <link>https://www.rna-seqblog.com/a-dna-search-engine/</link>
-      <description>MetaGraph enables fast full text searches across global DNA repositories, offering a precise and scalable alternative to downloading datasets and supporting breakthroughs in genomics that rely on RNA </description>
+      <description>Computer scientists at ETH Zurich have developed a digital tool capable of searching through millions of published DNA records in a matter of seconds. This can significantly accelerate research into a</description>
       <pubDate>Tue, 25 Nov 2025 12:30:00 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/a-dna-search-engine/</guid>
@@ -18,19 +54,10 @@
     <item>
       <title>Helixer: ab initio prediction of primary eukaryotic gene models</title>
       <link>https://www.rna-seqblog.com/helixer-ab-initio-prediction-of-primary-eukaryotic-gene-models/</link>
-      <description>Helixer uses deep learning for accurate gene prediction in diverse species, offering a fast, accessible alternative that avoids RNA sequencing requirements...</description>
+      <description>Understanding where genes are located within a genome is a critical part of biology, because genes act as the instruction manual for how organisms grow, function, and adapt. Yet as scientists sequence</description>
       <pubDate>Tue, 25 Nov 2025 12:29:33 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/helixer-ab-initio-prediction-of-primary-eukaryotic-gene-models/</guid>
-    </item>
-    
-    <item>
-      <title>The Festival of Genomics &amp; Biodata in London</title>
-      <link>https://www.rna-seqblog.com/the-festival-of-genomics-biodata-in-london/</link>
-      <description>The Festival of Genomics and Biodata 2026 offers two days of cutting edge science, technology and networking, bringing together researchers, clinicians and innovators across more than sixteen content </description>
-      <pubDate>Tue, 25 Nov 2025 12:29:19 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/the-festival-of-genomics-biodata-in-london/</guid>
     </item>
     
     <item>
@@ -40,24 +67,6 @@
       <pubDate>Tue, 25 Nov 2025 09:37:12 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/genesis-mission-ai-manhattan-project</guid>
-    </item>
-    
-    <item>
-      <title>G4mer – An RNA language model for transcriptome-wide identification of G-quadruplexes</title>
-      <link>https://www.rna-seqblog.com/g4mer-an-rna-language-model-for-transcriptome-wide-identification-of-g-quadruplexes/</link>
-      <description>RNA does much more than simply carry genetic information from DNA to protein. Its ability to fold into complex three-dimensional shapes allows it to act as a regulator of gene expression. Among these </description>
-      <pubDate>Mon, 24 Nov 2025 12:25:44 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/g4mer-an-rna-language-model-for-transcriptome-wide-identification-of-g-quadruplexes/</guid>
-    </item>
-    
-    <item>
-      <title>Benchmarking deep learning methods for biologically conserved single-cell integration</title>
-      <link>https://www.rna-seqblog.com/benchmarking-deep-learning-methods-for-biologically-conserved-single-cell-integration/</link>
-      <description>Researchers at Sun Yat-sen University set out to solve a growing challenge in single-cell biology. As single-cell RNA sequencing generates data from millions of cells, scientists often need to combine</description>
-      <pubDate>Mon, 24 Nov 2025 12:25:33 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/benchmarking-deep-learning-methods-for-biologically-conserved-single-cell-integration/</guid>
     </item>
     
     <item>
@@ -94,15 +103,6 @@
       <pubDate>2025-11-11T22:34:00.001-05:00</pubDate>
       <source>Omics! Omics!</source>
       <guid>https://omicsomics.blogspot.com/2025/11/bell-labs-wasnt-built-in-day-or-two.html</guid>
-    </item>
-    
-    <item>
-      <title>Nextflow Summit 2025 Talks on YouTube</title>
-      <link>https://blog.stephenturner.us/p/nextflow-summit-2025-youtube-playlist</link>
-      <description>29 talks from the 2025 Nextflow Summit are now available on YouTube</description>
-      <pubDate>Tue, 11 Nov 2025 10:47:52 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/nextflow-summit-2025-youtube-playlist</guid>
     </item>
     
     <item>
