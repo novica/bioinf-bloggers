@@ -4,12 +4,39 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Mon, 01 Dec 2025 06:40:21 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 02 Dec 2025 06:39:05 +0000</lastBuildDate>
   
+    <item>
+      <title>NeurIPS 2025 Workshop on Biosecurity Safeguards for Generative AI</title>
+      <link>https://blog.stephenturner.us/p/neurips-2025-biosafe-genai</link>
+      <description>Accepted papers from the NeurIPS 2025 Workshop on Biosecurity Safeguards for Generative AI (BioSafe GenAI 2025)</description>
+      <pubDate>Mon, 01 Dec 2025 12:45:55 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/neurips-2025-biosafe-genai</guid>
+    </item>
+    
+    <item>
+      <title>Multiple overlapping binding sites determine transcription factor occupancy</title>
+      <link>https://www.rna-seqblog.com/multiple-overlapping-binding-sites-determine-transcription-factor-occupancy/</link>
+      <description>RNA sequencing was used to map overlapping DNA binding sites that shape transcription factor occupancy and reveal how small DNA changes influence gene expression...</description>
+      <pubDate>Mon, 01 Dec 2025 12:28:09 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/multiple-overlapping-binding-sites-determine-transcription-factor-occupancy/</guid>
+    </item>
+    
+    <item>
+      <title>Understanding tumor heterogeneity through RNA expression</title>
+      <link>https://www.rna-seqblog.com/understanding-tumor-heterogeneity-through-rna-expression/</link>
+      <description>RNA sequencing was used to evaluate tumor heterogeneity in breast cancer, revealing links to cell growth and immune activity but limited power in predicting treatment response...</description>
+      <pubDate>Mon, 01 Dec 2025 12:27:58 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/understanding-tumor-heterogeneity-through-rna-expression/</guid>
+    </item>
+    
     <item>
       <title>scKGBERT – a knowledge-enhanced foundation model for single-cell transcriptomics</title>
       <link>https://www.rna-seqblog.com/sckgbert-a-knowledge-enhanced-foundation-model-for-single-cell-transcriptomics/</link>
-      <description>scKGBERT combines large scale RNA sequencing data with protein interaction networks to improve biomarker discovery and cell characterization for precision medicine...</description>
+      <description>Understanding how individual cells behave is essential for advancing modern biology and medicine. Scientists often turn to single-cell transcriptomics, a technique that measures...</description>
       <pubDate>Wed, 26 Nov 2025 16:02:19 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/sckgbert-a-knowledge-enhanced-foundation-model-for-single-cell-transcriptomics/</guid>
@@ -18,7 +45,7 @@
     <item>
       <title>RNA-Seq reveals how brain protein OTULIN controls tau expression and could transform Alzheimer’s treatment</title>
       <link>https://www.rna-seqblog.com/rna-seq-reveals-how-brain-protein-otulin-controls-tau-expression-and-could-transform-alzheimers-treatment/</link>
-      <description>Researchers reveal OTULIN as a key regulator of tau production and RNA sequencing signatures in neurons, uncovering new therapeutic opportunities for Alzheimer’s disease and related tauopathies...</description>
+      <description>Groundbreaking research identifies unexpected role for deubiquitinase enzyme in regulating toxic tau protein accumulation Scientists have uncovered a surprising mechanism by which a brain enzyme calle</description>
       <pubDate>Wed, 26 Nov 2025 16:02:05 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/rna-seq-reveals-how-brain-protein-otulin-controls-tau-expression-and-could-transform-alzheimers-treatment/</guid>
@@ -27,7 +54,7 @@
     <item>
       <title>Lexogen and Ochre Bio advance large-scale RNA sequencing to accelerate functional genomics and RNA therapy discovery</title>
       <link>https://www.rna-seqblog.com/lexogen-and-ochre-bio-advance-large-scale-rna-sequencing-to-accelerate-functional-genomics-and-rna-therapy-discovery/</link>
-      <description>Lexogen and Ochre Bio generated large-scale functional genomics data from human hepatocytes, delivering high-fidelity RNA sequencing to advance AI-driven target...</description>
+      <description>Lexogen, a Vienna-based biotech company specialized in RNA transcriptomics technologies and services announces the completion of a large-scale data generation project producing comprehensive functiona</description>
       <pubDate>Wed, 26 Nov 2025 16:01:50 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/lexogen-and-ochre-bio-advance-large-scale-rna-sequencing-to-accelerate-functional-genomics-and-rna-therapy-discovery/</guid>
@@ -40,24 +67,6 @@
       <pubDate>Wed, 26 Nov 2025 10:51:13 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/weekly-recap-nov-26-2025</guid>
-    </item>
-    
-    <item>
-      <title>A DNA search engine</title>
-      <link>https://www.rna-seqblog.com/a-dna-search-engine/</link>
-      <description>Computer scientists at ETH Zurich have developed a digital tool capable of searching through millions of published DNA records in a matter of seconds. This can significantly accelerate research into a</description>
-      <pubDate>Tue, 25 Nov 2025 12:30:00 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/a-dna-search-engine/</guid>
-    </item>
-    
-    <item>
-      <title>Helixer: ab initio prediction of primary eukaryotic gene models</title>
-      <link>https://www.rna-seqblog.com/helixer-ab-initio-prediction-of-primary-eukaryotic-gene-models/</link>
-      <description>Understanding where genes are located within a genome is a critical part of biology, because genes act as the instruction manual for how organisms grow, function, and adapt. Yet as scientists sequence</description>
-      <pubDate>Tue, 25 Nov 2025 12:29:33 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/helixer-ab-initio-prediction-of-primary-eukaryotic-gene-models/</guid>
     </item>
     
     <item>
@@ -85,15 +94,6 @@
       <pubDate>Mon, 17 Nov 2025 23:54:39 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/labels-for-clear-feedback-in-peer-review</guid>
-    </item>
-    
-    <item>
-      <title>Weekly Recap (Nov 14, 2025)</title>
-      <link>https://blog.stephenturner.us/p/weekly-recap-nov-14-2025</link>
-      <description>posit::conf(2025) &amp; Nextflow Summit talks, bioRxiv+medRxiv AI reviews, R updates (R Data Scientist, R weekly), Claude Scientific Skills, Python package development for R users, new papers &amp; preprints</description>
-      <pubDate>Fri, 14 Nov 2025 11:05:10 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/weekly-recap-nov-14-2025</guid>
     </item>
     
     <item>
