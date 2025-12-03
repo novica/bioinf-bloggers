@@ -4,8 +4,35 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Tue, 02 Dec 2025 06:39:05 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 03 Dec 2025 06:38:37 +0000</lastBuildDate>
   
+    <item>
+      <title>The Age of AI in the Life Sciences: Benefits and Biosecurity Considerations</title>
+      <link>https://blog.stephenturner.us/p/ai-life-sciences-benefits-biosecurity</link>
+      <description>A new Consensus Study Report from the National Academies of Sciences, Engineering, and Medicine is now available: The Age of AI in the Life Sciences: Benefits and Biosecurity Considerations.</description>
+      <pubDate>Tue, 02 Dec 2025 12:31:30 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/ai-life-sciences-benefits-biosecurity</guid>
+    </item>
+    
+    <item>
+      <title>New RNA class discovered that helps keep cells organized</title>
+      <link>https://www.rna-seqblog.com/new-rna-class-discovered-that-helps-keep-cells-organized/</link>
+      <description>Researchers reveal how smOOP RNAs shape biomolecular condensates, using RNA sequencing and deep learning to uncover their role in cellular organization and early developmental processes...</description>
+      <pubDate>Tue, 02 Dec 2025 12:30:08 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/new-rna-class-discovered-that-helps-keep-cells-organized/</guid>
+    </item>
+    
+    <item>
+      <title>scPER – a computational method to identify tumor cell subtypes from total RNA sequencing</title>
+      <link>https://www.rna-seqblog.com/scper-a-computational-method-to-identify-tumor-cell-subtypes-from-total-rna-sequencing/</link>
+      <description>Researchers introduce scPER, a machine learning method using RNA sequencing to estimate tumor cell compositions and reveal...</description>
+      <pubDate>Tue, 02 Dec 2025 12:29:56 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/scper-a-computational-method-to-identify-tumor-cell-subtypes-from-total-rna-sequencing/</guid>
+    </item>
+    
     <item>
       <title>NeurIPS 2025 Workshop on Biosecurity Safeguards for Generative AI</title>
       <link>https://blog.stephenturner.us/p/neurips-2025-biosafe-genai</link>
@@ -27,7 +54,7 @@
     <item>
       <title>Understanding tumor heterogeneity through RNA expression</title>
       <link>https://www.rna-seqblog.com/understanding-tumor-heterogeneity-through-rna-expression/</link>
-      <description>RNA sequencing was used to evaluate tumor heterogeneity in breast cancer, revealing links to cell growth and immune activity but limited power in predicting treatment response...</description>
+      <description>Intratumoral genomic heterogeneity, or ITGH, refers to the genetic and functional differences that can exist within different regions of a single tumor. These differences often explain why some cancer</description>
       <pubDate>Mon, 01 Dec 2025 12:27:58 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/understanding-tumor-heterogeneity-through-rna-expression/</guid>
@@ -36,28 +63,10 @@
     <item>
       <title>scKGBERT – a knowledge-enhanced foundation model for single-cell transcriptomics</title>
       <link>https://www.rna-seqblog.com/sckgbert-a-knowledge-enhanced-foundation-model-for-single-cell-transcriptomics/</link>
-      <description>Understanding how individual cells behave is essential for advancing modern biology and medicine. Scientists often turn to single-cell transcriptomics, a technique that measures...</description>
+      <description>Understanding how individual cells behave is essential for advancing modern biology and medicine. Scientists often turn to single-cell transcriptomics, a technique that measures gene activity one cell</description>
       <pubDate>Wed, 26 Nov 2025 16:02:19 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/sckgbert-a-knowledge-enhanced-foundation-model-for-single-cell-transcriptomics/</guid>
-    </item>
-    
-    <item>
-      <title>RNA-Seq reveals how brain protein OTULIN controls tau expression and could transform Alzheimer’s treatment</title>
-      <link>https://www.rna-seqblog.com/rna-seq-reveals-how-brain-protein-otulin-controls-tau-expression-and-could-transform-alzheimers-treatment/</link>
-      <description>Groundbreaking research identifies unexpected role for deubiquitinase enzyme in regulating toxic tau protein accumulation Scientists have uncovered a surprising mechanism by which a brain enzyme calle</description>
-      <pubDate>Wed, 26 Nov 2025 16:02:05 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/rna-seq-reveals-how-brain-protein-otulin-controls-tau-expression-and-could-transform-alzheimers-treatment/</guid>
-    </item>
-    
-    <item>
-      <title>Lexogen and Ochre Bio advance large-scale RNA sequencing to accelerate functional genomics and RNA therapy discovery</title>
-      <link>https://www.rna-seqblog.com/lexogen-and-ochre-bio-advance-large-scale-rna-sequencing-to-accelerate-functional-genomics-and-rna-therapy-discovery/</link>
-      <description>Lexogen, a Vienna-based biotech company specialized in RNA transcriptomics technologies and services announces the completion of a large-scale data generation project producing comprehensive functiona</description>
-      <pubDate>Wed, 26 Nov 2025 16:01:50 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/lexogen-and-ochre-bio-advance-large-scale-rna-sequencing-to-accelerate-functional-genomics-and-rna-therapy-discovery/</guid>
     </item>
     
     <item>
@@ -85,15 +94,6 @@
       <pubDate>Fri, 21 Nov 2025 10:39:56 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/weekly-recap-nov-21-2025</guid>
-    </item>
-    
-    <item>
-      <title>Labels for Clear Feedback in Peer Review</title>
-      <link>https://blog.stephenturner.us/p/labels-for-clear-feedback-in-peer-review</link>
-      <description>Conventional Comments provides a framework for offering clear and actionable feedback in peer review</description>
-      <pubDate>Mon, 17 Nov 2025 23:54:39 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/labels-for-clear-feedback-in-peer-review</guid>
     </item>
     
     <item>
