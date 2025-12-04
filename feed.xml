@@ -4,7 +4,7 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Wed, 03 Dec 2025 06:38:37 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 04 Dec 2025 06:38:19 +0000</lastBuildDate>
   
     <item>
       <title>The Age of AI in the Life Sciences: Benefits and Biosecurity Considerations</title>
@@ -179,15 +179,6 @@ That&amp;rsquo;s how I got to know &lt;a href="https://liulab-dfci.github.io/" t
     </item>
     
     <item>
-      <title>15th Anniversary</title>
-      <link>https://davetang.org/muse/2025/10/01/15th-anniversary/</link>
-      <description>&lt;p&gt;It has been 15 years since I started this blog! As typical with many of my anniversary posts, I reflect on things that I have started to do and/or have learned since the last time I wrote an annive</description>
-      <pubDate>Wed, 01 Oct 2025 14:42:28 +0000</pubDate>
-      <source>Dave Tang's blog</source>
-      <guid>https://davetang.org/muse/2025/10/01/15th-anniversary/</guid>
-    </item>
-    
-    <item>
       <title>Our journey through low-complexity regions</title>
       <link>http://lh3.github.io/2025/09/29/on-low-complexity-regions</link>
       <description>&lt;p&gt;Those who inspect SVs often have probably noticed many SVs fall in low-complexity regions (LCRs) or tandem repeats and they are challenging to call.
@@ -246,15 +237,6 @@ Roche released </description>
     </item>
     
     <item>
-      <title>On professionalism</title>
-      <link>https://davetang.org/muse/2025/08/30/on-professionalism/</link>
-      <description>&lt;p&gt;I'm a huge fan of Conan O'Brien; there's just something about his demeanour, humour, and wittiness that I admire. I discovered him on YouTube around 2012 and was quite oblivious to who he was, what</description>
-      <pubDate>Sat, 30 Aug 2025 03:01:22 +0000</pubDate>
-      <source>Dave Tang's blog</source>
-      <guid>https://davetang.org/muse/2025/08/30/on-professionalism/</guid>
-    </item>
-    
-    <item>
       <title>Reproducible Computing in Bioinformatics: Lessons from My Latest Talk</title>
       <link>https://divingintogeneticsandgenomics.com/post/repro-comp/</link>
       <description>&lt;p&gt;Hey everyone, it’s Tommy here. If you’ve been following my blog or my Twitter/X (&lt;span class="citation"&gt;@tangming2005&lt;/span&gt;), you know I love diving into the practical side of bioinformatics and g</description>
@@ -264,30 +246,12 @@ Roche released </description>
     </item>
     
     <item>
-      <title>Hosting your own Git repositories</title>
-      <link>https://davetang.org/muse/2025/08/14/hosting-your-own-git-repositories/</link>
-      <description>&lt;p&gt;As you may have already heard, GitHub just got less independent at Microsoft after CEO resignation. What does this mean? Well, I guess nobody knows for certain but it probably will mean that GitHub</description>
-      <pubDate>Wed, 13 Aug 2025 23:34:00 +0000</pubDate>
-      <source>Dave Tang's blog</source>
-      <guid>https://davetang.org/muse/2025/08/14/hosting-your-own-git-repositories/</guid>
-    </item>
-    
-    <item>
       <title>Job search 2025 post-mortem and advice</title>
       <link>https://ekernf01.github.io/job_search_2025</link>
       <description>The comp bio job market is scarier than usual: 2023 was a biotech bankruptcy bloodbath, 2024 was a little better, and as far as layoffs, 2025 has been worse. Academic and government sectors are also r</description>
       <pubDate>2025-08-13T00:00:00+00:00</pubDate>
       <source>Eric Kernfeld</source>
       <guid>https://ekernf01.github.io/job_search_2025</guid>
-    </item>
-    
-    <item>
-      <title>How long does it take to run gpt-oss:20b?</title>
-      <link>https://davetang.org/muse/2025/08/10/how-long-does-it-take-to-run-gpt-oss20b/</link>
-      <description>&lt;p&gt;gpt-oss is OpenAI's open-weight models designed for powerful reasoning, agentic tasks, and versatile developer use cases. You can easily use it via Ollama and read more about it in their blog post.</description>
-      <pubDate>Sun, 10 Aug 2025 05:37:04 +0000</pubDate>
-      <source>Dave Tang's blog</source>
-      <guid>https://davetang.org/muse/2025/08/10/how-long-does-it-take-to-run-gpt-oss20b/</guid>
     </item>
     
     <item>
@@ -396,15 +360,6 @@ of &amp;lsquo;most measure</description>
     </item>
     
     <item>
-      <title>Retrieval-Augmented Generation</title>
-      <link>https://davetang.org/muse/2025/05/27/retrieval-augmented-generation/</link>
-      <description>&lt;p&gt;Back in February I learned about Open WebUI and have been wanting to test it out with Retrieval-Augmented Generation (RAG). I'll follow the tutorial available on Open WebUI's site. The goal of RAG </description>
-      <pubDate>Tue, 27 May 2025 08:11:38 +0000</pubDate>
-      <source>Dave Tang's blog</source>
-      <guid>https://davetang.org/muse/2025/05/27/retrieval-augmented-generation/</guid>
-    </item>
-    
-    <item>
       <title>Dorado v1.0.0 and the v5.2.0 basecalling models</title>
       <link>https://rrwick.github.io/2025/05/27/dorado-v1.html</link>
       <description></description>
@@ -468,6 +423,51 @@ It is similar to STAR in resource </description>
       <pubDate>2024-12-27T00:00:00+01:00</pubDate>
       <source>Living in an Ivory Basement</source>
       <guid>http://ivory.idyll.org/blog/2024-announcing-chill-filter.html</guid>
+    </item>
+    
+    <item>
+      <title>Using AI to find heterogeneous scientific speakers</title>
+      <link>http://jefworks-lab.github.io//blog/2024/11/04/using-ai-to-prevent-manels/</link>
+      <description>(Alt title: how I am using AI to prevent manels and how you can too)</description>
+      <pubDate>2024-11-04T00:00:00+00:00</pubDate>
+      <source>JEFworks Lab</source>
+      <guid>http://jefworks-lab.github.io//blog/2024/11/04/using-ai-to-prevent-manels/</guid>
+    </item>
+    
+    <item>
+      <title>Why Rust is an increasingly beloved part of my programming toolbox</title>
+      <link>http://ivory.idyll.org/blog/2024-why-i-like-rust.html</link>
+      <description>&lt;p&gt;Rust is nice!&lt;/p&gt;</description>
+      <pubDate>2024-10-16T00:00:00+02:00</pubDate>
+      <source>Living in an Ivory Basement</source>
+      <guid>http://ivory.idyll.org/blog/2024-why-i-like-rust.html</guid>
+    </item>
+    
+    <item>
+      <title>Why is bwa-aln used for ancient DNA reads?</title>
+      <link>http://lh3.github.io/2024/09/28/why-is-bwa-aln-still-used</link>
+      <description>&lt;p&gt;&lt;a href="https://github.com/lh3/bwa"&gt;BWA&lt;/a&gt; implements three algorithms: &lt;a href="https://pubmed.ncbi.nlm.nih.gov/19451168/"&gt;bwa-aln&lt;/a&gt;, &lt;a href="https://pubmed.ncbi.nlm.nih.gov/20080505/"&gt;bwa-sw</description>
+      <pubDate>2024-09-28T00:00:00+00:00</pubDate>
+      <source>Heng Li's blog</source>
+      <guid>http://lh3.github.io/2024/09/28/why-is-bwa-aln-still-used</guid>
+    </item>
+    
+    <item>
+      <title>Recent advances in the sourmash ecosystem (August 2024)</title>
+      <link>http://ivory.idyll.org/blog/2024-sourmash-advances.html</link>
+      <description>&lt;p&gt;sourmash is faster and better than before!&lt;/p&gt;</description>
+      <pubDate>2024-08-16T00:00:00+02:00</pubDate>
+      <source>Living in an Ivory Basement</source>
+      <guid>http://ivory.idyll.org/blog/2024-sourmash-advances.html</guid>
+    </item>
+    
+    <item>
+      <title>Internship in the PIM group</title>
+      <link>https://www.bacpop.org/blog/internship_pim_group/</link>
+      <description>Antoine&amp;rsquo;s experience at EBI Lale&amp;rsquo;s experience at EBI Introduction The intersection of biology and computer science has given rise to the rapidly evolving field of bioinformatics. For aspir</description>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <source>Bacterial population genomics blog</source>
+      <guid>https://www.bacpop.org/blog/internship_pim_group/</guid>
     </item>
     
 </channel>
