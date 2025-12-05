@@ -4,8 +4,44 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Thu, 04 Dec 2025 06:38:19 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 05 Dec 2025 06:38:32 +0000</lastBuildDate>
   
+    <item>
+      <title>Human gene maps are biased towards European ancestries</title>
+      <link>https://www.rna-seqblog.com/human-gene-maps-are-biased-towards-european-ancestries/</link>
+      <description>RNA sequencing with long-read technology uncovers thousands of ancestry specific transcripts missing from current gene maps, revealing hidden variation that shapes human biology and disease risk...</description>
+      <pubDate>Thu, 04 Dec 2025 16:32:56 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/human-gene-maps-are-biased-towards-european-ancestries/</guid>
+    </item>
+    
+    <item>
+      <title>VarRNA – variant calling from RNA-Seq data</title>
+      <link>https://www.rna-seqblog.com/varrna-variant-calling-from-rna-seq-data-2/</link>
+      <description>RNA sequencing reveals how cancer related variants are expressed, with VarRNA uncovering allele specific patterns that deepen insight into tumor biology...</description>
+      <pubDate>Thu, 04 Dec 2025 16:32:45 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/varrna-variant-calling-from-rna-seq-data-2/</guid>
+    </item>
+    
+    <item>
+      <title>Countable Labs: New Approach to Enumerating DNA</title>
+      <link>https://omicsomics.blogspot.com/2025/12/countable-labs-new-approach-to.html</link>
+      <description>&lt;span id="docs-internal-guid-bab528ed-7fff-38a7-3da3-2d17a576420f"&gt;&lt;p dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"&gt;&lt;span style="font-family: Arial, sans-serif; font-size: </description>
+      <pubDate>2025-12-04T10:38:00.000-05:00</pubDate>
+      <source>Omics! Omics!</source>
+      <guid>https://omicsomics.blogspot.com/2025/12/countable-labs-new-approach-to.html</guid>
+    </item>
+    
+    <item>
+      <title>Weekly Recap (December 4, 2025)</title>
+      <link>https://blog.stephenturner.us/p/weekly-recap-december-4-2025</link>
+      <description>R updates (R Data Scientist, R+AI conference, RWeekly, rOpenSci), Posit open source investments, AI in academia, science, biology, and labor, science funding cuts, bedder bedtools, many new papers</description>
+      <pubDate>Thu, 04 Dec 2025 12:42:41 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/weekly-recap-december-4-2025</guid>
+    </item>
+    
     <item>
       <title>The Age of AI in the Life Sciences: Benefits and Biosecurity Considerations</title>
       <link>https://blog.stephenturner.us/p/ai-life-sciences-benefits-biosecurity</link>
@@ -27,7 +63,7 @@
     <item>
       <title>scPER – a computational method to identify tumor cell subtypes from total RNA sequencing</title>
       <link>https://www.rna-seqblog.com/scper-a-computational-method-to-identify-tumor-cell-subtypes-from-total-rna-sequencing/</link>
-      <description>Researchers introduce scPER, a machine learning method using RNA sequencing to estimate tumor cell compositions and reveal...</description>
+      <description>Understanding what makes one patient respond to cancer treatment while another does not often comes down to the cells inside a tumor. But tumors are complex communities with many different cell types,</description>
       <pubDate>Tue, 02 Dec 2025 12:29:56 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/scper-a-computational-method-to-identify-tumor-cell-subtypes-from-total-rna-sequencing/</guid>
@@ -45,28 +81,10 @@
     <item>
       <title>Multiple overlapping binding sites determine transcription factor occupancy</title>
       <link>https://www.rna-seqblog.com/multiple-overlapping-binding-sites-determine-transcription-factor-occupancy/</link>
-      <description>RNA sequencing was used to map overlapping DNA binding sites that shape transcription factor occupancy and reveal how small DNA changes influence gene expression...</description>
+      <description>Transcription factors are proteins that turn genes on or off by attaching to specific DNA sequences. For years, researchers have used high-throughput lab methods to figure out which DNA sequences thes</description>
       <pubDate>Mon, 01 Dec 2025 12:28:09 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/multiple-overlapping-binding-sites-determine-transcription-factor-occupancy/</guid>
-    </item>
-    
-    <item>
-      <title>Understanding tumor heterogeneity through RNA expression</title>
-      <link>https://www.rna-seqblog.com/understanding-tumor-heterogeneity-through-rna-expression/</link>
-      <description>Intratumoral genomic heterogeneity, or ITGH, refers to the genetic and functional differences that can exist within different regions of a single tumor. These differences often explain why some cancer</description>
-      <pubDate>Mon, 01 Dec 2025 12:27:58 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/understanding-tumor-heterogeneity-through-rna-expression/</guid>
-    </item>
-    
-    <item>
-      <title>scKGBERT – a knowledge-enhanced foundation model for single-cell transcriptomics</title>
-      <link>https://www.rna-seqblog.com/sckgbert-a-knowledge-enhanced-foundation-model-for-single-cell-transcriptomics/</link>
-      <description>Understanding how individual cells behave is essential for advancing modern biology and medicine. Scientists often turn to single-cell transcriptomics, a technique that measures gene activity one cell</description>
-      <pubDate>Wed, 26 Nov 2025 16:02:19 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/sckgbert-a-knowledge-enhanced-foundation-model-for-single-cell-transcriptomics/</guid>
     </item>
     
     <item>
@@ -85,15 +103,6 @@
       <pubDate>Tue, 25 Nov 2025 09:37:12 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/genesis-mission-ai-manhattan-project</guid>
-    </item>
-    
-    <item>
-      <title>Weekly Recap (Nov 21, 2025)</title>
-      <link>https://blog.stephenturner.us/p/weekly-recap-nov-21-2025</link>
-      <description>R updates (R Data Scientist, R weekly)</description>
-      <pubDate>Fri, 21 Nov 2025 10:39:56 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/weekly-recap-nov-21-2025</guid>
     </item>
     
     <item>
@@ -170,12 +179,12 @@ That&amp;rsquo;s how I got to know &lt;a href="https://liulab-dfci.github.io/" t
     </item>
     
     <item>
-      <title>Ship of ThesION</title>
-      <link>https://omicsomics.blogspot.com/2025/10/ship-of-thesion.html</link>
-      <description>&lt;a href="https://omicsomics.blogspot.com/2025/10/ship-of-thesion.html#more"&gt;Read more »&lt;/a&gt;</description>
-      <pubDate>2025-10-09T11:47:00.000-04:00</pubDate>
-      <source>Omics! Omics!</source>
-      <guid>https://omicsomics.blogspot.com/2025/10/ship-of-thesion.html</guid>
+      <title>15th Anniversary</title>
+      <link>https://davetang.org/muse/2025/10/01/15th-anniversary/</link>
+      <description>&lt;p&gt;It has been 15 years since I started this blog! As typical with many of my anniversary posts, I reflect on things that I have started to do and/or have learned since the last time I wrote an annive</description>
+      <pubDate>Wed, 01 Oct 2025 14:42:28 +0000</pubDate>
+      <source>Dave Tang's blog</source>
+      <guid>https://davetang.org/muse/2025/10/01/15th-anniversary/</guid>
     </item>
     
     <item>
@@ -237,6 +246,15 @@ Roche released </description>
     </item>
     
     <item>
+      <title>On professionalism</title>
+      <link>https://davetang.org/muse/2025/08/30/on-professionalism/</link>
+      <description>&lt;p&gt;I'm a huge fan of Conan O'Brien; there's just something about his demeanour, humour, and wittiness that I admire. I discovered him on YouTube around 2012 and was quite oblivious to who he was, what</description>
+      <pubDate>Sat, 30 Aug 2025 03:01:22 +0000</pubDate>
+      <source>Dave Tang's blog</source>
+      <guid>https://davetang.org/muse/2025/08/30/on-professionalism/</guid>
+    </item>
+    
+    <item>
       <title>Reproducible Computing in Bioinformatics: Lessons from My Latest Talk</title>
       <link>https://divingintogeneticsandgenomics.com/post/repro-comp/</link>
       <description>&lt;p&gt;Hey everyone, it’s Tommy here. If you’ve been following my blog or my Twitter/X (&lt;span class="citation"&gt;@tangming2005&lt;/span&gt;), you know I love diving into the practical side of bioinformatics and g</description>
@@ -246,12 +264,30 @@ Roche released </description>
     </item>
     
     <item>
+      <title>Hosting your own Git repositories</title>
+      <link>https://davetang.org/muse/2025/08/14/hosting-your-own-git-repositories/</link>
+      <description>&lt;p&gt;As you may have already heard, GitHub just got less independent at Microsoft after CEO resignation. What does this mean? Well, I guess nobody knows for certain but it probably will mean that GitHub</description>
+      <pubDate>Wed, 13 Aug 2025 23:34:00 +0000</pubDate>
+      <source>Dave Tang's blog</source>
+      <guid>https://davetang.org/muse/2025/08/14/hosting-your-own-git-repositories/</guid>
+    </item>
+    
+    <item>
       <title>Job search 2025 post-mortem and advice</title>
       <link>https://ekernf01.github.io/job_search_2025</link>
       <description>The comp bio job market is scarier than usual: 2023 was a biotech bankruptcy bloodbath, 2024 was a little better, and as far as layoffs, 2025 has been worse. Academic and government sectors are also r</description>
       <pubDate>2025-08-13T00:00:00+00:00</pubDate>
       <source>Eric Kernfeld</source>
       <guid>https://ekernf01.github.io/job_search_2025</guid>
+    </item>
+    
+    <item>
+      <title>How long does it take to run gpt-oss:20b?</title>
+      <link>https://davetang.org/muse/2025/08/10/how-long-does-it-take-to-run-gpt-oss20b/</link>
+      <description>&lt;p&gt;gpt-oss is OpenAI's open-weight models designed for powerful reasoning, agentic tasks, and versatile developer use cases. You can easily use it via Ollama and read more about it in their blog post.</description>
+      <pubDate>Sun, 10 Aug 2025 05:37:04 +0000</pubDate>
+      <source>Dave Tang's blog</source>
+      <guid>https://davetang.org/muse/2025/08/10/how-long-does-it-take-to-run-gpt-oss20b/</guid>
     </item>
     
     <item>
@@ -360,6 +396,15 @@ of &amp;lsquo;most measure</description>
     </item>
     
     <item>
+      <title>Retrieval-Augmented Generation</title>
+      <link>https://davetang.org/muse/2025/05/27/retrieval-augmented-generation/</link>
+      <description>&lt;p&gt;Back in February I learned about Open WebUI and have been wanting to test it out with Retrieval-Augmented Generation (RAG). I'll follow the tutorial available on Open WebUI's site. The goal of RAG </description>
+      <pubDate>Tue, 27 May 2025 08:11:38 +0000</pubDate>
+      <source>Dave Tang's blog</source>
+      <guid>https://davetang.org/muse/2025/05/27/retrieval-augmented-generation/</guid>
+    </item>
+    
+    <item>
       <title>Dorado v1.0.0 and the v5.2.0 basecalling models</title>
       <link>https://rrwick.github.io/2025/05/27/dorado-v1.html</link>
       <description></description>
@@ -423,51 +468,6 @@ It is similar to STAR in resource </description>
       <pubDate>2024-12-27T00:00:00+01:00</pubDate>
       <source>Living in an Ivory Basement</source>
       <guid>http://ivory.idyll.org/blog/2024-announcing-chill-filter.html</guid>
-    </item>
-    
-    <item>
-      <title>Using AI to find heterogeneous scientific speakers</title>
-      <link>http://jefworks-lab.github.io//blog/2024/11/04/using-ai-to-prevent-manels/</link>
-      <description>(Alt title: how I am using AI to prevent manels and how you can too)</description>
-      <pubDate>2024-11-04T00:00:00+00:00</pubDate>
-      <source>JEFworks Lab</source>
-      <guid>http://jefworks-lab.github.io//blog/2024/11/04/using-ai-to-prevent-manels/</guid>
-    </item>
-    
-    <item>
-      <title>Why Rust is an increasingly beloved part of my programming toolbox</title>
-      <link>http://ivory.idyll.org/blog/2024-why-i-like-rust.html</link>
-      <description>&lt;p&gt;Rust is nice!&lt;/p&gt;</description>
-      <pubDate>2024-10-16T00:00:00+02:00</pubDate>
-      <source>Living in an Ivory Basement</source>
-      <guid>http://ivory.idyll.org/blog/2024-why-i-like-rust.html</guid>
-    </item>
-    
-    <item>
-      <title>Why is bwa-aln used for ancient DNA reads?</title>
-      <link>http://lh3.github.io/2024/09/28/why-is-bwa-aln-still-used</link>
-      <description>&lt;p&gt;&lt;a href="https://github.com/lh3/bwa"&gt;BWA&lt;/a&gt; implements three algorithms: &lt;a href="https://pubmed.ncbi.nlm.nih.gov/19451168/"&gt;bwa-aln&lt;/a&gt;, &lt;a href="https://pubmed.ncbi.nlm.nih.gov/20080505/"&gt;bwa-sw</description>
-      <pubDate>2024-09-28T00:00:00+00:00</pubDate>
-      <source>Heng Li's blog</source>
-      <guid>http://lh3.github.io/2024/09/28/why-is-bwa-aln-still-used</guid>
-    </item>
-    
-    <item>
-      <title>Recent advances in the sourmash ecosystem (August 2024)</title>
-      <link>http://ivory.idyll.org/blog/2024-sourmash-advances.html</link>
-      <description>&lt;p&gt;sourmash is faster and better than before!&lt;/p&gt;</description>
-      <pubDate>2024-08-16T00:00:00+02:00</pubDate>
-      <source>Living in an Ivory Basement</source>
-      <guid>http://ivory.idyll.org/blog/2024-sourmash-advances.html</guid>
-    </item>
-    
-    <item>
-      <title>Internship in the PIM group</title>
-      <link>https://www.bacpop.org/blog/internship_pim_group/</link>
-      <description>Antoine&amp;rsquo;s experience at EBI Lale&amp;rsquo;s experience at EBI Introduction The intersection of biology and computer science has given rise to the rapidly evolving field of bioinformatics. For aspir</description>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <source>Bacterial population genomics blog</source>
-      <guid>https://www.bacpop.org/blog/internship_pim_group/</guid>
     </item>
     
 </channel>
