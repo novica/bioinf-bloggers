@@ -4,12 +4,48 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Fri, 05 Dec 2025 06:38:32 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 06 Dec 2025 06:34:44 +0000</lastBuildDate>
   
+    <item>
+      <title>Quoting Kevin Roose (NYT / Hard Fork)</title>
+      <link>https://blog.stephenturner.us/p/quoting-kevin-roose-nyt-hard-fork</link>
+      <description>I'm not going to listen to opinions about AI from people who don't use AI.</description>
+      <pubDate>Fri, 05 Dec 2025 16:22:23 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/quoting-kevin-roose-nyt-hard-fork</guid>
+    </item>
+    
+    <item>
+      <title>Spatial Touchstone brings quality control to spatial transcriptomics</title>
+      <link>https://www.rna-seqblog.com/spatial-touchstone-brings-quality-control-to-spatial-transcriptomics/</link>
+      <description>The Spatial Touchstone dataset integrates RNA sequencing with imaging-based spatial transcriptomics, providing standardized metrics and tools to improve reproducibility and cross-platform comparisons </description>
+      <pubDate>Fri, 05 Dec 2025 12:50:28 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/spatial-touchstone-brings-quality-control-to-spatial-transcriptomics/</guid>
+    </item>
+    
+    <item>
+      <title>Deciphering cell dynamics via genetic barcoding and single-cell transcriptomics</title>
+      <link>https://www.rna-seqblog.com/deciphering-cell-dynamics-via-genetic-barcoding-and-single-cell-transcriptomics/</link>
+      <description>Researchers used RNA sequencing to trace progenitor cells in esophageal preneoplasia, identifying markers that could aid early detection and therapy of esophageal cancer....</description>
+      <pubDate>Fri, 05 Dec 2025 12:50:14 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/deciphering-cell-dynamics-via-genetic-barcoding-and-single-cell-transcriptomics/</guid>
+    </item>
+    
+    <item>
+      <title>PERlncDB – new platform developed to explore epigenetic regulation of plant long non-coding RNAs</title>
+      <link>https://www.rna-seqblog.com/perlncdb-new-platform-developed-to-explore-epigenetic-regulation-of-plant-long-non-coding-rnas/</link>
+      <description>Researchers used RNA sequencing and epigenomic data to map plant lncRNAs, creating PERlncDB, a platform for exploring epigenetic regulation and functional roles across 19 plant...</description>
+      <pubDate>Fri, 05 Dec 2025 12:50:00 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/perlncdb-new-platform-developed-to-explore-epigenetic-regulation-of-plant-long-non-coding-rnas/</guid>
+    </item>
+    
     <item>
       <title>Human gene maps are biased towards European ancestries</title>
       <link>https://www.rna-seqblog.com/human-gene-maps-are-biased-towards-european-ancestries/</link>
-      <description>RNA sequencing with long-read technology uncovers thousands of ancestry specific transcripts missing from current gene maps, revealing hidden variation that shapes human biology and disease risk...</description>
+      <description>A study published today in Nature Communications by researchers from CRG and BSC-CNS shows that human gene maps lack global representation because they were built mainly using data from individuals of</description>
       <pubDate>Thu, 04 Dec 2025 16:32:56 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/human-gene-maps-are-biased-towards-european-ancestries/</guid>
@@ -18,7 +54,7 @@
     <item>
       <title>VarRNA – variant calling from RNA-Seq data</title>
       <link>https://www.rna-seqblog.com/varrna-variant-calling-from-rna-seq-data-2/</link>
-      <description>RNA sequencing reveals how cancer related variants are expressed, with VarRNA uncovering allele specific patterns that deepen insight into tumor biology...</description>
+      <description>Understanding how genetic variants influence cancer is one of the major challenges in modern biomedical research. These variants can drive tumor growth, affect how a cancer behaves, and even determine</description>
       <pubDate>Thu, 04 Dec 2025 16:32:45 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/varrna-variant-calling-from-rna-seq-data-2/</guid>
@@ -52,24 +88,6 @@
     </item>
     
     <item>
-      <title>New RNA class discovered that helps keep cells organized</title>
-      <link>https://www.rna-seqblog.com/new-rna-class-discovered-that-helps-keep-cells-organized/</link>
-      <description>Researchers reveal how smOOP RNAs shape biomolecular condensates, using RNA sequencing and deep learning to uncover their role in cellular organization and early developmental processes...</description>
-      <pubDate>Tue, 02 Dec 2025 12:30:08 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/new-rna-class-discovered-that-helps-keep-cells-organized/</guid>
-    </item>
-    
-    <item>
-      <title>scPER – a computational method to identify tumor cell subtypes from total RNA sequencing</title>
-      <link>https://www.rna-seqblog.com/scper-a-computational-method-to-identify-tumor-cell-subtypes-from-total-rna-sequencing/</link>
-      <description>Understanding what makes one patient respond to cancer treatment while another does not often comes down to the cells inside a tumor. But tumors are complex communities with many different cell types,</description>
-      <pubDate>Tue, 02 Dec 2025 12:29:56 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/scper-a-computational-method-to-identify-tumor-cell-subtypes-from-total-rna-sequencing/</guid>
-    </item>
-    
-    <item>
       <title>NeurIPS 2025 Workshop on Biosecurity Safeguards for Generative AI</title>
       <link>https://blog.stephenturner.us/p/neurips-2025-biosafe-genai</link>
       <description>Accepted papers from the NeurIPS 2025 Workshop on Biosecurity Safeguards for Generative AI (BioSafe GenAI 2025)</description>
@@ -79,30 +97,12 @@
     </item>
     
     <item>
-      <title>Multiple overlapping binding sites determine transcription factor occupancy</title>
-      <link>https://www.rna-seqblog.com/multiple-overlapping-binding-sites-determine-transcription-factor-occupancy/</link>
-      <description>Transcription factors are proteins that turn genes on or off by attaching to specific DNA sequences. For years, researchers have used high-throughput lab methods to figure out which DNA sequences thes</description>
-      <pubDate>Mon, 01 Dec 2025 12:28:09 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/multiple-overlapping-binding-sites-determine-transcription-factor-occupancy/</guid>
-    </item>
-    
-    <item>
       <title>Weekly Recap (Nov 26, 2025)</title>
       <link>https://blog.stephenturner.us/p/weekly-recap-nov-26-2025</link>
       <description>R updates (R Data Scientist, R+AI conference, R weekly), Claude 4.5 Opus, Genesis Mission, AI+science, AI updates (Posit, AI Data Scientist), missing heritability, AI+edu, biotech, AIxBio, new papers</description>
       <pubDate>Wed, 26 Nov 2025 10:51:13 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/weekly-recap-nov-26-2025</guid>
-    </item>
-    
-    <item>
-      <title>The Genesis Mission</title>
-      <link>https://blog.stephenturner.us/p/genesis-mission-ai-manhattan-project</link>
-      <description>An AI Manhattan Project for Science and Biotech</description>
-      <pubDate>Tue, 25 Nov 2025 09:37:12 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/genesis-mission-ai-manhattan-project</guid>
     </item>
     
     <item>
