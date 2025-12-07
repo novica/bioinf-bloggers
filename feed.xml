@@ -4,8 +4,17 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Sat, 06 Dec 2025 06:34:44 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 07 Dec 2025 06:34:23 +0000</lastBuildDate>
   
+    <item>
+      <title>The "If-Then" Approach to AI Biosecurity</title>
+      <link>https://blog.stephenturner.us/p/if-then-ai-biosecurity</link>
+      <description>A Measured Approach to AI+Biosecurity: The "If-Then" Framework from the 2025 NASEM report, The Age of AI in the Life Sciences: Benefits and Biosecurity Considerations.</description>
+      <pubDate>Sat, 06 Dec 2025 11:57:30 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/if-then-ai-biosecurity</guid>
+    </item>
+    
     <item>
       <title>Quoting Kevin Roose (NYT / Hard Fork)</title>
       <link>https://blog.stephenturner.us/p/quoting-kevin-roose-nyt-hard-fork</link>
@@ -94,15 +103,6 @@
       <pubDate>Mon, 01 Dec 2025 12:45:55 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/neurips-2025-biosafe-genai</guid>
-    </item>
-    
-    <item>
-      <title>Weekly Recap (Nov 26, 2025)</title>
-      <link>https://blog.stephenturner.us/p/weekly-recap-nov-26-2025</link>
-      <description>R updates (R Data Scientist, R+AI conference, R weekly), Claude 4.5 Opus, Genesis Mission, AI+science, AI updates (Posit, AI Data Scientist), missing heritability, AI+edu, biotech, AIxBio, new papers</description>
-      <pubDate>Wed, 26 Nov 2025 10:51:13 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/weekly-recap-nov-26-2025</guid>
     </item>
     
     <item>
