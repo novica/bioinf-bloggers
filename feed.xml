@@ -4,8 +4,35 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Mon, 08 Dec 2025 06:41:34 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 09 Dec 2025 06:39:27 +0000</lastBuildDate>
   
+    <item>
+      <title>Isoformic – a workflow for transcript-level RNA-seq interpretation</title>
+      <link>https://www.rna-seqblog.com/isoformic-a-workflow-for-transcript-level-rna-seq-interpretation/</link>
+      <description>Isoformic improves transcript level interpretation of RNA sequencing data, revealing biologically meaningful variants linked to regulatory events and phenotypes...</description>
+      <pubDate>Mon, 08 Dec 2025 12:27:52 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/isoformic-a-workflow-for-transcript-level-rna-seq-interpretation/</guid>
+    </item>
+    
+    <item>
+      <title>D3Impute – dropout-aware discrimination, distribution-aware modeling, and density-guide imputation for scRNA-seq data</title>
+      <link>https://www.rna-seqblog.com/d3impute-dropout-aware-discrimination-distribution-aware-modeling-and-density-guide-imputation-for-scrna-seq-data/</link>
+      <description>D3Impute improves single cell RNA sequencing analysis by distinguishing technical zeros from true biological signals and enhancing accuracy...</description>
+      <pubDate>Mon, 08 Dec 2025 12:27:42 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/d3impute-dropout-aware-discrimination-distribution-aware-modeling-and-density-guide-imputation-for-scrna-seq-data/</guid>
+    </item>
+    
+    <item>
+      <title>The False Choice Between Meaning and Accountability in Higher Education</title>
+      <link>https://blog.stephenturner.us/p/false-choice-meaning-accountability-ai-university</link>
+      <description>Thoughts on Ronald Purser's December 2025 essay in Current Affairs, "AI is Destroying the University and Learning Itself"</description>
+      <pubDate>Mon, 08 Dec 2025 11:41:54 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/false-choice-meaning-accountability-ai-university</guid>
+    </item>
+    
     <item>
       <title>The "If-Then" Approach to AI Biosecurity</title>
       <link>https://blog.stephenturner.us/p/if-then-ai-biosecurity</link>
@@ -36,7 +63,7 @@
     <item>
       <title>Deciphering cell dynamics via genetic barcoding and single-cell transcriptomics</title>
       <link>https://www.rna-seqblog.com/deciphering-cell-dynamics-via-genetic-barcoding-and-single-cell-transcriptomics/</link>
-      <description>Researchers used RNA sequencing to trace progenitor cells in esophageal preneoplasia, identifying markers that could aid early detection and therapy of esophageal cancer....</description>
+      <description>Even when cells look normal under a microscope, they can carry subtle genetic changes that may eventually lead to cancer. Researchers at the University of Texas MD Anderson Cancer Center set out to un</description>
       <pubDate>Fri, 05 Dec 2025 12:50:14 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/deciphering-cell-dynamics-via-genetic-barcoding-and-single-cell-transcriptomics/</guid>
@@ -45,7 +72,7 @@
     <item>
       <title>PERlncDB – new platform developed to explore epigenetic regulation of plant long non-coding RNAs</title>
       <link>https://www.rna-seqblog.com/perlncdb-new-platform-developed-to-explore-epigenetic-regulation-of-plant-long-non-coding-rnas/</link>
-      <description>Researchers used RNA sequencing and epigenomic data to map plant lncRNAs, creating PERlncDB, a platform for exploring epigenetic regulation and functional roles across 19 plant...</description>
+      <description>Long non-coding RNAs (lncRNAs) are RNA transcripts longer than 200 nucleotides that do not code for proteins. Once considered mere transcriptional noise, lncRNAs are now known to play vital roles in p</description>
       <pubDate>Fri, 05 Dec 2025 12:50:00 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/perlncdb-new-platform-developed-to-explore-epigenetic-regulation-of-plant-long-non-coding-rnas/</guid>
@@ -58,24 +85,6 @@
       <pubDate>2025-12-05T00:00:00+00:00</pubDate>
       <source>Eric Kernfeld</source>
       <guid>https://ekernf01.github.io/target_gene_shenanigans</guid>
-    </item>
-    
-    <item>
-      <title>Human gene maps are biased towards European ancestries</title>
-      <link>https://www.rna-seqblog.com/human-gene-maps-are-biased-towards-european-ancestries/</link>
-      <description>A study published today in Nature Communications by researchers from CRG and BSC-CNS shows that human gene maps lack global representation because they were built mainly using data from individuals of</description>
-      <pubDate>Thu, 04 Dec 2025 16:32:56 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/human-gene-maps-are-biased-towards-european-ancestries/</guid>
-    </item>
-    
-    <item>
-      <title>VarRNA – variant calling from RNA-Seq data</title>
-      <link>https://www.rna-seqblog.com/varrna-variant-calling-from-rna-seq-data-2/</link>
-      <description>Understanding how genetic variants influence cancer is one of the major challenges in modern biomedical research. These variants can drive tumor growth, affect how a cancer behaves, and even determine</description>
-      <pubDate>Thu, 04 Dec 2025 16:32:45 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/varrna-variant-calling-from-rna-seq-data-2/</guid>
     </item>
     
     <item>
@@ -103,15 +112,6 @@
       <pubDate>Tue, 02 Dec 2025 12:31:30 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/ai-life-sciences-benefits-biosecurity</guid>
-    </item>
-    
-    <item>
-      <title>NeurIPS 2025 Workshop on Biosecurity Safeguards for Generative AI</title>
-      <link>https://blog.stephenturner.us/p/neurips-2025-biosafe-genai</link>
-      <description>Accepted papers from the NeurIPS 2025 Workshop on Biosecurity Safeguards for Generative AI (BioSafe GenAI 2025)</description>
-      <pubDate>Mon, 01 Dec 2025 12:45:55 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/neurips-2025-biosafe-genai</guid>
     </item>
     
     <item>
