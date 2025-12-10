@@ -4,12 +4,39 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Tue, 09 Dec 2025 06:39:27 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 10 Dec 2025 06:39:57 +0000</lastBuildDate>
   
+    <item>
+      <title>Blood RNA sequencing shows overlapping gene expression across COPD phenotype domains</title>
+      <link>https://www.rna-seqblog.com/blood-rna-sequencing-shows-overlapping-gene-expression-across-copd-phenotype-domains/</link>
+      <description>RNA sequencing reveals how tumor stem cells reprogram neutrophils through prostaglandin signaling, creating a protective niche that limits immunotherapy effectiveness...</description>
+      <pubDate>Tue, 09 Dec 2025 12:32:31 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/blood-rna-sequencing-shows-overlapping-gene-expression-across-copd-phenotype-domains/</guid>
+    </item>
+    
+    <item>
+      <title>Pan-cancer gene set discovery via scRNA-seq for optimal deep learning based downstream tasks</title>
+      <link>https://www.rna-seqblog.com/pan-cancer-gene-set-discovery-via-scrna-seq-for-optimal-deep-learning-based-downstream-tasks/</link>
+      <description>RNA sequencing combined with single cell analysis improves gene set selection for machine learning tasks in cancer prediction...</description>
+      <pubDate>Tue, 09 Dec 2025 12:32:15 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/pan-cancer-gene-set-discovery-via-scrna-seq-for-optimal-deep-learning-based-downstream-tasks/</guid>
+    </item>
+    
+    <item>
+      <title>Single cell RNA-seq uncovers breast cancer diversity</title>
+      <link>https://www.rna-seqblog.com/single-cell-rna-seq-uncovers-breast-cancer-diversity/</link>
+      <description>RNA sequencing highlights diverse malignant cell states in breast cancer and identifies TCP1 as a potential target for limiting aggressive tumor behavior...</description>
+      <pubDate>Tue, 09 Dec 2025 12:32:03 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/single-cell-rna-seq-uncovers-breast-cancer-diversity/</guid>
+    </item>
+    
     <item>
       <title>Isoformic – a workflow for transcript-level RNA-seq interpretation</title>
       <link>https://www.rna-seqblog.com/isoformic-a-workflow-for-transcript-level-rna-seq-interpretation/</link>
-      <description>Isoformic improves transcript level interpretation of RNA sequencing data, revealing biologically meaningful variants linked to regulatory events and phenotypes...</description>
+      <description>Understanding the full range of RNA molecules produced by a gene is essential for grasping how cells function, yet many analyses still overlook this complexity. Researchers from the Federal University</description>
       <pubDate>Mon, 08 Dec 2025 12:27:52 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/isoformic-a-workflow-for-transcript-level-rna-seq-interpretation/</guid>
@@ -18,7 +45,7 @@
     <item>
       <title>D3Impute – dropout-aware discrimination, distribution-aware modeling, and density-guide imputation for scRNA-seq data</title>
       <link>https://www.rna-seqblog.com/d3impute-dropout-aware-discrimination-distribution-aware-modeling-and-density-guide-imputation-for-scrna-seq-data/</link>
-      <description>D3Impute improves single cell RNA sequencing analysis by distinguishing technical zeros from true biological signals and enhancing accuracy...</description>
+      <description>Single cell technologies have made it possible to look at gene expression in individual cells, revealing differences that were once hidden in averaged data. However, one major challenge in single cell</description>
       <pubDate>Mon, 08 Dec 2025 12:27:42 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/d3impute-dropout-aware-discrimination-distribution-aware-modeling-and-density-guide-imputation-for-scrna-seq-data/</guid>
@@ -49,33 +76,6 @@
       <pubDate>Fri, 05 Dec 2025 16:22:23 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/quoting-kevin-roose-nyt-hard-fork</guid>
-    </item>
-    
-    <item>
-      <title>Spatial Touchstone brings quality control to spatial transcriptomics</title>
-      <link>https://www.rna-seqblog.com/spatial-touchstone-brings-quality-control-to-spatial-transcriptomics/</link>
-      <description>The Spatial Touchstone dataset integrates RNA sequencing with imaging-based spatial transcriptomics, providing standardized metrics and tools to improve reproducibility and cross-platform comparisons </description>
-      <pubDate>Fri, 05 Dec 2025 12:50:28 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/spatial-touchstone-brings-quality-control-to-spatial-transcriptomics/</guid>
-    </item>
-    
-    <item>
-      <title>Deciphering cell dynamics via genetic barcoding and single-cell transcriptomics</title>
-      <link>https://www.rna-seqblog.com/deciphering-cell-dynamics-via-genetic-barcoding-and-single-cell-transcriptomics/</link>
-      <description>Even when cells look normal under a microscope, they can carry subtle genetic changes that may eventually lead to cancer. Researchers at the University of Texas MD Anderson Cancer Center set out to un</description>
-      <pubDate>Fri, 05 Dec 2025 12:50:14 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/deciphering-cell-dynamics-via-genetic-barcoding-and-single-cell-transcriptomics/</guid>
-    </item>
-    
-    <item>
-      <title>PERlncDB – new platform developed to explore epigenetic regulation of plant long non-coding RNAs</title>
-      <link>https://www.rna-seqblog.com/perlncdb-new-platform-developed-to-explore-epigenetic-regulation-of-plant-long-non-coding-rnas/</link>
-      <description>Long non-coding RNAs (lncRNAs) are RNA transcripts longer than 200 nucleotides that do not code for proteins. Once considered mere transcriptional noise, lncRNAs are now known to play vital roles in p</description>
-      <pubDate>Fri, 05 Dec 2025 12:50:00 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/perlncdb-new-platform-developed-to-explore-epigenetic-regulation-of-plant-long-non-coding-rnas/</guid>
     </item>
     
     <item>
