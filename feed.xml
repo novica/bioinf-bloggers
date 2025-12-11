@@ -4,8 +4,35 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Wed, 10 Dec 2025 06:39:57 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 11 Dec 2025 06:40:37 +0000</lastBuildDate>
   
+    <item>
+      <title>MUTE-Seq – ultrasensitive method to detect low-frequency cancer mutations</title>
+      <link>https://www.rna-seqblog.com/mute-seq-ultrasensitive-method-to-detect-low-frequency-cancer-mutations/</link>
+      <description>MUTE-Seq enriches rare cancer mutations by removing wild-type DNA, enabling highly sensitive detection that enhances liquid biopsy..</description>
+      <pubDate>Wed, 10 Dec 2025 12:40:23 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/mute-seq-ultrasensitive-method-to-detect-low-frequency-cancer-mutations/</guid>
+    </item>
+    
+    <item>
+      <title>Pancreatic tumors plan their travels</title>
+      <link>https://www.rna-seqblog.com/pancreatic-tumors-plan-their-travels/</link>
+      <description>Researchers show pancreatic tumors adopt organ-specific cellular states early on, revealed through single-nucleus RNA sequencing, offering new clues for predicting metastatic sites and guiding targete</description>
+      <pubDate>Wed, 10 Dec 2025 12:40:16 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/pancreatic-tumors-plan-their-travels/</guid>
+    </item>
+    
+    <item>
+      <title>Quoting the Resonant Computing Manifesto</title>
+      <link>https://blog.stephenturner.us/p/quoting-the-resonant-computing-manifesto</link>
+      <description>Five principles for the future of computing: private, dedicated, plural, adaptable, and prosocial.</description>
+      <pubDate>Wed, 10 Dec 2025 11:01:35 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/quoting-the-resonant-computing-manifesto</guid>
+    </item>
+    
     <item>
       <title>Blood RNA sequencing shows overlapping gene expression across COPD phenotype domains</title>
       <link>https://www.rna-seqblog.com/blood-rna-sequencing-shows-overlapping-gene-expression-across-copd-phenotype-domains/</link>
@@ -18,7 +45,7 @@
     <item>
       <title>Pan-cancer gene set discovery via scRNA-seq for optimal deep learning based downstream tasks</title>
       <link>https://www.rna-seqblog.com/pan-cancer-gene-set-discovery-via-scrna-seq-for-optimal-deep-learning-based-downstream-tasks/</link>
-      <description>RNA sequencing combined with single cell analysis improves gene set selection for machine learning tasks in cancer prediction...</description>
+      <description>Machine learning has become a powerful tool for cancer research, but it depends heavily on the quality of the data that is used to train it. RNA sequencing data can contain information on thousands of</description>
       <pubDate>Tue, 09 Dec 2025 12:32:15 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/pan-cancer-gene-set-discovery-via-scrna-seq-for-optimal-deep-learning-based-downstream-tasks/</guid>
@@ -27,28 +54,10 @@
     <item>
       <title>Single cell RNA-seq uncovers breast cancer diversity</title>
       <link>https://www.rna-seqblog.com/single-cell-rna-seq-uncovers-breast-cancer-diversity/</link>
-      <description>RNA sequencing highlights diverse malignant cell states in breast cancer and identifies TCP1 as a potential target for limiting aggressive tumor behavior...</description>
+      <description>Breast cancer is made up of many different types of cells, and these differences can strongly influence how a tumor grows and responds to treatment. A research team from the Henan University of Chines</description>
       <pubDate>Tue, 09 Dec 2025 12:32:03 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/single-cell-rna-seq-uncovers-breast-cancer-diversity/</guid>
-    </item>
-    
-    <item>
-      <title>Isoformic – a workflow for transcript-level RNA-seq interpretation</title>
-      <link>https://www.rna-seqblog.com/isoformic-a-workflow-for-transcript-level-rna-seq-interpretation/</link>
-      <description>Understanding the full range of RNA molecules produced by a gene is essential for grasping how cells function, yet many analyses still overlook this complexity. Researchers from the Federal University</description>
-      <pubDate>Mon, 08 Dec 2025 12:27:52 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/isoformic-a-workflow-for-transcript-level-rna-seq-interpretation/</guid>
-    </item>
-    
-    <item>
-      <title>D3Impute – dropout-aware discrimination, distribution-aware modeling, and density-guide imputation for scRNA-seq data</title>
-      <link>https://www.rna-seqblog.com/d3impute-dropout-aware-discrimination-distribution-aware-modeling-and-density-guide-imputation-for-scrna-seq-data/</link>
-      <description>Single cell technologies have made it possible to look at gene expression in individual cells, revealing differences that were once hidden in averaged data. However, one major challenge in single cell</description>
-      <pubDate>Mon, 08 Dec 2025 12:27:42 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/d3impute-dropout-aware-discrimination-distribution-aware-modeling-and-density-guide-imputation-for-scrna-seq-data/</guid>
     </item>
     
     <item>
@@ -103,15 +112,6 @@
       <pubDate>Thu, 04 Dec 2025 12:42:41 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/weekly-recap-december-4-2025</guid>
-    </item>
-    
-    <item>
-      <title>The Age of AI in the Life Sciences: Benefits and Biosecurity Considerations</title>
-      <link>https://blog.stephenturner.us/p/ai-life-sciences-benefits-biosecurity</link>
-      <description>A new Consensus Study Report from the National Academies of Sciences, Engineering, and Medicine is now available: The Age of AI in the Life Sciences: Benefits and Biosecurity Considerations.</description>
-      <pubDate>Tue, 02 Dec 2025 12:31:30 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/ai-life-sciences-benefits-biosecurity</guid>
     </item>
     
     <item>
