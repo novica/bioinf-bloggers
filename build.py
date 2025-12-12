@@ -123,7 +123,7 @@ for i, page_items in enumerate(pages, start=1):
 
 # === Copy CSS ===
 (OUTPUT_DIR / "styles.css").write_text(
-    Path("static/style.css").read_text(encoding="utf-8"), encoding="utf-8"
+    Path("static/styles.css").read_text(encoding="utf-8"), encoding="utf-8"
 )
 
 # === Generate RSS ===
