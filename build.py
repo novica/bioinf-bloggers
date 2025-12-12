@@ -82,7 +82,7 @@ sidebar_html = "\n".join(
 last_build = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
 
 # === Load template ===
-template = Path("template.html").read_text(encoding="utf-8")
+template = Path("templates/index.html").read_text(encoding="utf-8")
 
 # Ensure output dir exists
 OUTPUT_DIR.mkdir(exist_ok=True)
