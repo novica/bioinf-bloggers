@@ -4,8 +4,26 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Thu, 11 Dec 2025 06:40:37 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 12 Dec 2025 06:40:22 +0000</lastBuildDate>
   
+    <item>
+      <title>SIDISH – integrating single cell insights with bulk RNA sequencing to identify high risk cells and guide precision therapeutics</title>
+      <link>https://www.rna-seqblog.com/sidish-integrating-single-cell-insights-with-bulk-rna-sequencing-to-identify-high-risk-cells-and-guide-precision-therapeutics/</link>
+      <description>SIDISH merges single cell data with bulk RNA sequencing to identify high risk cells, improve clinical prediction and reveal therapeutic targets</description>
+      <pubDate>Thu, 11 Dec 2025 12:14:58 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/sidish-integrating-single-cell-insights-with-bulk-rna-sequencing-to-identify-high-risk-cells-and-guide-precision-therapeutics/</guid>
+    </item>
+    
+    <item>
+      <title>Researchers develop models to help diagnose ALS earlier through blood biomarkers</title>
+      <link>https://www.rna-seqblog.com/researchers-develop-models-to-help-diagnose-als-earlier-through-blood-biomarkers/</link>
+      <description>Researchers used RNA sequencing and machine learning to classify ALS from blood biomarkers, enabling earlier diagnosis and improved survival prediction....</description>
+      <pubDate>Thu, 11 Dec 2025 12:14:40 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/researchers-develop-models-to-help-diagnose-als-earlier-through-blood-biomarkers/</guid>
+    </item>
+    
     <item>
       <title>MUTE-Seq – ultrasensitive method to detect low-frequency cancer mutations</title>
       <link>https://www.rna-seqblog.com/mute-seq-ultrasensitive-method-to-detect-low-frequency-cancer-mutations/</link>
@@ -18,7 +36,7 @@
     <item>
       <title>Pancreatic tumors plan their travels</title>
       <link>https://www.rna-seqblog.com/pancreatic-tumors-plan-their-travels/</link>
-      <description>Researchers show pancreatic tumors adopt organ-specific cellular states early on, revealed through single-nucleus RNA sequencing, offering new clues for predicting metastatic sites and guiding targete</description>
+      <description>Researchers uncover an intriguing characteristic of pancreatic cancer that could detect – and potentially target – metastasis earlier. Even as they develop at their primary site, pancreatic cancer cel</description>
       <pubDate>Wed, 10 Dec 2025 12:40:16 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/pancreatic-tumors-plan-their-travels/</guid>
@@ -36,28 +54,10 @@
     <item>
       <title>Blood RNA sequencing shows overlapping gene expression across COPD phenotype domains</title>
       <link>https://www.rna-seqblog.com/blood-rna-sequencing-shows-overlapping-gene-expression-across-copd-phenotype-domains/</link>
-      <description>RNA sequencing reveals how tumor stem cells reprogram neutrophils through prostaglandin signaling, creating a protective niche that limits immunotherapy effectiveness...</description>
+      <description>Immunotherapy has revolutionized cancer care by training the immune system to detect and destroy tumors. For many patients, it works very well in shrinking tumors and sending cancer into remission, an</description>
       <pubDate>Tue, 09 Dec 2025 12:32:31 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/blood-rna-sequencing-shows-overlapping-gene-expression-across-copd-phenotype-domains/</guid>
-    </item>
-    
-    <item>
-      <title>Pan-cancer gene set discovery via scRNA-seq for optimal deep learning based downstream tasks</title>
-      <link>https://www.rna-seqblog.com/pan-cancer-gene-set-discovery-via-scrna-seq-for-optimal-deep-learning-based-downstream-tasks/</link>
-      <description>Machine learning has become a powerful tool for cancer research, but it depends heavily on the quality of the data that is used to train it. RNA sequencing data can contain information on thousands of</description>
-      <pubDate>Tue, 09 Dec 2025 12:32:15 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/pan-cancer-gene-set-discovery-via-scrna-seq-for-optimal-deep-learning-based-downstream-tasks/</guid>
-    </item>
-    
-    <item>
-      <title>Single cell RNA-seq uncovers breast cancer diversity</title>
-      <link>https://www.rna-seqblog.com/single-cell-rna-seq-uncovers-breast-cancer-diversity/</link>
-      <description>Breast cancer is made up of many different types of cells, and these differences can strongly influence how a tumor grows and responds to treatment. A research team from the Henan University of Chines</description>
-      <pubDate>Tue, 09 Dec 2025 12:32:03 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/single-cell-rna-seq-uncovers-breast-cancer-diversity/</guid>
     </item>
     
     <item>
