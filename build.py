@@ -122,7 +122,7 @@ for i, page_items in enumerate(pages, start=1):
     (OUTPUT_DIR / filename).write_text(html, encoding="utf-8")
 
 # === Copy CSS ===
-(OUTPUT_DIR / "styles.css").write_text(
+(OUTPUT_DIR / "static/styles.css").write_text(
     Path("static/styles.css").read_text(encoding="utf-8"), encoding="utf-8"
 )
 
