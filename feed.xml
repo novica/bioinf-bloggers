@@ -4,8 +4,26 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Fri, 12 Dec 2025 12:22:52 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 12 Dec 2025 12:33:40 +0000</lastBuildDate>
   
+    <item>
+      <title>Disrupting cancer’s secret hubs: A new way to halt tumor growth</title>
+      <link>https://www.rna-seqblog.com/disrupting-cancers-secret-hubs-a-new-way-to-halt-tumor-growth-2/</link>
+      <description>Researchers reveal how RNA sequencing uncovers RNA-driven condensates that power an aggressive kidney cancer and demonstrate a molecular switch that dissolves these growth hubs...</description>
+      <pubDate>Fri, 12 Dec 2025 12:31:18 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/disrupting-cancers-secret-hubs-a-new-way-to-halt-tumor-growth-2/</guid>
+    </item>
+    
+    <item>
+      <title>RNA sequencing reveals climate-driven genetic changes in polar bears</title>
+      <link>https://www.rna-seqblog.com/rna-sequencing-reveals-climate-driven-genetic-changes-in-polar-bears/</link>
+      <description>RNA sequencing reveals shifting gene activity in Greenland polar bears, showing how temperature-linked changes in jumping genes may support adaptation to warmer, rapidly transforming Arctic habitats..</description>
+      <pubDate>Fri, 12 Dec 2025 12:31:09 +0000</pubDate>
+      <source>RNA-Seq Blog</source>
+      <guid>https://www.rna-seqblog.com/rna-sequencing-reveals-climate-driven-genetic-changes-in-polar-bears/</guid>
+    </item>
+    
     <item>
       <title>Weekly Recap (December 12, 2025)</title>
       <link>https://blog.stephenturner.us/p/weekly-recap-december-12-2025</link>
@@ -27,7 +45,7 @@
     <item>
       <title>Researchers develop models to help diagnose ALS earlier through blood biomarkers</title>
       <link>https://www.rna-seqblog.com/researchers-develop-models-to-help-diagnose-als-earlier-through-blood-biomarkers/</link>
-      <description>Researchers used RNA sequencing and machine learning to classify ALS from blood biomarkers, enabling earlier diagnosis and improved survival prediction....</description>
+      <description>The models have the potential to shorten time to an ALS diagnosis, assess disease severity and identify possible treatment targets Using machine learning models, researchers at Michigan Medicine have </description>
       <pubDate>Thu, 11 Dec 2025 12:14:40 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/researchers-develop-models-to-help-diagnose-als-earlier-through-blood-biomarkers/</guid>
@@ -36,19 +54,10 @@
     <item>
       <title>MUTE-Seq – ultrasensitive method to detect low-frequency cancer mutations</title>
       <link>https://www.rna-seqblog.com/mute-seq-ultrasensitive-method-to-detect-low-frequency-cancer-mutations/</link>
-      <description>MUTE-Seq enriches rare cancer mutations by removing wild-type DNA, enabling highly sensitive detection that enhances liquid biopsy..</description>
+      <description>MUTE-Seq is a new liquid-biopsy method powered by an engineered ultra-precise CRISPR enzyme, FnCas9-AF2, which can distinguish single-base mismatches across all sgRNA positions with near-zero off-targ</description>
       <pubDate>Wed, 10 Dec 2025 12:40:23 +0000</pubDate>
       <source>RNA-Seq Blog</source>
       <guid>https://www.rna-seqblog.com/mute-seq-ultrasensitive-method-to-detect-low-frequency-cancer-mutations/</guid>
-    </item>
-    
-    <item>
-      <title>Pancreatic tumors plan their travels</title>
-      <link>https://www.rna-seqblog.com/pancreatic-tumors-plan-their-travels/</link>
-      <description>Researchers uncover an intriguing characteristic of pancreatic cancer that could detect – and potentially target – metastasis earlier. Even as they develop at their primary site, pancreatic cancer cel</description>
-      <pubDate>Wed, 10 Dec 2025 12:40:16 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/pancreatic-tumors-plan-their-travels/</guid>
     </item>
     
     <item>
@@ -58,15 +67,6 @@
       <pubDate>Wed, 10 Dec 2025 11:01:35 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/quoting-the-resonant-computing-manifesto</guid>
-    </item>
-    
-    <item>
-      <title>Blood RNA sequencing shows overlapping gene expression across COPD phenotype domains</title>
-      <link>https://www.rna-seqblog.com/blood-rna-sequencing-shows-overlapping-gene-expression-across-copd-phenotype-domains/</link>
-      <description>Immunotherapy has revolutionized cancer care by training the immune system to detect and destroy tumors. For many patients, it works very well in shrinking tumors and sending cancer into remission, an</description>
-      <pubDate>Tue, 09 Dec 2025 12:32:31 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/blood-rna-sequencing-shows-overlapping-gene-expression-across-copd-phenotype-domains/</guid>
     </item>
     
     <item>
