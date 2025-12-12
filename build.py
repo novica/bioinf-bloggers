@@ -28,6 +28,7 @@ def extract_dt(entry) -> datetime:
 # === Config ===
 PAGE_SIZE = 10
 OUTPUT_DIR = Path("public")
+OUTPUT_DIR_STATIC = Path("public/static")
 FEEDS_FILE = Path("feeds.txt")
 
 # === Load feeds ===
@@ -86,7 +87,7 @@ template = Path("templates/index.html").read_text(encoding="utf-8")
 
 # Ensure output dir exists
 OUTPUT_DIR.mkdir(exist_ok=True)
-
+OUTPUT_DIR_STATIC.mkdir(exist_ok=True)
 # === Pagination ===
 pages = [items[i : i + PAGE_SIZE] for i in range(0, len(items), PAGE_SIZE)]
 
