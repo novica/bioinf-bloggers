@@ -4,8 +4,17 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Fri, 12 Dec 2025 06:40:22 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 12 Dec 2025 12:22:52 +0000</lastBuildDate>
   
+    <item>
+      <title>Weekly Recap (December 12, 2025)</title>
+      <link>https://blog.stephenturner.us/p/weekly-recap-december-12-2025</link>
+      <description>GPT-5.2, DARPA Generative Optogenetics, don't use local models for coding agents, red teaming, sandbagging, AI in science &amp; education, MCP, R updates (R Data Scientist, R Weekly, R Works), new papers</description>
+      <pubDate>Fri, 12 Dec 2025 09:47:58 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/weekly-recap-december-12-2025</guid>
+    </item>
+    
     <item>
       <title>SIDISH – integrating single cell insights with bulk RNA sequencing to identify high risk cells and guide precision therapeutics</title>
       <link>https://www.rna-seqblog.com/sidish-integrating-single-cell-insights-with-bulk-rna-sequencing-to-identify-high-risk-cells-and-guide-precision-therapeutics/</link>
@@ -103,15 +112,6 @@
       <pubDate>2025-12-04T10:38:00.000-05:00</pubDate>
       <source>Omics! Omics!</source>
       <guid>https://omicsomics.blogspot.com/2025/12/countable-labs-new-approach-to.html</guid>
-    </item>
-    
-    <item>
-      <title>Weekly Recap (December 4, 2025)</title>
-      <link>https://blog.stephenturner.us/p/weekly-recap-december-4-2025</link>
-      <description>R updates (R Data Scientist, R+AI conference, RWeekly, rOpenSci), Posit open source investments, AI in academia, science, biology, and labor, science funding cuts, bedder bedtools, many new papers</description>
-      <pubDate>Thu, 04 Dec 2025 12:42:41 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/weekly-recap-december-4-2025</guid>
     </item>
     
     <item>
