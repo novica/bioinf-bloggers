@@ -1,0 +1,36 @@
+name: CI
+
+on:
+    push:
+        branches:
+            - main
+        paths:
+            - "**.py"
+    pull_request:
+        branches:
+            - main
+        paths:
+            - "**.py"
+
+jobs:
+    ci:
+        env:
+            UV_SYSTEM_PYTHON: true
+            RUFF_OUTPUT_FORMAT: github
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v4
+
+            - uses: astral-sh/setup-uv@v6
+
+            - name: Install the project
+              run: uv sync --all-extras --dev --locked
+
+            - name: Ruff formater
+              run: uv run ruff format --check
+
+            - name: Ruff linter
+              run: uv run ruff check
+
+            - name: Typing checks
+              run: uv run pyright

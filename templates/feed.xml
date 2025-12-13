@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+    <title>Bioinformatics Blogs</title>
+    <link>https://bioinf-bloggers.com/</link>
+    <description>
+        A feed of the latest posts of Bioinformatics blogs around the world
+    </description>
+    <lastBuildDate>{{ last_build }}</lastBuildDate>
+
+    {% for item in items %}
+    <item>
+        <title>{{ item.title }}</title>
+        <link>{{ item.link }}</link>
+        <description>{{ item.summary }}</description>
+        <pubDate>{{ item.published }}</pubDate>
+        <source>{{ item.source }}</source>
+        <guid>{{ item.link }}</guid>
+    </item>
+    {% endfor %}
+
+</channel>
+</rss>

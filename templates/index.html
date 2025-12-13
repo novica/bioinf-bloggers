@@ -1,69 +1,81 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="utf-8">
     <title>Bioinformatics Blogs</title>
     <link rel="stylesheet" href="static/styles.css">
-    <!-- RSS autodiscovery -->
-    <link rel="alternate" type="application/rss+xml" title="Bioinformatics Blogs RSS" href="feed.xml" />
+    <link rel="alternate" type="application/rss+xml"
+          title="Bioinformatics Blogs RSS" href="feed.xml" />
 </head>
 
 <body>
-    <header>
-        <h1>Bioinformatics Blogs</h1>
-        <p>A feed of the latest posts of Bioinformatics blogs around the world</p>
-        <p><a href="feed.xml">📡 Subscribe via RSS</a></p>
-    </header>
-    <main>
-        <div id="content">
-            {{ content }}
+<header>
+    <h1>Bioinformatics Blogs</h1>
+    <p>A feed of the latest posts of Bioinformatics blogs around the world</p>
+    <p><a href="feed.xml">📡 Subscribe via RSS</a></p>
+</header>
 
-            <!-- Pagination placeholder -->
-            <div class="pagination">
-                {{ pagination }}
-            </div>
+<main>
+    <div id="content">
+
+        {% for item in items %}
+        <article>
+            <h2>
+                <a href="{{ item.link }}">{{ item.title }}</a>
+            </h2>
+            <p class="meta">
+                From <strong>{{ item.source }}</strong> – {{ item.published }}
+            </p>
+            <p>{{ item.summary }}...</p>
+        </article>
+        {% endfor %}
+
+        <div class="pagination">
+            {% if prev_page %}
+                <a href="{{ prev_page }}">← Previous</a>
+            {% endif %}
+            {% if next_page %}
+                <a href="{{ next_page }}">Next →</a>
+            {% endif %}
         </div>
-        <aside>
-            <div class="sidebar-box">
-                <h3>Feeds</h3>
-                <ul>
-                    {{ sidebar }}
-                </ul>
-            </div>
+    </div>
 
-            <div class="sidebar-box">
-                <h3>Reddit Community</h3>
-                <ul>
-                    <li><a href="https://www.reddit.com/r/bioinformatics/">r/bioinformatics</a></li>
-                    <li><a href="https://www.reddit.com/r/bioinformaticscareers/">r/bioinformaticscareers</a></li>
+    <aside>
+        <div class="sidebar-box">
+            <h3>Feeds</h3>
+            <ul>
+                {% for name, link in feeds %}
+                <li><a href="{{ link }}">{{ name }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
 
-                </ul>
-            </div>
+        <div class="sidebar-box">
+            <h3>Reddit Community</h3>
+            <ul>
+                <li><a href="https://www.reddit.com/r/bioinformatics/">r/bioinformatics</a></li>
+                <li><a href="https://www.reddit.com/r/bioinformaticscareers/">r/bioinformaticscareers</a></li>
+            </ul>
+        </div>
 
-            <div class="sidebar-box">
-                <h3>About</h3>
-                <p>I started following bioinfomatics topics out of professional curiosity.
-                    Then I realized it would be nice to have resources in one place.
-                    Then I thought I should build the place since it didn't exist.
-                    The post that started it all: <a
-                        href="https://www.reddit.com/r/bioinformatics/comments/1go98kz/any_bioinformatics_blogs_out_there/">Any
-                        Bioinformatics blogs out there?</a>.</p>
-            </div>
-        </aside>
-    </main>
-</body>
+        <div class="sidebar-box">
+            <h3>About</h3>
+            <p>
+                I started following bioinformatics topics out of professional curiosity.
+                Then I realized it would be nice to have resources in one place.
+                Then I thought I should build the place since it didn't exist.
+            </p>
+        </div>
+    </aside>
+</main>
+
 <footer>
-    <p>All blog content © their respective authors. Aggregated here for convenience.</p>
+    <p>All blog content © their respective authors.</p>
     <p>
         <a href="feed.xml">RSS</a> |
-        <a href="https://github.com/novica/bioinf-bloggers">Source on GitHub</a> |
-        <a href="https://ko-fi.com/J3J8133RYV">Buy me a coffee</a>
+        <a href="https://github.com/novica/bioinf-bloggers">Source on GitHub</a>
     </p>
     <p>Last build: {{ last_build }}</p>
 </footer>
 </body>
-
-</html>
-
 </html>
