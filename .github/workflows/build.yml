@@ -2,26 +2,28 @@ name: Build Planet Site
 
 on:
   schedule:
-    - cron: "0 6 * * *"   # every day at 06:00 UTC
-  workflow_dispatch:       # allow manual trigger
+    - cron: "0 6 * * *" # every day at 06:00 UTC
+  workflow_dispatch: # allow manual trigger
 
 jobs:
   build:
+    env:
+      UV_SYSTEM_PYTHON: true
+      RUFF_OUTPUT_FORMAT: github
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
-      - name: Install deps
-        run: pip install feedparser
-      - name: Build site
-        run: python build.py
+
+      - uses: astral-sh/setup-uv@v6
+
+      - name: Install the project
+        run: uv sync --all-extras --dev --locked
+      - name: Build the site
+        run: uv run main.py
       - name: Add CNAME
         run: echo "bioinf-bloggers.com" > public/CNAME
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public    
+          publish_dir: ./public
