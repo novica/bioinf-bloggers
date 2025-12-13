@@ -4,8 +4,17 @@
   <title>Bioinformatics Blogs</title>
   <link>https://bioinf-bloggers.com/</link>
   <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Fri, 12 Dec 2025 12:43:49 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 13 Dec 2025 06:36:21 +0000</lastBuildDate>
   
+    <item>
+      <title>GPT-5.2 Lies About Reading your Documents</title>
+      <link>https://blog.stephenturner.us/p/chatgpt-lies-about-reading-your-documents</link>
+      <description>"I did not sufficiently counterbalance that with skepticism and verification at the moment it mattered... I did not enforce the standard you expect: only claim access to evidence I can actually see"</description>
+      <pubDate>Fri, 12 Dec 2025 15:19:20 GMT</pubDate>
+      <source>Paired Ends (Stephen Turner's blog)</source>
+      <guid>https://blog.stephenturner.us/p/chatgpt-lies-about-reading-your-documents</guid>
+    </item>
+    
     <item>
       <title>Disrupting cancer’s secret hubs: A new way to halt tumor growth</title>
       <link>https://www.rna-seqblog.com/disrupting-cancers-secret-hubs-a-new-way-to-halt-tumor-growth-2/</link>
@@ -85,15 +94,6 @@
       <pubDate>Sat, 06 Dec 2025 11:57:30 GMT</pubDate>
       <source>Paired Ends (Stephen Turner's blog)</source>
       <guid>https://blog.stephenturner.us/p/if-then-ai-biosecurity</guid>
-    </item>
-    
-    <item>
-      <title>Quoting Kevin Roose (NYT / Hard Fork)</title>
-      <link>https://blog.stephenturner.us/p/quoting-kevin-roose-nyt-hard-fork</link>
-      <description>I'm not going to listen to opinions about AI from people who don't use AI.</description>
-      <pubDate>Fri, 05 Dec 2025 16:22:23 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/quoting-kevin-roose-nyt-hard-fork</guid>
     </item>
     
     <item>
