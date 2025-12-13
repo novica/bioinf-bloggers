@@ -1,474 +1,478 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>Bioinformatics Blogs</title>
-  <link>https://bioinf-bloggers.com/</link>
-  <description>A feed of the latest posts of Bioinformatics blogs around the world</description>
-  <lastBuildDate>Sat, 13 Dec 2025 06:36:21 +0000</lastBuildDate>
-  
+    <title>Bioinformatics Blogs</title>
+    <link>https://bioinf-bloggers.com/</link>
+    <description>
+        A feed of the latest posts of Bioinformatics blogs around the world
+    </description>
+    <lastBuildDate>Sat, 13 Dec 2025 08:33:29 +0000</lastBuildDate>
+
+    
     <item>
-      <title>GPT-5.2 Lies About Reading your Documents</title>
-      <link>https://blog.stephenturner.us/p/chatgpt-lies-about-reading-your-documents</link>
-      <description>"I did not sufficiently counterbalance that with skepticism and verification at the moment it mattered... I did not enforce the standard you expect: only claim access to evidence I can actually see"</description>
-      <pubDate>Fri, 12 Dec 2025 15:19:20 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/chatgpt-lies-about-reading-your-documents</guid>
+        <title>GPT-5.2 Lies About Reading your Documents</title>
+        <link>https://blog.stephenturner.us/p/chatgpt-lies-about-reading-your-documents</link>
+        <description>&#34;I did not sufficiently counterbalance that with skepticism and verification at the moment it mattered... I did not enforce the standard you expect: only claim access to evidence I can actually see&#34;</description>
+        <pubDate>Fri, 12 Dec 2025 15:19:20 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/chatgpt-lies-about-reading-your-documents</guid>
     </item>
     
     <item>
-      <title>Disrupting cancer’s secret hubs: A new way to halt tumor growth</title>
-      <link>https://www.rna-seqblog.com/disrupting-cancers-secret-hubs-a-new-way-to-halt-tumor-growth-2/</link>
-      <description>Researchers reveal how RNA sequencing uncovers RNA-driven condensates that power an aggressive kidney cancer and demonstrate a molecular switch that dissolves these growth hubs...</description>
-      <pubDate>Fri, 12 Dec 2025 12:31:18 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/disrupting-cancers-secret-hubs-a-new-way-to-halt-tumor-growth-2/</guid>
+        <title>Disrupting cancer’s secret hubs: A new way to halt tumor growth</title>
+        <link>https://www.rna-seqblog.com/disrupting-cancers-secret-hubs-a-new-way-to-halt-tumor-growth-2/</link>
+        <description>Researchers reveal how RNA sequencing uncovers RNA-driven condensates that power an aggressive kidney cancer and demonstrate a molecular switch that dissolves these growth hubs...</description>
+        <pubDate>Fri, 12 Dec 2025 12:31:18 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/disrupting-cancers-secret-hubs-a-new-way-to-halt-tumor-growth-2/</guid>
     </item>
     
     <item>
-      <title>RNA sequencing reveals climate-driven genetic changes in polar bears</title>
-      <link>https://www.rna-seqblog.com/rna-sequencing-reveals-climate-driven-genetic-changes-in-polar-bears/</link>
-      <description>RNA sequencing reveals shifting gene activity in Greenland polar bears, showing how temperature-linked changes in jumping genes may support adaptation to warmer, rapidly transforming Arctic habitats..</description>
-      <pubDate>Fri, 12 Dec 2025 12:31:09 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/rna-sequencing-reveals-climate-driven-genetic-changes-in-polar-bears/</guid>
+        <title>RNA sequencing reveals climate-driven genetic changes in polar bears</title>
+        <link>https://www.rna-seqblog.com/rna-sequencing-reveals-climate-driven-genetic-changes-in-polar-bears/</link>
+        <description>RNA sequencing reveals shifting gene activity in Greenland polar bears, showing how temperature-linked changes in jumping genes may support adaptation to warmer, rapidly transforming Arctic habitats..</description>
+        <pubDate>Fri, 12 Dec 2025 12:31:09 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/rna-sequencing-reveals-climate-driven-genetic-changes-in-polar-bears/</guid>
     </item>
     
     <item>
-      <title>Weekly Recap (December 12, 2025)</title>
-      <link>https://blog.stephenturner.us/p/weekly-recap-december-12-2025</link>
-      <description>GPT-5.2, DARPA Generative Optogenetics, don't use local models for coding agents, red teaming, sandbagging, AI in science &amp; education, MCP, R updates (R Data Scientist, R Weekly, R Works), new papers</description>
-      <pubDate>Fri, 12 Dec 2025 09:47:58 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/weekly-recap-december-12-2025</guid>
+        <title>Weekly Recap (December 12, 2025)</title>
+        <link>https://blog.stephenturner.us/p/weekly-recap-december-12-2025</link>
+        <description>GPT-5.2, DARPA Generative Optogenetics, don&#39;t use local models for coding agents, red teaming, sandbagging, AI in science &amp; education, MCP, R updates (R Data Scientist, R Weekly, R Works), new papers</description>
+        <pubDate>Fri, 12 Dec 2025 09:47:58 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/weekly-recap-december-12-2025</guid>
     </item>
     
     <item>
-      <title>SIDISH – integrating single cell insights with bulk RNA sequencing to identify high risk cells and guide precision therapeutics</title>
-      <link>https://www.rna-seqblog.com/sidish-integrating-single-cell-insights-with-bulk-rna-sequencing-to-identify-high-risk-cells-and-guide-precision-therapeutics/</link>
-      <description>SIDISH merges single cell data with bulk RNA sequencing to identify high risk cells, improve clinical prediction and reveal therapeutic targets</description>
-      <pubDate>Thu, 11 Dec 2025 12:14:58 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/sidish-integrating-single-cell-insights-with-bulk-rna-sequencing-to-identify-high-risk-cells-and-guide-precision-therapeutics/</guid>
+        <title>SIDISH – integrating single cell insights with bulk RNA sequencing to identify high risk cells and guide precision therapeutics</title>
+        <link>https://www.rna-seqblog.com/sidish-integrating-single-cell-insights-with-bulk-rna-sequencing-to-identify-high-risk-cells-and-guide-precision-therapeutics/</link>
+        <description>SIDISH merges single cell data with bulk RNA sequencing to identify high risk cells, improve clinical prediction and reveal therapeutic targets</description>
+        <pubDate>Thu, 11 Dec 2025 12:14:58 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/sidish-integrating-single-cell-insights-with-bulk-rna-sequencing-to-identify-high-risk-cells-and-guide-precision-therapeutics/</guid>
     </item>
     
     <item>
-      <title>Researchers develop models to help diagnose ALS earlier through blood biomarkers</title>
-      <link>https://www.rna-seqblog.com/researchers-develop-models-to-help-diagnose-als-earlier-through-blood-biomarkers/</link>
-      <description>The models have the potential to shorten time to an ALS diagnosis, assess disease severity and identify possible treatment targets Using machine learning models, researchers at Michigan Medicine have </description>
-      <pubDate>Thu, 11 Dec 2025 12:14:40 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/researchers-develop-models-to-help-diagnose-als-earlier-through-blood-biomarkers/</guid>
+        <title>Researchers develop models to help diagnose ALS earlier through blood biomarkers</title>
+        <link>https://www.rna-seqblog.com/researchers-develop-models-to-help-diagnose-als-earlier-through-blood-biomarkers/</link>
+        <description>The models have the potential to shorten time to an ALS diagnosis, assess disease severity and identify possible treatment targets Using machine learning models, researchers at Michigan Medicine have </description>
+        <pubDate>Thu, 11 Dec 2025 12:14:40 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/researchers-develop-models-to-help-diagnose-als-earlier-through-blood-biomarkers/</guid>
     </item>
     
     <item>
-      <title>MUTE-Seq – ultrasensitive method to detect low-frequency cancer mutations</title>
-      <link>https://www.rna-seqblog.com/mute-seq-ultrasensitive-method-to-detect-low-frequency-cancer-mutations/</link>
-      <description>MUTE-Seq is a new liquid-biopsy method powered by an engineered ultra-precise CRISPR enzyme, FnCas9-AF2, which can distinguish single-base mismatches across all sgRNA positions with near-zero off-targ</description>
-      <pubDate>Wed, 10 Dec 2025 12:40:23 +0000</pubDate>
-      <source>RNA-Seq Blog</source>
-      <guid>https://www.rna-seqblog.com/mute-seq-ultrasensitive-method-to-detect-low-frequency-cancer-mutations/</guid>
+        <title>MUTE-Seq – ultrasensitive method to detect low-frequency cancer mutations</title>
+        <link>https://www.rna-seqblog.com/mute-seq-ultrasensitive-method-to-detect-low-frequency-cancer-mutations/</link>
+        <description>MUTE-Seq is a new liquid-biopsy method powered by an engineered ultra-precise CRISPR enzyme, FnCas9-AF2, which can distinguish single-base mismatches across all sgRNA positions with near-zero off-targ</description>
+        <pubDate>Wed, 10 Dec 2025 12:40:23 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/mute-seq-ultrasensitive-method-to-detect-low-frequency-cancer-mutations/</guid>
     </item>
     
     <item>
-      <title>Quoting the Resonant Computing Manifesto</title>
-      <link>https://blog.stephenturner.us/p/quoting-the-resonant-computing-manifesto</link>
-      <description>Five principles for the future of computing: private, dedicated, plural, adaptable, and prosocial.</description>
-      <pubDate>Wed, 10 Dec 2025 11:01:35 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/quoting-the-resonant-computing-manifesto</guid>
+        <title>Quoting the Resonant Computing Manifesto</title>
+        <link>https://blog.stephenturner.us/p/quoting-the-resonant-computing-manifesto</link>
+        <description>Five principles for the future of computing: private, dedicated, plural, adaptable, and prosocial.</description>
+        <pubDate>Wed, 10 Dec 2025 11:01:35 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/quoting-the-resonant-computing-manifesto</guid>
     </item>
     
     <item>
-      <title>The False Choice Between Meaning and Accountability in Higher Education</title>
-      <link>https://blog.stephenturner.us/p/false-choice-meaning-accountability-ai-university</link>
-      <description>Thoughts on Ronald Purser's December 2025 essay in Current Affairs, "AI is Destroying the University and Learning Itself"</description>
-      <pubDate>Mon, 08 Dec 2025 11:41:54 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/false-choice-meaning-accountability-ai-university</guid>
+        <title>The False Choice Between Meaning and Accountability in Higher Education</title>
+        <link>https://blog.stephenturner.us/p/false-choice-meaning-accountability-ai-university</link>
+        <description>Thoughts on Ronald Purser&#39;s December 2025 essay in Current Affairs, &#34;AI is Destroying the University and Learning Itself&#34;</description>
+        <pubDate>Mon, 08 Dec 2025 11:41:54 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/false-choice-meaning-accountability-ai-university</guid>
     </item>
     
     <item>
-      <title>The "If-Then" Approach to AI Biosecurity</title>
-      <link>https://blog.stephenturner.us/p/if-then-ai-biosecurity</link>
-      <description>A Measured Approach to AI+Biosecurity: The "If-Then" Framework from the 2025 NASEM report, The Age of AI in the Life Sciences: Benefits and Biosecurity Considerations.</description>
-      <pubDate>Sat, 06 Dec 2025 11:57:30 GMT</pubDate>
-      <source>Paired Ends (Stephen Turner's blog)</source>
-      <guid>https://blog.stephenturner.us/p/if-then-ai-biosecurity</guid>
+        <title>The &#34;If-Then&#34; Approach to AI Biosecurity</title>
+        <link>https://blog.stephenturner.us/p/if-then-ai-biosecurity</link>
+        <description>A Measured Approach to AI+Biosecurity: The &#34;If-Then&#34; Framework from the 2025 NASEM report, The Age of AI in the Life Sciences: Benefits and Biosecurity Considerations.</description>
+        <pubDate>Sat, 06 Dec 2025 11:57:30 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/if-then-ai-biosecurity</guid>
     </item>
     
     <item>
-      <title>We predict that the transcript abundance from the gene we are knocking down will (checks notes) decrease</title>
-      <link>https://ekernf01.github.io/target_gene_shenanigans</link>
-      <description>The problem with gene-wise characterization of genetic interventions</description>
-      <pubDate>2025-12-05T00:00:00+00:00</pubDate>
-      <source>Eric Kernfeld</source>
-      <guid>https://ekernf01.github.io/target_gene_shenanigans</guid>
+        <title>We predict that the transcript abundance from the gene we are knocking down will (checks notes) decrease</title>
+        <link>https://ekernf01.github.io/target_gene_shenanigans</link>
+        <description>The problem with gene-wise characterization of genetic interventions</description>
+        <pubDate>2025-12-05T00:00:00+00:00</pubDate>
+        <source>Eric Kernfeld</source>
+        <guid>https://ekernf01.github.io/target_gene_shenanigans</guid>
     </item>
     
     <item>
-      <title>Countable Labs: New Approach to Enumerating DNA</title>
-      <link>https://omicsomics.blogspot.com/2025/12/countable-labs-new-approach-to.html</link>
-      <description>&lt;span id="docs-internal-guid-bab528ed-7fff-38a7-3da3-2d17a576420f"&gt;&lt;p dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"&gt;&lt;span style="font-family: Arial, sans-serif; font-size: </description>
-      <pubDate>2025-12-04T10:38:00.000-05:00</pubDate>
-      <source>Omics! Omics!</source>
-      <guid>https://omicsomics.blogspot.com/2025/12/countable-labs-new-approach-to.html</guid>
+        <title>Countable Labs: New Approach to Enumerating DNA</title>
+        <link>https://omicsomics.blogspot.com/2025/12/countable-labs-new-approach-to.html</link>
+        <description>&lt;span id=&#34;docs-internal-guid-bab528ed-7fff-38a7-3da3-2d17a576420f&#34;&gt;&lt;p dir=&#34;ltr&#34; style=&#34;line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;&#34;&gt;&lt;span style=&#34;font-family: Arial, sans-serif; font-size: </description>
+        <pubDate>2025-12-04T10:38:00.000-05:00</pubDate>
+        <source>Omics! Omics!</source>
+        <guid>https://omicsomics.blogspot.com/2025/12/countable-labs-new-approach-to.html</guid>
     </item>
     
     <item>
-      <title>Mean squared error for estimates of differential expression</title>
-      <link>https://ekernf01.github.io/mse_of_de</link>
-      <description>Bias-variance tradeoffs for virtual cell evals are weird</description>
-      <pubDate>2025-12-01T00:00:00+00:00</pubDate>
-      <source>Eric Kernfeld</source>
-      <guid>https://ekernf01.github.io/mse_of_de</guid>
+        <title>Mean squared error for estimates of differential expression</title>
+        <link>https://ekernf01.github.io/mse_of_de</link>
+        <description>Bias-variance tradeoffs for virtual cell evals are weird</description>
+        <pubDate>2025-12-01T00:00:00+00:00</pubDate>
+        <source>Eric Kernfeld</source>
+        <guid>https://ekernf01.github.io/mse_of_de</guid>
     </item>
     
     <item>
-      <title>Bell Labs Wasn't Built in a Day. Or Two Years.</title>
-      <link>https://omicsomics.blogspot.com/2025/11/bell-labs-wasnt-built-in-day-or-two.html</link>
-      <description>&lt;div&gt;Rome is famous for persisting for centuries - and having not been built in a day. If you go there, then one of the most magnificent sites is the most famous sporting arena in the world, the Flavi</description>
-      <pubDate>2025-11-11T22:34:00.001-05:00</pubDate>
-      <source>Omics! Omics!</source>
-      <guid>https://omicsomics.blogspot.com/2025/11/bell-labs-wasnt-built-in-day-or-two.html</guid>
+        <title>Bell Labs Wasn&#39;t Built in a Day. Or Two Years.</title>
+        <link>https://omicsomics.blogspot.com/2025/11/bell-labs-wasnt-built-in-day-or-two.html</link>
+        <description>&lt;div&gt;Rome is famous for persisting for centuries - and having not been built in a day. If you go there, then one of the most magnificent sites is the most famous sporting arena in the world, the Flavi</description>
+        <pubDate>2025-11-11T22:34:00.001-05:00</pubDate>
+        <source>Omics! Omics!</source>
+        <guid>https://omicsomics.blogspot.com/2025/11/bell-labs-wasnt-built-in-day-or-two.html</guid>
     </item>
     
     <item>
-      <title>Reviving BETA for Python 3: Integrating ChIP-seq and RNA-seq to Predict TF Targets</title>
-      <link>https://divingintogeneticsandgenomics.com/post/reviving-beta-chip-seq-rna-seq-integration-python3/</link>
-      <description>&lt;p&gt;I started to learn bioinformatics because I needed to analyze public ChIP-seq data in 2012.
-That&amp;rsquo;s how I got to know &lt;a href="https://liulab-dfci.github.io/" target="_blank"&gt;Shirley Liu&amp;rsquo</description>
-      <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
-      <source>Chatomics on Chatomics</source>
-      <guid>https://divingintogeneticsandgenomics.com/post/reviving-beta-chip-seq-rna-seq-integration-python3/</guid>
+        <title>Reviving BETA for Python 3: Integrating ChIP-seq and RNA-seq to Predict TF Targets</title>
+        <link>https://divingintogeneticsandgenomics.com/post/reviving-beta-chip-seq-rna-seq-integration-python3/</link>
+        <description>&lt;p&gt;I started to learn bioinformatics because I needed to analyze public ChIP-seq data in 2012.
+That&amp;rsquo;s how I got to know &lt;a href=&#34;https://liulab-dfci.github.io/&#34; target=&#34;_blank&#34;&gt;Shirley Liu&amp;rsquo</description>
+        <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
+        <source>Chatomics on Chatomics</source>
+        <guid>https://divingintogeneticsandgenomics.com/post/reviving-beta-chip-seq-rna-seq-integration-python3/</guid>
     </item>
     
     <item>
-      <title>Nineteen</title>
-      <link>https://omicsomics.blogspot.com/2025/11/nineteen.html</link>
-      <description>If I had been more atop things, I would have written this just under a week ago, on the nineteenth anniversary of my starting to write in this space.  That's a milestone, and actually writing somethin</description>
-      <pubDate>2025-11-04T23:16:00.001-05:00</pubDate>
-      <source>Omics! Omics!</source>
-      <guid>https://omicsomics.blogspot.com/2025/11/nineteen.html</guid>
+        <title>Nineteen</title>
+        <link>https://omicsomics.blogspot.com/2025/11/nineteen.html</link>
+        <description>If I had been more atop things, I would have written this just under a week ago, on the nineteenth anniversary of my starting to write in this space.  That&#39;s a milestone, and actually writing somethin</description>
+        <pubDate>2025-11-04T23:16:00.001-05:00</pubDate>
+        <source>Omics! Omics!</source>
+        <guid>https://omicsomics.blogspot.com/2025/11/nineteen.html</guid>
     </item>
     
     <item>
-      <title>Traitors null hypothesis</title>
-      <link>https://www.johnlees.me/posts/traitors/</link>
-      <description>&lt;p&gt;The rest of the UK and I have been watching &lt;a href="https://www.bbc.co.uk/iplayer/episodes/m002csng/the-celebrity-traitors" rel="noopener noreffer " target="_blank"&gt;the Celebrity Traitors&lt;/a&gt; over</description>
-      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
-      <source>John Lees' blog</source>
-      <guid>https://www.johnlees.me/posts/traitors/</guid>
+        <title>Traitors null hypothesis</title>
+        <link>https://www.johnlees.me/posts/traitors/</link>
+        <description>&lt;p&gt;The rest of the UK and I have been watching &lt;a href=&#34;https://www.bbc.co.uk/iplayer/episodes/m002csng/the-celebrity-traitors&#34; rel=&#34;noopener noreffer &#34; target=&#34;_blank&#34;&gt;the Celebrity Traitors&lt;/a&gt; over</description>
+        <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+        <source>John Lees&#39; blog</source>
+        <guid>https://www.johnlees.me/posts/traitors/</guid>
     </item>
     
     <item>
-      <title>Understanding prcomp() center and scale Arguments for Single-Cell RNA-seq PCA</title>
-      <link>https://divingintogeneticsandgenomics.com/post/understanding-prcomp-center-scale-arguments/</link>
-      <description>&lt;p&gt;During my work with single-cell RNA-seq data, I’ve often encountered confusion about PCA and specifically when to use the &lt;code&gt;center&lt;/code&gt; and &lt;code&gt;scale&lt;/code&gt; arguments in R’s &lt;code&gt;prcomp()&lt;</description>
-      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-      <source>Chatomics on Chatomics</source>
-      <guid>https://divingintogeneticsandgenomics.com/post/understanding-prcomp-center-scale-arguments/</guid>
+        <title>Understanding prcomp() center and scale Arguments for Single-Cell RNA-seq PCA</title>
+        <link>https://divingintogeneticsandgenomics.com/post/understanding-prcomp-center-scale-arguments/</link>
+        <description>&lt;p&gt;During my work with single-cell RNA-seq data, I’ve often encountered confusion about PCA and specifically when to use the &lt;code&gt;center&lt;/code&gt; and &lt;code&gt;scale&lt;/code&gt; arguments in R’s &lt;code&gt;prcomp()&lt;</description>
+        <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
+        <source>Chatomics on Chatomics</source>
+        <guid>https://divingintogeneticsandgenomics.com/post/understanding-prcomp-center-scale-arguments/</guid>
     </item>
     
     <item>
-      <title>ASHG Posters: The Agony and The Ecstasy</title>
-      <link>https://omicsomics.blogspot.com/2025/10/ashg-posters-agony-and-ecstasy.html</link>
-      <description>ASHG is a huge meeting, probably the second largest I've ever attended after ASCO.  ASBMB is similar in size perhaps, though I think a hair smaller and definitely a bigger than ESHG.  And certainly mu</description>
-      <pubDate>2025-10-15T08:58:00.001-04:00</pubDate>
-      <source>Omics! Omics!</source>
-      <guid>https://omicsomics.blogspot.com/2025/10/ashg-posters-agony-and-ecstasy.html</guid>
+        <title>ASHG Posters: The Agony and The Ecstasy</title>
+        <link>https://omicsomics.blogspot.com/2025/10/ashg-posters-agony-and-ecstasy.html</link>
+        <description>ASHG is a huge meeting, probably the second largest I&#39;ve ever attended after ASCO.  ASBMB is similar in size perhaps, though I think a hair smaller and definitely a bigger than ESHG.  And certainly mu</description>
+        <pubDate>2025-10-15T08:58:00.001-04:00</pubDate>
+        <source>Omics! Omics!</source>
+        <guid>https://omicsomics.blogspot.com/2025/10/ashg-posters-agony-and-ecstasy.html</guid>
     </item>
     
     <item>
-      <title>PacBio: $300 Genome Via Chemistry Update</title>
-      <link>https://omicsomics.blogspot.com/2025/10/pacbio-300-genome-via-chemistry-update.html</link>
-      <description>ASHG is here in Boston, just down the street from Ginkgo's HQ.  I'm in a new role in Ginkgo Automation, trying to convince the NGS world that our automation platform is the bee's knees.  So excellent </description>
-      <pubDate>2025-10-14T09:45:00.004-04:00</pubDate>
-      <source>Omics! Omics!</source>
-      <guid>https://omicsomics.blogspot.com/2025/10/pacbio-300-genome-via-chemistry-update.html</guid>
+        <title>PacBio: $300 Genome Via Chemistry Update</title>
+        <link>https://omicsomics.blogspot.com/2025/10/pacbio-300-genome-via-chemistry-update.html</link>
+        <description>ASHG is here in Boston, just down the street from Ginkgo&#39;s HQ.  I&#39;m in a new role in Ginkgo Automation, trying to convince the NGS world that our automation platform is the bee&#39;s knees.  So excellent </description>
+        <pubDate>2025-10-14T09:45:00.004-04:00</pubDate>
+        <source>Omics! Omics!</source>
+        <guid>https://omicsomics.blogspot.com/2025/10/pacbio-300-genome-via-chemistry-update.html</guid>
     </item>
     
     <item>
-      <title>RNA velocity in situ infers gene expression dynamics using spatial transcriptomics data</title>
-      <link>http://jefworks-lab.github.io//blog/2025/10/13/rna-velocity-in-situ-analysis/</link>
-      <description>Introduction</description>
-      <pubDate>2025-10-13T00:00:00+00:00</pubDate>
-      <source>JEFworks Lab</source>
-      <guid>http://jefworks-lab.github.io//blog/2025/10/13/rna-velocity-in-situ-analysis/</guid>
+        <title>RNA velocity in situ infers gene expression dynamics using spatial transcriptomics data</title>
+        <link>http://jefworks-lab.github.io//blog/2025/10/13/rna-velocity-in-situ-analysis/</link>
+        <description>Introduction</description>
+        <pubDate>2025-10-13T00:00:00+00:00</pubDate>
+        <source>JEFworks Lab</source>
+        <guid>http://jefworks-lab.github.io//blog/2025/10/13/rna-velocity-in-situ-analysis/</guid>
     </item>
     
     <item>
-      <title>15th Anniversary</title>
-      <link>https://davetang.org/muse/2025/10/01/15th-anniversary/</link>
-      <description>&lt;p&gt;It has been 15 years since I started this blog! As typical with many of my anniversary posts, I reflect on things that I have started to do and/or have learned since the last time I wrote an annive</description>
-      <pubDate>Wed, 01 Oct 2025 14:42:28 +0000</pubDate>
-      <source>Dave Tang's blog</source>
-      <guid>https://davetang.org/muse/2025/10/01/15th-anniversary/</guid>
+        <title>15th Anniversary</title>
+        <link>https://davetang.org/muse/2025/10/01/15th-anniversary/</link>
+        <description>&lt;p&gt;It has been 15 years since I started this blog! As typical with many of my anniversary posts, I reflect on things that I have started to do and/or have learned since the last time I wrote an annive</description>
+        <pubDate>Wed, 01 Oct 2025 14:42:28 +0000</pubDate>
+        <source>Dave Tang&#39;s blog</source>
+        <guid>https://davetang.org/muse/2025/10/01/15th-anniversary/</guid>
     </item>
     
     <item>
-      <title>Our journey through low-complexity regions</title>
-      <link>http://lh3.github.io/2025/09/29/on-low-complexity-regions</link>
-      <description>&lt;p&gt;Those who inspect SVs often have probably noticed many SVs fall in low-complexity regions (LCRs) or tandem repeats and they are challenging to call.
+        <title>Our journey through low-complexity regions</title>
+        <link>http://lh3.github.io/2025/09/29/on-low-complexity-regions</link>
+        <description>&lt;p&gt;Those who inspect SVs often have probably noticed many SVs fall in low-complexity regions (LCRs) or tandem repeats and they are challenging to call.
 How many and how challenging? I could not find a</description>
-      <pubDate>2025-09-29T00:00:00+00:00</pubDate>
-      <source>Heng Li's blog</source>
-      <guid>http://lh3.github.io/2025/09/29/on-low-complexity-regions</guid>
+        <pubDate>2025-09-29T00:00:00+00:00</pubDate>
+        <source>Heng Li&#39;s blog</source>
+        <guid>http://lh3.github.io/2025/09/29/on-low-complexity-regions</guid>
     </item>
     
     <item>
-      <title>Analyzing ICE Arrest Data - Part 2</title>
-      <link>http://jefworks-lab.github.io//blog/2025/09/27/analyzing-ice-detention-data-2/</link>
-      <description>In this blog post, I continue to demonstrate how to analyze publicly available datasets related to U.S. Immigration and Customs Enforcement (ICE). This time, I take advantage of publicly available dat</description>
-      <pubDate>2025-09-27T00:00:00+00:00</pubDate>
-      <source>JEFworks Lab</source>
-      <guid>http://jefworks-lab.github.io//blog/2025/09/27/analyzing-ice-detention-data-2/</guid>
+        <title>Analyzing ICE Arrest Data - Part 2</title>
+        <link>http://jefworks-lab.github.io//blog/2025/09/27/analyzing-ice-detention-data-2/</link>
+        <description>In this blog post, I continue to demonstrate how to analyze publicly available datasets related to U.S. Immigration and Customs Enforcement (ICE). This time, I take advantage of publicly available dat</description>
+        <pubDate>2025-09-27T00:00:00+00:00</pubDate>
+        <source>JEFworks Lab</source>
+        <guid>http://jefworks-lab.github.io//blog/2025/09/27/analyzing-ice-detention-data-2/</guid>
     </item>
     
     <item>
-      <title>Do not repeat yourself: List column to do RNAseq differential expression analysis</title>
-      <link>https://divingintogeneticsandgenomics.com/post/list-column-rnaseq/</link>
-      <description>&lt;p&gt;&lt;strong&gt;To not miss a post like this, sign up for my &lt;a href="https://divingintogeneticsandgenomics.ck.page/profile"&gt;newsletter&lt;/a&gt; to learn computational
+        <title>Do not repeat yourself: List column to do RNAseq differential expression analysis</title>
+        <link>https://divingintogeneticsandgenomics.com/post/list-column-rnaseq/</link>
+        <description>&lt;p&gt;&lt;strong&gt;To not miss a post like this, sign up for my &lt;a href=&#34;https://divingintogeneticsandgenomics.ck.page/profile&#34;&gt;newsletter&lt;/a&gt; to learn computational
 biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
 &lt;</description>
-      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
-      <source>Chatomics on Chatomics</source>
-      <guid>https://divingintogeneticsandgenomics.com/post/list-column-rnaseq/</guid>
+        <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+        <source>Chatomics on Chatomics</source>
+        <guid>https://divingintogeneticsandgenomics.com/post/list-column-rnaseq/</guid>
     </item>
     
     <item>
-      <title>Benchmark update: metaMDBG and Myloasm</title>
-      <link>https://rrwick.github.io/2025/09/23/autocycler-benchmark-update.html</link>
-      <description></description>
-      <pubDate>2025-09-23T00:00:00+00:00</pubDate>
-      <source>Ryan Wick’s bioinformatics blog</source>
-      <guid>https://rrwick.github.io/2025/09/23/autocycler-benchmark-update.html</guid>
+        <title>Benchmark update: metaMDBG and Myloasm</title>
+        <link>https://rrwick.github.io/2025/09/23/autocycler-benchmark-update.html</link>
+        <description></description>
+        <pubDate>2025-09-23T00:00:00+00:00</pubDate>
+        <source>Ryan Wick’s bioinformatics blog</source>
+        <guid>https://rrwick.github.io/2025/09/23/autocycler-benchmark-update.html</guid>
     </item>
     
     <item>
-      <title>A quick look at Roche's SBX</title>
-      <link>http://lh3.github.io/2025/09/11/a-quick-look-at-roches-sbx</link>
-      <description>&lt;p&gt;&lt;a href="https://sequencing.roche.com/us/en/article-listing/sequencing-platform-technologies.html"&gt;Sequencing by Expansion (SBX)&lt;/a&gt; is Roche’s new short-read sequencing technology.
+        <title>A quick look at Roche&#39;s SBX</title>
+        <link>http://lh3.github.io/2025/09/11/a-quick-look-at-roches-sbx</link>
+        <description>&lt;p&gt;&lt;a href=&#34;https://sequencing.roche.com/us/en/article-listing/sequencing-platform-technologies.html&#34;&gt;Sequencing by Expansion (SBX)&lt;/a&gt; is Roche’s new short-read sequencing technology.
 Roche released </description>
-      <pubDate>2025-09-11T00:00:00+00:00</pubDate>
-      <source>Heng Li's blog</source>
-      <guid>http://lh3.github.io/2025/09/11/a-quick-look-at-roches-sbx</guid>
+        <pubDate>2025-09-11T00:00:00+00:00</pubDate>
+        <source>Heng Li&#39;s blog</source>
+        <guid>http://lh3.github.io/2025/09/11/a-quick-look-at-roches-sbx</guid>
     </item>
     
     <item>
-      <title>Cross-sample homopolymer polishing with Pypolca</title>
-      <link>https://rrwick.github.io/2025/09/04/homopolymer-polishing.html</link>
-      <description></description>
-      <pubDate>2025-09-04T00:00:00+00:00</pubDate>
-      <source>Ryan Wick’s bioinformatics blog</source>
-      <guid>https://rrwick.github.io/2025/09/04/homopolymer-polishing.html</guid>
+        <title>Cross-sample homopolymer polishing with Pypolca</title>
+        <link>https://rrwick.github.io/2025/09/04/homopolymer-polishing.html</link>
+        <description></description>
+        <pubDate>2025-09-04T00:00:00+00:00</pubDate>
+        <source>Ryan Wick’s bioinformatics blog</source>
+        <guid>https://rrwick.github.io/2025/09/04/homopolymer-polishing.html</guid>
     </item>
     
     <item>
-      <title>On professionalism</title>
-      <link>https://davetang.org/muse/2025/08/30/on-professionalism/</link>
-      <description>&lt;p&gt;I'm a huge fan of Conan O'Brien; there's just something about his demeanour, humour, and wittiness that I admire. I discovered him on YouTube around 2012 and was quite oblivious to who he was, what</description>
-      <pubDate>Sat, 30 Aug 2025 03:01:22 +0000</pubDate>
-      <source>Dave Tang's blog</source>
-      <guid>https://davetang.org/muse/2025/08/30/on-professionalism/</guid>
+        <title>On professionalism</title>
+        <link>https://davetang.org/muse/2025/08/30/on-professionalism/</link>
+        <description>&lt;p&gt;I&#39;m a huge fan of Conan O&#39;Brien; there&#39;s just something about his demeanour, humour, and wittiness that I admire. I discovered him on YouTube around 2012 and was quite oblivious to who he was, what</description>
+        <pubDate>Sat, 30 Aug 2025 03:01:22 +0000</pubDate>
+        <source>Dave Tang&#39;s blog</source>
+        <guid>https://davetang.org/muse/2025/08/30/on-professionalism/</guid>
     </item>
     
     <item>
-      <title>Reproducible Computing in Bioinformatics: Lessons from My Latest Talk</title>
-      <link>https://divingintogeneticsandgenomics.com/post/repro-comp/</link>
-      <description>&lt;p&gt;Hey everyone, it’s Tommy here. If you’ve been following my blog or my Twitter/X (&lt;span class="citation"&gt;@tangming2005&lt;/span&gt;), you know I love diving into the practical side of bioinformatics and g</description>
-      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
-      <source>Chatomics on Chatomics</source>
-      <guid>https://divingintogeneticsandgenomics.com/post/repro-comp/</guid>
+        <title>Reproducible Computing in Bioinformatics: Lessons from My Latest Talk</title>
+        <link>https://divingintogeneticsandgenomics.com/post/repro-comp/</link>
+        <description>&lt;p&gt;Hey everyone, it’s Tommy here. If you’ve been following my blog or my Twitter/X (&lt;span class=&#34;citation&#34;&gt;@tangming2005&lt;/span&gt;), you know I love diving into the practical side of bioinformatics and g</description>
+        <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+        <source>Chatomics on Chatomics</source>
+        <guid>https://divingintogeneticsandgenomics.com/post/repro-comp/</guid>
     </item>
     
     <item>
-      <title>Hosting your own Git repositories</title>
-      <link>https://davetang.org/muse/2025/08/14/hosting-your-own-git-repositories/</link>
-      <description>&lt;p&gt;As you may have already heard, GitHub just got less independent at Microsoft after CEO resignation. What does this mean? Well, I guess nobody knows for certain but it probably will mean that GitHub</description>
-      <pubDate>Wed, 13 Aug 2025 23:34:00 +0000</pubDate>
-      <source>Dave Tang's blog</source>
-      <guid>https://davetang.org/muse/2025/08/14/hosting-your-own-git-repositories/</guid>
+        <title>Hosting your own Git repositories</title>
+        <link>https://davetang.org/muse/2025/08/14/hosting-your-own-git-repositories/</link>
+        <description>&lt;p&gt;As you may have already heard, GitHub just got less independent at Microsoft after CEO resignation. What does this mean? Well, I guess nobody knows for certain but it probably will mean that GitHub</description>
+        <pubDate>Wed, 13 Aug 2025 23:34:00 +0000</pubDate>
+        <source>Dave Tang&#39;s blog</source>
+        <guid>https://davetang.org/muse/2025/08/14/hosting-your-own-git-repositories/</guid>
     </item>
     
     <item>
-      <title>Job search 2025 post-mortem and advice</title>
-      <link>https://ekernf01.github.io/job_search_2025</link>
-      <description>The comp bio job market is scarier than usual: 2023 was a biotech bankruptcy bloodbath, 2024 was a little better, and as far as layoffs, 2025 has been worse. Academic and government sectors are also r</description>
-      <pubDate>2025-08-13T00:00:00+00:00</pubDate>
-      <source>Eric Kernfeld</source>
-      <guid>https://ekernf01.github.io/job_search_2025</guid>
+        <title>Job search 2025 post-mortem and advice</title>
+        <link>https://ekernf01.github.io/job_search_2025</link>
+        <description>The comp bio job market is scarier than usual: 2023 was a biotech bankruptcy bloodbath, 2024 was a little better, and as far as layoffs, 2025 has been worse. Academic and government sectors are also r</description>
+        <pubDate>2025-08-13T00:00:00+00:00</pubDate>
+        <source>Eric Kernfeld</source>
+        <guid>https://ekernf01.github.io/job_search_2025</guid>
     </item>
     
     <item>
-      <title>How long does it take to run gpt-oss:20b?</title>
-      <link>https://davetang.org/muse/2025/08/10/how-long-does-it-take-to-run-gpt-oss20b/</link>
-      <description>&lt;p&gt;gpt-oss is OpenAI's open-weight models designed for powerful reasoning, agentic tasks, and versatile developer use cases. You can easily use it via Ollama and read more about it in their blog post.</description>
-      <pubDate>Sun, 10 Aug 2025 05:37:04 +0000</pubDate>
-      <source>Dave Tang's blog</source>
-      <guid>https://davetang.org/muse/2025/08/10/how-long-does-it-take-to-run-gpt-oss20b/</guid>
+        <title>How long does it take to run gpt-oss:20b?</title>
+        <link>https://davetang.org/muse/2025/08/10/how-long-does-it-take-to-run-gpt-oss20b/</link>
+        <description>&lt;p&gt;gpt-oss is OpenAI&#39;s open-weight models designed for powerful reasoning, agentic tasks, and versatile developer use cases. You can easily use it via Ollama and read more about it in their blog post.</description>
+        <pubDate>Sun, 10 Aug 2025 05:37:04 +0000</pubDate>
+        <source>Dave Tang&#39;s blog</source>
+        <guid>https://davetang.org/muse/2025/08/10/how-long-does-it-take-to-run-gpt-oss20b/</guid>
     </item>
     
     <item>
-      <title>Announcing taxburst, an update of the Krona software for taxonomy exploration</title>
-      <link>http://ivory.idyll.org/blog/2025-announcing-taxburst-030.html</link>
-      <description>&lt;p&gt;Announcing taxburst for metagenome taxonomy!&lt;/p&gt;</description>
-      <pubDate>2025-08-08T00:00:00+02:00</pubDate>
-      <source>Living in an Ivory Basement</source>
-      <guid>http://ivory.idyll.org/blog/2025-announcing-taxburst-030.html</guid>
+        <title>Announcing taxburst, an update of the Krona software for taxonomy exploration</title>
+        <link>http://ivory.idyll.org/blog/2025-announcing-taxburst-030.html</link>
+        <description>&lt;p&gt;Announcing taxburst for metagenome taxonomy!&lt;/p&gt;</description>
+        <pubDate>2025-08-08T00:00:00+02:00</pubDate>
+        <source>Living in an Ivory Basement</source>
+        <guid>http://ivory.idyll.org/blog/2025-announcing-taxburst-030.html</guid>
     </item>
     
     <item>
-      <title>Lessons from a Nobel Laureate (on deep learning and academia/industry)</title>
-      <link>https://www.johnlees.me/posts/alphafold-lessons/</link>
-      <description>&lt;p&gt;Last week I saw &lt;a href="https://en.wikipedia.org/wiki/John_M._Jumper" rel="noopener noreffer " target="_blank"&gt;John Jumper&lt;/a&gt; give a presentation on his team&amp;rsquo;s development of AlphaFold 1/2/</description>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
-      <source>John Lees' blog</source>
-      <guid>https://www.johnlees.me/posts/alphafold-lessons/</guid>
+        <title>Lessons from a Nobel Laureate (on deep learning and academia/industry)</title>
+        <link>https://www.johnlees.me/posts/alphafold-lessons/</link>
+        <description>&lt;p&gt;Last week I saw &lt;a href=&#34;https://en.wikipedia.org/wiki/John_M._Jumper&#34; rel=&#34;noopener noreffer &#34; target=&#34;_blank&#34;&gt;John Jumper&lt;/a&gt; give a presentation on his team&amp;rsquo;s development of AlphaFold 1/2/</description>
+        <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+        <source>John Lees&#39; blog</source>
+        <guid>https://www.johnlees.me/posts/alphafold-lessons/</guid>
     </item>
     
     <item>
-      <title>Crashing Excel to Curing Cancer: How AI and Open Science Transformed One Scientist’s Path</title>
-      <link>https://divingintogeneticsandgenomics.com/talk/2025-ai-on-the-hill-podcast/</link>
-      <description>&lt;p&gt;We’re bringing a podcast to the conversation: AI on the Hill — and our very first episode is now live!&lt;/p&gt;
+        <title>Crashing Excel to Curing Cancer: How AI and Open Science Transformed One Scientist’s Path</title>
+        <link>https://divingintogeneticsandgenomics.com/talk/2025-ai-on-the-hill-podcast/</link>
+        <description>&lt;p&gt;We’re bringing a podcast to the conversation: AI on the Hill — and our very first episode is now live!&lt;/p&gt;
 
 &lt;p&gt;In this show, host René Bastón sits down with 🎯 Ming &amp;ldquo;Tommy&amp;rdquo; Tang, a first</description>
-      <pubDate>Fri, 01 Aug 2025 12:00:00 +0000</pubDate>
-      <source>Chatomics on Chatomics</source>
-      <guid>https://divingintogeneticsandgenomics.com/talk/2025-ai-on-the-hill-podcast/</guid>
+        <pubDate>Fri, 01 Aug 2025 12:00:00 +0000</pubDate>
+        <source>Chatomics on Chatomics</source>
+        <guid>https://divingintogeneticsandgenomics.com/talk/2025-ai-on-the-hill-podcast/</guid>
     </item>
     
     <item>
-      <title>Hunting collisions with ntHash</title>
-      <link>https://www.bacpop.org/blog/huntingcollisionswithnthash/</link>
-      <description>A quick introduction The ultraviolet catastrophe ntHash and collisions The checks Summary This blog post summarises some checks and comprobations done while developing Sparrowhawk after we discovered </description>
-      <pubDate>Tue, 22 Jul 2025 23:06:29 +0100</pubDate>
-      <source>Bacterial population genomics blog</source>
-      <guid>https://www.bacpop.org/blog/huntingcollisionswithnthash/</guid>
+        <title>Hunting collisions with ntHash</title>
+        <link>https://www.bacpop.org/blog/huntingcollisionswithnthash/</link>
+        <description>A quick introduction The ultraviolet catastrophe ntHash and collisions The checks Summary This blog post summarises some checks and comprobations done while developing Sparrowhawk after we discovered </description>
+        <pubDate>Tue, 22 Jul 2025 23:06:29 +0100</pubDate>
+        <source>Bacterial population genomics blog</source>
+        <guid>https://www.bacpop.org/blog/huntingcollisionswithnthash/</guid>
     </item>
     
     <item>
-      <title>Using fixed parameters/constants in mcstate likelihoods</title>
-      <link>https://www.johnlees.me/posts/mcstate-constants/</link>
-      <description>&lt;p&gt;&lt;em&gt;NB: mcstate is being replaced by &lt;a href="https://mrc-ide.github.io/odin-monty/" rel="noopener noreffer " target="_blank"&gt;monty&lt;/a&gt; which will make this easier&lt;/em&gt;&lt;/p&gt;
+        <title>Using fixed parameters/constants in mcstate likelihoods</title>
+        <link>https://www.johnlees.me/posts/mcstate-constants/</link>
+        <description>&lt;p&gt;&lt;em&gt;NB: mcstate is being replaced by &lt;a href=&#34;https://mrc-ide.github.io/odin-monty/&#34; rel=&#34;noopener noreffer &#34; target=&#34;_blank&#34;&gt;monty&lt;/a&gt; which will make this easier&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;How do y</description>
-      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
-      <source>John Lees' blog</source>
-      <guid>https://www.johnlees.me/posts/mcstate-constants/</guid>
+        <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+        <source>John Lees&#39; blog</source>
+        <guid>https://www.johnlees.me/posts/mcstate-constants/</guid>
     </item>
     
     <item>
-      <title>Analyzing ICE Detention Data from 2021 to 2025</title>
-      <link>http://jefworks-lab.github.io//blog/2025/07/10/analyzing-ice-detention-data/</link>
-      <description>The ability to code and explore big datasets are generally useful skills that transfer well beyond our work of biomedical spatial omics analysis. In this blog post, I analyze publicly available datase</description>
-      <pubDate>2025-07-10T00:00:00+00:00</pubDate>
-      <source>JEFworks Lab</source>
-      <guid>http://jefworks-lab.github.io//blog/2025/07/10/analyzing-ice-detention-data/</guid>
+        <title>Analyzing ICE Detention Data from 2021 to 2025</title>
+        <link>http://jefworks-lab.github.io//blog/2025/07/10/analyzing-ice-detention-data/</link>
+        <description>The ability to code and explore big datasets are generally useful skills that transfer well beyond our work of biomedical spatial omics analysis. In this blog post, I analyze publicly available datase</description>
+        <pubDate>2025-07-10T00:00:00+00:00</pubDate>
+        <source>JEFworks Lab</source>
+        <guid>http://jefworks-lab.github.io//blog/2025/07/10/analyzing-ice-detention-data/</guid>
     </item>
     
     <item>
-      <title>A recap of virtual cell releases circa June 2025</title>
-      <link>https://ekernf01.github.io/virtual-cell-june-2025</link>
-      <description>In October 2024, I twote that “something is deeply wrong” with what we now call virtual cell models. A lot has happened since then: modelers are advancing new architectures and mining new sources of i</description>
-      <pubDate>2025-06-29T00:00:00+00:00</pubDate>
-      <source>Eric Kernfeld</source>
-      <guid>https://ekernf01.github.io/virtual-cell-june-2025</guid>
+        <title>A recap of virtual cell releases circa June 2025</title>
+        <link>https://ekernf01.github.io/virtual-cell-june-2025</link>
+        <description>In October 2024, I twote that “something is deeply wrong” with what we now call virtual cell models. A lot has happened since then: modelers are advancing new architectures and mining new sources of i</description>
+        <pubDate>2025-06-29T00:00:00+00:00</pubDate>
+        <source>Eric Kernfeld</source>
+        <guid>https://ekernf01.github.io/virtual-cell-june-2025</guid>
     </item>
     
     <item>
-      <title>Dogs and the central limit theorem</title>
-      <link>https://www.johnlees.me/posts/dogs-clt/</link>
-      <description>&lt;p&gt;At school/University I had vaguely heard of the Central Limit Theorem (CLT) but never properly
+        <title>Dogs and the central limit theorem</title>
+        <link>https://www.johnlees.me/posts/dogs-clt/</link>
+        <description>&lt;p&gt;At school/University I had vaguely heard of the Central Limit Theorem (CLT) but never properly
 understood it or looked it up. My understanding was pretty much along the lines
 of &amp;lsquo;most measure</description>
-      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
-      <source>John Lees' blog</source>
-      <guid>https://www.johnlees.me/posts/dogs-clt/</guid>
+        <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+        <source>John Lees&#39; blog</source>
+        <guid>https://www.johnlees.me/posts/dogs-clt/</guid>
     </item>
     
     <item>
-      <title>Five flavors of stratified LD score regression (Part 1, Vanilla)</title>
-      <link>https://ekernf01.github.io/vanilla</link>
-      <description>Linkage disequilibrium score regression (LDSC) is a workhorse technique at the intersection of quantitative genetics and functional genomics. The core use of S-LDSC is to detect and quantify functiona</description>
-      <pubDate>2025-06-22T00:00:00+00:00</pubDate>
-      <source>Eric Kernfeld</source>
-      <guid>https://ekernf01.github.io/vanilla</guid>
+        <title>Five flavors of stratified LD score regression (Part 1, Vanilla)</title>
+        <link>https://ekernf01.github.io/vanilla</link>
+        <description>Linkage disequilibrium score regression (LDSC) is a workhorse technique at the intersection of quantitative genetics and functional genomics. The core use of S-LDSC is to detect and quantify functiona</description>
+        <pubDate>2025-06-22T00:00:00+00:00</pubDate>
+        <source>Eric Kernfeld</source>
+        <guid>https://ekernf01.github.io/vanilla</guid>
     </item>
     
     <item>
-      <title>Retrieval-Augmented Generation</title>
-      <link>https://davetang.org/muse/2025/05/27/retrieval-augmented-generation/</link>
-      <description>&lt;p&gt;Back in February I learned about Open WebUI and have been wanting to test it out with Retrieval-Augmented Generation (RAG). I'll follow the tutorial available on Open WebUI's site. The goal of RAG </description>
-      <pubDate>Tue, 27 May 2025 08:11:38 +0000</pubDate>
-      <source>Dave Tang's blog</source>
-      <guid>https://davetang.org/muse/2025/05/27/retrieval-augmented-generation/</guid>
+        <title>Retrieval-Augmented Generation</title>
+        <link>https://davetang.org/muse/2025/05/27/retrieval-augmented-generation/</link>
+        <description>&lt;p&gt;Back in February I learned about Open WebUI and have been wanting to test it out with Retrieval-Augmented Generation (RAG). I&#39;ll follow the tutorial available on Open WebUI&#39;s site. The goal of RAG </description>
+        <pubDate>Tue, 27 May 2025 08:11:38 +0000</pubDate>
+        <source>Dave Tang&#39;s blog</source>
+        <guid>https://davetang.org/muse/2025/05/27/retrieval-augmented-generation/</guid>
     </item>
     
     <item>
-      <title>Dorado v1.0.0 and the v5.2.0 basecalling models</title>
-      <link>https://rrwick.github.io/2025/05/27/dorado-v1.html</link>
-      <description></description>
-      <pubDate>2025-05-27T00:00:00+00:00</pubDate>
-      <source>Ryan Wick’s bioinformatics blog</source>
-      <guid>https://rrwick.github.io/2025/05/27/dorado-v1.html</guid>
+        <title>Dorado v1.0.0 and the v5.2.0 basecalling models</title>
+        <link>https://rrwick.github.io/2025/05/27/dorado-v1.html</link>
+        <description></description>
+        <pubDate>2025-05-27T00:00:00+00:00</pubDate>
+        <source>Ryan Wick’s bioinformatics blog</source>
+        <guid>https://rrwick.github.io/2025/05/27/dorado-v1.html</guid>
     </item>
     
     <item>
-      <title>Some of my petty pedantry and why it doesn't matter</title>
-      <link>https://www.johnlees.me/posts/pedantry/</link>
-      <description>&lt;p&gt;I already have at least one of these &lt;a href="https://www.johnlees.me/posts/p-value-2-2e-16/" rel=""&gt;on this blog&lt;/a&gt; (which incidentally is my most
+        <title>Some of my petty pedantry and why it doesn&#39;t matter</title>
+        <link>https://www.johnlees.me/posts/pedantry/</link>
+        <description>&lt;p&gt;I already have at least one of these &lt;a href=&#34;https://www.johnlees.me/posts/p-value-2-2e-16/&#34; rel=&#34;&#34;&gt;on this blog&lt;/a&gt; (which incidentally is my most
 popular post).
-&lt;figure&gt;&lt;a class="lightgallery" h</description>
-      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <source>John Lees' blog</source>
-      <guid>https://www.johnlees.me/posts/pedantry/</guid>
+&lt;figure&gt;&lt;a class=&#34;lightgallery&#34; h</description>
+        <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+        <source>John Lees&#39; blog</source>
+        <guid>https://www.johnlees.me/posts/pedantry/</guid>
     </item>
     
     <item>
-      <title>Multi-sample Integrative Analysis of Spatial Transcriptomics Data using Sketching and Harmony in Seurat</title>
-      <link>http://jefworks-lab.github.io//blog/2025/04/22/harmony-with-sketching-in-seurat/</link>
-      <description>I often write up code tutorials as a way for me to take notes on what I’ve been learning. But they also serve a secondary purpose as training material for students in my lab. In particular, they provi</description>
-      <pubDate>2025-04-22T00:00:00+00:00</pubDate>
-      <source>JEFworks Lab</source>
-      <guid>http://jefworks-lab.github.io//blog/2025/04/22/harmony-with-sketching-in-seurat/</guid>
+        <title>Multi-sample Integrative Analysis of Spatial Transcriptomics Data using Sketching and Harmony in Seurat</title>
+        <link>http://jefworks-lab.github.io//blog/2025/04/22/harmony-with-sketching-in-seurat/</link>
+        <description>I often write up code tutorials as a way for me to take notes on what I’ve been learning. But they also serve a secondary purpose as training material for students in my lab. In particular, they provi</description>
+        <pubDate>2025-04-22T00:00:00+00:00</pubDate>
+        <source>JEFworks Lab</source>
+        <guid>http://jefworks-lab.github.io//blog/2025/04/22/harmony-with-sketching-in-seurat/</guid>
     </item>
     
     <item>
-      <title>Short RNA-seq read alignment with minimap2</title>
-      <link>http://lh3.github.io/2025/04/18/short-rna-seq-read-alignment-with-minimap2</link>
-      <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;TL;DR:&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;the new preset &lt;code class="language-plaintext highlighter-rouge"&gt;splice:sr&lt;/code&gt; in minimap2 can align short RNA-seq reads.
+        <title>Short RNA-seq read alignment with minimap2</title>
+        <link>http://lh3.github.io/2025/04/18/short-rna-seq-read-alignment-with-minimap2</link>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;TL;DR:&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;the new preset &lt;code class=&#34;language-plaintext highlighter-rouge&#34;&gt;splice:sr&lt;/code&gt; in minimap2 can align short RNA-seq reads.
 It is similar to STAR in resource </description>
-      <pubDate>2025-04-18T00:00:00+00:00</pubDate>
-      <source>Heng Li's blog</source>
-      <guid>http://lh3.github.io/2025/04/18/short-rna-seq-read-alignment-with-minimap2</guid>
+        <pubDate>2025-04-18T00:00:00+00:00</pubDate>
+        <source>Heng Li&#39;s blog</source>
+        <guid>http://lh3.github.io/2025/04/18/short-rna-seq-read-alignment-with-minimap2</guid>
     </item>
     
     <item>
-      <title>FASTQ assemblies with Dorado polish</title>
-      <link>https://rrwick.github.io/2025/02/19/fastq-assemblies.html</link>
-      <description></description>
-      <pubDate>2025-02-19T00:00:00+00:00</pubDate>
-      <source>Ryan Wick’s bioinformatics blog</source>
-      <guid>https://rrwick.github.io/2025/02/19/fastq-assemblies.html</guid>
+        <title>FASTQ assemblies with Dorado polish</title>
+        <link>https://rrwick.github.io/2025/02/19/fastq-assemblies.html</link>
+        <description></description>
+        <pubDate>2025-02-19T00:00:00+00:00</pubDate>
+        <source>Ryan Wick’s bioinformatics blog</source>
+        <guid>https://rrwick.github.io/2025/02/19/fastq-assemblies.html</guid>
     </item>
     
     <item>
-      <title>Medaka vs Dorado polish</title>
-      <link>https://rrwick.github.io/2025/02/07/dorado-polish.html</link>
-      <description></description>
-      <pubDate>2025-02-07T00:00:00+00:00</pubDate>
-      <source>Ryan Wick’s bioinformatics blog</source>
-      <guid>https://rrwick.github.io/2025/02/07/dorado-polish.html</guid>
+        <title>Medaka vs Dorado polish</title>
+        <link>https://rrwick.github.io/2025/02/07/dorado-polish.html</link>
+        <description></description>
+        <pubDate>2025-02-07T00:00:00+00:00</pubDate>
+        <source>Ryan Wick’s bioinformatics blog</source>
+        <guid>https://rrwick.github.io/2025/02/07/dorado-polish.html</guid>
     </item>
     
     <item>
-      <title>Announcing: the chill-filter Web site - DNA sample composition at a glance!</title>
-      <link>http://ivory.idyll.org/blog/2024-announcing-chill-filter.html</link>
-      <description>&lt;p&gt;what's in my sample, dude?&lt;/p&gt;</description>
-      <pubDate>2024-12-27T00:00:00+01:00</pubDate>
-      <source>Living in an Ivory Basement</source>
-      <guid>http://ivory.idyll.org/blog/2024-announcing-chill-filter.html</guid>
+        <title>Announcing: the chill-filter Web site - DNA sample composition at a glance!</title>
+        <link>http://ivory.idyll.org/blog/2024-announcing-chill-filter.html</link>
+        <description>&lt;p&gt;what&#39;s in my sample, dude?&lt;/p&gt;</description>
+        <pubDate>2024-12-27T00:00:00+01:00</pubDate>
+        <source>Living in an Ivory Basement</source>
+        <guid>http://ivory.idyll.org/blog/2024-announcing-chill-filter.html</guid>
     </item>
     
+
 </channel>
 </rss>
