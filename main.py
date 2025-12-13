@@ -31,7 +31,7 @@ def main():
 
     for name, url in feeds:
         feed = feedparser.parse(url)
-        
+
         raw_title = getattr(feed.feed, "title", "")
         raw_link = getattr(feed.feed, "link", "")
 
@@ -47,7 +47,7 @@ def main():
                 or entry.get("updated")
                 or dt.strftime("%Y-%m-%d")
             )
-            
+
             summary = getattr(entry, "summary", "") or ""
             summary = summary[:200]
 
