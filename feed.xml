@@ -6,8 +6,35 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Mon, 15 Dec 2025 06:42:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 06:40:34 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>Linking genes to traits using RNA sequencing and causal modeling</title>
+        <link>https://www.rna-seqblog.com/linking-genes-to-traits-using-rna-sequencing-and-causal-modeling/</link>
+        <description>By combining genetic effect sizes with RNA sequencing based perturbation data, researchers map causal pathways from genes to cellular programs and human traits...</description>
+        <pubDate>Mon, 15 Dec 2025 12:12:56 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/linking-genes-to-traits-using-rna-sequencing-and-causal-modeling/</guid>
+    </item>
+    
+    <item>
+        <title>Researcher awarded for transformative use of genome and RNA sequencing</title>
+        <link>https://www.rna-seqblog.com/researcher-awarded-for-transformative-use-of-genome-and-rna-sequencing/</link>
+        <description>Pengfei Liu, Ph.D., is recognized for advancing RNA sequencing and genome-based diagnostics, improving rare disease diagnosis...</description>
+        <pubDate>Mon, 15 Dec 2025 12:12:44 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/researcher-awarded-for-transformative-use-of-genome-and-rna-sequencing/</guid>
+    </item>
+    
+    <item>
+        <title>How do you design AI-resistant assignments?</title>
+        <link>https://blog.stephenturner.us/p/ai-resistant-assignments</link>
+        <description>The Anthropic Education Report showed 50% of Claude conversations about grading delegated assessment to the AI. How does one actually design AI-resistant assignments?</description>
+        <pubDate>Mon, 15 Dec 2025 10:57:17 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/ai-resistant-assignments</guid>
+    </item>
     
     <item>
         <title>GPT-5.2 Lies About Reading your Documents</title>
@@ -21,7 +48,7 @@
     <item>
         <title>Disrupting cancer’s secret hubs: A new way to halt tumor growth</title>
         <link>https://www.rna-seqblog.com/disrupting-cancers-secret-hubs-a-new-way-to-halt-tumor-growth-2/</link>
-        <description>Researchers reveal how RNA sequencing uncovers RNA-driven condensates that power an aggressive kidney cancer and demonstrate a molecular switch that dissolves these growth hubs...</description>
+        <description>Researchers reveal how RNA sequencing uncovers RNA-driven condensates that power an aggressive kidney cancer and demonstrate a molecular switch that dissolves these growth...</description>
         <pubDate>Fri, 12 Dec 2025 12:31:18 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/disrupting-cancers-secret-hubs-a-new-way-to-halt-tumor-growth-2/</guid>
@@ -30,7 +57,7 @@
     <item>
         <title>RNA sequencing reveals climate-driven genetic changes in polar bears</title>
         <link>https://www.rna-seqblog.com/rna-sequencing-reveals-climate-driven-genetic-changes-in-polar-bears/</link>
-        <description>RNA sequencing reveals shifting gene activity in Greenland polar bears, showing how temperature-linked changes in jumping genes may support adaptation to warmer, rapidly transforming Arctic habitats..</description>
+        <description>The study by scientists at the University of East Anglia (UEA) discovered that some genes related to heat-stress, aging and metabolism are behaving differently in polar bears living in southeastern Gr</description>
         <pubDate>Fri, 12 Dec 2025 12:31:09 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/rna-sequencing-reveals-climate-driven-genetic-changes-in-polar-bears/</guid>
@@ -48,28 +75,10 @@
     <item>
         <title>SIDISH – integrating single cell insights with bulk RNA sequencing to identify high risk cells and guide precision therapeutics</title>
         <link>https://www.rna-seqblog.com/sidish-integrating-single-cell-insights-with-bulk-rna-sequencing-to-identify-high-risk-cells-and-guide-precision-therapeutics/</link>
-        <description>SIDISH merges single cell data with bulk RNA sequencing to identify high risk cells, improve clinical prediction and reveal therapeutic targets</description>
+        <description>Understanding how different cells contribute to disease is one of the biggest challenges in modern biology. Single-cell RNA sequencing gives us a close look at how individual cells behave, but it is s</description>
         <pubDate>Thu, 11 Dec 2025 12:14:58 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/sidish-integrating-single-cell-insights-with-bulk-rna-sequencing-to-identify-high-risk-cells-and-guide-precision-therapeutics/</guid>
-    </item>
-    
-    <item>
-        <title>Researchers develop models to help diagnose ALS earlier through blood biomarkers</title>
-        <link>https://www.rna-seqblog.com/researchers-develop-models-to-help-diagnose-als-earlier-through-blood-biomarkers/</link>
-        <description>The models have the potential to shorten time to an ALS diagnosis, assess disease severity and identify possible treatment targets Using machine learning models, researchers at Michigan Medicine have </description>
-        <pubDate>Thu, 11 Dec 2025 12:14:40 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/researchers-develop-models-to-help-diagnose-als-earlier-through-blood-biomarkers/</guid>
-    </item>
-    
-    <item>
-        <title>MUTE-Seq – ultrasensitive method to detect low-frequency cancer mutations</title>
-        <link>https://www.rna-seqblog.com/mute-seq-ultrasensitive-method-to-detect-low-frequency-cancer-mutations/</link>
-        <description>MUTE-Seq is a new liquid-biopsy method powered by an engineered ultra-precise CRISPR enzyme, FnCas9-AF2, which can distinguish single-base mismatches across all sgRNA positions with near-zero off-targ</description>
-        <pubDate>Wed, 10 Dec 2025 12:40:23 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/mute-seq-ultrasensitive-method-to-detect-low-frequency-cancer-mutations/</guid>
     </item>
     
     <item>
@@ -88,15 +97,6 @@
         <pubDate>Mon, 08 Dec 2025 11:41:54 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/false-choice-meaning-accountability-ai-university</guid>
-    </item>
-    
-    <item>
-        <title>The &#34;If-Then&#34; Approach to AI Biosecurity</title>
-        <link>https://blog.stephenturner.us/p/if-then-ai-biosecurity</link>
-        <description>A Measured Approach to AI+Biosecurity: The &#34;If-Then&#34; Framework from the 2025 NASEM report, The Age of AI in the Life Sciences: Benefits and Biosecurity Considerations.</description>
-        <pubDate>Sat, 06 Dec 2025 11:57:30 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/if-then-ai-biosecurity</guid>
     </item>
     
     <item>
