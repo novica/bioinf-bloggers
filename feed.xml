@@ -6,13 +6,58 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Tue, 16 Dec 2025 06:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 06:40:57 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>UltraMarathonRT: When Your Reverse Transcription Must Go Long</title>
+        <link>https://omicsomics.blogspot.com/2025/12/rnaconnect-when-your-reverse.html</link>
+        <description>&lt;span id=&#34;docs-internal-guid-06202f62-7fff-d01f-4a9c-d763379a5bae&#34;&gt;&lt;p dir=&#34;ltr&#34; style=&#34;line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;&#34;&gt;&lt;span style=&#34;font-family: Arial, sans-serif; font-size: </description>
+        <pubDate>2025-12-16T11:48:00.001-05:00</pubDate>
+        <source>Omics! Omics!</source>
+        <guid>https://omicsomics.blogspot.com/2025/12/rnaconnect-when-your-reverse.html</guid>
+    </item>
+    
+    <item>
+        <title>Bioinformatics frameworks for single-cell long-read sequencing: unlocking isoform-level resolution</title>
+        <link>https://www.rna-seqblog.com/bioinformatics-frameworks-for-single-cell-long-read-sequencing-unlocking-isoform-level-resolution/</link>
+        <description>New long-read RNA sequencing methods capture full-length transcripts at single-cell resolution, revealing isoform diversity, cell-type specific splicing and roles in health and disease...</description>
+        <pubDate>Tue, 16 Dec 2025 12:24:25 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/bioinformatics-frameworks-for-single-cell-long-read-sequencing-unlocking-isoform-level-resolution/</guid>
+    </item>
+    
+    <item>
+        <title>scRepli-RamDA-seq – a multi-omics technology enabling the analysis of gene expression dynamics during S-phase</title>
+        <link>https://www.rna-seqblog.com/screpli-ramda-seq-a-multi-omics-technology-enabling-the-analysis-of-gene-expression-dynamics-during-s-phase/</link>
+        <description>scRepli-RamDA-seq integrates RNA sequencing and DNA replication profiling in single cells, enabling analysis of gene expression dynamics during S-phase progression and detection of...</description>
+        <pubDate>Tue, 16 Dec 2025 12:24:03 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/screpli-ramda-seq-a-multi-omics-technology-enabling-the-analysis-of-gene-expression-dynamics-during-s-phase/</guid>
+    </item>
+    
+    <item>
+        <title>Controlling noise in single-cell RNA sequencing with pseudobulk approaches</title>
+        <link>https://www.rna-seqblog.com/controlling-noise-in-single-cell-rna-sequencing-with-pseudobulk-approaches/</link>
+        <description>Removing unwanted variation improves accuracy in pseudobulk single-cell RNA sequencing, enhancing differential expression analysis and controlling false discoveries across challenging experimental con</description>
+        <pubDate>Tue, 16 Dec 2025 12:23:51 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/controlling-noise-in-single-cell-rna-sequencing-with-pseudobulk-approaches/</guid>
+    </item>
+    
+    <item>
+        <title>Scikit-bio: Python for Omics</title>
+        <link>https://blog.stephenturner.us/p/scikit-bio-python-for-omics</link>
+        <description>The &#34;missing middle&#34; for omics data analysis in Python</description>
+        <pubDate>Tue, 16 Dec 2025 10:50:06 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/scikit-bio-python-for-omics</guid>
+    </item>
     
     <item>
         <title>Linking genes to traits using RNA sequencing and causal modeling</title>
         <link>https://www.rna-seqblog.com/linking-genes-to-traits-using-rna-sequencing-and-causal-modeling/</link>
-        <description>By combining genetic effect sizes with RNA sequencing based perturbation data, researchers map causal pathways from genes to cellular programs and human traits...</description>
+        <description>Large genetic studies have uncovered thousands of links between genes and human traits, from blood cell counts to disease risk. While these associations are powerful, they often leave a key question u</description>
         <pubDate>Mon, 15 Dec 2025 12:12:56 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/linking-genes-to-traits-using-rna-sequencing-and-causal-modeling/</guid>
@@ -21,7 +66,7 @@
     <item>
         <title>Researcher awarded for transformative use of genome and RNA sequencing</title>
         <link>https://www.rna-seqblog.com/researcher-awarded-for-transformative-use-of-genome-and-rna-sequencing/</link>
-        <description>Pengfei Liu, Ph.D., is recognized for advancing RNA sequencing and genome-based diagnostics, improving rare disease diagnosis...</description>
+        <description>Trailblazing geneticist Pengfei Liu, Ph.D., Associate Professor in the Department of Molecular and Human Genetics at Baylor College of Medicine, is the recipient of the 2026 Edith and Peter O’Donnell </description>
         <pubDate>Mon, 15 Dec 2025 12:12:44 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/researcher-awarded-for-transformative-use-of-genome-and-rna-sequencing/</guid>
@@ -46,24 +91,6 @@
     </item>
     
     <item>
-        <title>Disrupting cancer’s secret hubs: A new way to halt tumor growth</title>
-        <link>https://www.rna-seqblog.com/disrupting-cancers-secret-hubs-a-new-way-to-halt-tumor-growth-2/</link>
-        <description>Researchers reveal how RNA sequencing uncovers RNA-driven condensates that power an aggressive kidney cancer and demonstrate a molecular switch that dissolves these growth...</description>
-        <pubDate>Fri, 12 Dec 2025 12:31:18 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/disrupting-cancers-secret-hubs-a-new-way-to-halt-tumor-growth-2/</guid>
-    </item>
-    
-    <item>
-        <title>RNA sequencing reveals climate-driven genetic changes in polar bears</title>
-        <link>https://www.rna-seqblog.com/rna-sequencing-reveals-climate-driven-genetic-changes-in-polar-bears/</link>
-        <description>The study by scientists at the University of East Anglia (UEA) discovered that some genes related to heat-stress, aging and metabolism are behaving differently in polar bears living in southeastern Gr</description>
-        <pubDate>Fri, 12 Dec 2025 12:31:09 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/rna-sequencing-reveals-climate-driven-genetic-changes-in-polar-bears/</guid>
-    </item>
-    
-    <item>
         <title>Weekly Recap (December 12, 2025)</title>
         <link>https://blog.stephenturner.us/p/weekly-recap-december-12-2025</link>
         <description>GPT-5.2, DARPA Generative Optogenetics, don&#39;t use local models for coding agents, red teaming, sandbagging, AI in science &amp; education, MCP, R updates (R Data Scientist, R Weekly, R Works), new papers</description>
@@ -73,30 +100,12 @@
     </item>
     
     <item>
-        <title>SIDISH – integrating single cell insights with bulk RNA sequencing to identify high risk cells and guide precision therapeutics</title>
-        <link>https://www.rna-seqblog.com/sidish-integrating-single-cell-insights-with-bulk-rna-sequencing-to-identify-high-risk-cells-and-guide-precision-therapeutics/</link>
-        <description>Understanding how different cells contribute to disease is one of the biggest challenges in modern biology. Single-cell RNA sequencing gives us a close look at how individual cells behave, but it is s</description>
-        <pubDate>Thu, 11 Dec 2025 12:14:58 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/sidish-integrating-single-cell-insights-with-bulk-rna-sequencing-to-identify-high-risk-cells-and-guide-precision-therapeutics/</guid>
-    </item>
-    
-    <item>
         <title>Quoting the Resonant Computing Manifesto</title>
         <link>https://blog.stephenturner.us/p/quoting-the-resonant-computing-manifesto</link>
         <description>Five principles for the future of computing: private, dedicated, plural, adaptable, and prosocial.</description>
         <pubDate>Wed, 10 Dec 2025 11:01:35 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/quoting-the-resonant-computing-manifesto</guid>
-    </item>
-    
-    <item>
-        <title>The False Choice Between Meaning and Accountability in Higher Education</title>
-        <link>https://blog.stephenturner.us/p/false-choice-meaning-accountability-ai-university</link>
-        <description>Thoughts on Ronald Purser&#39;s December 2025 essay in Current Affairs, &#34;AI is Destroying the University and Learning Itself&#34;</description>
-        <pubDate>Mon, 08 Dec 2025 11:41:54 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/false-choice-meaning-accountability-ai-university</guid>
     </item>
     
     <item>
@@ -179,15 +188,6 @@ That&amp;rsquo;s how I got to know &lt;a href=&#34;https://liulab-dfci.github.io
         <pubDate>2025-10-15T08:58:00.001-04:00</pubDate>
         <source>Omics! Omics!</source>
         <guid>https://omicsomics.blogspot.com/2025/10/ashg-posters-agony-and-ecstasy.html</guid>
-    </item>
-    
-    <item>
-        <title>PacBio: $300 Genome Via Chemistry Update</title>
-        <link>https://omicsomics.blogspot.com/2025/10/pacbio-300-genome-via-chemistry-update.html</link>
-        <description>ASHG is here in Boston, just down the street from Ginkgo&#39;s HQ.  I&#39;m in a new role in Ginkgo Automation, trying to convince the NGS world that our automation platform is the bee&#39;s knees.  So excellent </description>
-        <pubDate>2025-10-14T09:45:00.004-04:00</pubDate>
-        <source>Omics! Omics!</source>
-        <guid>https://omicsomics.blogspot.com/2025/10/pacbio-300-genome-via-chemistry-update.html</guid>
     </item>
     
     <item>
