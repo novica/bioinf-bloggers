@@ -6,13 +6,49 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Thu, 18 Dec 2025 06:40:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 06:38:35 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>Biotech policy is getting attention on the Hill</title>
+        <link>https://blog.stephenturner.us/p/biotech-policy-nsceb</link>
+        <description>Biotech policy: Recent policy discussions echo NSCEB recommendations across investment, defense, and data.</description>
+        <pubDate>Thu, 18 Dec 2025 13:22:49 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/biotech-policy-nsceb</guid>
+    </item>
+    
+    <item>
+        <title>Detailed cell map unlocks secrets of how reproductive organs form</title>
+        <link>https://www.rna-seqblog.com/detailed-cell-map-unlocks-secrets-of-how-reproductive-organs-form/</link>
+        <description>RNA sequencing and spatial genomics map how human reproductive organs form before birth, revealing key cell types, gene programs, and developmental windows sensitive to environmental disruption...</description>
+        <pubDate>Thu, 18 Dec 2025 12:25:19 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/detailed-cell-map-unlocks-secrets-of-how-reproductive-organs-form/</guid>
+    </item>
+    
+    <item>
+        <title>SARS-CoV-2 infection alters RNA methylation in lung cell lncRNAs</title>
+        <link>https://www.rna-seqblog.com/sars-cov-2-infection-alters-rna-methylation-in-lung-cell-lncrnas/</link>
+        <description>Altered m6A methylation detected by RNA sequencing in lung cell lncRNAs, including UCA1, GAS5 and NORAD, may reshape antiviral responses during SARS-CoV-2 infection...</description>
+        <pubDate>Thu, 18 Dec 2025 12:25:10 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/sars-cov-2-infection-alters-rna-methylation-in-lung-cell-lncrnas/</guid>
+    </item>
+    
+    <item>
+        <title>Hummingbird Diagnostics publishes study on RNA biomarker methylation in liquid biopsies</title>
+        <link>https://www.rna-seqblog.com/hummingbird-diagnostics-publishes-study-on-rna-biomarker-methylation-in-liquid-biopsies/</link>
+        <description>RNA sequencing using nanopore technology reveals small RNA methylation signatures in blood, highlighting RNA modifications as a complementary biomarker layer for more sensitive lung cancer liquid biop</description>
+        <pubDate>Thu, 18 Dec 2025 12:24:58 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/hummingbird-diagnostics-publishes-study-on-rna-biomarker-methylation-in-liquid-biopsies/</guid>
+    </item>
     
     <item>
         <title>Technology advances unlock the mystery of mitochondrial DNA — our “other” genome</title>
         <link>https://www.rna-seqblog.com/technology-advances-unlock-the-mystery-of-mitochondrial-dna-our-other-genome/</link>
-        <description>Single cell RNA sequencing reveals how mitochondrial DNA mutation burden shapes metabolic flexibility and cancer growth, highlighting mtDNA as an active contributor to leukemogenesis...</description>
+        <description>About 1.8 billion years ago, one of our earliest ancestral cells engulfed a bacterial cell. Rather than being digested, the bacterium survived, and the two cells formed a partnership that persists to </description>
         <pubDate>Wed, 17 Dec 2025 12:19:52 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/technology-advances-unlock-the-mystery-of-mitochondrial-dna-our-other-genome/</guid>
@@ -21,19 +57,10 @@
     <item>
         <title>RoCK and ROI – single-cell transcriptomics with multiplexed enrichment of selected transcripts and region-specific sequencing</title>
         <link>https://www.rna-seqblog.com/rock-and-roi-single-cell-transcriptomics-with-multiplexed-enrichment-of-selected-transcripts-and-region-specific-sequencing/</link>
-        <description>Enhanced targeted capture and region-specific sequencing improve single-cell RNA sequencing resolution revealing key transcripts and regions of interest across diverse cell types...</description>
+        <description>Single-cell RNA sequencing is a powerful tool that helps scientists see which genes are active inside individual cells, shedding light on everything from how tissues develop to what goes wrong in dise</description>
         <pubDate>Wed, 17 Dec 2025 12:19:38 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/rock-and-roi-single-cell-transcriptomics-with-multiplexed-enrichment-of-selected-transcripts-and-region-specific-sequencing/</guid>
-    </item>
-    
-    <item>
-        <title>RNAConnect Launches the UltraMarathonRT® Direct RNA‑Seq Kit to Advance Nanopore-based Native RNA Sequencing</title>
-        <link>https://www.rna-seqblog.com/rnaconnect-launches-the-ultramarathonrt-direct-rna-seq-kit-to-advance-nanopore-based-native-rna-sequencing/</link>
-        <description>A new kit improves direct RNA sequencing on Oxford Nanopore, delivering longer reads, more isoforms, and preserved RNA modifications through gentle low-temperature reverse...</description>
-        <pubDate>Wed, 17 Dec 2025 12:19:28 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/rnaconnect-launches-the-ultramarathonrt-direct-rna-seq-kit-to-advance-nanopore-based-native-rna-sequencing/</guid>
     </item>
     
     <item>
@@ -43,24 +70,6 @@
         <pubDate>2025-12-16T11:48:00.001-05:00</pubDate>
         <source>Omics! Omics!</source>
         <guid>https://omicsomics.blogspot.com/2025/12/rnaconnect-when-your-reverse.html</guid>
-    </item>
-    
-    <item>
-        <title>Bioinformatics frameworks for single-cell long-read sequencing: unlocking isoform-level resolution</title>
-        <link>https://www.rna-seqblog.com/bioinformatics-frameworks-for-single-cell-long-read-sequencing-unlocking-isoform-level-resolution/</link>
-        <description>Our genes are like instruction manuals for life, and the way those instructions are edited can shape how cells behave. One of the ways cells fine-tune gene activity is through alternative splicing, a </description>
-        <pubDate>Tue, 16 Dec 2025 12:24:25 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/bioinformatics-frameworks-for-single-cell-long-read-sequencing-unlocking-isoform-level-resolution/</guid>
-    </item>
-    
-    <item>
-        <title>scRepli-RamDA-seq – a multi-omics technology enabling the analysis of gene expression dynamics during S-phase</title>
-        <link>https://www.rna-seqblog.com/screpli-ramda-seq-a-multi-omics-technology-enabling-the-analysis-of-gene-expression-dynamics-during-s-phase/</link>
-        <description>Understanding how cells grow and divide requires looking at both their DNA and RNA. Single-cell sequencing has given scientists a powerful way to explore differences between individual cells, but many</description>
-        <pubDate>Tue, 16 Dec 2025 12:24:03 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/screpli-ramda-seq-a-multi-omics-technology-enabling-the-analysis-of-gene-expression-dynamics-during-s-phase/</guid>
     </item>
     
     <item>
@@ -97,15 +106,6 @@
         <pubDate>Fri, 12 Dec 2025 09:47:58 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/weekly-recap-december-12-2025</guid>
-    </item>
-    
-    <item>
-        <title>Quoting the Resonant Computing Manifesto</title>
-        <link>https://blog.stephenturner.us/p/quoting-the-resonant-computing-manifesto</link>
-        <description>Five principles for the future of computing: private, dedicated, plural, adaptable, and prosocial.</description>
-        <pubDate>Wed, 10 Dec 2025 11:01:35 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/quoting-the-resonant-computing-manifesto</guid>
     </item>
     
     <item>
