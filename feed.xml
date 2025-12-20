@@ -6,8 +6,35 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Fri, 19 Dec 2025 06:38:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Dec 2025 06:36:46 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>Fusion of nanopores and nanofluidic devices could transform medicine and beyond</title>
+        <link>https://www.rna-seqblog.com/fusion-of-nanopores-and-nanofluidic-devices-could-transform-medicine-and-beyond/</link>
+        <description>Integrating nanopores with nanofluidic chips enables single-molecule diagnostics, faster DNA and RNA sequencing, and high-precision biomarker detection for early disease and...</description>
+        <pubDate>Fri, 19 Dec 2025 12:21:38 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/fusion-of-nanopores-and-nanofluidic-devices-could-transform-medicine-and-beyond/</guid>
+    </item>
+    
+    <item>
+        <title>Exploring the connection between gene expression and aging</title>
+        <link>https://www.rna-seqblog.com/exploring-the-connection-between-gene-expression-and-aging/</link>
+        <description>Advanced RNA sequencing reveals how transcription elongation factors like NELF and ELOA regulate gene expression and senescence, linking transcription dynamics with aging and potential anti-aging targ</description>
+        <pubDate>Fri, 19 Dec 2025 12:21:29 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/exploring-the-connection-between-gene-expression-and-aging/</guid>
+    </item>
+    
+    <item>
+        <title>Weekly Recap (December 19, 2025)</title>
+        <link>https://blog.stephenturner.us/p/weekly-recap-december-19-2025</link>
+        <description>Writing better code without AI, AI in peer review, local LLMs, Biothreat Benchmark Generation, R updates (R Data Scientist, RWeekly, R Works), red-teaming an AI vending machine, new papers</description>
+        <pubDate>Fri, 19 Dec 2025 10:38:37 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/weekly-recap-december-19-2025</guid>
+    </item>
     
     <item>
         <title>Biotech policy is getting attention on the Hill</title>
@@ -30,7 +57,7 @@
     <item>
         <title>SARS-CoV-2 infection alters RNA methylation in lung cell lncRNAs</title>
         <link>https://www.rna-seqblog.com/sars-cov-2-infection-alters-rna-methylation-in-lung-cell-lncrnas/</link>
-        <description>Altered m6A methylation detected by RNA sequencing in lung cell lncRNAs, including UCA1, GAS5 and NORAD, may reshape antiviral responses during SARS-CoV-2 infection...</description>
+        <description>When a virus infects a cell, it does more than just hijack the machinery to make new virus particles. It can also subtly reshape how the cell regulates its own RNA. Researchers from the Center for Med</description>
         <pubDate>Thu, 18 Dec 2025 12:25:10 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/sars-cov-2-infection-alters-rna-methylation-in-lung-cell-lncrnas/</guid>
@@ -39,28 +66,10 @@
     <item>
         <title>Hummingbird Diagnostics publishes study on RNA biomarker methylation in liquid biopsies</title>
         <link>https://www.rna-seqblog.com/hummingbird-diagnostics-publishes-study-on-rna-biomarker-methylation-in-liquid-biopsies/</link>
-        <description>RNA sequencing using nanopore technology reveals small RNA methylation signatures in blood, highlighting RNA modifications as a complementary biomarker layer for more sensitive lung cancer liquid biop</description>
+        <description>Revealing a new layer in lung cancer diagnostics using direct RNA sequencing Hummingbird Diagnostics GmbH, a pioneer in harnessing blood-based small RNAs for early disease detection and characterizati</description>
         <pubDate>Thu, 18 Dec 2025 12:24:58 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/hummingbird-diagnostics-publishes-study-on-rna-biomarker-methylation-in-liquid-biopsies/</guid>
-    </item>
-    
-    <item>
-        <title>Technology advances unlock the mystery of mitochondrial DNA — our “other” genome</title>
-        <link>https://www.rna-seqblog.com/technology-advances-unlock-the-mystery-of-mitochondrial-dna-our-other-genome/</link>
-        <description>About 1.8 billion years ago, one of our earliest ancestral cells engulfed a bacterial cell. Rather than being digested, the bacterium survived, and the two cells formed a partnership that persists to </description>
-        <pubDate>Wed, 17 Dec 2025 12:19:52 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/technology-advances-unlock-the-mystery-of-mitochondrial-dna-our-other-genome/</guid>
-    </item>
-    
-    <item>
-        <title>RoCK and ROI – single-cell transcriptomics with multiplexed enrichment of selected transcripts and region-specific sequencing</title>
-        <link>https://www.rna-seqblog.com/rock-and-roi-single-cell-transcriptomics-with-multiplexed-enrichment-of-selected-transcripts-and-region-specific-sequencing/</link>
-        <description>Single-cell RNA sequencing is a powerful tool that helps scientists see which genes are active inside individual cells, shedding light on everything from how tissues develop to what goes wrong in dise</description>
-        <pubDate>Wed, 17 Dec 2025 12:19:38 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/rock-and-roi-single-cell-transcriptomics-with-multiplexed-enrichment-of-selected-transcripts-and-region-specific-sequencing/</guid>
     </item>
     
     <item>
@@ -97,15 +106,6 @@
         <pubDate>Fri, 12 Dec 2025 15:19:20 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/chatgpt-lies-about-reading-your-documents</guid>
-    </item>
-    
-    <item>
-        <title>Weekly Recap (December 12, 2025)</title>
-        <link>https://blog.stephenturner.us/p/weekly-recap-december-12-2025</link>
-        <description>GPT-5.2, DARPA Generative Optogenetics, don&#39;t use local models for coding agents, red teaming, sandbagging, AI in science &amp; education, MCP, R updates (R Data Scientist, R Weekly, R Works), new papers</description>
-        <pubDate>Fri, 12 Dec 2025 09:47:58 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/weekly-recap-december-12-2025</guid>
     </item>
     
     <item>
@@ -343,7 +343,11 @@ Roche released </description>
     <item>
         <title>Hunting collisions with ntHash</title>
         <link>https://www.bacpop.org/blog/huntingcollisionswithnthash/</link>
-        <description>A quick introduction The ultraviolet catastrophe ntHash and collisions The checks Summary This blog post summarises some checks and comprobations done while developing Sparrowhawk after we discovered </description>
+        <description>&lt;div&gt;
+ &lt;nav id=&#34;TableOfContents&#34;&gt;
+ &lt;ul&gt;
+ &lt;li&gt;&lt;a href=&#34;https://www.bacpop.org/blog/index.xml#a-quick-introduction&#34;&gt;A quick introduction&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&#34;https://www.bacpop.org/blog/index.xml#the-</description>
         <pubDate>Tue, 22 Jul 2025 23:06:29 +0100</pubDate>
         <source>Bacterial population genomics blog</source>
         <guid>https://www.bacpop.org/blog/huntingcollisionswithnthash/</guid>
