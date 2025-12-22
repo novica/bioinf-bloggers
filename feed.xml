@@ -6,8 +6,17 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Sun, 21 Dec 2025 06:37:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 06:41:32 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>Spiritual Bypass, but with GPUs</title>
+        <link>https://blog.stephenturner.us/p/machinal-bypass</link>
+        <description>The &#34;Machinal Bypass,&#34; when AI becomes a shortcut around the work that makes us human, and why some tasks should feel a little hard.</description>
+        <pubDate>Sun, 21 Dec 2025 11:45:55 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/machinal-bypass</guid>
+    </item>
     
     <item>
         <title>Fusion of nanopores and nanofluidic devices could transform medicine and beyond</title>
@@ -97,15 +106,6 @@
         <pubDate>Mon, 15 Dec 2025 10:57:17 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/ai-resistant-assignments</guid>
-    </item>
-    
-    <item>
-        <title>GPT-5.2 Lies About Reading your Documents</title>
-        <link>https://blog.stephenturner.us/p/chatgpt-lies-about-reading-your-documents</link>
-        <description>&#34;I did not sufficiently counterbalance that with skepticism and verification at the moment it mattered... I did not enforce the standard you expect: only claim access to evidence I can actually see&#34;</description>
-        <pubDate>Fri, 12 Dec 2025 15:19:20 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/chatgpt-lies-about-reading-your-documents</guid>
     </item>
     
     <item>
