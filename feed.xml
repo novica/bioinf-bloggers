@@ -6,8 +6,26 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Mon, 22 Dec 2025 06:41:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 06:41:08 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>ASPEN – robust detection of allelic dynamics in single cell RNA-seq</title>
+        <link>https://www.rna-seqblog.com/aspen-robust-detection-of-allelic-dynamics-in-single-cell-rna-seq/</link>
+        <description>New ASPEN method enhances detection of allelic imbalance and variance in RNA sequencing data, revealing subtle gene regulation patterns in single cells...</description>
+        <pubDate>Mon, 22 Dec 2025 12:29:37 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/aspen-robust-detection-of-allelic-dynamics-in-single-cell-rna-seq/</guid>
+    </item>
+    
+    <item>
+        <title>Clues to Alzheimer’s disease may be hiding in our ‘junk’ DNA</title>
+        <link>https://www.rna-seqblog.com/clues-to-alzheimers-disease-may-be-hiding-in-our-junk-dna/</link>
+        <description>CRISPRi screening with RNA sequencing maps functional DNA enhancers in human astrocytes, revealing gene control networks linked to Alzheimer’s disease...</description>
+        <pubDate>Mon, 22 Dec 2025 12:29:26 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/clues-to-alzheimers-disease-may-be-hiding-in-our-junk-dna/</guid>
+    </item>
     
     <item>
         <title>Spiritual Bypass, but with GPUs</title>
@@ -30,7 +48,7 @@
     <item>
         <title>Exploring the connection between gene expression and aging</title>
         <link>https://www.rna-seqblog.com/exploring-the-connection-between-gene-expression-and-aging/</link>
-        <description>Advanced RNA sequencing reveals how transcription elongation factors like NELF and ELOA regulate gene expression and senescence, linking transcription dynamics with aging and potential anti-aging targ</description>
+        <description>Northwestern Medicine scientists have discovered how molecular “traffic controllers” in cells influence aging and cellular senescence, a state where cells stop dividing but remain metabolically active</description>
         <pubDate>Fri, 19 Dec 2025 12:21:29 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/exploring-the-connection-between-gene-expression-and-aging/</guid>
@@ -57,28 +75,10 @@
     <item>
         <title>Detailed cell map unlocks secrets of how reproductive organs form</title>
         <link>https://www.rna-seqblog.com/detailed-cell-map-unlocks-secrets-of-how-reproductive-organs-form/</link>
-        <description>RNA sequencing and spatial genomics map how human reproductive organs form before birth, revealing key cell types, gene programs, and developmental windows sensitive to environmental disruption...</description>
+        <description>Scientists chart a comprehensive cell atlas of the developing human reproductive system, offering new clues into congenital disorders New research has mapped the cell types that specialise to form rep</description>
         <pubDate>Thu, 18 Dec 2025 12:25:19 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/detailed-cell-map-unlocks-secrets-of-how-reproductive-organs-form/</guid>
-    </item>
-    
-    <item>
-        <title>SARS-CoV-2 infection alters RNA methylation in lung cell lncRNAs</title>
-        <link>https://www.rna-seqblog.com/sars-cov-2-infection-alters-rna-methylation-in-lung-cell-lncrnas/</link>
-        <description>When a virus infects a cell, it does more than just hijack the machinery to make new virus particles. It can also subtly reshape how the cell regulates its own RNA. Researchers from the Center for Med</description>
-        <pubDate>Thu, 18 Dec 2025 12:25:10 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/sars-cov-2-infection-alters-rna-methylation-in-lung-cell-lncrnas/</guid>
-    </item>
-    
-    <item>
-        <title>Hummingbird Diagnostics publishes study on RNA biomarker methylation in liquid biopsies</title>
-        <link>https://www.rna-seqblog.com/hummingbird-diagnostics-publishes-study-on-rna-biomarker-methylation-in-liquid-biopsies/</link>
-        <description>Revealing a new layer in lung cancer diagnostics using direct RNA sequencing Hummingbird Diagnostics GmbH, a pioneer in harnessing blood-based small RNAs for early disease detection and characterizati</description>
-        <pubDate>Thu, 18 Dec 2025 12:24:58 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/hummingbird-diagnostics-publishes-study-on-rna-biomarker-methylation-in-liquid-biopsies/</guid>
     </item>
     
     <item>
