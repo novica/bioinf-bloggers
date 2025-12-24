@@ -6,8 +6,26 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Tue, 23 Dec 2025 06:41:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 06:40:53 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>High-fat diets make liver cells more likely to become cancerous</title>
+        <link>https://www.rna-seqblog.com/high-fat-diets-make-liver-cells-more-likely-to-become-cancerous/</link>
+        <description>Single-cell RNA sequencing reveals how a high-fat diet drives hepatocytes into an immature state, increasing susceptibility to liver cancer and identifying targets to prevent tumorigenesis...</description>
+        <pubDate>Tue, 23 Dec 2025 12:37:58 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/high-fat-diets-make-liver-cells-more-likely-to-become-cancerous/</guid>
+    </item>
+    
+    <item>
+        <title>Clair3-RNA – a deep learning-based small variant caller for long-read RNA sequencing data</title>
+        <link>https://www.rna-seqblog.com/clair3-rna-a-deep-learning-based-small-variant-caller-for-long-read-rna-sequencing-data/</link>
+        <description>A new deep learning tool improves RNA sequencing variant detection from long reads, enabling accurate analysis of full-length isoforms and RNA editing across PacBio and Nanopore platforms...</description>
+        <pubDate>Tue, 23 Dec 2025 12:37:48 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/clair3-rna-a-deep-learning-based-small-variant-caller-for-long-read-rna-sequencing-data/</guid>
+    </item>
     
     <item>
         <title>ASPEN – robust detection of allelic dynamics in single cell RNA-seq</title>
@@ -21,7 +39,7 @@
     <item>
         <title>Clues to Alzheimer’s disease may be hiding in our ‘junk’ DNA</title>
         <link>https://www.rna-seqblog.com/clues-to-alzheimers-disease-may-be-hiding-in-our-junk-dna/</link>
-        <description>CRISPRi screening with RNA sequencing maps functional DNA enhancers in human astrocytes, revealing gene control networks linked to Alzheimer’s disease...</description>
+        <description>UNSW scientists have uncovered the hidden switches in DNA, revealing new insights into Alzheimer’s disease. When most of us think of DNA, we have a vague idea it’s made up of genes that give us our ph</description>
         <pubDate>Mon, 22 Dec 2025 12:29:26 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/clues-to-alzheimers-disease-may-be-hiding-in-our-junk-dna/</guid>
@@ -39,19 +57,10 @@
     <item>
         <title>Fusion of nanopores and nanofluidic devices could transform medicine and beyond</title>
         <link>https://www.rna-seqblog.com/fusion-of-nanopores-and-nanofluidic-devices-could-transform-medicine-and-beyond/</link>
-        <description>Integrating nanopores with nanofluidic chips enables single-molecule diagnostics, faster DNA and RNA sequencing, and high-precision biomarker detection for early disease and...</description>
+        <description>When disease begins forming inside the human body, something subtle happens long before symptoms appear. Individual molecules such as DNA, RNA, peptides, or proteins begin shifting in quantity or shap</description>
         <pubDate>Fri, 19 Dec 2025 12:21:38 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/fusion-of-nanopores-and-nanofluidic-devices-could-transform-medicine-and-beyond/</guid>
-    </item>
-    
-    <item>
-        <title>Exploring the connection between gene expression and aging</title>
-        <link>https://www.rna-seqblog.com/exploring-the-connection-between-gene-expression-and-aging/</link>
-        <description>Northwestern Medicine scientists have discovered how molecular “traffic controllers” in cells influence aging and cellular senescence, a state where cells stop dividing but remain metabolically active</description>
-        <pubDate>Fri, 19 Dec 2025 12:21:29 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/exploring-the-connection-between-gene-expression-and-aging/</guid>
     </item>
     
     <item>
@@ -70,15 +79,6 @@
         <pubDate>Thu, 18 Dec 2025 13:22:49 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/biotech-policy-nsceb</guid>
-    </item>
-    
-    <item>
-        <title>Detailed cell map unlocks secrets of how reproductive organs form</title>
-        <link>https://www.rna-seqblog.com/detailed-cell-map-unlocks-secrets-of-how-reproductive-organs-form/</link>
-        <description>Scientists chart a comprehensive cell atlas of the developing human reproductive system, offering new clues into congenital disorders New research has mapped the cell types that specialise to form rep</description>
-        <pubDate>Thu, 18 Dec 2025 12:25:19 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/detailed-cell-map-unlocks-secrets-of-how-reproductive-organs-form/</guid>
     </item>
     
     <item>
