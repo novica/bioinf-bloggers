@@ -6,8 +6,17 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Wed, 24 Dec 2025 06:40:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Dec 2025 06:39:56 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>Weekly Recap (December 24, 2025)</title>
+        <link>https://blog.stephenturner.us/p/weekly-recap-december-24-2025</link>
+        <description>R updates (R Data Scientist, R Weekly), AI accelerating wet lab bio research, Docker hardened images, LLMs in review, machinal bypass, science funding, new papers.</description>
+        <pubDate>Wed, 24 Dec 2025 10:07:12 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/weekly-recap-december-24-2025</guid>
+    </item>
     
     <item>
         <title>High-fat diets make liver cells more likely to become cancerous</title>
@@ -97,15 +106,6 @@
         <pubDate>Tue, 16 Dec 2025 10:50:06 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/scikit-bio-python-for-omics</guid>
-    </item>
-    
-    <item>
-        <title>How do you design AI-resistant assignments?</title>
-        <link>https://blog.stephenturner.us/p/ai-resistant-assignments</link>
-        <description>The Anthropic Education Report showed 50% of Claude conversations about grading delegated assessment to the AI. How does one actually design AI-resistant assignments?</description>
-        <pubDate>Mon, 15 Dec 2025 10:57:17 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/ai-resistant-assignments</guid>
     </item>
     
     <item>
