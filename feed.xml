@@ -6,8 +6,17 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Sun, 28 Dec 2025 06:38:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 06:42:22 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>The AI Attribution Error</title>
+        <link>https://blog.stephenturner.us/p/ai-attribution-error</link>
+        <description>If an AI produces something useful it&#39;s because of your own skill in model choice, prompting, and steering. If not, it&#39;s because the model is a useless lying machine that can&#39;t follow directions.</description>
+        <pubDate>Sun, 28 Dec 2025 12:16:57 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/ai-attribution-error</guid>
+    </item>
     
     <item>
         <title>Weekly Recap (December 24, 2025)</title>
@@ -97,15 +106,6 @@
         <pubDate>2025-12-16T11:48:00.001-05:00</pubDate>
         <source>Omics! Omics!</source>
         <guid>https://omicsomics.blogspot.com/2025/12/rnaconnect-when-your-reverse.html</guid>
-    </item>
-    
-    <item>
-        <title>Scikit-bio: Python for Omics</title>
-        <link>https://blog.stephenturner.us/p/scikit-bio-python-for-omics</link>
-        <description>The &#34;missing middle&#34; for omics data analysis in Python</description>
-        <pubDate>Tue, 16 Dec 2025 10:50:06 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/scikit-bio-python-for-omics</guid>
     </item>
     
     <item>
