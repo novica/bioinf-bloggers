@@ -6,8 +6,44 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Mon, 29 Dec 2025 06:42:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 06:39:53 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>The Joy of Rediscovery</title>
+        <link>https://omicsomics.blogspot.com/2025/12/the-joy-of-rediscovery.html</link>
+        <description>A key goal of science is to discover new information, and it is one of the great joys of science to believe you have done so.  Sometimes it really does prove novel and interesting - an experience our </description>
+        <pubDate>2025-12-29T21:43:00.000-05:00</pubDate>
+        <source>Omics! Omics!</source>
+        <guid>https://omicsomics.blogspot.com/2025/12/the-joy-of-rediscovery.html</guid>
+    </item>
+    
+    <item>
+        <title>A new way to map how cells choose their fate</title>
+        <link>https://www.rna-seqblog.com/a-new-way-to-map-how-cells-choose-their-fate/</link>
+        <description>A geometry-preserving computational framework combines RNA sequencing data with mathematical modeling to reconstruct cell fate dynamics, revealing stability, branching points...</description>
+        <pubDate>Mon, 29 Dec 2025 12:21:13 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/a-new-way-to-map-how-cells-choose-their-fate/</guid>
+    </item>
+    
+    <item>
+        <title>RNA-Seq reveals new clues how gestational diabetes affects offspring</title>
+        <link>https://www.rna-seqblog.com/rna-seq-reveals-new-clues-how-gestational-diabetes-affects-offspring/</link>
+        <description>RNA sequencing reveals that gestational diabetes disrupts placental RNA splicing, altering metabolic gene regulation and implicating SRSF10 as a key molecular driver of pregnancy-related complications</description>
+        <pubDate>Mon, 29 Dec 2025 12:21:03 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/rna-seq-reveals-new-clues-how-gestational-diabetes-affects-offspring/</guid>
+    </item>
+    
+    <item>
+        <title>Quoting Sal Khan</title>
+        <link>https://blog.stephenturner.us/p/sal-khan-ai-education-jobs</link>
+        <description>AI creates an education challenge, not just a job crisis. We haven&#39;t built systems to help people to continue learning and connect them to new opportunities.</description>
+        <pubDate>Mon, 29 Dec 2025 11:00:35 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/sal-khan-ai-education-jobs</guid>
+    </item>
     
     <item>
         <title>The AI Attribution Error</title>
@@ -39,7 +75,7 @@
     <item>
         <title>Clair3-RNA – a deep learning-based small variant caller for long-read RNA sequencing data</title>
         <link>https://www.rna-seqblog.com/clair3-rna-a-deep-learning-based-small-variant-caller-for-long-read-rna-sequencing-data/</link>
-        <description>A new deep learning tool improves RNA sequencing variant detection from long reads, enabling accurate analysis of full-length isoforms and RNA editing across PacBio and Nanopore platforms...</description>
+        <description>Understanding how genes vary and which RNA isoforms are produced is key to modern biology and medicine. Long-read RNA sequencing makes this possible by reading entire RNA molecules in one piece, but i</description>
         <pubDate>Tue, 23 Dec 2025 12:37:48 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/clair3-rna-a-deep-learning-based-small-variant-caller-for-long-read-rna-sequencing-data/</guid>
@@ -48,19 +84,10 @@
     <item>
         <title>ASPEN – robust detection of allelic dynamics in single cell RNA-seq</title>
         <link>https://www.rna-seqblog.com/aspen-robust-detection-of-allelic-dynamics-in-single-cell-rna-seq/</link>
-        <description>New ASPEN method enhances detection of allelic imbalance and variance in RNA sequencing data, revealing subtle gene regulation patterns in single cells...</description>
+        <description>Scientists from the University of New South Wales, Australia, have developed a new statistical approach called ASPEN to better understand how individual copies of genes behave inside single cells usin</description>
         <pubDate>Mon, 22 Dec 2025 12:29:37 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/aspen-robust-detection-of-allelic-dynamics-in-single-cell-rna-seq/</guid>
-    </item>
-    
-    <item>
-        <title>Clues to Alzheimer’s disease may be hiding in our ‘junk’ DNA</title>
-        <link>https://www.rna-seqblog.com/clues-to-alzheimers-disease-may-be-hiding-in-our-junk-dna/</link>
-        <description>UNSW scientists have uncovered the hidden switches in DNA, revealing new insights into Alzheimer’s disease. When most of us think of DNA, we have a vague idea it’s made up of genes that give us our ph</description>
-        <pubDate>Mon, 22 Dec 2025 12:29:26 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/clues-to-alzheimers-disease-may-be-hiding-in-our-junk-dna/</guid>
     </item>
     
     <item>
@@ -73,30 +100,12 @@
     </item>
     
     <item>
-        <title>Fusion of nanopores and nanofluidic devices could transform medicine and beyond</title>
-        <link>https://www.rna-seqblog.com/fusion-of-nanopores-and-nanofluidic-devices-could-transform-medicine-and-beyond/</link>
-        <description>When disease begins forming inside the human body, something subtle happens long before symptoms appear. Individual molecules such as DNA, RNA, peptides, or proteins begin shifting in quantity or shap</description>
-        <pubDate>Fri, 19 Dec 2025 12:21:38 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/fusion-of-nanopores-and-nanofluidic-devices-could-transform-medicine-and-beyond/</guid>
-    </item>
-    
-    <item>
         <title>Weekly Recap (December 19, 2025)</title>
         <link>https://blog.stephenturner.us/p/weekly-recap-december-19-2025</link>
         <description>Writing better code without AI, AI in peer review, local LLMs, Biothreat Benchmark Generation, R updates (R Data Scientist, RWeekly, R Works), red-teaming an AI vending machine, new papers</description>
         <pubDate>Fri, 19 Dec 2025 10:38:37 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/weekly-recap-december-19-2025</guid>
-    </item>
-    
-    <item>
-        <title>Biotech policy is getting attention on the Hill</title>
-        <link>https://blog.stephenturner.us/p/biotech-policy-nsceb</link>
-        <description>Biotech policy: Recent policy discussions echo NSCEB recommendations across investment, defense, and data.</description>
-        <pubDate>Thu, 18 Dec 2025 13:22:49 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/biotech-policy-nsceb</guid>
     </item>
     
     <item>
@@ -179,15 +188,6 @@ That&amp;rsquo;s how I got to know &lt;a href=&#34;https://liulab-dfci.github.io
         <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
         <source>Chatomics on Chatomics</source>
         <guid>https://divingintogeneticsandgenomics.com/post/understanding-prcomp-center-scale-arguments/</guid>
-    </item>
-    
-    <item>
-        <title>ASHG Posters: The Agony and The Ecstasy</title>
-        <link>https://omicsomics.blogspot.com/2025/10/ashg-posters-agony-and-ecstasy.html</link>
-        <description>ASHG is a huge meeting, probably the second largest I&#39;ve ever attended after ASCO.  ASBMB is similar in size perhaps, though I think a hair smaller and definitely a bigger than ESHG.  And certainly mu</description>
-        <pubDate>2025-10-15T08:58:00.001-04:00</pubDate>
-        <source>Omics! Omics!</source>
-        <guid>https://omicsomics.blogspot.com/2025/10/ashg-posters-agony-and-ecstasy.html</guid>
     </item>
     
     <item>
