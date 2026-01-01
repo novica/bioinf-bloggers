@@ -6,8 +6,35 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Wed, 31 Dec 2025 06:40:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 06:40:30 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>I Like Writing Code</title>
+        <link>https://blog.stephenturner.us/p/joy-writing-code</link>
+        <description>On finding joy in slow, imperfect code in an age of copilots, agents, and chatbots. 1.2k words, 5 min reading time.</description>
+        <pubDate>Wed, 31 Dec 2025 13:07:56 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/joy-writing-code</guid>
+    </item>
+    
+    <item>
+        <title>HAMRLNC – a comprehensive and scalable pipeline for integrated epitranscriptomic analysis</title>
+        <link>https://www.rna-seqblog.com/hamrlnc-a-comprehensive-and-scalable-pipeline-for-integrated-epitranscriptomic-analysis/</link>
+        <description>An integrated workflow extends RNA sequencing by unifying gene expression, RNA modification detection, and long non-coding RNA annotation to reveal deeper layers of...</description>
+        <pubDate>Wed, 31 Dec 2025 12:30:08 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/hamrlnc-a-comprehensive-and-scalable-pipeline-for-integrated-epitranscriptomic-analysis/</guid>
+    </item>
+    
+    <item>
+        <title>Beyond polyA – mapping total RNA in single cells</title>
+        <link>https://www.rna-seqblog.com/beyond-polya-mapping-total-rna-in-single-cells/</link>
+        <description>TotalX extends RNA sequencing beyond polyA mRNA to capture coding and non-coding RNA in 10x droplets, enabling miRNA modules, viral RNA load profiling, and developmental brain regulatory insights...</description>
+        <pubDate>Wed, 31 Dec 2025 12:29:55 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/beyond-polya-mapping-total-rna-in-single-cells/</guid>
+    </item>
     
     <item>
         <title>CellUntangler – separating distinct biological signals in single-cell data with deep generative models</title>
@@ -21,7 +48,7 @@
     <item>
         <title>Benchmarking single-cell RNA-seq data normalization</title>
         <link>https://www.rna-seqblog.com/benchmarking-single-cell-rna-seq-data-normalization/</link>
-        <description>Benchmarking shows how RNA sequencing normalization methods like Dino, scTransform, and SCnorm perform across clustering, differential expression, and computation, guiding better selection for single-</description>
+        <description>When scientists use single-cell RNA sequencing to study thousands of individual cells, they must first correct the raw data so that meaningful biological differences aren’t obscured by technical quirk</description>
         <pubDate>Tue, 30 Dec 2025 12:26:18 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/benchmarking-single-cell-rna-seq-data-normalization/</guid>
@@ -30,7 +57,7 @@
     <item>
         <title>Scorpion venom transcriptomes unlocked with optimized RNA-seq analysis</title>
         <link>https://www.rna-seqblog.com/scorpion-venom-transcriptomes-unlocked-with-optimized-rna-seq-analysis/</link>
-        <description>ToxIR uses RNA sequencing to accurately map complex venom gland transcripts, revealing hundreds of toxin candidates and improving discovery of bioactive peptides with medical...</description>
+        <description>Understanding all the genes active in a complex tissue can be difficult because of technical hurdles like assembly mistakes, many versions of the same gene, and problems with how sequences are labeled</description>
         <pubDate>Tue, 30 Dec 2025 12:26:09 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/scorpion-venom-transcriptomes-unlocked-with-optimized-rna-seq-analysis/</guid>
@@ -43,24 +70,6 @@
         <pubDate>2025-12-29T21:43:00.001-05:00</pubDate>
         <source>Omics! Omics!</source>
         <guid>https://omicsomics.blogspot.com/2025/12/the-joy-of-rediscovery.html</guid>
-    </item>
-    
-    <item>
-        <title>A new way to map how cells choose their fate</title>
-        <link>https://www.rna-seqblog.com/a-new-way-to-map-how-cells-choose-their-fate/</link>
-        <description>Researchers present an innovative computational method based on modern mathematics to shed light on cell state dynamics and development Researchers from Kyushu University have developed an innovative </description>
-        <pubDate>Mon, 29 Dec 2025 12:21:13 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/a-new-way-to-map-how-cells-choose-their-fate/</guid>
-    </item>
-    
-    <item>
-        <title>RNA-Seq reveals new clues how gestational diabetes affects offspring</title>
-        <link>https://www.rna-seqblog.com/rna-seq-reveals-new-clues-how-gestational-diabetes-affects-offspring/</link>
-        <description>Gestational diabetes can cause a multitude of complications in the offspring, but to date, the reasons are incompletely understood. A new study, exploring a foundational step in the process of buildin</description>
-        <pubDate>Mon, 29 Dec 2025 12:21:03 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/rna-seq-reveals-new-clues-how-gestational-diabetes-affects-offspring/</guid>
     </item>
     
     <item>
@@ -97,15 +106,6 @@
         <pubDate>Sun, 21 Dec 2025 11:45:55 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/machinal-bypass</guid>
-    </item>
-    
-    <item>
-        <title>Weekly Recap (December 19, 2025)</title>
-        <link>https://blog.stephenturner.us/p/weekly-recap-december-19-2025</link>
-        <description>Writing better code without AI, AI in peer review, local LLMs, Biothreat Benchmark Generation, R updates (R Data Scientist, RWeekly, R Works), red-teaming an AI vending machine, new papers</description>
-        <pubDate>Fri, 19 Dec 2025 10:38:37 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/weekly-recap-december-19-2025</guid>
     </item>
     
     <item>
