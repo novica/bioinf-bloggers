@@ -6,8 +6,17 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Thu, 01 Jan 2026 06:40:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 06:40:30 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>Staying Current in Data Science and Computational Biology: 2026 Edition</title>
+        <link>https://blog.stephenturner.us/p/staying-current-in-data-science-and-computational-biology-2026</link>
+        <description>Part 3 in a series of posts going back 14 years</description>
+        <pubDate>Thu, 01 Jan 2026 07:26:19 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/staying-current-in-data-science-and-computational-biology-2026</guid>
+    </item>
     
     <item>
         <title>I Like Writing Code</title>
@@ -97,15 +106,6 @@
         <pubDate>Wed, 24 Dec 2025 10:07:12 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/weekly-recap-december-24-2025</guid>
-    </item>
-    
-    <item>
-        <title>Spiritual Bypass, but with GPUs</title>
-        <link>https://blog.stephenturner.us/p/machinal-bypass</link>
-        <description>The &#34;Machinal Bypass,&#34; when AI becomes a shortcut around the work that makes us human, and why some tasks should feel a little hard.</description>
-        <pubDate>Sun, 21 Dec 2025 11:45:55 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/machinal-bypass</guid>
     </item>
     
     <item>
