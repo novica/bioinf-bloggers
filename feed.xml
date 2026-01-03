@@ -6,8 +6,26 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Fri, 02 Jan 2026 06:40:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 06:38:10 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>Weekly Recap (January 2, 2026)</title>
+        <link>https://blog.stephenturner.us/p/weekly-recap-january-2-2026</link>
+        <description>NSF reorg, Science in 2050, 2025 LLM recap, R+Python, R Data Scientist, virtual cells, genomics in 2026, Claude Code course, AI and labor, how uv got so fast, Anthropic/biotech, papers+preprints</description>
+        <pubDate>Fri, 02 Jan 2026 21:57:27 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/weekly-recap-january-2-2026</guid>
+    </item>
+    
+    <item>
+        <title>How to fix a broken towel radiator</title>
+        <link>https://www.johnlees.me/posts/towel-radiator/</link>
+        <description>&lt;p&gt;In a first for this blog &amp;ndash; as a lame attempt to counter the increasing amount of dross when you google simple household tasks, and for my own reference &amp;ndash; here&amp;rsquo;s a post with some D</description>
+        <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+        <source>John Lees&#39; blog</source>
+        <guid>https://www.johnlees.me/posts/towel-radiator/</guid>
+    </item>
     
     <item>
         <title>Staying Current in Data Science and Computational Biology: 2026 Edition</title>
@@ -82,6 +100,17 @@
     </item>
     
     <item>
+        <title>Video games in 2025: puzzles galore</title>
+        <link>https://www.johnlees.me/posts/review-video-games-2025/</link>
+        <description>&lt;p&gt;I played more games this year, particularly puzzle games. I also just bought a Switch 2, which seems good so far (nice screen).&lt;/p&gt;
+&lt;h1 id=&#34;puzzle-games&#34;&gt;Puzzle games&lt;/h1&gt;
+&lt;h2 id=&#34;blue-prince&#34;&gt;&lt;em&gt;</description>
+        <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
+        <source>John Lees&#39; blog</source>
+        <guid>https://www.johnlees.me/posts/review-video-games-2025/</guid>
+    </item>
+    
+    <item>
         <title>Quoting Sal Khan</title>
         <link>https://blog.stephenturner.us/p/sal-khan-ai-education-jobs</link>
         <description>AI creates an education challenge, not just a job crisis. We haven&#39;t built systems to help people to continue learning and connect them to new opportunities.</description>
@@ -100,12 +129,12 @@
     </item>
     
     <item>
-        <title>Weekly Recap (December 24, 2025)</title>
-        <link>https://blog.stephenturner.us/p/weekly-recap-december-24-2025</link>
-        <description>R updates (R Data Scientist, R Weekly), AI accelerating wet lab bio research, Docker hardened images, LLMs in review, machinal bypass, science funding, new papers.</description>
-        <pubDate>Wed, 24 Dec 2025 10:07:12 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/weekly-recap-december-24-2025</guid>
+        <title>Christmas dinner</title>
+        <link>https://www.johnlees.me/posts/xmas-dinner/</link>
+        <description>&lt;p&gt;Mostly for personal reference for next year, here were my xmas dinner notes. I forgot about stuffing, and didn&amp;rsquo;t make yorkshire puddings properly because our main oven is broken (we have a co</description>
+        <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
+        <source>John Lees&#39; blog</source>
+        <guid>https://www.johnlees.me/posts/xmas-dinner/</guid>
     </item>
     
     <item>
@@ -354,17 +383,6 @@ Roche released </description>
     </item>
     
     <item>
-        <title>Using fixed parameters/constants in mcstate likelihoods</title>
-        <link>https://www.johnlees.me/posts/mcstate-constants/</link>
-        <description>&lt;p&gt;&lt;em&gt;NB: mcstate is being replaced by &lt;a href=&#34;https://mrc-ide.github.io/odin-monty/&#34; rel=&#34;noopener noreffer &#34; target=&#34;_blank&#34;&gt;monty&lt;/a&gt; which will make this easier&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;How do y</description>
-        <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
-        <source>John Lees&#39; blog</source>
-        <guid>https://www.johnlees.me/posts/mcstate-constants/</guid>
-    </item>
-    
-    <item>
         <title>Analyzing ICE Detention Data from 2021 to 2025</title>
         <link>http://jefworks-lab.github.io//blog/2025/07/10/analyzing-ice-detention-data/</link>
         <description>The ability to code and explore big datasets are generally useful skills that transfer well beyond our work of biomedical spatial omics analysis. In this blog post, I analyze publicly available datase</description>
@@ -380,17 +398,6 @@ Roche released </description>
         <pubDate>2025-06-29T00:00:00+00:00</pubDate>
         <source>Eric Kernfeld</source>
         <guid>https://ekernf01.github.io/virtual-cell-june-2025</guid>
-    </item>
-    
-    <item>
-        <title>Dogs and the central limit theorem</title>
-        <link>https://www.johnlees.me/posts/dogs-clt/</link>
-        <description>&lt;p&gt;At school/University I had vaguely heard of the Central Limit Theorem (CLT) but never properly
-understood it or looked it up. My understanding was pretty much along the lines
-of &amp;lsquo;most measure</description>
-        <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
-        <source>John Lees&#39; blog</source>
-        <guid>https://www.johnlees.me/posts/dogs-clt/</guid>
     </item>
     
     <item>
@@ -418,17 +425,6 @@ of &amp;lsquo;most measure</description>
         <pubDate>2025-05-27T00:00:00+00:00</pubDate>
         <source>Ryan Wick’s bioinformatics blog</source>
         <guid>https://rrwick.github.io/2025/05/27/dorado-v1.html</guid>
-    </item>
-    
-    <item>
-        <title>Some of my petty pedantry and why it doesn&#39;t matter</title>
-        <link>https://www.johnlees.me/posts/pedantry/</link>
-        <description>&lt;p&gt;I already have at least one of these &lt;a href=&#34;https://www.johnlees.me/posts/p-value-2-2e-16/&#34; rel=&#34;&#34;&gt;on this blog&lt;/a&gt; (which incidentally is my most
-popular post).
-&lt;figure&gt;&lt;a class=&#34;lightgallery&#34; h</description>
-        <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-        <source>John Lees&#39; blog</source>
-        <guid>https://www.johnlees.me/posts/pedantry/</guid>
     </item>
     
     <item>
