@@ -6,8 +6,26 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Tue, 06 Jan 2026 06:41:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 06:41:12 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>Integrating single-cell multiomics to link genetic variants with cell-type regulatory networks</title>
+        <link>https://www.rna-seqblog.com/integrating-single-cell-multiomics-to-link-genetic-variants-with-cell-type-regulatory-networks/</link>
+        <description>By combining single-cell RNA sequencing with chromatin data and GWAS signals, scMORE links genetic variants to cell-specific regulatory networks, revealing aging and disease...</description>
+        <pubDate>Tue, 06 Jan 2026 12:18:39 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/integrating-single-cell-multiomics-to-link-genetic-variants-with-cell-type-regulatory-networks/</guid>
+    </item>
+    
+    <item>
+        <title>RNA splicing and processing emerge as central features of human aging across tissues</title>
+        <link>https://www.rna-seqblog.com/rna-splicing-and-processing-emerge-as-central-features-of-human-aging-across-tissues/</link>
+        <description>By combining RNA sequencing with network connectivity analysis, researchers uncover conserved age-related changes in RNA splicing and processing genes that are missed by expression analysis alone...</description>
+        <pubDate>Tue, 06 Jan 2026 12:18:29 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/rna-splicing-and-processing-emerge-as-central-features-of-human-aging-across-tissues/</guid>
+    </item>
     
     <item>
         <title>The actionable transcriptome – a framework for incorporating RNA sequencing into precision oncology</title>
@@ -21,7 +39,7 @@
     <item>
         <title>ARRP-seq – a new sequencing approach improves detection of rare and novel gene fusions in cancer</title>
         <link>https://www.rna-seqblog.com/arrp-seq-a-new-sequencing-approach-improves-detection-of-rare-and-novel-gene-fusions-in-cancer/</link>
-        <description>RNA sequencing with anchored random reverse primers improves detection of rare and novel gene fusions, enabling more sensitive and cost-effective cancer diagnostics...</description>
+        <description>Identifying gene fusions is a cornerstone of modern cancer diagnostics. Gene fusions occur when pieces of two different genes become joined together, often creating abnormal proteins that can drive tu</description>
         <pubDate>Mon, 05 Jan 2026 12:26:34 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/arrp-seq-a-new-sequencing-approach-improves-detection-of-rare-and-novel-gene-fusions-in-cancer/</guid>
@@ -30,7 +48,7 @@
     <item>
         <title>Unraveling hair aging – a molecular atlas of human hair follicle senescence drawn by single-cell and spatiotemporal sequencing</title>
         <link>https://www.rna-seqblog.com/unraveling-hair-aging-a-molecular-atlas-of-human-hair-follicle-senescence-drawn-by-single-cell-and-spatiotemporal-sequencing/</link>
-        <description>RNA sequencing reveals cell-type–specific transcriptional changes in aging human scalp, linking stem cell decline, altered signaling, and inflammatory stress to hair loss and graying...</description>
+        <description>Hair loss and graying, the earliest visible signs of skin aging, are fundamentally driven by the functional decline of the hair follicle stem cells (HFSCs) and their surrounding niche. The research, l</description>
         <pubDate>Mon, 05 Jan 2026 12:26:23 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/unraveling-hair-aging-a-molecular-atlas-of-human-hair-follicle-senescence-drawn-by-single-cell-and-spatiotemporal-sequencing/</guid>
@@ -88,24 +106,6 @@
         <pubDate>Wed, 31 Dec 2025 13:07:56 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/joy-writing-code</guid>
-    </item>
-    
-    <item>
-        <title>HAMRLNC – a comprehensive and scalable pipeline for integrated epitranscriptomic analysis</title>
-        <link>https://www.rna-seqblog.com/hamrlnc-a-comprehensive-and-scalable-pipeline-for-integrated-epitranscriptomic-analysis/</link>
-        <description>As RNA sequencing becomes faster, cheaper, and more widely used, scientists are increasingly asking more sophisticated questions about how cells work. Traditionally, RNA sequencing has been used to me</description>
-        <pubDate>Wed, 31 Dec 2025 12:30:08 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/hamrlnc-a-comprehensive-and-scalable-pipeline-for-integrated-epitranscriptomic-analysis/</guid>
-    </item>
-    
-    <item>
-        <title>Beyond polyA – mapping total RNA in single cells</title>
-        <link>https://www.rna-seqblog.com/beyond-polya-mapping-total-rna-in-single-cells/</link>
-        <description>﻿ December 16th, 2025: Dr. Alina Isakova, from Stanford University Advances in RNA sequencing are revealing that much of cellular regulation occurs beyond protein-coding mRNA, within diverse non-codin</description>
-        <pubDate>Wed, 31 Dec 2025 12:29:55 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/beyond-polya-mapping-total-rna-in-single-cells/</guid>
     </item>
     
     <item>
