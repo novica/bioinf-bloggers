@@ -6,13 +6,49 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Wed, 07 Jan 2026 06:41:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 06:41:34 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>Scales of Instrumentation and Automation</title>
+        <link>https://omicsomics.blogspot.com/2026/01/scales-of-instrumentation-and-automation.html</link>
+        <description>Back in September I moved into a product role within the automation unit at Ginkgo, where we sell autonomous laboratories.  I&#39;m going to end up posting a bunch on the topic, as I spend a lot of time t</description>
+        <pubDate>2026-01-07T09:37:00.002-05:00</pubDate>
+        <source>Omics! Omics!</source>
+        <guid>https://omicsomics.blogspot.com/2026/01/scales-of-instrumentation-and-automation.html</guid>
+    </item>
+    
+    <item>
+        <title>CONCORD – revealing a coherent cell-state landscape across single-cell datasets</title>
+        <link>https://www.rna-seqblog.com/concord-revealing-a-coherent-cell-state-landscape-across-single-cell-datasets/</link>
+        <description>CONCORD unifies batch correction and denoising to reveal coherent cell-state landscapes from RNA sequencing data, enabling high-resolution comparison of single-cell datasets across experiments and spe</description>
+        <pubDate>Wed, 07 Jan 2026 12:15:28 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/concord-revealing-a-coherent-cell-state-landscape-across-single-cell-datasets/</guid>
+    </item>
+    
+    <item>
+        <title>SPLISOSM – mapping isoforms and regulatory mechanisms from spatial transcriptomics data</title>
+        <link>https://www.rna-seqblog.com/splisosm-mapping-isoforms-and-regulatory-mechanisms-from-spatial-transcriptomics-data/</link>
+        <description>Using RNA sequencing with spatial resolution, SPLISOSM maps isoform-specific patterns in brain and tumor tissues, revealing conserved splicing regulation and links to neurological disease...</description>
+        <pubDate>Wed, 07 Jan 2026 12:15:07 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/splisosm-mapping-isoforms-and-regulatory-mechanisms-from-spatial-transcriptomics-data/</guid>
+    </item>
+    
+    <item>
+        <title>ISOSCELES – predicting glioblastoma drug response using single cell transcriptional states</title>
+        <link>https://www.rna-seqblog.com/isosceles-predicting-glioblastoma-drug-response-using-single-cell-transcriptional-states/</link>
+        <description>By integrating single cell RNA sequencing with drug response signatures, ISOSCELES predicts which glioblastoma cell states are sensitive or resistant to targeted therapies and identifies new combinati</description>
+        <pubDate>Wed, 07 Jan 2026 12:14:55 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/isosceles-predicting-glioblastoma-drug-response-using-single-cell-transcriptional-states/</guid>
+    </item>
     
     <item>
         <title>Integrating single-cell multiomics to link genetic variants with cell-type regulatory networks</title>
         <link>https://www.rna-seqblog.com/integrating-single-cell-multiomics-to-link-genetic-variants-with-cell-type-regulatory-networks/</link>
-        <description>By combining single-cell RNA sequencing with chromatin data and GWAS signals, scMORE links genetic variants to cell-specific regulatory networks, revealing aging and disease...</description>
+        <description>Understanding how genetic differences influence disease and aging at the cellular level is one of the biggest challenges in modern biology. While large genetic studies called genome-wide association s</description>
         <pubDate>Tue, 06 Jan 2026 12:18:39 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/integrating-single-cell-multiomics-to-link-genetic-variants-with-cell-type-regulatory-networks/</guid>
@@ -21,37 +57,10 @@
     <item>
         <title>RNA splicing and processing emerge as central features of human aging across tissues</title>
         <link>https://www.rna-seqblog.com/rna-splicing-and-processing-emerge-as-central-features-of-human-aging-across-tissues/</link>
-        <description>By combining RNA sequencing with network connectivity analysis, researchers uncover conserved age-related changes in RNA splicing and processing genes that are missed by expression analysis alone...</description>
+        <description>Researchers from the University of São Paulo and Kyushu University investigated how gene activity changes with age across multiple human tissues. They found that many tissues share common aging-relate</description>
         <pubDate>Tue, 06 Jan 2026 12:18:29 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/rna-splicing-and-processing-emerge-as-central-features-of-human-aging-across-tissues/</guid>
-    </item>
-    
-    <item>
-        <title>The actionable transcriptome – a framework for incorporating RNA sequencing into precision oncology</title>
-        <link>https://www.rna-seqblog.com/the-actionable-transcriptome-a-framework-for-incorporating-rna-sequencing-into-precision-oncology/</link>
-        <description>RNA sequencing enables detection of actionable gene expression changes, fusions, and signatures that extend beyond DNA testing, supporting more precise and personalized cancer care...</description>
-        <pubDate>Mon, 05 Jan 2026 12:26:52 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/the-actionable-transcriptome-a-framework-for-incorporating-rna-sequencing-into-precision-oncology/</guid>
-    </item>
-    
-    <item>
-        <title>ARRP-seq – a new sequencing approach improves detection of rare and novel gene fusions in cancer</title>
-        <link>https://www.rna-seqblog.com/arrp-seq-a-new-sequencing-approach-improves-detection-of-rare-and-novel-gene-fusions-in-cancer/</link>
-        <description>Identifying gene fusions is a cornerstone of modern cancer diagnostics. Gene fusions occur when pieces of two different genes become joined together, often creating abnormal proteins that can drive tu</description>
-        <pubDate>Mon, 05 Jan 2026 12:26:34 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/arrp-seq-a-new-sequencing-approach-improves-detection-of-rare-and-novel-gene-fusions-in-cancer/</guid>
-    </item>
-    
-    <item>
-        <title>Unraveling hair aging – a molecular atlas of human hair follicle senescence drawn by single-cell and spatiotemporal sequencing</title>
-        <link>https://www.rna-seqblog.com/unraveling-hair-aging-a-molecular-atlas-of-human-hair-follicle-senescence-drawn-by-single-cell-and-spatiotemporal-sequencing/</link>
-        <description>Hair loss and graying, the earliest visible signs of skin aging, are fundamentally driven by the functional decline of the hair follicle stem cells (HFSCs) and their surrounding niche. The research, l</description>
-        <pubDate>Mon, 05 Jan 2026 12:26:23 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/unraveling-hair-aging-a-molecular-atlas-of-human-hair-follicle-senescence-drawn-by-single-cell-and-spatiotemporal-sequencing/</guid>
     </item>
     
     <item>
@@ -180,15 +189,6 @@
         <pubDate>2025-12-01T00:00:00+00:00</pubDate>
         <source>Eric Kernfeld</source>
         <guid>https://ekernf01.github.io/mse_of_de</guid>
-    </item>
-    
-    <item>
-        <title>Bell Labs Wasn&#39;t Built in a Day. Or Two Years.</title>
-        <link>https://omicsomics.blogspot.com/2025/11/bell-labs-wasnt-built-in-day-or-two.html</link>
-        <description>&lt;div&gt;Rome is famous for persisting for centuries - and having not been built in a day. If you go there, then one of the most magnificent sites is the most famous sporting arena in the world, the Flavi</description>
-        <pubDate>2025-11-11T22:34:00.001-05:00</pubDate>
-        <source>Omics! Omics!</source>
-        <guid>https://omicsomics.blogspot.com/2025/11/bell-labs-wasnt-built-in-day-or-two.html</guid>
     </item>
     
     <item>
