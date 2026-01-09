@@ -6,8 +6,44 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Thu, 08 Jan 2026 06:41:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 06:41:27 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>Single Cell Grant Available for Cancer Researchers</title>
+        <link>https://www.rna-seqblog.com/single-cell-grant-available-for-cancer-researchers/</link>
+        <description>Join this online info session on January 15 at 8:00 AM Pacific to learn how Parse Biosciences’ combinatorial barcoding enables cancer research, what the grant includes, and how to apply...</description>
+        <pubDate>Thu, 08 Jan 2026 13:13:21 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/single-cell-grant-available-for-cancer-researchers/</guid>
+    </item>
+    
+    <item>
+        <title>ASPEN – robust detection of allelic dynamics in single cell RNA-seq</title>
+        <link>https://www.rna-seqblog.com/aspen-robust-detection-of-allelic-dynamics-in-single-cell-rna-seq-2/</link>
+        <description>ASPEN enhances RNA sequencing analyses to detect allelic imbalance and variance in single cells, revealing regulatory control differences in essential, neurodevelopmental, and immune genes...</description>
+        <pubDate>Thu, 08 Jan 2026 12:20:19 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/aspen-robust-detection-of-allelic-dynamics-in-single-cell-rna-seq-2/</guid>
+    </item>
+    
+    <item>
+        <title>CASSIA – a multi-agent large language model for automated and interpretable cell annotation</title>
+        <link>https://www.rna-seqblog.com/cassia-a-multi-agent-large-language-model-for-automated-and-interpretable-cell-annotation/</link>
+        <description>CASSIA uses RNA sequencing marker genes and coordinated AI agents to deliver accurate, interpretable cell type annotations without reference datasets across diverse single-cell experiments...</description>
+        <pubDate>Thu, 08 Jan 2026 12:20:10 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/cassia-a-multi-agent-large-language-model-for-automated-and-interpretable-cell-annotation/</guid>
+    </item>
+    
+    <item>
+        <title>MD Anderson and SOPHiA GENETICS announce strategic collaboration to accelerate AI-driven precision oncology</title>
+        <link>https://www.rna-seqblog.com/md-anderson-and-sophia-genetics-announce-strategic-collaboration-to-accelerate-ai-driven-precision-oncology/</link>
+        <description>MD Anderson and SOPHiA GENETICS are combining AI analytics with RNA sequencing to accelerate precision oncology by translating complex genomic and multimodal data into actionable clinical insights...</description>
+        <pubDate>Thu, 08 Jan 2026 12:19:46 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/md-anderson-and-sophia-genetics-announce-strategic-collaboration-to-accelerate-ai-driven-precision-oncology/</guid>
+    </item>
     
     <item>
         <title>Scales of Instrumentation and Automation</title>
@@ -21,46 +57,10 @@
     <item>
         <title>CONCORD – revealing a coherent cell-state landscape across single-cell datasets</title>
         <link>https://www.rna-seqblog.com/concord-revealing-a-coherent-cell-state-landscape-across-single-cell-datasets/</link>
-        <description>CONCORD unifies batch correction and denoising to reveal coherent cell-state landscapes from RNA sequencing data, enabling high-resolution comparison of single-cell datasets across experiments and spe</description>
+        <description>Single-cell experiments have transformed biology by allowing researchers to measure gene activity in thousands to millions of individual cells. Techniques such as RNA sequencing reveal how cells diffe</description>
         <pubDate>Wed, 07 Jan 2026 12:15:28 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/concord-revealing-a-coherent-cell-state-landscape-across-single-cell-datasets/</guid>
-    </item>
-    
-    <item>
-        <title>SPLISOSM – mapping isoforms and regulatory mechanisms from spatial transcriptomics data</title>
-        <link>https://www.rna-seqblog.com/splisosm-mapping-isoforms-and-regulatory-mechanisms-from-spatial-transcriptomics-data/</link>
-        <description>Using RNA sequencing with spatial resolution, SPLISOSM maps isoform-specific patterns in brain and tumor tissues, revealing conserved splicing regulation and links to neurological disease...</description>
-        <pubDate>Wed, 07 Jan 2026 12:15:07 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/splisosm-mapping-isoforms-and-regulatory-mechanisms-from-spatial-transcriptomics-data/</guid>
-    </item>
-    
-    <item>
-        <title>ISOSCELES – predicting glioblastoma drug response using single cell transcriptional states</title>
-        <link>https://www.rna-seqblog.com/isosceles-predicting-glioblastoma-drug-response-using-single-cell-transcriptional-states/</link>
-        <description>By integrating single cell RNA sequencing with drug response signatures, ISOSCELES predicts which glioblastoma cell states are sensitive or resistant to targeted therapies and identifies new combinati</description>
-        <pubDate>Wed, 07 Jan 2026 12:14:55 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/isosceles-predicting-glioblastoma-drug-response-using-single-cell-transcriptional-states/</guid>
-    </item>
-    
-    <item>
-        <title>Integrating single-cell multiomics to link genetic variants with cell-type regulatory networks</title>
-        <link>https://www.rna-seqblog.com/integrating-single-cell-multiomics-to-link-genetic-variants-with-cell-type-regulatory-networks/</link>
-        <description>Understanding how genetic differences influence disease and aging at the cellular level is one of the biggest challenges in modern biology. While large genetic studies called genome-wide association s</description>
-        <pubDate>Tue, 06 Jan 2026 12:18:39 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/integrating-single-cell-multiomics-to-link-genetic-variants-with-cell-type-regulatory-networks/</guid>
-    </item>
-    
-    <item>
-        <title>RNA splicing and processing emerge as central features of human aging across tissues</title>
-        <link>https://www.rna-seqblog.com/rna-splicing-and-processing-emerge-as-central-features-of-human-aging-across-tissues/</link>
-        <description>Researchers from the University of São Paulo and Kyushu University investigated how gene activity changes with age across multiple human tissues. They found that many tissues share common aging-relate</description>
-        <pubDate>Tue, 06 Jan 2026 12:18:29 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/rna-splicing-and-processing-emerge-as-central-features-of-human-aging-across-tissues/</guid>
     </item>
     
     <item>
