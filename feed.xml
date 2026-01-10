@@ -6,8 +6,44 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Fri, 09 Jan 2026 06:41:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 06:37:22 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>Stalking the Elusive Product Market Fit</title>
+        <link>https://omicsomics.blogspot.com/2026/01/stalking-elusive-product-market-fit.html</link>
+        <description>I had a wonderful breakfast conversation back in November with Arima Genomics Founder (and now President and Chief Operating Officer) Sid Selvaraj where he brought up the topic of product market fit. </description>
+        <pubDate>2026-01-09T12:06:00.003-05:00</pubDate>
+        <source>Omics! Omics!</source>
+        <guid>https://omicsomics.blogspot.com/2026/01/stalking-elusive-product-market-fit.html</guid>
+    </item>
+    
+    <item>
+        <title>Mapping 10 million immune cells to decode disease mechanisms, new atlas and AI model pave way for precision immunotherapy</title>
+        <link>https://www.rna-seqblog.com/mapping-10-million-immune-cells-to-decode-disease-mechanisms-new-atlas-and-ai-model-pave-way-for-precision-immunotherapy/</link>
+        <description>Large-scale RNA sequencing and multi-omics profiling map over 10 million immune cells, revealing how genetics, age, and sex shape immune regulation and disease risk...</description>
+        <pubDate>Fri, 09 Jan 2026 12:28:09 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/mapping-10-million-immune-cells-to-decode-disease-mechanisms-new-atlas-and-ai-model-pave-way-for-precision-immunotherapy/</guid>
+    </item>
+    
+    <item>
+        <title>Temporal and spatial atlas of eosinophil specialization across tissues</title>
+        <link>https://www.rna-seqblog.com/temporal-and-spatial-atlas-of-eosinophil-specialization-across-tissues/</link>
+        <description>High-resolution RNA sequencing reveals how tissue residence time drives eosinophil specialization across organs, shaping their roles in health and immune function...</description>
+        <pubDate>Fri, 09 Jan 2026 12:28:01 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/temporal-and-spatial-atlas-of-eosinophil-specialization-across-tissues/</guid>
+    </item>
+    
+    <item>
+        <title>Weekly Recap (January 9, 2026)</title>
+        <link>https://blog.stephenturner.us/p/weekly-recap-january-9-2026</link>
+        <description>The science of responsible innovation, rv (uv for R), just quit, R updates (R Data Scientist, R Works), 5 things in biosecurity, why benchmarking is hard, open science (?), papers &amp; preprints</description>
+        <pubDate>Fri, 09 Jan 2026 10:32:01 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/weekly-recap-january-9-2026</guid>
+    </item>
     
     <item>
         <title>Single Cell Grant Available for Cancer Researchers</title>
@@ -30,19 +66,10 @@
     <item>
         <title>CASSIA – a multi-agent large language model for automated and interpretable cell annotation</title>
         <link>https://www.rna-seqblog.com/cassia-a-multi-agent-large-language-model-for-automated-and-interpretable-cell-annotation/</link>
-        <description>CASSIA uses RNA sequencing marker genes and coordinated AI agents to deliver accurate, interpretable cell type annotations without reference datasets across diverse single-cell experiments...</description>
+        <description>Cell type annotation remains one of the most critical yet time-consuming steps in single-cell RNA sequencing analysis. Researchers from the University of Wisconsin-Madison have developed CASSIA (Colla</description>
         <pubDate>Thu, 08 Jan 2026 12:20:10 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/cassia-a-multi-agent-large-language-model-for-automated-and-interpretable-cell-annotation/</guid>
-    </item>
-    
-    <item>
-        <title>MD Anderson and SOPHiA GENETICS announce strategic collaboration to accelerate AI-driven precision oncology</title>
-        <link>https://www.rna-seqblog.com/md-anderson-and-sophia-genetics-announce-strategic-collaboration-to-accelerate-ai-driven-precision-oncology/</link>
-        <description>MD Anderson and SOPHiA GENETICS are combining AI analytics with RNA sequencing to accelerate precision oncology by translating complex genomic and multimodal data into actionable clinical insights...</description>
-        <pubDate>Thu, 08 Jan 2026 12:19:46 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/md-anderson-and-sophia-genetics-announce-strategic-collaboration-to-accelerate-ai-driven-precision-oncology/</guid>
     </item>
     
     <item>
@@ -52,15 +79,6 @@
         <pubDate>2026-01-07T09:37:00.002-05:00</pubDate>
         <source>Omics! Omics!</source>
         <guid>https://omicsomics.blogspot.com/2026/01/scales-of-instrumentation-and-automation.html</guid>
-    </item>
-    
-    <item>
-        <title>CONCORD – revealing a coherent cell-state landscape across single-cell datasets</title>
-        <link>https://www.rna-seqblog.com/concord-revealing-a-coherent-cell-state-landscape-across-single-cell-datasets/</link>
-        <description>Single-cell experiments have transformed biology by allowing researchers to measure gene activity in thousands to millions of individual cells. Techniques such as RNA sequencing reveal how cells diffe</description>
-        <pubDate>Wed, 07 Jan 2026 12:15:28 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/concord-revealing-a-coherent-cell-state-landscape-across-single-cell-datasets/</guid>
     </item>
     
     <item>
@@ -138,15 +156,6 @@
     </item>
     
     <item>
-        <title>Quoting Sal Khan</title>
-        <link>https://blog.stephenturner.us/p/sal-khan-ai-education-jobs</link>
-        <description>AI creates an education challenge, not just a job crisis. We haven&#39;t built systems to help people to continue learning and connect them to new opportunities.</description>
-        <pubDate>Mon, 29 Dec 2025 11:00:35 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/sal-khan-ai-education-jobs</guid>
-    </item>
-    
-    <item>
         <title>Christmas dinner</title>
         <link>https://www.johnlees.me/posts/xmas-dinner/</link>
         <description>&lt;p&gt;Mostly for personal reference for next year, here were my xmas dinner notes. I forgot about stuffing, and didn&amp;rsquo;t make yorkshire puddings properly because our main oven is broken (we have a co</description>
@@ -171,15 +180,6 @@
         <pubDate>2025-12-05T00:00:00+00:00</pubDate>
         <source>Eric Kernfeld</source>
         <guid>https://ekernf01.github.io/target_gene_shenanigans</guid>
-    </item>
-    
-    <item>
-        <title>Countable Labs: New Approach to Enumerating DNA</title>
-        <link>https://omicsomics.blogspot.com/2025/12/countable-labs-new-approach-to.html</link>
-        <description>&lt;span id=&#34;docs-internal-guid-bab528ed-7fff-38a7-3da3-2d17a576420f&#34;&gt;&lt;p dir=&#34;ltr&#34; style=&#34;line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;&#34;&gt;&lt;span style=&#34;font-family: Arial, sans-serif; font-size: </description>
-        <pubDate>2025-12-04T10:38:00.000-05:00</pubDate>
-        <source>Omics! Omics!</source>
-        <guid>https://omicsomics.blogspot.com/2025/12/countable-labs-new-approach-to.html</guid>
     </item>
     
     <item>
