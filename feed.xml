@@ -6,7 +6,7 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Sat, 10 Jan 2026 06:37:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 06:41:18 +0000</lastBuildDate>
 
     
     <item>
@@ -19,57 +19,12 @@
     </item>
     
     <item>
-        <title>Mapping 10 million immune cells to decode disease mechanisms, new atlas and AI model pave way for precision immunotherapy</title>
-        <link>https://www.rna-seqblog.com/mapping-10-million-immune-cells-to-decode-disease-mechanisms-new-atlas-and-ai-model-pave-way-for-precision-immunotherapy/</link>
-        <description>Large-scale RNA sequencing and multi-omics profiling map over 10 million immune cells, revealing how genetics, age, and sex shape immune regulation and disease risk...</description>
-        <pubDate>Fri, 09 Jan 2026 12:28:09 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/mapping-10-million-immune-cells-to-decode-disease-mechanisms-new-atlas-and-ai-model-pave-way-for-precision-immunotherapy/</guid>
-    </item>
-    
-    <item>
-        <title>Temporal and spatial atlas of eosinophil specialization across tissues</title>
-        <link>https://www.rna-seqblog.com/temporal-and-spatial-atlas-of-eosinophil-specialization-across-tissues/</link>
-        <description>High-resolution RNA sequencing reveals how tissue residence time drives eosinophil specialization across organs, shaping their roles in health and immune function...</description>
-        <pubDate>Fri, 09 Jan 2026 12:28:01 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/temporal-and-spatial-atlas-of-eosinophil-specialization-across-tissues/</guid>
-    </item>
-    
-    <item>
         <title>Weekly Recap (January 9, 2026)</title>
         <link>https://blog.stephenturner.us/p/weekly-recap-january-9-2026</link>
         <description>The science of responsible innovation, rv (uv for R), just quit, R updates (R Data Scientist, R Works), 5 things in biosecurity, why benchmarking is hard, open science (?), papers &amp; preprints</description>
         <pubDate>Fri, 09 Jan 2026 10:32:01 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/weekly-recap-january-9-2026</guid>
-    </item>
-    
-    <item>
-        <title>Single Cell Grant Available for Cancer Researchers</title>
-        <link>https://www.rna-seqblog.com/single-cell-grant-available-for-cancer-researchers/</link>
-        <description>Join this online info session on January 15 at 8:00 AM Pacific to learn how Parse Biosciences’ combinatorial barcoding enables cancer research, what the grant includes, and how to apply...</description>
-        <pubDate>Thu, 08 Jan 2026 13:13:21 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/single-cell-grant-available-for-cancer-researchers/</guid>
-    </item>
-    
-    <item>
-        <title>ASPEN – robust detection of allelic dynamics in single cell RNA-seq</title>
-        <link>https://www.rna-seqblog.com/aspen-robust-detection-of-allelic-dynamics-in-single-cell-rna-seq-2/</link>
-        <description>ASPEN enhances RNA sequencing analyses to detect allelic imbalance and variance in single cells, revealing regulatory control differences in essential, neurodevelopmental, and immune genes...</description>
-        <pubDate>Thu, 08 Jan 2026 12:20:19 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/aspen-robust-detection-of-allelic-dynamics-in-single-cell-rna-seq-2/</guid>
-    </item>
-    
-    <item>
-        <title>CASSIA – a multi-agent large language model for automated and interpretable cell annotation</title>
-        <link>https://www.rna-seqblog.com/cassia-a-multi-agent-large-language-model-for-automated-and-interpretable-cell-annotation/</link>
-        <description>Cell type annotation remains one of the most critical yet time-consuming steps in single-cell RNA sequencing analysis. Researchers from the University of Wisconsin-Madison have developed CASSIA (Colla</description>
-        <pubDate>Thu, 08 Jan 2026 12:20:10 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/cassia-a-multi-agent-large-language-model-for-automated-and-interpretable-cell-annotation/</guid>
     </item>
     
     <item>
@@ -471,6 +426,55 @@ It is similar to STAR in resource </description>
         <pubDate>2024-12-27T00:00:00+01:00</pubDate>
         <source>Living in an Ivory Basement</source>
         <guid>http://ivory.idyll.org/blog/2024-announcing-chill-filter.html</guid>
+    </item>
+    
+    <item>
+        <title>Using AI to find heterogeneous scientific speakers</title>
+        <link>http://jefworks-lab.github.io//blog/2024/11/04/using-ai-to-prevent-manels/</link>
+        <description>(Alt title: how I am using AI to prevent manels and how you can too)</description>
+        <pubDate>2024-11-04T00:00:00+00:00</pubDate>
+        <source>JEFworks Lab</source>
+        <guid>http://jefworks-lab.github.io//blog/2024/11/04/using-ai-to-prevent-manels/</guid>
+    </item>
+    
+    <item>
+        <title>Why Rust is an increasingly beloved part of my programming toolbox</title>
+        <link>http://ivory.idyll.org/blog/2024-why-i-like-rust.html</link>
+        <description>&lt;p&gt;Rust is nice!&lt;/p&gt;</description>
+        <pubDate>2024-10-16T00:00:00+02:00</pubDate>
+        <source>Living in an Ivory Basement</source>
+        <guid>http://ivory.idyll.org/blog/2024-why-i-like-rust.html</guid>
+    </item>
+    
+    <item>
+        <title>Why is bwa-aln used for ancient DNA reads?</title>
+        <link>http://lh3.github.io/2024/09/28/why-is-bwa-aln-still-used</link>
+        <description>&lt;p&gt;&lt;a href=&#34;https://github.com/lh3/bwa&#34;&gt;BWA&lt;/a&gt; implements three algorithms: &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19451168/&#34;&gt;bwa-aln&lt;/a&gt;, &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20080505/&#34;&gt;bwa-sw</description>
+        <pubDate>2024-09-28T00:00:00+00:00</pubDate>
+        <source>Heng Li&#39;s blog</source>
+        <guid>http://lh3.github.io/2024/09/28/why-is-bwa-aln-still-used</guid>
+    </item>
+    
+    <item>
+        <title>Recent advances in the sourmash ecosystem (August 2024)</title>
+        <link>http://ivory.idyll.org/blog/2024-sourmash-advances.html</link>
+        <description>&lt;p&gt;sourmash is faster and better than before!&lt;/p&gt;</description>
+        <pubDate>2024-08-16T00:00:00+02:00</pubDate>
+        <source>Living in an Ivory Basement</source>
+        <guid>http://ivory.idyll.org/blog/2024-sourmash-advances.html</guid>
+    </item>
+    
+    <item>
+        <title>Internship in the PIM group</title>
+        <link>https://www.bacpop.org/blog/internship_pim_group/</link>
+        <description>&lt;div&gt;
+ &lt;nav id=&#34;TableOfContents&#34;&gt;
+ &lt;ul&gt;
+ &lt;li&gt;&lt;a href=&#34;https://www.bacpop.org/blog/index.xml#antoines-experience-at-ebi&#34;&gt;Antoine&amp;rsquo;s experience at EBI&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&#34;https://www.bacpop.org/</description>
+        <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+        <source>Bacterial population genomics blog</source>
+        <guid>https://www.bacpop.org/blog/internship_pim_group/</guid>
     </item>
     
 
