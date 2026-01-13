@@ -6,14 +6,50 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Mon, 12 Jan 2026 06:45:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 06:41:33 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>VISTA – bridging gene expression and spatial context</title>
+        <link>https://www.rna-seqblog.com/vista-bridging-gene-expression-and-spatial-context/</link>
+        <description>VISTA integrates spatial transcriptomics with RNA sequencing to predict missing gene expression, enabling enhanced mapping of tissue organization, cell interactions, and spatially driven gene activity</description>
+        <pubDate>Mon, 12 Jan 2026 12:21:36 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/vista-bridging-gene-expression-and-spatial-context/</guid>
+    </item>
+    
+    <item>
+        <title>Junior Research Scientist in the Center for Brain and Health</title>
+        <link>https://www.rna-seqblog.com/junior-research-scientist-in-the-center-for-brain-and-health/</link>
+        <description>NYU Abu Dhabi seeks a research assistant to study neurodegeneration using stem cells, brain organoids, CRISPR, and RNA sequencing within a collaborative, well-supported research environment...</description>
+        <pubDate>Mon, 12 Jan 2026 12:21:18 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/junior-research-scientist-in-the-center-for-brain-and-health/</guid>
+    </item>
+    
+    <item>
+        <title>Factorial Biotechnologies and Honeycomb Biotechnologies partner to deliver high-throughput, instrument-free single-cell DNA sequencing</title>
+        <link>https://www.rna-seqblog.com/factorial-biotechnologies-and-honeycomb-biotechnologies-partner-to-deliver-high-throughput-instrument-free-single-cell-dna-sequencing/</link>
+        <description>A new partnership enables scalable single-cell WGS and multi-omics, complementing RNA...</description>
+        <pubDate>Mon, 12 Jan 2026 12:21:07 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/factorial-biotechnologies-and-honeycomb-biotechnologies-partner-to-deliver-high-throughput-instrument-free-single-cell-dna-sequencing/</guid>
+    </item>
+    
+    <item>
+        <title>The Importance of Indigenous Voices in Conservation Genomics</title>
+        <link>https://blog.stephenturner.us/p/importance-of-indigenous-voices-conservation-genomics</link>
+        <description>Reply to &amp;#8216;Genome engineering for conservation might be a game changer but only with the incorporation of Indigenous voices&amp;#8217; in Nature Reviews Biodiversity</description>
+        <pubDate>Mon, 12 Jan 2026 10:54:53 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/importance-of-indigenous-voices-conservation-genomics</guid>
+    </item>
     
     <item>
         <title>JPM 2026 Schedule Through A Molecular Tools &amp; Testing Lens</title>
         <link>https://omicsomics.blogspot.com/2026/01/jpm-2026-through-molecular-tools.html</link>
         <description>The J.P. Morgan Healthcare Conference is this week in San Francisco.  As with every other one, I&#39;m tracking any news remotely from Boston.  Some year I really should go to observe the sheer spectacle </description>
-        <pubDate>2026-01-11T22:03:00.001-05:00</pubDate>
+        <pubDate>2026-01-11T22:03:00.005-05:00</pubDate>
         <source>Omics! Omics!</source>
         <guid>https://omicsomics.blogspot.com/2026/01/jpm-2026-through-molecular-tools.html</guid>
     </item>
@@ -39,7 +75,7 @@
     <item>
         <title>Mapping 10 million immune cells to decode disease mechanisms, new atlas and AI model pave way for precision immunotherapy</title>
         <link>https://www.rna-seqblog.com/mapping-10-million-immune-cells-to-decode-disease-mechanisms-new-atlas-and-ai-model-pave-way-for-precision-immunotherapy/</link>
-        <description>Large-scale RNA sequencing and multi-omics profiling map over 10 million immune cells, revealing how genetics, age, and sex shape immune regulation and disease risk...</description>
+        <description>On January 8, 2026, a multi-institutional research team led by the State Key Laboratory of Genome and Multi-omics Technologies (initiated by BGI-Research), working with clinical and academic partners </description>
         <pubDate>Fri, 09 Jan 2026 12:28:09 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/mapping-10-million-immune-cells-to-decode-disease-mechanisms-new-atlas-and-ai-model-pave-way-for-precision-immunotherapy/</guid>
@@ -48,7 +84,7 @@
     <item>
         <title>Temporal and spatial atlas of eosinophil specialization across tissues</title>
         <link>https://www.rna-seqblog.com/temporal-and-spatial-atlas-of-eosinophil-specialization-across-tissues/</link>
-        <description>High-resolution RNA sequencing reveals how tissue residence time drives eosinophil specialization across organs, shaping their roles in health and immune function...</description>
+        <description>Eosinophils are a type of white blood cell most people have heard of in the context of allergies or parasitic infections. But these cells actually play many roles in the body including helping control</description>
         <pubDate>Fri, 09 Jan 2026 12:28:01 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/temporal-and-spatial-atlas-of-eosinophil-specialization-across-tissues/</guid>
@@ -61,33 +97,6 @@
         <pubDate>Fri, 09 Jan 2026 10:32:01 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/weekly-recap-january-9-2026</guid>
-    </item>
-    
-    <item>
-        <title>Single Cell Grant Available for Cancer Researchers</title>
-        <link>https://www.rna-seqblog.com/single-cell-grant-available-for-cancer-researchers/</link>
-        <description>Join this online info session on January 15 at 8:00 AM Pacific to learn how Parse Biosciences’ combinatorial barcoding enables cancer research, what the grant includes, and how to apply...</description>
-        <pubDate>Thu, 08 Jan 2026 13:13:21 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/single-cell-grant-available-for-cancer-researchers/</guid>
-    </item>
-    
-    <item>
-        <title>ASPEN – robust detection of allelic dynamics in single cell RNA-seq</title>
-        <link>https://www.rna-seqblog.com/aspen-robust-detection-of-allelic-dynamics-in-single-cell-rna-seq-2/</link>
-        <description>ASPEN enhances RNA sequencing analyses to detect allelic imbalance and variance in single cells, revealing regulatory control differences in essential, neurodevelopmental, and immune genes...</description>
-        <pubDate>Thu, 08 Jan 2026 12:20:19 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/aspen-robust-detection-of-allelic-dynamics-in-single-cell-rna-seq-2/</guid>
-    </item>
-    
-    <item>
-        <title>CASSIA – a multi-agent large language model for automated and interpretable cell annotation</title>
-        <link>https://www.rna-seqblog.com/cassia-a-multi-agent-large-language-model-for-automated-and-interpretable-cell-annotation/</link>
-        <description>Cell type annotation remains one of the most critical yet time-consuming steps in single-cell RNA sequencing analysis. Researchers from the University of Wisconsin-Madison have developed CASSIA (Colla</description>
-        <pubDate>Thu, 08 Jan 2026 12:20:10 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/cassia-a-multi-agent-large-language-model-for-automated-and-interpretable-cell-annotation/</guid>
     </item>
     
     <item>
@@ -133,15 +142,6 @@
         <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
         <source>John Lees&#39; blog</source>
         <guid>https://www.johnlees.me/posts/towel-radiator/</guid>
-    </item>
-    
-    <item>
-        <title>Staying Current in Data Science and Computational Biology: 2026 Edition</title>
-        <link>https://blog.stephenturner.us/p/staying-current-in-data-science-and-computational-biology-2026</link>
-        <description>Part 3 in a series of posts going back 14 years</description>
-        <pubDate>Thu, 01 Jan 2026 07:26:19 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/staying-current-in-data-science-and-computational-biology-2026</guid>
     </item>
     
     <item>
