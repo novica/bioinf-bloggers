@@ -6,8 +6,26 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Tue, 13 Jan 2026 06:41:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 06:41:14 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>Mount Sinai researchers help create largest immune cell atlas of bone marrow in multiple myeloma patients</title>
+        <link>https://www.rna-seqblog.com/mount-sinai-researchers-help-create-largest-immune-cell-atlas-of-bone-marrow-in-multiple-myeloma-patients/</link>
+        <description>Single-cell RNA sequencing maps nearly 1.5 million bone marrow immune cells in multiple myeloma, revealing immune dysfunction patterns that may help predict relapse risk...</description>
+        <pubDate>Tue, 13 Jan 2026 12:08:08 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/mount-sinai-researchers-help-create-largest-immune-cell-atlas-of-bone-marrow-in-multiple-myeloma-patients/</guid>
+    </item>
+    
+    <item>
+        <title>RNA-MosaicHunter – accurate detection of somatic single-nucleotide variants from bulk RNA-seq data</title>
+        <link>https://www.rna-seqblog.com/rna-mosaichunter-accurate-detection-of-somatic-single-nucleotide-variants-from-bulk-rna-seq-data/</link>
+        <description>RNA-MosaicHunter leverages RNA sequencing to accurately detect somatic single-nucleotide variants, revealing elevated mutation burdens in Alzheimer’s cortex and offering insights into variant roles ac</description>
+        <pubDate>Tue, 13 Jan 2026 12:08:00 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/rna-mosaichunter-accurate-detection-of-somatic-single-nucleotide-variants-from-bulk-rna-seq-data/</guid>
+    </item>
     
     <item>
         <title>VISTA – bridging gene expression and spatial context</title>
@@ -21,7 +39,7 @@
     <item>
         <title>Junior Research Scientist in the Center for Brain and Health</title>
         <link>https://www.rna-seqblog.com/junior-research-scientist-in-the-center-for-brain-and-health/</link>
-        <description>NYU Abu Dhabi seeks a research assistant to study neurodegeneration using stem cells, brain organoids, CRISPR, and RNA sequencing within a collaborative, well-supported research environment...</description>
+        <description>New York University: NYU - Global: Abu Dhabi: AD_Research Centers Location - Abu Dhabi Close Date - 11 Feb 2026 Description The RNA Modifications, Intellect, and NeuroDegeneration (RNA-MIND) Laborator</description>
         <pubDate>Mon, 12 Jan 2026 12:21:18 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/junior-research-scientist-in-the-center-for-brain-and-health/</guid>
@@ -30,7 +48,7 @@
     <item>
         <title>Factorial Biotechnologies and Honeycomb Biotechnologies partner to deliver high-throughput, instrument-free single-cell DNA sequencing</title>
         <link>https://www.rna-seqblog.com/factorial-biotechnologies-and-honeycomb-biotechnologies-partner-to-deliver-high-throughput-instrument-free-single-cell-dna-sequencing/</link>
-        <description>A new partnership enables scalable single-cell WGS and multi-omics, complementing RNA...</description>
+        <description>New partnership combines Factorial&#39;s in-cell library preparation chemistry with Honeycomb&#39;s HIVE™ platform to enable scalable single-cell WGS workflow with processing capacity up to 1 million cells pe</description>
         <pubDate>Mon, 12 Jan 2026 12:21:07 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/factorial-biotechnologies-and-honeycomb-biotechnologies-partner-to-deliver-high-throughput-instrument-free-single-cell-dna-sequencing/</guid>
@@ -49,7 +67,7 @@
         <title>JPM 2026 Schedule Through A Molecular Tools &amp; Testing Lens</title>
         <link>https://omicsomics.blogspot.com/2026/01/jpm-2026-through-molecular-tools.html</link>
         <description>The J.P. Morgan Healthcare Conference is this week in San Francisco.  As with every other one, I&#39;m tracking any news remotely from Boston.  Some year I really should go to observe the sheer spectacle </description>
-        <pubDate>2026-01-11T22:03:00.005-05:00</pubDate>
+        <pubDate>2026-01-11T22:03:00.006-05:00</pubDate>
         <source>Omics! Omics!</source>
         <guid>https://omicsomics.blogspot.com/2026/01/jpm-2026-through-molecular-tools.html</guid>
     </item>
@@ -70,24 +88,6 @@
         <pubDate>2026-01-09T12:06:00.003-05:00</pubDate>
         <source>Omics! Omics!</source>
         <guid>https://omicsomics.blogspot.com/2026/01/stalking-elusive-product-market-fit.html</guid>
-    </item>
-    
-    <item>
-        <title>Mapping 10 million immune cells to decode disease mechanisms, new atlas and AI model pave way for precision immunotherapy</title>
-        <link>https://www.rna-seqblog.com/mapping-10-million-immune-cells-to-decode-disease-mechanisms-new-atlas-and-ai-model-pave-way-for-precision-immunotherapy/</link>
-        <description>On January 8, 2026, a multi-institutional research team led by the State Key Laboratory of Genome and Multi-omics Technologies (initiated by BGI-Research), working with clinical and academic partners </description>
-        <pubDate>Fri, 09 Jan 2026 12:28:09 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/mapping-10-million-immune-cells-to-decode-disease-mechanisms-new-atlas-and-ai-model-pave-way-for-precision-immunotherapy/</guid>
-    </item>
-    
-    <item>
-        <title>Temporal and spatial atlas of eosinophil specialization across tissues</title>
-        <link>https://www.rna-seqblog.com/temporal-and-spatial-atlas-of-eosinophil-specialization-across-tissues/</link>
-        <description>Eosinophils are a type of white blood cell most people have heard of in the context of allergies or parasitic infections. But these cells actually play many roles in the body including helping control</description>
-        <pubDate>Fri, 09 Jan 2026 12:28:01 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/temporal-and-spatial-atlas-of-eosinophil-specialization-across-tissues/</guid>
     </item>
     
     <item>
