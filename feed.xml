@@ -6,34 +6,16 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Thu, 15 Jan 2026 06:41:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 06:41:07 +0000</lastBuildDate>
 
     
     <item>
-        <title>RNA sequencing reveals how viral infections boost ocean productivity</title>
-        <link>https://www.rna-seqblog.com/rna-sequencing-reveals-how-viral-infections-boost-ocean-productivity/</link>
-        <description>Using RNA sequencing, researchers show viral infection of ocean cyanobacteria boosts microbial productivity and nutrient recycling, helping drive a recurring subsurface oxygen maximum in the Sargasso </description>
-        <pubDate>Wed, 14 Jan 2026 12:15:30 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/rna-sequencing-reveals-how-viral-infections-boost-ocean-productivity/</guid>
-    </item>
-    
-    <item>
-        <title>RNA sequencing reveals how OTULIN regulates tau and brain aging</title>
-        <link>https://www.rna-seqblog.com/rna-sequencing-reveals-how-otulin-regulates-tau-and-brain-aging/</link>
-        <description>Researchers show OTULIN regulates tau production and brain aging, using CRISPR and RNA sequencing to reveal widespread effects on RNA metabolism and inflammatory gene pathways in neurons...</description>
-        <pubDate>Wed, 14 Jan 2026 12:15:17 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/rna-sequencing-reveals-how-otulin-regulates-tau-and-brain-aging/</guid>
-    </item>
-    
-    <item>
-        <title>ISSAAC-seq – single-nucleus chromatin accessibility and gene expression co-profiling</title>
-        <link>https://www.rna-seqblog.com/issaac-seq-single-nucleus-chromatin-accessibility-and-gene-expression-co-profiling/</link>
-        <description>ISSAAC-seq combines chromatin accessibility with RNA sequencing in single nuclei, enabling integrated analysis of gene regulation and cellular heterogeneity with a fast, flexible...</description>
-        <pubDate>Wed, 14 Jan 2026 12:14:58 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/issaac-seq-single-nucleus-chromatin-accessibility-and-gene-expression-co-profiling/</guid>
+        <title>Biotechnology and AI: Technological Convergence and Information Hazards (Part 1)</title>
+        <link>https://blog.stephenturner.us/p/biotechnology-and-ai-technological-convergence-part-1</link>
+        <description>AIxBio is here: Navigating the pacing problem and the future of global biosecurity</description>
+        <pubDate>Thu, 15 Jan 2026 12:54:28 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/biotechnology-and-ai-technological-convergence-part-1</guid>
     </item>
     
     <item>
@@ -43,24 +25,6 @@
         <pubDate>Wed, 14 Jan 2026 10:09:37 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/openai-anthropic-chatgpt-claude-health-life-sciences</guid>
-    </item>
-    
-    <item>
-        <title>Mount Sinai researchers help create largest immune cell atlas of bone marrow in multiple myeloma patients</title>
-        <link>https://www.rna-seqblog.com/mount-sinai-researchers-help-create-largest-immune-cell-atlas-of-bone-marrow-in-multiple-myeloma-patients/</link>
-        <description>Scientists at the Icahn School of Medicine at Mount Sinai, in partnership with the Multiple Myeloma Research Foundation (MMRF) and in collaboration with leading institutions across the country, have h</description>
-        <pubDate>Tue, 13 Jan 2026 12:08:08 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/mount-sinai-researchers-help-create-largest-immune-cell-atlas-of-bone-marrow-in-multiple-myeloma-patients/</guid>
-    </item>
-    
-    <item>
-        <title>RNA-MosaicHunter – accurate detection of somatic single-nucleotide variants from bulk RNA-seq data</title>
-        <link>https://www.rna-seqblog.com/rna-mosaichunter-accurate-detection-of-somatic-single-nucleotide-variants-from-bulk-rna-seq-data/</link>
-        <description>Somatic variants are changes in the DNA that occur after conception, and they have been linked not only to cancer, but also to a range of developmental, aging-related, and neurological disorders. Whil</description>
-        <pubDate>Tue, 13 Jan 2026 12:08:00 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/rna-mosaichunter-accurate-detection-of-somatic-single-nucleotide-variants-from-bulk-rna-seq-data/</guid>
     </item>
     
     <item>
@@ -76,7 +40,7 @@
         <title>JPM 2026 Schedule Through A Molecular Tools &amp; Testing Lens</title>
         <link>https://omicsomics.blogspot.com/2026/01/jpm-2026-through-molecular-tools.html</link>
         <description>The J.P. Morgan Healthcare Conference is this week in San Francisco.  As with every other one, I&#39;m tracking any news remotely from Boston.  Some year I really should go to observe the sheer spectacle </description>
-        <pubDate>2026-01-11T22:03:00.007-05:00</pubDate>
+        <pubDate>2026-01-11T22:03:00.008-05:00</pubDate>
         <source>Omics! Omics!</source>
         <guid>https://omicsomics.blogspot.com/2026/01/jpm-2026-through-molecular-tools.html</guid>
     </item>
@@ -115,15 +79,6 @@
         <pubDate>2026-01-07T09:37:00.002-05:00</pubDate>
         <source>Omics! Omics!</source>
         <guid>https://omicsomics.blogspot.com/2026/01/scales-of-instrumentation-and-automation.html</guid>
-    </item>
-    
-    <item>
-        <title>Paired Ends Wrapped: Top 10 Posts From 2025</title>
-        <link>https://blog.stephenturner.us/p/paired-ends-wrapped-top-10-posts-2025</link>
-        <description>R + AI, uv, RAG+Zotero, Quarto books, Codex in Positron, Positron assistant &amp; copilot, academia to biotech, RAG in R with ragnar, genome engineering biodiversity conservation, returning to UVA SDS</description>
-        <pubDate>Mon, 05 Jan 2026 09:03:14 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/paired-ends-wrapped-top-10-posts-2025</guid>
     </item>
     
     <item>
@@ -471,6 +426,55 @@ It is similar to STAR in resource </description>
         <pubDate>2024-12-27T00:00:00+01:00</pubDate>
         <source>Living in an Ivory Basement</source>
         <guid>http://ivory.idyll.org/blog/2024-announcing-chill-filter.html</guid>
+    </item>
+    
+    <item>
+        <title>Using AI to find heterogeneous scientific speakers</title>
+        <link>http://jefworks-lab.github.io//blog/2024/11/04/using-ai-to-prevent-manels/</link>
+        <description>(Alt title: how I am using AI to prevent manels and how you can too)</description>
+        <pubDate>2024-11-04T00:00:00+00:00</pubDate>
+        <source>JEFworks Lab</source>
+        <guid>http://jefworks-lab.github.io//blog/2024/11/04/using-ai-to-prevent-manels/</guid>
+    </item>
+    
+    <item>
+        <title>Why Rust is an increasingly beloved part of my programming toolbox</title>
+        <link>http://ivory.idyll.org/blog/2024-why-i-like-rust.html</link>
+        <description>&lt;p&gt;Rust is nice!&lt;/p&gt;</description>
+        <pubDate>2024-10-16T00:00:00+02:00</pubDate>
+        <source>Living in an Ivory Basement</source>
+        <guid>http://ivory.idyll.org/blog/2024-why-i-like-rust.html</guid>
+    </item>
+    
+    <item>
+        <title>Why is bwa-aln used for ancient DNA reads?</title>
+        <link>http://lh3.github.io/2024/09/28/why-is-bwa-aln-still-used</link>
+        <description>&lt;p&gt;&lt;a href=&#34;https://github.com/lh3/bwa&#34;&gt;BWA&lt;/a&gt; implements three algorithms: &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19451168/&#34;&gt;bwa-aln&lt;/a&gt;, &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20080505/&#34;&gt;bwa-sw</description>
+        <pubDate>2024-09-28T00:00:00+00:00</pubDate>
+        <source>Heng Li&#39;s blog</source>
+        <guid>http://lh3.github.io/2024/09/28/why-is-bwa-aln-still-used</guid>
+    </item>
+    
+    <item>
+        <title>Recent advances in the sourmash ecosystem (August 2024)</title>
+        <link>http://ivory.idyll.org/blog/2024-sourmash-advances.html</link>
+        <description>&lt;p&gt;sourmash is faster and better than before!&lt;/p&gt;</description>
+        <pubDate>2024-08-16T00:00:00+02:00</pubDate>
+        <source>Living in an Ivory Basement</source>
+        <guid>http://ivory.idyll.org/blog/2024-sourmash-advances.html</guid>
+    </item>
+    
+    <item>
+        <title>Internship in the PIM group</title>
+        <link>https://www.bacpop.org/blog/internship_pim_group/</link>
+        <description>&lt;div&gt;
+ &lt;nav id=&#34;TableOfContents&#34;&gt;
+ &lt;ul&gt;
+ &lt;li&gt;&lt;a href=&#34;https://www.bacpop.org/blog/index.xml#antoines-experience-at-ebi&#34;&gt;Antoine&amp;rsquo;s experience at EBI&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&#34;https://www.bacpop.org/</description>
+        <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+        <source>Bacterial population genomics blog</source>
+        <guid>https://www.bacpop.org/blog/internship_pim_group/</guid>
     </item>
     
 
