@@ -6,8 +6,35 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Fri, 16 Jan 2026 06:41:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 06:37:31 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>An agentic AI framework for ingestion and standardization of single-cell RNA-seq data analysis</title>
+        <link>https://www.rna-seqblog.com/an-agentic-ai-framework-for-ingestion-and-standardization-of-single-cell-rna-seq-data-analysis/</link>
+        <description>CellAtria uses AI to automate data ingestion and RNA sequencing analysis, making reuse of public single-cell datasets faster, standardized, and accessible without advanced computational skills...</description>
+        <pubDate>Fri, 16 Jan 2026 12:22:05 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/an-agentic-ai-framework-for-ingestion-and-standardization-of-single-cell-rna-seq-data-analysis/</guid>
+    </item>
+    
+    <item>
+        <title>How stressors during pregnancy impact the developing fetal brain</title>
+        <link>https://www.rna-seqblog.com/how-stressors-during-pregnancy-impact-the-developing-fetal-brain/</link>
+        <description>By combining spatial transcriptomics with RNA sequencing, researchers show how maternal microbiome changes and immune activation reshape immune gene networks in the developing fetal brain...</description>
+        <pubDate>Fri, 16 Jan 2026 12:21:49 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/how-stressors-during-pregnancy-impact-the-developing-fetal-brain/</guid>
+    </item>
+    
+    <item>
+        <title>Weekly Recap (January 16, 2026)</title>
+        <link>https://blog.stephenturner.us/p/weekly-recap-january-16-2026</link>
+        <description>AIxBio, biotech 2025, Claude Code, Positron tips, cell fate engineering, academic slop, AI in health &amp; life sciences research, R updates (R Data Scientist, R Weekly), RAG in R, papers &amp; preprints</description>
+        <pubDate>Fri, 16 Jan 2026 09:26:28 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/weekly-recap-january-16-2026</guid>
+    </item>
     
     <item>
         <title>Biotechnology and AI: Technological Convergence and Information Hazards (Part 1)</title>
@@ -16,6 +43,33 @@
         <pubDate>Thu, 15 Jan 2026 12:54:28 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/biotechnology-and-ai-technological-convergence-part-1</guid>
+    </item>
+    
+    <item>
+        <title>iTP-seq – a scalable profiling workflow to characterize bacterial translation landscapes in vitro</title>
+        <link>https://www.rna-seqblog.com/itp-seq-a-scalable-profiling-workflow-to-characterize-bacterial-translation-landscapes-in-vitro/</link>
+        <description>A new iTP-seq workflow uses RNA sequencing to map bacterial ribosome positions with codon-level precision, revealing how sequence context and antibiotics shape translation dynamics...</description>
+        <pubDate>Thu, 15 Jan 2026 12:38:57 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/itp-seq-a-scalable-profiling-workflow-to-characterize-bacterial-translation-landscapes-in-vitro/</guid>
+    </item>
+    
+    <item>
+        <title>Evaluating whole transcriptome sequencing for clinical fusion detection</title>
+        <link>https://www.rna-seqblog.com/evaluating-whole-transcriptome-sequencing-for-clinical-fusion-detection/</link>
+        <description>Finding gene fusions and abnormal splice variants is an important part of diagnosing and treating many cancers. Traditionally, clinical labs rely on targeted RNA panels that look for a predefined list</description>
+        <pubDate>Thu, 15 Jan 2026 12:38:48 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/evaluating-whole-transcriptome-sequencing-for-clinical-fusion-detection/</guid>
+    </item>
+    
+    <item>
+        <title>RNA sequencing reveals how viral infections boost ocean productivity</title>
+        <link>https://www.rna-seqblog.com/rna-sequencing-reveals-how-viral-infections-boost-ocean-productivity/</link>
+        <description>A team led by researchers at the University of Tennessee, Knoxville, and University of Maryland shows viral infection of blue-green algae in the ocean stimulates productivity in the ecosystem and cont</description>
+        <pubDate>Wed, 14 Jan 2026 12:15:30 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/rna-sequencing-reveals-how-viral-infections-boost-ocean-productivity/</guid>
     </item>
     
     <item>
@@ -61,15 +115,6 @@
         <pubDate>2026-01-09T12:06:00.003-05:00</pubDate>
         <source>Omics! Omics!</source>
         <guid>https://omicsomics.blogspot.com/2026/01/stalking-elusive-product-market-fit.html</guid>
-    </item>
-    
-    <item>
-        <title>Weekly Recap (January 9, 2026)</title>
-        <link>https://blog.stephenturner.us/p/weekly-recap-january-9-2026</link>
-        <description>The science of responsible innovation, rv (uv for R), just quit, R updates (R Data Scientist, R Works), 5 things in biosecurity, why benchmarking is hard, open science (?), papers &amp; preprints</description>
-        <pubDate>Fri, 09 Jan 2026 10:32:01 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/weekly-recap-january-9-2026</guid>
     </item>
     
     <item>
@@ -426,55 +471,6 @@ It is similar to STAR in resource </description>
         <pubDate>2024-12-27T00:00:00+01:00</pubDate>
         <source>Living in an Ivory Basement</source>
         <guid>http://ivory.idyll.org/blog/2024-announcing-chill-filter.html</guid>
-    </item>
-    
-    <item>
-        <title>Using AI to find heterogeneous scientific speakers</title>
-        <link>http://jefworks-lab.github.io//blog/2024/11/04/using-ai-to-prevent-manels/</link>
-        <description>(Alt title: how I am using AI to prevent manels and how you can too)</description>
-        <pubDate>2024-11-04T00:00:00+00:00</pubDate>
-        <source>JEFworks Lab</source>
-        <guid>http://jefworks-lab.github.io//blog/2024/11/04/using-ai-to-prevent-manels/</guid>
-    </item>
-    
-    <item>
-        <title>Why Rust is an increasingly beloved part of my programming toolbox</title>
-        <link>http://ivory.idyll.org/blog/2024-why-i-like-rust.html</link>
-        <description>&lt;p&gt;Rust is nice!&lt;/p&gt;</description>
-        <pubDate>2024-10-16T00:00:00+02:00</pubDate>
-        <source>Living in an Ivory Basement</source>
-        <guid>http://ivory.idyll.org/blog/2024-why-i-like-rust.html</guid>
-    </item>
-    
-    <item>
-        <title>Why is bwa-aln used for ancient DNA reads?</title>
-        <link>http://lh3.github.io/2024/09/28/why-is-bwa-aln-still-used</link>
-        <description>&lt;p&gt;&lt;a href=&#34;https://github.com/lh3/bwa&#34;&gt;BWA&lt;/a&gt; implements three algorithms: &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19451168/&#34;&gt;bwa-aln&lt;/a&gt;, &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20080505/&#34;&gt;bwa-sw</description>
-        <pubDate>2024-09-28T00:00:00+00:00</pubDate>
-        <source>Heng Li&#39;s blog</source>
-        <guid>http://lh3.github.io/2024/09/28/why-is-bwa-aln-still-used</guid>
-    </item>
-    
-    <item>
-        <title>Recent advances in the sourmash ecosystem (August 2024)</title>
-        <link>http://ivory.idyll.org/blog/2024-sourmash-advances.html</link>
-        <description>&lt;p&gt;sourmash is faster and better than before!&lt;/p&gt;</description>
-        <pubDate>2024-08-16T00:00:00+02:00</pubDate>
-        <source>Living in an Ivory Basement</source>
-        <guid>http://ivory.idyll.org/blog/2024-sourmash-advances.html</guid>
-    </item>
-    
-    <item>
-        <title>Internship in the PIM group</title>
-        <link>https://www.bacpop.org/blog/internship_pim_group/</link>
-        <description>&lt;div&gt;
- &lt;nav id=&#34;TableOfContents&#34;&gt;
- &lt;ul&gt;
- &lt;li&gt;&lt;a href=&#34;https://www.bacpop.org/blog/index.xml#antoines-experience-at-ebi&#34;&gt;Antoine&amp;rsquo;s experience at EBI&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href=&#34;https://www.bacpop.org/</description>
-        <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-        <source>Bacterial population genomics blog</source>
-        <guid>https://www.bacpop.org/blog/internship_pim_group/</guid>
     </item>
     
 
