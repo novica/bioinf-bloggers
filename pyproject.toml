@@ -1,6 +1,6 @@
 [project]
 name = "bioinf-bloggers"
-version = "0.2.0"
+version = "0.3.0"
 description = "A Planet like aggregator for bioinformatics bloggers hosted on gh-pages."
 readme = "README.md"
 license-files = ["LICENSE"]
@@ -13,11 +13,7 @@ dependencies = [
 
 [dependency-groups]
 dev = [
-    "pyright>=1.1.403",
     "pytest>=8.4.1",
     "ruff>=0.12.7",
+    "ty>=0.0.5",
 ]
-
-[tool.pyrefly]
-# check all Python files under the containing directory
-project-includes = ["**/*.py*"]
