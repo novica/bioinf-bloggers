@@ -6,8 +6,17 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Sat, 17 Jan 2026 06:37:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 06:38:15 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>Contextual Distraction: RAG isn&#39;t a Seatbelt</title>
+        <link>https://blog.stephenturner.us/p/contextual-distraction-rag-labsafety-bench</link>
+        <description>A laboratory safety benchmark finds retrieval augmented generation (RAG) can make strong models worse.</description>
+        <pubDate>Sat, 17 Jan 2026 16:30:18 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/contextual-distraction-rag-labsafety-bench</guid>
+    </item>
     
     <item>
         <title>An agentic AI framework for ingestion and standardization of single-cell RNA-seq data analysis</title>
@@ -97,15 +106,6 @@
         <pubDate>2026-01-11T22:03:00.008-05:00</pubDate>
         <source>Omics! Omics!</source>
         <guid>https://omicsomics.blogspot.com/2026/01/jpm-2026-through-molecular-tools.html</guid>
-    </item>
-    
-    <item>
-        <title>My First Look at Claude Code</title>
-        <link>https://blog.stephenturner.us/p/claude-code-first-look</link>
-        <description>Not behind, but at the forefront: On feeling overwhelmed by AI progress, and why that means you&#39;re exactly where you need to be.</description>
-        <pubDate>Sun, 11 Jan 2026 10:13:30 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/claude-code-first-look</guid>
     </item>
     
     <item>
