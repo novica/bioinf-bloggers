@@ -6,7 +6,7 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Sun, 18 Jan 2026 06:38:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 19:15:49 +0000</lastBuildDate>
 
     
     <item>
@@ -73,6 +73,15 @@
     </item>
     
     <item>
+        <title>Scale-able defense</title>
+        <link>https://www.dnazoo.org/post/scale-able-defense</link>
+        <description>Fish-scale geckos, Geckolepis  spp., are small and arboreal lizards endemic to Madagascar and the Comoro Islands. The base coloration of the fish-scaled gecko is generally chestnut-cream with darker/b</description>
+        <pubDate>Wed, 14 Jan 2026 21:11:17 GMT</pubDate>
+        <source>DNAZoo</source>
+        <guid>https://www.dnazoo.org/post/scale-able-defense</guid>
+    </item>
+    
+    <item>
         <title>RNA sequencing reveals how viral infections boost ocean productivity</title>
         <link>https://www.rna-seqblog.com/rna-sequencing-reveals-how-viral-infections-boost-ocean-productivity/</link>
         <description>A team led by researchers at the University of Tennessee, Knoxville, and University of Maryland shows viral infection of blue-green algae in the ocean stimulates productivity in the ecosystem and cont</description>
@@ -88,6 +97,15 @@
         <pubDate>Wed, 14 Jan 2026 10:09:37 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/openai-anthropic-chatgpt-claude-health-life-sciences</guid>
+    </item>
+    
+    <item>
+        <title>Evaluating ONT barcode combinations</title>
+        <link>https://wdecoster.github.io/gigabaseorgigabyte/posts/2026-01-14-evaluating-barcode-combinations/</link>
+        <description>&lt;p&gt;When using native barcoding kits from ONT we have noticed some low frequency miss-assignments between barcodes/samples. Now we don&amp;rsquo;t know if this is an issue from the wet lab side (cross cont</description>
+        <pubDate>Wed, 14 Jan 2026 09:00:00 +0000</pubDate>
+        <source>Gigabase or gigabyte</source>
+        <guid>https://wdecoster.github.io/gigabaseorgigabyte/posts/2026-01-14-evaluating-barcode-combinations/</guid>
     </item>
     
     <item>
@@ -118,6 +136,15 @@
     </item>
     
     <item>
+        <title>Directional markers in R/leaflet</title>
+        <link>https://nsaunders.wordpress.com/2026/01/08/directional-markers-in-r-leaflet/</link>
+        <description>So you have used the excellent exiftool to extract all of the GPS-related information from a directory of photos in JPG format and write to a CSV file: You&amp;#8217;ve used R/leaflet to plot coordinates </description>
+        <pubDate>Wed, 07 Jan 2026 22:25:16 +0000</pubDate>
+        <source>What You&#39;re Doing Is Rather Desperate</source>
+        <guid>https://nsaunders.wordpress.com/2026/01/08/directional-markers-in-r-leaflet/</guid>
+    </item>
+    
+    <item>
         <title>Scales of Instrumentation and Automation</title>
         <link>https://omicsomics.blogspot.com/2026/01/scales-of-instrumentation-and-automation.html</link>
         <description>Back in September I moved into a product role within the automation unit at Ginkgo, where we sell autonomous laboratories.  I&#39;m going to end up posting a bunch on the topic, as I spend a lot of time t</description>
@@ -133,6 +160,15 @@
         <pubDate>2026-01-04T22:18:00.003-05:00</pubDate>
         <source>Omics! Omics!</source>
         <guid>https://omicsomics.blogspot.com/2026/01/sequencing-instrument-outlook-2026.html</guid>
+    </item>
+    
+    <item>
+        <title>Yes, you can use a single stick of DDR5 for bioinformatics and data analysis</title>
+        <link>https://genomespot.blogspot.com/2026/01/yes-you-can-use-single-stick-of-ddr5.html</link>
+        <description>&lt;h4 style=&#34;text-align: left;&#34;&gt;INTRO&lt;/h4&gt;&lt;p&gt;DRAM prices skyrocketed 171% in 2025 [&lt;a href=&#34;https://www.tomshardware.com/pc-components/dram/dram-prices-surge-171-percent-year-over-year-ai-demand-drives-</description>
+        <pubDate>2026-01-03T14:08:00.003+11:00</pubDate>
+        <source>Genome Spot</source>
+        <guid>https://genomespot.blogspot.com/2026/01/yes-you-can-use-single-stick-of-ddr5.html</guid>
     </item>
     
     <item>
@@ -174,6 +210,15 @@
     </item>
     
     <item>
+        <title>Brief thoughts on: iNaturalist</title>
+        <link>https://nsaunders.wordpress.com/2025/12/05/brief-thoughts-on-inaturalist/</link>
+        <description>Let me say first: I was wrong! My profile shows that I created my account at iNaturalist in August 2008, the year that the site was launched. I created a lot of accounts in those days. At the time, th</description>
+        <pubDate>Fri, 05 Dec 2025 02:22:20 +0000</pubDate>
+        <source>What You&#39;re Doing Is Rather Desperate</source>
+        <guid>https://nsaunders.wordpress.com/2025/12/05/brief-thoughts-on-inaturalist/</guid>
+    </item>
+    
+    <item>
         <title>We predict that the transcript abundance from the gene we are knocking down will (checks notes) decrease</title>
         <link>https://ekernf01.github.io/target_gene_shenanigans</link>
         <description>The problem with gene-wise characterization of genetic interventions</description>
@@ -192,6 +237,51 @@
     </item>
     
     <item>
+        <title>Thoughts on generative AI contributions as an Open Source project maintainer</title>
+        <link>https://blastedbio.blogspot.com/2025/11/thoughts-on-generative-ai-contributions.html</link>
+        <description>&lt;p&gt;To be clear up front, these are my personal opinions right now, and while they will influence any future policy I have a hand in writing, they are not the position of the Biopython Project or the O</description>
+        <pubDate>2025-11-24T09:26:00.004+00:00</pubDate>
+        <source>Blasted Bioinformatics!?</source>
+        <guid>https://blastedbio.blogspot.com/2025/11/thoughts-on-generative-ai-contributions.html</guid>
+    </item>
+    
+    <item>
+        <title>Making a map of the locations where bacterial isolates were collected</title>
+        <link>https://avrilomics.blogspot.com/2025/11/making-map-of-locations-where-bacterial.html</link>
+        <description>&lt;p&gt;&amp;nbsp;I wanted to make a map of the locations in the world were some bacterial isolates were collected. I found a&amp;nbsp;&lt;a href=&#34;https://r-spatial.org/r/2018/10/25/ggplot2-sf.html&#34;&gt;nice website&lt;/a&gt;&amp;</description>
+        <pubDate>2025-11-17T04:35:00.000-08:00</pubDate>
+        <source>avrilomics</source>
+        <guid>https://avrilomics.blogspot.com/2025/11/making-map-of-locations-where-bacterial.html</guid>
+    </item>
+    
+    <item>
+        <title>Submitting V. cholerae and MLST sequence types to PubMLST</title>
+        <link>https://avrilomics.blogspot.com/2025/11/submitting-v-cholerae-and-mlst-sequence.html</link>
+        <description>&lt;p&gt;&amp;nbsp;I&#39;ve been submitting novel &lt;i&gt;Vibrio cholerae &lt;/i&gt;MLST alleles and sequence types to the&amp;nbsp;&lt;a href=&#34;https://pubmlst.org/&#34;&gt;PubMLST&lt;/a&gt;&amp;nbsp;database.&lt;/p&gt;&lt;p&gt;This is the&amp;nbsp;&lt;a href=&#34;https:/</description>
+        <pubDate>2025-11-14T01:25:00.000-08:00</pubDate>
+        <source>avrilomics</source>
+        <guid>https://avrilomics.blogspot.com/2025/11/submitting-v-cholerae-and-mlst-sequence.html</guid>
+    </item>
+    
+    <item>
+        <title>Using R/anomalize to identify delays in games of Australian Rules football</title>
+        <link>https://nsaunders.wordpress.com/2025/11/12/using-r-anomalize-to-identify-delays-in-games-of-australian-rules-football/</link>
+        <description>In which we generate a dataset of game durations, do a little exploratory data analysis and then try to identify unusual instances and their causes. In my Twitter-whinge-post, I mentioned that one of </description>
+        <pubDate>Wed, 12 Nov 2025 03:48:21 +0000</pubDate>
+        <source>What You&#39;re Doing Is Rather Desperate</source>
+        <guid>https://nsaunders.wordpress.com/2025/11/12/using-r-anomalize-to-identify-delays-in-games-of-australian-rules-football/</guid>
+    </item>
+    
+    <item>
+        <title>Brief thoughts on: the slow death of Twitter</title>
+        <link>https://nsaunders.wordpress.com/2025/11/11/brief-thoughts-on-the-slow-death-of-twitter/</link>
+        <description>Why am I still there? I joined Twitter (I will never say &amp;#8216;X&amp;#8217;), unbelievably, in March 2008. I was sceptical of &amp;#8220;microblogging&amp;#8221; at the time but in those days, I was willing to t</description>
+        <pubDate>Tue, 11 Nov 2025 05:25:21 +0000</pubDate>
+        <source>What You&#39;re Doing Is Rather Desperate</source>
+        <guid>https://nsaunders.wordpress.com/2025/11/11/brief-thoughts-on-the-slow-death-of-twitter/</guid>
+    </item>
+    
+    <item>
         <title>Reviving BETA for Python 3: Integrating ChIP-seq and RNA-seq to Predict TF Targets</title>
         <link>https://divingintogeneticsandgenomics.com/post/reviving-beta-chip-seq-rna-seq-integration-python3/</link>
         <description>&lt;p&gt;I started to learn bioinformatics because I needed to analyze public ChIP-seq data in 2012.
@@ -202,12 +292,30 @@ That&amp;rsquo;s how I got to know &lt;a href=&#34;https://liulab-dfci.github.io
     </item>
     
     <item>
+        <title>Review of Cold Spring Harbor Laboratory’s Obituary for Dr. James Watson</title>
+        <link>https://liorpachter.wordpress.com/2025/11/08/review-of-cold-spring-harbor-laboratorys-obituary-for-dr-james-watson/</link>
+        <description>James Watson, who described himself as &amp;#8220;not a racist in a conventional way&amp;#8221;, has died at the age of 97. Below is a review of an obituary for Dr. James Watson published by Cold Spring Harbo</description>
+        <pubDate>Sat, 08 Nov 2025 21:57:05 +0000</pubDate>
+        <source>Bits of DNA</source>
+        <guid>https://liorpachter.wordpress.com/2025/11/08/review-of-cold-spring-harbor-laboratorys-obituary-for-dr-james-watson/</guid>
+    </item>
+    
+    <item>
         <title>Traitors null hypothesis</title>
         <link>https://www.johnlees.me/posts/traitors/</link>
         <description>&lt;p&gt;The rest of the UK and I have been watching &lt;a href=&#34;https://www.bbc.co.uk/iplayer/episodes/m002csng/the-celebrity-traitors&#34; rel=&#34;noopener noreffer &#34; target=&#34;_blank&#34;&gt;the Celebrity Traitors&lt;/a&gt; over</description>
         <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
         <source>John Lees&#39; blog</source>
         <guid>https://www.johnlees.me/posts/traitors/</guid>
+    </item>
+    
+    <item>
+        <title>Brief thoughts on: the new Australian Bureau of Meteorology website</title>
+        <link>https://nsaunders.wordpress.com/2025/10/29/brief-thoughts-on-the-new-australian-bureau-of-meteorology-website/</link>
+        <description>For those outside of Australia, the BOM website is where many Australians access weather information. It&amp;#8217;s very popular with millions of visits per day, especially to the rain radar, and &amp;#8220;</description>
+        <pubDate>Wed, 29 Oct 2025 01:04:00 +0000</pubDate>
+        <source>What You&#39;re Doing Is Rather Desperate</source>
+        <guid>https://nsaunders.wordpress.com/2025/10/29/brief-thoughts-on-the-new-australian-bureau-of-meteorology-website/</guid>
     </item>
     
     <item>
@@ -229,12 +337,48 @@ That&amp;rsquo;s how I got to know &lt;a href=&#34;https://liulab-dfci.github.io
     </item>
     
     <item>
+        <title>How big would ABI377 plates need to be to deliver NovaSeq X Plus output?</title>
+        <link>http://enseqlopedia.com/2025/10/how-big-would-abi377-plates-need-to-be-to-deliver-novaseq-x-plus-output/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-big-would-abi377-plates-need-to-be-to-deliver-novaseq-x-plus-output</link>
+        <description>&lt;p&gt;I asked ChatGPT this question one evening and working through the session was fun. Maybe it needs more fact-checking&amp;#8230;I know some of my readers are fastidious enough to call me out if I&amp;#8217;</description>
+        <pubDate>Sat, 04 Oct 2025 11:18:37 +0000</pubDate>
+        <source>Enseqlopedia</source>
+        <guid>http://enseqlopedia.com/2025/10/how-big-would-abi377-plates-need-to-be-to-deliver-novaseq-x-plus-output/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-big-would-abi377-plates-need-to-be-to-deliver-novaseq-x-plus-output</guid>
+    </item>
+    
+    <item>
+        <title>cfDNA fragmentomics reviewed</title>
+        <link>http://enseqlopedia.com/2025/10/cfdna-fragmentomics-reviewed/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cfdna-fragmentomics-reviewed</link>
+        <description>&lt;p&gt;This is a fantastic and comprehensive review on Cell-free DNA fragmentomics in cancer. Out in Cancer Cell by Denis Lo et al. In this review focused on&amp;#160;cell-free DNA (cfDNA) fragmentomics&amp;#160;</description>
+        <pubDate>Sat, 04 Oct 2025 11:16:17 +0000</pubDate>
+        <source>Enseqlopedia</source>
+        <guid>http://enseqlopedia.com/2025/10/cfdna-fragmentomics-reviewed/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cfdna-fragmentomics-reviewed</guid>
+    </item>
+    
+    <item>
         <title>15th Anniversary</title>
         <link>https://davetang.org/muse/2025/10/01/15th-anniversary/</link>
         <description>&lt;p&gt;It has been 15 years since I started this blog! As typical with many of my anniversary posts, I reflect on things that I have started to do and/or have learned since the last time I wrote an annive</description>
         <pubDate>Wed, 01 Oct 2025 14:42:28 +0000</pubDate>
         <source>Dave Tang&#39;s blog</source>
         <guid>https://davetang.org/muse/2025/10/01/15th-anniversary/</guid>
+    </item>
+    
+    <item>
+        <title>The case of the missing Editorial Blog Post (and journal team)</title>
+        <link>https://blastedbio.blogspot.com/2025/10/the-case-of-missing-editorial-blog-post.html</link>
+        <description>&lt;p&gt;Here’s a wee puzzle: A mature Open Data focused journal (“Journal A”), owned and launched by an company or Institute (“Institute B”), developed into the flagship of an Academic Publisher (“Publishe</description>
+        <pubDate>2025-10-01T13:43:00.002+01:00</pubDate>
+        <source>Blasted Bioinformatics!?</source>
+        <guid>https://blastedbio.blogspot.com/2025/10/the-case-of-missing-editorial-blog-post.html</guid>
+    </item>
+    
+    <item>
+        <title>Unlocking the Potential of Urine-Based Liquid Biopsies</title>
+        <link>http://enseqlopedia.com/2025/10/unlocking-the-potential-of-urine-based-liquid-biopsies/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=unlocking-the-potential-of-urine-based-liquid-biopsies</link>
+        <description>&lt;p&gt;I&amp;#8217;m really pleased to say I&amp;#8217;m an author on a new article in Nature Cancer discussing the potential of using urine-based liquid biopsies for cancer detection, particularly through the an</description>
+        <pubDate>Wed, 01 Oct 2025 07:58:40 +0000</pubDate>
+        <source>Enseqlopedia</source>
+        <guid>http://enseqlopedia.com/2025/10/unlocking-the-potential-of-urine-based-liquid-biopsies/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=unlocking-the-potential-of-urine-based-liquid-biopsies</guid>
     </item>
     
     <item>
@@ -277,6 +421,24 @@ biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
     </item>
     
     <item>
+        <title>Zbąszyń</title>
+        <link>https://liorpachter.wordpress.com/2025/09/22/zbaszyn/</link>
+        <description>The mathematician Carl Friedrich Gauss invented the heliotrope for long-distance surveying in 1821. Just a year later, he proved that least squares regression provided the BLUE estimator for data with</description>
+        <pubDate>Mon, 22 Sep 2025 22:08:17 +0000</pubDate>
+        <source>Bits of DNA</source>
+        <guid>https://liorpachter.wordpress.com/2025/09/22/zbaszyn/</guid>
+    </item>
+    
+    <item>
+        <title>Back to Writing: Some Thoughts on Machine Learning</title>
+        <link>https://bioinformaticamente.com/2025/09/11/back-to-writing-some-thoughts-on-machine-learning/</link>
+        <description>&lt;p&gt;Hello. Finally, I’m back to writing on the blog. Intense work commitments and plenty of unexpected events have limited the time I could spend studying and sharing with you my progress in the world </description>
+        <pubDate>Thu, 11 Sep 2025 20:04:50 +0000</pubDate>
+        <source>BIOINFORMATICAMENTE</source>
+        <guid>https://bioinformaticamente.com/2025/09/11/back-to-writing-some-thoughts-on-machine-learning/</guid>
+    </item>
+    
+    <item>
         <title>A quick look at Roche&#39;s SBX</title>
         <link>http://lh3.github.io/2025/09/11/a-quick-look-at-roches-sbx</link>
         <description>&lt;p&gt;&lt;a href=&#34;https://sequencing.roche.com/us/en/article-listing/sequencing-platform-technologies.html&#34;&gt;Sequencing by Expansion (SBX)&lt;/a&gt; is Roche’s new short-read sequencing technology.
@@ -302,175 +464,6 @@ Roche released </description>
         <pubDate>Sat, 30 Aug 2025 03:01:22 +0000</pubDate>
         <source>Dave Tang&#39;s blog</source>
         <guid>https://davetang.org/muse/2025/08/30/on-professionalism/</guid>
-    </item>
-    
-    <item>
-        <title>Reproducible Computing in Bioinformatics: Lessons from My Latest Talk</title>
-        <link>https://divingintogeneticsandgenomics.com/post/repro-comp/</link>
-        <description>&lt;p&gt;Hey everyone, it’s Tommy here. If you’ve been following my blog or my Twitter/X (&lt;span class=&#34;citation&#34;&gt;@tangming2005&lt;/span&gt;), you know I love diving into the practical side of bioinformatics and g</description>
-        <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
-        <source>Chatomics on Chatomics</source>
-        <guid>https://divingintogeneticsandgenomics.com/post/repro-comp/</guid>
-    </item>
-    
-    <item>
-        <title>Hosting your own Git repositories</title>
-        <link>https://davetang.org/muse/2025/08/14/hosting-your-own-git-repositories/</link>
-        <description>&lt;p&gt;As you may have already heard, GitHub just got less independent at Microsoft after CEO resignation. What does this mean? Well, I guess nobody knows for certain but it probably will mean that GitHub</description>
-        <pubDate>Wed, 13 Aug 2025 23:34:00 +0000</pubDate>
-        <source>Dave Tang&#39;s blog</source>
-        <guid>https://davetang.org/muse/2025/08/14/hosting-your-own-git-repositories/</guid>
-    </item>
-    
-    <item>
-        <title>Job search 2025 post-mortem and advice</title>
-        <link>https://ekernf01.github.io/job_search_2025</link>
-        <description>The comp bio job market is scarier than usual: 2023 was a biotech bankruptcy bloodbath, 2024 was a little better, and as far as layoffs, 2025 has been worse. Academic and government sectors are also r</description>
-        <pubDate>2025-08-13T00:00:00+00:00</pubDate>
-        <source>Eric Kernfeld</source>
-        <guid>https://ekernf01.github.io/job_search_2025</guid>
-    </item>
-    
-    <item>
-        <title>How long does it take to run gpt-oss:20b?</title>
-        <link>https://davetang.org/muse/2025/08/10/how-long-does-it-take-to-run-gpt-oss20b/</link>
-        <description>&lt;p&gt;gpt-oss is OpenAI&#39;s open-weight models designed for powerful reasoning, agentic tasks, and versatile developer use cases. You can easily use it via Ollama and read more about it in their blog post.</description>
-        <pubDate>Sun, 10 Aug 2025 05:37:04 +0000</pubDate>
-        <source>Dave Tang&#39;s blog</source>
-        <guid>https://davetang.org/muse/2025/08/10/how-long-does-it-take-to-run-gpt-oss20b/</guid>
-    </item>
-    
-    <item>
-        <title>Announcing taxburst, an update of the Krona software for taxonomy exploration</title>
-        <link>http://ivory.idyll.org/blog/2025-announcing-taxburst-030.html</link>
-        <description>&lt;p&gt;Announcing taxburst for metagenome taxonomy!&lt;/p&gt;</description>
-        <pubDate>2025-08-08T00:00:00+02:00</pubDate>
-        <source>Living in an Ivory Basement</source>
-        <guid>http://ivory.idyll.org/blog/2025-announcing-taxburst-030.html</guid>
-    </item>
-    
-    <item>
-        <title>Lessons from a Nobel Laureate (on deep learning and academia/industry)</title>
-        <link>https://www.johnlees.me/posts/alphafold-lessons/</link>
-        <description>&lt;p&gt;Last week I saw &lt;a href=&#34;https://en.wikipedia.org/wiki/John_M._Jumper&#34; rel=&#34;noopener noreffer &#34; target=&#34;_blank&#34;&gt;John Jumper&lt;/a&gt; give a presentation on his team&amp;rsquo;s development of AlphaFold 1/2/</description>
-        <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
-        <source>John Lees&#39; blog</source>
-        <guid>https://www.johnlees.me/posts/alphafold-lessons/</guid>
-    </item>
-    
-    <item>
-        <title>Crashing Excel to Curing Cancer: How AI and Open Science Transformed One Scientist’s Path</title>
-        <link>https://divingintogeneticsandgenomics.com/talk/2025-ai-on-the-hill-podcast/</link>
-        <description>&lt;p&gt;We’re bringing a podcast to the conversation: AI on the Hill — and our very first episode is now live!&lt;/p&gt;
-
-&lt;p&gt;In this show, host René Bastón sits down with 🎯 Ming &amp;ldquo;Tommy&amp;rdquo; Tang, a first</description>
-        <pubDate>Fri, 01 Aug 2025 12:00:00 +0000</pubDate>
-        <source>Chatomics on Chatomics</source>
-        <guid>https://divingintogeneticsandgenomics.com/talk/2025-ai-on-the-hill-podcast/</guid>
-    </item>
-    
-    <item>
-        <title>Hunting collisions with ntHash</title>
-        <link>https://www.bacpop.org/blog/huntingcollisionswithnthash/</link>
-        <description>&lt;div&gt;
- &lt;nav id=&#34;TableOfContents&#34;&gt;
- &lt;ul&gt;
- &lt;li&gt;&lt;a href=&#34;https://www.bacpop.org/blog/index.xml#a-quick-introduction&#34;&gt;A quick introduction&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href=&#34;https://www.bacpop.org/blog/index.xml#the-</description>
-        <pubDate>Tue, 22 Jul 2025 23:06:29 +0100</pubDate>
-        <source>Bacterial population genomics blog</source>
-        <guid>https://www.bacpop.org/blog/huntingcollisionswithnthash/</guid>
-    </item>
-    
-    <item>
-        <title>Analyzing ICE Detention Data from 2021 to 2025</title>
-        <link>http://jefworks-lab.github.io//blog/2025/07/10/analyzing-ice-detention-data/</link>
-        <description>The ability to code and explore big datasets are generally useful skills that transfer well beyond our work of biomedical spatial omics analysis. In this blog post, I analyze publicly available datase</description>
-        <pubDate>2025-07-10T00:00:00+00:00</pubDate>
-        <source>JEFworks Lab</source>
-        <guid>http://jefworks-lab.github.io//blog/2025/07/10/analyzing-ice-detention-data/</guid>
-    </item>
-    
-    <item>
-        <title>A recap of virtual cell releases circa June 2025</title>
-        <link>https://ekernf01.github.io/virtual-cell-june-2025</link>
-        <description>In October 2024, I twote that “something is deeply wrong” with what we now call virtual cell models. A lot has happened since then: modelers are advancing new architectures and mining new sources of i</description>
-        <pubDate>2025-06-29T00:00:00+00:00</pubDate>
-        <source>Eric Kernfeld</source>
-        <guid>https://ekernf01.github.io/virtual-cell-june-2025</guid>
-    </item>
-    
-    <item>
-        <title>Five flavors of stratified LD score regression (Part 1, Vanilla)</title>
-        <link>https://ekernf01.github.io/vanilla</link>
-        <description>Linkage disequilibrium score regression (LDSC) is a workhorse technique at the intersection of quantitative genetics and functional genomics. The core use of S-LDSC is to detect and quantify functiona</description>
-        <pubDate>2025-06-22T00:00:00+00:00</pubDate>
-        <source>Eric Kernfeld</source>
-        <guid>https://ekernf01.github.io/vanilla</guid>
-    </item>
-    
-    <item>
-        <title>Retrieval-Augmented Generation</title>
-        <link>https://davetang.org/muse/2025/05/27/retrieval-augmented-generation/</link>
-        <description>&lt;p&gt;Back in February I learned about Open WebUI and have been wanting to test it out with Retrieval-Augmented Generation (RAG). I&#39;ll follow the tutorial available on Open WebUI&#39;s site. The goal of RAG </description>
-        <pubDate>Tue, 27 May 2025 08:11:38 +0000</pubDate>
-        <source>Dave Tang&#39;s blog</source>
-        <guid>https://davetang.org/muse/2025/05/27/retrieval-augmented-generation/</guid>
-    </item>
-    
-    <item>
-        <title>Dorado v1.0.0 and the v5.2.0 basecalling models</title>
-        <link>https://rrwick.github.io/2025/05/27/dorado-v1.html</link>
-        <description></description>
-        <pubDate>2025-05-27T00:00:00+00:00</pubDate>
-        <source>Ryan Wick’s bioinformatics blog</source>
-        <guid>https://rrwick.github.io/2025/05/27/dorado-v1.html</guid>
-    </item>
-    
-    <item>
-        <title>Multi-sample Integrative Analysis of Spatial Transcriptomics Data using Sketching and Harmony in Seurat</title>
-        <link>http://jefworks-lab.github.io//blog/2025/04/22/harmony-with-sketching-in-seurat/</link>
-        <description>I often write up code tutorials as a way for me to take notes on what I’ve been learning. But they also serve a secondary purpose as training material for students in my lab. In particular, they provi</description>
-        <pubDate>2025-04-22T00:00:00+00:00</pubDate>
-        <source>JEFworks Lab</source>
-        <guid>http://jefworks-lab.github.io//blog/2025/04/22/harmony-with-sketching-in-seurat/</guid>
-    </item>
-    
-    <item>
-        <title>Short RNA-seq read alignment with minimap2</title>
-        <link>http://lh3.github.io/2025/04/18/short-rna-seq-read-alignment-with-minimap2</link>
-        <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;TL;DR:&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;the new preset &lt;code class=&#34;language-plaintext highlighter-rouge&#34;&gt;splice:sr&lt;/code&gt; in minimap2 can align short RNA-seq reads.
-It is similar to STAR in resource </description>
-        <pubDate>2025-04-18T00:00:00+00:00</pubDate>
-        <source>Heng Li&#39;s blog</source>
-        <guid>http://lh3.github.io/2025/04/18/short-rna-seq-read-alignment-with-minimap2</guid>
-    </item>
-    
-    <item>
-        <title>FASTQ assemblies with Dorado polish</title>
-        <link>https://rrwick.github.io/2025/02/19/fastq-assemblies.html</link>
-        <description></description>
-        <pubDate>2025-02-19T00:00:00+00:00</pubDate>
-        <source>Ryan Wick’s bioinformatics blog</source>
-        <guid>https://rrwick.github.io/2025/02/19/fastq-assemblies.html</guid>
-    </item>
-    
-    <item>
-        <title>Medaka vs Dorado polish</title>
-        <link>https://rrwick.github.io/2025/02/07/dorado-polish.html</link>
-        <description></description>
-        <pubDate>2025-02-07T00:00:00+00:00</pubDate>
-        <source>Ryan Wick’s bioinformatics blog</source>
-        <guid>https://rrwick.github.io/2025/02/07/dorado-polish.html</guid>
-    </item>
-    
-    <item>
-        <title>Announcing: the chill-filter Web site - DNA sample composition at a glance!</title>
-        <link>http://ivory.idyll.org/blog/2024-announcing-chill-filter.html</link>
-        <description>&lt;p&gt;what&#39;s in my sample, dude?&lt;/p&gt;</description>
-        <pubDate>2024-12-27T00:00:00+01:00</pubDate>
-        <source>Living in an Ivory Basement</source>
-        <guid>http://ivory.idyll.org/blog/2024-announcing-chill-filter.html</guid>
     </item>
     
 
