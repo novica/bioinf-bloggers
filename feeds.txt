@@ -14,3 +14,4 @@ Bacterial population genomics blog, https://www.bacpop.org/blog/index.xml
 BIOINFORMATICAMENTE, https://bioinformaticamente.com/feed/
 DNAZoo, https://www.dnazoo.org/blog-feed.xml
 avrilomics, https://avrilomics.blogspot.com/feeds/posts/default
+Homolog.us, https://homolog.us/blogs/feed.xml
