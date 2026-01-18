@@ -15,3 +15,12 @@ BIOINFORMATICAMENTE, https://bioinformaticamente.com/feed/
 DNAZoo, https://www.dnazoo.org/blog-feed.xml
 avrilomics, https://avrilomics.blogspot.com/feeds/posts/default
 Homolog.us, https://homolog.us/blogs/feed.xml
+Living in an Ivory Basement, http://ivory.idyll.org/blog/feeds/all.atom.xml
+Next Generation Technologist, http://yuzuki.org/feed/
+Enseqlopedia,http://enseqlopedia.com/feed/ 
+The Molecular Ecologist, https://feeds.feedburner.com/molecularecologist/fewY
+Bits of DNA, https://liorpachter.wordpress.com/feed/
+Genome Spot, https://genomespot.blogspot.com/feeds/posts/default 
+What You're Doing Is Rather Desperate, https://nsaunders.wordpress.com/feed/
+Blasted Bioinformatics!?,  https://blastedbio.blogspot.com/feeds/posts/default
+Gigabase or gigabyte, https://wdecoster.github.io/gigabaseorgigabyte/posts/index.xml
