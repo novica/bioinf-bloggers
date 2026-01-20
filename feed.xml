@@ -6,8 +6,44 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Mon, 19 Jan 2026 06:47:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 06:44:22 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>DBiTplus – integration of imaging-based and sequencing-based spatial omics mapping on the same tissue section</title>
+        <link>https://www.rna-seqblog.com/dbitplus-integration-of-imaging-based-and-sequencing-based-spatial-omics-mapping-on-the-same-tissue-section/</link>
+        <description>DBiTplus combines RNA sequencing and protein imaging on the same tissue section, enabling single-cell spatial maps that reveal how genes and proteins interact in health and disease...</description>
+        <pubDate>Mon, 19 Jan 2026 12:18:00 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/dbitplus-integration-of-imaging-based-and-sequencing-based-spatial-omics-mapping-on-the-same-tissue-section/</guid>
+    </item>
+    
+    <item>
+        <title>TSniffer – unbiased de novo identification of RNA editing sites and quantification of editing activity in RNA-seq data</title>
+        <link>https://www.rna-seqblog.com/tsniffer-unbiased-de-novo-identification-of-rna-editing-sites-and-quantification-of-editing-activity-in-rna-seq-data/</link>
+        <description>TSniffer enables unbiased detection and quantification of RNA editing from RNA sequencing data, helping researchers study ADAR-driven transcriptome changes across...</description>
+        <pubDate>Mon, 19 Jan 2026 12:17:51 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/tsniffer-unbiased-de-novo-identification-of-rna-editing-sites-and-quantification-of-editing-activity-in-rna-seq-data/</guid>
+    </item>
+    
+    <item>
+        <title>AI Amplifies Careers and Compresses Fields</title>
+        <link>https://blog.stephenturner.us/p/ai-amplifies-careers-and-compresses-fields</link>
+        <description>A new study in Nature finds that AI adoption correlates with faster career ascent and higher citation impact, while the semantic spread of entire fields subtly contracts around fewer topical regions.</description>
+        <pubDate>Mon, 19 Jan 2026 11:03:23 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/ai-amplifies-careers-and-compresses-fields</guid>
+    </item>
+    
+    <item>
+        <title>Immunai expands academic collaborations with single-cell RNA sequencing to map immune responses</title>
+        <link>https://www.rna-seqblog.com/immunai-expands-academic-collaborations-with-single-cell-rna-sequencing-to-map-immune-responses/</link>
+        <description>Immunai partners with leading academic centers to provide single-cell RNA sequencing and multi-omic data, building high-resolution immune maps across autoimmunity, cancer immunotherapy, and cell thera</description>
+        <pubDate>Mon, 19 Jan 2026 11:00:16 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/immunai-expands-academic-collaborations-with-single-cell-rna-sequencing-to-map-immune-responses/</guid>
+    </item>
     
     <item>
         <title>Contextual Distraction: RAG isn&#39;t a Seatbelt</title>
@@ -21,7 +57,7 @@
     <item>
         <title>An agentic AI framework for ingestion and standardization of single-cell RNA-seq data analysis</title>
         <link>https://www.rna-seqblog.com/an-agentic-ai-framework-for-ingestion-and-standardization-of-single-cell-rna-seq-data-analysis/</link>
-        <description>CellAtria uses AI to automate data ingestion and RNA sequencing analysis, making reuse of public single-cell datasets faster, standardized, and accessible without advanced computational skills...</description>
+        <description>The rapid growth of publicly available single-cell RNA sequencing data has opened the door to answering many new biological questions. Researchers can now explore how individual cells behave in health</description>
         <pubDate>Fri, 16 Jan 2026 12:22:05 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/an-agentic-ai-framework-for-ingestion-and-standardization-of-single-cell-rna-seq-data-analysis/</guid>
@@ -30,7 +66,7 @@
     <item>
         <title>How stressors during pregnancy impact the developing fetal brain</title>
         <link>https://www.rna-seqblog.com/how-stressors-during-pregnancy-impact-the-developing-fetal-brain/</link>
-        <description>By combining spatial transcriptomics with RNA sequencing, researchers show how maternal microbiome changes and immune activation reshape immune gene networks in the developing fetal brain...</description>
+        <description>The maternal microbiome and immune system have both independent and synergistic effects on fetal brain health, changes in the mother’s immune system have been linked to an increased risk of neurodevel</description>
         <pubDate>Fri, 16 Jan 2026 12:21:49 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/how-stressors-during-pregnancy-impact-the-developing-fetal-brain/</guid>
@@ -55,39 +91,12 @@
     </item>
     
     <item>
-        <title>iTP-seq – a scalable profiling workflow to characterize bacterial translation landscapes in vitro</title>
-        <link>https://www.rna-seqblog.com/itp-seq-a-scalable-profiling-workflow-to-characterize-bacterial-translation-landscapes-in-vitro/</link>
-        <description>A new iTP-seq workflow uses RNA sequencing to map bacterial ribosome positions with codon-level precision, revealing how sequence context and antibiotics shape translation dynamics...</description>
-        <pubDate>Thu, 15 Jan 2026 12:38:57 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/itp-seq-a-scalable-profiling-workflow-to-characterize-bacterial-translation-landscapes-in-vitro/</guid>
-    </item>
-    
-    <item>
-        <title>Evaluating whole transcriptome sequencing for clinical fusion detection</title>
-        <link>https://www.rna-seqblog.com/evaluating-whole-transcriptome-sequencing-for-clinical-fusion-detection/</link>
-        <description>Finding gene fusions and abnormal splice variants is an important part of diagnosing and treating many cancers. Traditionally, clinical labs rely on targeted RNA panels that look for a predefined list</description>
-        <pubDate>Thu, 15 Jan 2026 12:38:48 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/evaluating-whole-transcriptome-sequencing-for-clinical-fusion-detection/</guid>
-    </item>
-    
-    <item>
         <title>Scale-able defense</title>
         <link>https://www.dnazoo.org/post/scale-able-defense</link>
         <description>Fish-scale geckos, Geckolepis  spp., are small and arboreal lizards endemic to Madagascar and the Comoro Islands. The base coloration of the fish-scaled gecko is generally chestnut-cream with darker/b</description>
         <pubDate>Wed, 14 Jan 2026 21:11:17 GMT</pubDate>
         <source>DNAZoo</source>
         <guid>https://www.dnazoo.org/post/scale-able-defense</guid>
-    </item>
-    
-    <item>
-        <title>RNA sequencing reveals how viral infections boost ocean productivity</title>
-        <link>https://www.rna-seqblog.com/rna-sequencing-reveals-how-viral-infections-boost-ocean-productivity/</link>
-        <description>A team led by researchers at the University of Tennessee, Knoxville, and University of Maryland shows viral infection of blue-green algae in the ocean stimulates productivity in the ecosystem and cont</description>
-        <pubDate>Wed, 14 Jan 2026 12:15:30 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/rna-sequencing-reveals-how-viral-infections-boost-ocean-productivity/</guid>
     </item>
     
     <item>
@@ -106,15 +115,6 @@
         <pubDate>Wed, 14 Jan 2026 09:00:00 +0000</pubDate>
         <source>Gigabase or gigabyte</source>
         <guid>https://wdecoster.github.io/gigabaseorgigabyte/posts/2026-01-14-evaluating-barcode-combinations/</guid>
-    </item>
-    
-    <item>
-        <title>The Importance of Indigenous Voices in Conservation Genomics</title>
-        <link>https://blog.stephenturner.us/p/importance-of-indigenous-voices-conservation-genomics</link>
-        <description>Reply to &amp;#8216;Genome engineering for conservation might be a game changer but only with the incorporation of Indigenous voices&amp;#8217; in Nature Reviews Biodiversity</description>
-        <pubDate>Mon, 12 Jan 2026 10:54:53 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/importance-of-indigenous-voices-conservation-genomics</guid>
     </item>
     
     <item>
