@@ -6,13 +6,49 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Tue, 20 Jan 2026 06:44:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 06:45:35 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>P2 Solo announcement and the trade-offs of a more stable ONT</title>
+        <link>https://rrwick.github.io/2026/01/21/p2_solo.html</link>
+        <description></description>
+        <pubDate>2026-01-21T00:00:00+00:00</pubDate>
+        <source>Ryan Wick’s bioinformatics blog</source>
+        <guid>https://rrwick.github.io/2026/01/21/p2_solo.html</guid>
+    </item>
+    
+    <item>
+        <title>A New Method for Nanopore Direct RNA-Seq Pushes the Limits of Long Transcript Identification and Isoform Resolution</title>
+        <link>https://www.rna-seqblog.com/a-new-method-for-nanopore-direct-rna-seq-pushes-the-limits-of-long-transcript-identification-and-isoform-resolution/</link>
+        <description>Direct RNA sequencing (DRS) on nanopore platforms promises something short-read methods cannot: native RNA molecules read end-to-end, with isoforms, long transcripts, and RNA modifications preserved. </description>
+        <pubDate>Tue, 20 Jan 2026 12:16:29 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/a-new-method-for-nanopore-direct-rna-seq-pushes-the-limits-of-long-transcript-identification-and-isoform-resolution/</guid>
+    </item>
+    
+    <item>
+        <title>Scientists discover a hidden RNA “aging clock” in human sperm</title>
+        <link>https://www.rna-seqblog.com/scientists-discover-a-hidden-rna-aging-clock-in-human-sperm/</link>
+        <description>Advanced RNA sequencing reveals age-related shifts in sperm RNA that may influence metabolism and offspring health, highlighting a conserved molecular clock in male reproduction...</description>
+        <pubDate>Tue, 20 Jan 2026 12:14:01 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/scientists-discover-a-hidden-rna-aging-clock-in-human-sperm/</guid>
+    </item>
+    
+    <item>
+        <title>Comprehensive discovery of m6A sites in the human transcriptome at single-molecule resolution</title>
+        <link>https://www.rna-seqblog.com/comprehensive-discovery-of-m6a-sites-in-the-human-transcriptome-at-single-molecule-resolution/</link>
+        <description>Deep learning paired with Nanopore RNA sequencing enables near-perfect detection of m6A and reveals unexpected complexity in human RNA modification patterns...</description>
+        <pubDate>Tue, 20 Jan 2026 12:13:41 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/comprehensive-discovery-of-m6a-sites-in-the-human-transcriptome-at-single-molecule-resolution/</guid>
+    </item>
     
     <item>
         <title>DBiTplus – integration of imaging-based and sequencing-based spatial omics mapping on the same tissue section</title>
         <link>https://www.rna-seqblog.com/dbitplus-integration-of-imaging-based-and-sequencing-based-spatial-omics-mapping-on-the-same-tissue-section/</link>
-        <description>DBiTplus combines RNA sequencing and protein imaging on the same tissue section, enabling single-cell spatial maps that reveal how genes and proteins interact in health and disease...</description>
+        <description>Researchers at Yale University have developed a new approach called DBiTplus, short for Deterministic Barcoding in Tissue sequencing plus, that overcomes this limitation. DBiTplus allows scientists to</description>
         <pubDate>Mon, 19 Jan 2026 12:18:00 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/dbitplus-integration-of-imaging-based-and-sequencing-based-spatial-omics-mapping-on-the-same-tissue-section/</guid>
@@ -21,7 +57,7 @@
     <item>
         <title>TSniffer – unbiased de novo identification of RNA editing sites and quantification of editing activity in RNA-seq data</title>
         <link>https://www.rna-seqblog.com/tsniffer-unbiased-de-novo-identification-of-rna-editing-sites-and-quantification-of-editing-activity-in-rna-seq-data/</link>
-        <description>TSniffer enables unbiased detection and quantification of RNA editing from RNA sequencing data, helping researchers study ADAR-driven transcriptome changes across...</description>
+        <description>RNA editing is a natural process that changes specific RNA letters after a gene has already been transcribed, helping cells fine-tune how genetic information is used. One of the most common forms of R</description>
         <pubDate>Mon, 19 Jan 2026 12:17:51 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/tsniffer-unbiased-de-novo-identification-of-rna-editing-sites-and-quantification-of-editing-activity-in-rna-seq-data/</guid>
@@ -37,39 +73,12 @@
     </item>
     
     <item>
-        <title>Immunai expands academic collaborations with single-cell RNA sequencing to map immune responses</title>
-        <link>https://www.rna-seqblog.com/immunai-expands-academic-collaborations-with-single-cell-rna-sequencing-to-map-immune-responses/</link>
-        <description>Immunai partners with leading academic centers to provide single-cell RNA sequencing and multi-omic data, building high-resolution immune maps across autoimmunity, cancer immunotherapy, and cell thera</description>
-        <pubDate>Mon, 19 Jan 2026 11:00:16 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/immunai-expands-academic-collaborations-with-single-cell-rna-sequencing-to-map-immune-responses/</guid>
-    </item>
-    
-    <item>
         <title>Contextual Distraction: RAG isn&#39;t a Seatbelt</title>
         <link>https://blog.stephenturner.us/p/contextual-distraction-rag-labsafety-bench</link>
         <description>A laboratory safety benchmark finds retrieval augmented generation (RAG) can make strong models worse.</description>
         <pubDate>Sat, 17 Jan 2026 16:30:18 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/contextual-distraction-rag-labsafety-bench</guid>
-    </item>
-    
-    <item>
-        <title>An agentic AI framework for ingestion and standardization of single-cell RNA-seq data analysis</title>
-        <link>https://www.rna-seqblog.com/an-agentic-ai-framework-for-ingestion-and-standardization-of-single-cell-rna-seq-data-analysis/</link>
-        <description>The rapid growth of publicly available single-cell RNA sequencing data has opened the door to answering many new biological questions. Researchers can now explore how individual cells behave in health</description>
-        <pubDate>Fri, 16 Jan 2026 12:22:05 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/an-agentic-ai-framework-for-ingestion-and-standardization-of-single-cell-rna-seq-data-analysis/</guid>
-    </item>
-    
-    <item>
-        <title>How stressors during pregnancy impact the developing fetal brain</title>
-        <link>https://www.rna-seqblog.com/how-stressors-during-pregnancy-impact-the-developing-fetal-brain/</link>
-        <description>The maternal microbiome and immune system have both independent and synergistic effects on fetal brain health, changes in the mother’s immune system have been linked to an increased risk of neurodevel</description>
-        <pubDate>Fri, 16 Jan 2026 12:21:49 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/how-stressors-during-pregnancy-impact-the-developing-fetal-brain/</guid>
     </item>
     
     <item>
@@ -455,15 +464,6 @@ Roche released </description>
         <pubDate>2025-09-04T00:00:00+00:00</pubDate>
         <source>Ryan Wick’s bioinformatics blog</source>
         <guid>https://rrwick.github.io/2025/09/04/homopolymer-polishing.html</guid>
-    </item>
-    
-    <item>
-        <title>On professionalism</title>
-        <link>https://davetang.org/muse/2025/08/30/on-professionalism/</link>
-        <description>&lt;p&gt;I&#39;m a huge fan of Conan O&#39;Brien; there&#39;s just something about his demeanour, humour, and wittiness that I admire. I discovered him on YouTube around 2012 and was quite oblivious to who he was, what</description>
-        <pubDate>Sat, 30 Aug 2025 03:01:22 +0000</pubDate>
-        <source>Dave Tang&#39;s blog</source>
-        <guid>https://davetang.org/muse/2025/08/30/on-professionalism/</guid>
     </item>
     
 
