@@ -6,8 +6,44 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Thu, 22 Jan 2026 06:42:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 06:42:06 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>JP Morgan 2026 Roundup</title>
+        <link>https://omicsomics.blogspot.com/2026/01/jp-morgan-2026-roundup.html</link>
+        <description>&lt;div&gt;The J.P. Morgan conference last week was mostly small tidbits of info on the sequencing front, with Element delivering the one big teaser announcement. &lt;/div&gt;&lt;span&gt;&lt;/span&gt;&lt;a href=&#34;https://omicsom</description>
+        <pubDate>2026-01-22T09:44:00.001-05:00</pubDate>
+        <source>Omics! Omics!</source>
+        <guid>https://omicsomics.blogspot.com/2026/01/jp-morgan-2026-roundup.html</guid>
+    </item>
+    
+    <item>
+        <title>Research uses cutting-edge technology to map how gums become diseased</title>
+        <link>https://www.rna-seqblog.com/research-uses-cutting-edge-technology-to-map-how-gums-become-diseased/</link>
+        <description>Single-cell RNA sequencing reveals how gum tissues shift from health to disease, identifying regenerative and destructive cell populations that could guide more targeted treatments for periodontitis..</description>
+        <pubDate>Thu, 22 Jan 2026 12:13:17 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/research-uses-cutting-edge-technology-to-map-how-gums-become-diseased/</guid>
+    </item>
+    
+    <item>
+        <title>Targeted long-read RNA sequencing improves diagnosis of Lynch syndrome</title>
+        <link>https://www.rna-seqblog.com/targeted-long-read-rna-sequencing-improves-diagnosis-of-lynch-syndrome/</link>
+        <description>Targeted long-read RNA sequencing reveals pathogenic splicing defects and resolves uncertain variants in Lynch syndrome, highlighting the clinical value of transcript-level analysis...</description>
+        <pubDate>Thu, 22 Jan 2026 12:13:04 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/targeted-long-read-rna-sequencing-improves-diagnosis-of-lynch-syndrome/</guid>
+    </item>
+    
+    <item>
+        <title>Biotechnology and AI: Technological Convergence and Information Hazards (Part 2)</title>
+        <link>https://blog.stephenturner.us/p/biotechnology-and-ai-technological-convergence-part-2</link>
+        <description>Part 2 summarizing chapters from &#34;Biotechnology and AI: Technological Convergence and Information Hazards&#34; from the NATO Advanced Research Workshop on AI and biotechnology convergence</description>
+        <pubDate>Thu, 22 Jan 2026 09:37:23 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/biotechnology-and-ai-technological-convergence-part-2</guid>
+    </item>
     
     <item>
         <title>P2 Solo announcement and the trade-offs of a more stable ONT</title>
@@ -30,7 +66,7 @@
     <item>
         <title>Scientists discover a hidden RNA “aging clock” in human sperm</title>
         <link>https://www.rna-seqblog.com/scientists-discover-a-hidden-rna-aging-clock-in-human-sperm/</link>
-        <description>Advanced RNA sequencing reveals age-related shifts in sperm RNA that may influence metabolism and offspring health, highlighting a conserved molecular clock in male reproduction...</description>
+        <description>Increasing paternal age has been linked to elevated health risks for the next generation, including higher risks of obesity and stillbirth. But what drives this increased risk remains unknown. Most re</description>
         <pubDate>Tue, 20 Jan 2026 12:14:01 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/scientists-discover-a-hidden-rna-aging-clock-in-human-sperm/</guid>
@@ -39,28 +75,10 @@
     <item>
         <title>Comprehensive discovery of m6A sites in the human transcriptome at single-molecule resolution</title>
         <link>https://www.rna-seqblog.com/comprehensive-discovery-of-m6a-sites-in-the-human-transcriptome-at-single-molecule-resolution/</link>
-        <description>Deep learning paired with Nanopore RNA sequencing enables near-perfect detection of m6A and reveals unexpected complexity in human RNA modification patterns...</description>
+        <description>RNA molecules are not just simple copies of DNA, they are chemically modified in many ways that affect how genes are used by cells. One of the most common and important RNA modifications is N6-methyla</description>
         <pubDate>Tue, 20 Jan 2026 12:13:41 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/comprehensive-discovery-of-m6a-sites-in-the-human-transcriptome-at-single-molecule-resolution/</guid>
-    </item>
-    
-    <item>
-        <title>DBiTplus – integration of imaging-based and sequencing-based spatial omics mapping on the same tissue section</title>
-        <link>https://www.rna-seqblog.com/dbitplus-integration-of-imaging-based-and-sequencing-based-spatial-omics-mapping-on-the-same-tissue-section/</link>
-        <description>Researchers at Yale University have developed a new approach called DBiTplus, short for Deterministic Barcoding in Tissue sequencing plus, that overcomes this limitation. DBiTplus allows scientists to</description>
-        <pubDate>Mon, 19 Jan 2026 12:18:00 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/dbitplus-integration-of-imaging-based-and-sequencing-based-spatial-omics-mapping-on-the-same-tissue-section/</guid>
-    </item>
-    
-    <item>
-        <title>TSniffer – unbiased de novo identification of RNA editing sites and quantification of editing activity in RNA-seq data</title>
-        <link>https://www.rna-seqblog.com/tsniffer-unbiased-de-novo-identification-of-rna-editing-sites-and-quantification-of-editing-activity-in-rna-seq-data/</link>
-        <description>RNA editing is a natural process that changes specific RNA letters after a gene has already been transcribed, helping cells fine-tune how genetic information is used. One of the most common forms of R</description>
-        <pubDate>Mon, 19 Jan 2026 12:17:51 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/tsniffer-unbiased-de-novo-identification-of-rna-editing-sites-and-quantification-of-editing-activity-in-rna-seq-data/</guid>
     </item>
     
     <item>
@@ -106,15 +124,6 @@
         <pubDate>Wed, 14 Jan 2026 21:11:17 GMT</pubDate>
         <source>DNAZoo</source>
         <guid>https://www.dnazoo.org/post/scale-able-defense</guid>
-    </item>
-    
-    <item>
-        <title>OpenAI and Anthropic launch life sciences research and healthcare connectors</title>
-        <link>https://blog.stephenturner.us/p/openai-anthropic-chatgpt-claude-health-life-sciences</link>
-        <description>This week OpenAI and Anthropic launched their health/bio updates. While both companies are leaning into consumer-facing health concierges, Claude now has better tooling for life science researchers.</description>
-        <pubDate>Wed, 14 Jan 2026 10:09:37 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/openai-anthropic-chatgpt-claude-health-life-sciences</guid>
     </item>
     
     <item>
@@ -187,15 +196,6 @@
         <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
         <source>John Lees&#39; blog</source>
         <guid>https://www.johnlees.me/posts/towel-radiator/</guid>
-    </item>
-    
-    <item>
-        <title>The Joy of Rediscovery</title>
-        <link>https://omicsomics.blogspot.com/2025/12/the-joy-of-rediscovery.html</link>
-        <description>A key goal of science is to discover new information, and it is one of the great joys of science to believe you have done so.  Sometimes it really does prove novel and interesting - an experience our </description>
-        <pubDate>2025-12-29T21:43:00.001-05:00</pubDate>
-        <source>Omics! Omics!</source>
-        <guid>https://omicsomics.blogspot.com/2025/12/the-joy-of-rediscovery.html</guid>
     </item>
     
     <item>
