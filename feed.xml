@@ -6,8 +6,35 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Fri, 23 Jan 2026 06:42:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 06:40:52 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>The GENCODE CLS project – massively expanding the lncRNA catalog through capture long-read RNA sequencing</title>
+        <link>https://www.rna-seqblog.com/the-gencode-cls-project-massively-expanding-the-lncrna-catalog-through-capture-long-read-rna-sequencing/</link>
+        <description>An expanded GENCODE lncRNA catalog built using long-read RNA sequencing reveals thousands of new human and mouse genes, improving genome interpretation and disease...</description>
+        <pubDate>Fri, 23 Jan 2026 12:37:42 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/the-gencode-cls-project-massively-expanding-the-lncrna-catalog-through-capture-long-read-rna-sequencing/</guid>
+    </item>
+    
+    <item>
+        <title>Impact and correction of segmentation errors in spatial transcriptomics</title>
+        <link>https://www.rna-seqblog.com/impact-and-correction-of-segmentation-errors-in-spatial-transcriptomics/</link>
+        <description>Segmentation errors can strongly distort spatial transcriptomics results, and new computational strategies help correct mixed signals to improve RNA sequencing based tissue analysis....</description>
+        <pubDate>Fri, 23 Jan 2026 12:37:27 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/impact-and-correction-of-segmentation-errors-in-spatial-transcriptomics/</guid>
+    </item>
+    
+    <item>
+        <title>Weekly Recap (January 23, 2026)</title>
+        <link>https://blog.stephenturner.us/p/weekly-recap-january-23-2026</link>
+        <description>AIxBio, Claude&#39;s Constitution, UK AI+Science, exams with chatbots, R updates (Posit, R Data Scientist, R Weekly), reading what Adam Kucharski is reading, AI vs reality at Salesforce, papers+preprints.</description>
+        <pubDate>Fri, 23 Jan 2026 09:11:00 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/weekly-recap-january-23-2026</guid>
+    </item>
     
     <item>
         <title>JP Morgan 2026 Roundup</title>
@@ -30,7 +57,7 @@
     <item>
         <title>Targeted long-read RNA sequencing improves diagnosis of Lynch syndrome</title>
         <link>https://www.rna-seqblog.com/targeted-long-read-rna-sequencing-improves-diagnosis-of-lynch-syndrome/</link>
-        <description>Targeted long-read RNA sequencing reveals pathogenic splicing defects and resolves uncertain variants in Lynch syndrome, highlighting the clinical value of transcript-level analysis...</description>
+        <description>Many human genes produce multiple mRNA isoforms, and changes in splicing or expression can strongly influence disease risk. Yet most clinical genetic tests focus on DNA sequence alone and often miss h</description>
         <pubDate>Thu, 22 Jan 2026 12:13:04 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/targeted-long-read-rna-sequencing-improves-diagnosis-of-lynch-syndrome/</guid>
@@ -64,24 +91,6 @@
     </item>
     
     <item>
-        <title>Scientists discover a hidden RNA “aging clock” in human sperm</title>
-        <link>https://www.rna-seqblog.com/scientists-discover-a-hidden-rna-aging-clock-in-human-sperm/</link>
-        <description>Increasing paternal age has been linked to elevated health risks for the next generation, including higher risks of obesity and stillbirth. But what drives this increased risk remains unknown. Most re</description>
-        <pubDate>Tue, 20 Jan 2026 12:14:01 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/scientists-discover-a-hidden-rna-aging-clock-in-human-sperm/</guid>
-    </item>
-    
-    <item>
-        <title>Comprehensive discovery of m6A sites in the human transcriptome at single-molecule resolution</title>
-        <link>https://www.rna-seqblog.com/comprehensive-discovery-of-m6a-sites-in-the-human-transcriptome-at-single-molecule-resolution/</link>
-        <description>RNA molecules are not just simple copies of DNA, they are chemically modified in many ways that affect how genes are used by cells. One of the most common and important RNA modifications is N6-methyla</description>
-        <pubDate>Tue, 20 Jan 2026 12:13:41 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/comprehensive-discovery-of-m6a-sites-in-the-human-transcriptome-at-single-molecule-resolution/</guid>
-    </item>
-    
-    <item>
         <title>AI Amplifies Careers and Compresses Fields</title>
         <link>https://blog.stephenturner.us/p/ai-amplifies-careers-and-compresses-fields</link>
         <description>A new study in Nature finds that AI adoption correlates with faster career ascent and higher citation impact, while the semantic spread of entire fields subtly contracts around fewer topical regions.</description>
@@ -106,15 +115,6 @@
         <pubDate>Fri, 16 Jan 2026 09:26:28 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/weekly-recap-january-16-2026</guid>
-    </item>
-    
-    <item>
-        <title>Biotechnology and AI: Technological Convergence and Information Hazards (Part 1)</title>
-        <link>https://blog.stephenturner.us/p/biotechnology-and-ai-technological-convergence-part-1</link>
-        <description>AIxBio is here: Navigating the pacing problem and the future of global biosecurity</description>
-        <pubDate>Thu, 15 Jan 2026 12:54:28 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/biotechnology-and-ai-technological-convergence-part-1</guid>
     </item>
     
     <item>
