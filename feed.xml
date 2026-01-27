@@ -6,8 +6,26 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Mon, 26 Jan 2026 06:46:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 06:43:34 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>Call for Proposals Now Open: 2026 Applied Machine Learning Conference</title>
+        <link>https://blog.stephenturner.us/p/applied-machine-learning-conference-2026</link>
+        <description>Whether this is your first conference talk or your fiftieth, we&amp;#8217;re looking for speakers from a variety of backgrounds and experience levels</description>
+        <pubDate>Mon, 26 Jan 2026 16:30:44 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/applied-machine-learning-conference-2026</guid>
+    </item>
+    
+    <item>
+        <title>Scientific production in the era of large language models</title>
+        <link>https://blog.stephenturner.us/p/scientific-production-llms</link>
+        <description>With the production process rapidly evolving, science policy must consider how institutions could evolve</description>
+        <pubDate>Mon, 26 Jan 2026 13:28:27 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/scientific-production-llms</guid>
+    </item>
     
     <item>
         <title>ONT Axes P2 Solo, Roiling Community</title>
@@ -25,24 +43,6 @@
         <pubDate>Sat, 24 Jan 2026 17:30:48 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/synthetic-eden</guid>
-    </item>
-    
-    <item>
-        <title>The GENCODE CLS project – massively expanding the lncRNA catalog through capture long-read RNA sequencing</title>
-        <link>https://www.rna-seqblog.com/the-gencode-cls-project-massively-expanding-the-lncrna-catalog-through-capture-long-read-rna-sequencing/</link>
-        <description>An expanded GENCODE lncRNA catalog built using long-read RNA sequencing reveals thousands of new human and mouse genes, improving genome interpretation and disease...</description>
-        <pubDate>Fri, 23 Jan 2026 12:37:42 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/the-gencode-cls-project-massively-expanding-the-lncrna-catalog-through-capture-long-read-rna-sequencing/</guid>
-    </item>
-    
-    <item>
-        <title>Impact and correction of segmentation errors in spatial transcriptomics</title>
-        <link>https://www.rna-seqblog.com/impact-and-correction-of-segmentation-errors-in-spatial-transcriptomics/</link>
-        <description>Segmentation errors can strongly distort spatial transcriptomics results, and new computational strategies help correct mixed signals to improve RNA sequencing based tissue analysis....</description>
-        <pubDate>Fri, 23 Jan 2026 12:37:27 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/impact-and-correction-of-segmentation-errors-in-spatial-transcriptomics/</guid>
     </item>
     
     <item>
@@ -64,24 +64,6 @@
     </item>
     
     <item>
-        <title>Research uses cutting-edge technology to map how gums become diseased</title>
-        <link>https://www.rna-seqblog.com/research-uses-cutting-edge-technology-to-map-how-gums-become-diseased/</link>
-        <description>Single-cell RNA sequencing reveals how gum tissues shift from health to disease, identifying regenerative and destructive cell populations that could guide more targeted treatments for periodontitis..</description>
-        <pubDate>Thu, 22 Jan 2026 12:13:17 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/research-uses-cutting-edge-technology-to-map-how-gums-become-diseased/</guid>
-    </item>
-    
-    <item>
-        <title>Targeted long-read RNA sequencing improves diagnosis of Lynch syndrome</title>
-        <link>https://www.rna-seqblog.com/targeted-long-read-rna-sequencing-improves-diagnosis-of-lynch-syndrome/</link>
-        <description>Many human genes produce multiple mRNA isoforms, and changes in splicing or expression can strongly influence disease risk. Yet most clinical genetic tests focus on DNA sequence alone and often miss h</description>
-        <pubDate>Thu, 22 Jan 2026 12:13:04 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/targeted-long-read-rna-sequencing-improves-diagnosis-of-lynch-syndrome/</guid>
-    </item>
-    
-    <item>
         <title>Biotechnology and AI: Technological Convergence and Information Hazards (Part 2)</title>
         <link>https://blog.stephenturner.us/p/biotechnology-and-ai-technological-convergence-part-2</link>
         <description>Part 2 summarizing chapters from &#34;Biotechnology and AI: Technological Convergence and Information Hazards&#34; from the NATO Advanced Research Workshop on AI and biotechnology convergence</description>
@@ -97,33 +79,6 @@
         <pubDate>2026-01-21T00:00:00+00:00</pubDate>
         <source>Ryan Wick’s bioinformatics blog</source>
         <guid>https://rrwick.github.io/2026/01/21/p2_solo.html</guid>
-    </item>
-    
-    <item>
-        <title>A New Method for Nanopore Direct RNA-Seq Pushes the Limits of Long Transcript Identification and Isoform Resolution</title>
-        <link>https://www.rna-seqblog.com/a-new-method-for-nanopore-direct-rna-seq-pushes-the-limits-of-long-transcript-identification-and-isoform-resolution/</link>
-        <description>Direct RNA sequencing (DRS) on nanopore platforms promises something short-read methods cannot: native RNA molecules read end-to-end, with isoforms, long transcripts, and RNA modifications preserved. </description>
-        <pubDate>Tue, 20 Jan 2026 12:16:29 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/a-new-method-for-nanopore-direct-rna-seq-pushes-the-limits-of-long-transcript-identification-and-isoform-resolution/</guid>
-    </item>
-    
-    <item>
-        <title>AI Amplifies Careers and Compresses Fields</title>
-        <link>https://blog.stephenturner.us/p/ai-amplifies-careers-and-compresses-fields</link>
-        <description>A new study in Nature finds that AI adoption correlates with faster career ascent and higher citation impact, while the semantic spread of entire fields subtly contracts around fewer topical regions.</description>
-        <pubDate>Mon, 19 Jan 2026 11:03:23 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/ai-amplifies-careers-and-compresses-fields</guid>
-    </item>
-    
-    <item>
-        <title>Contextual Distraction: RAG isn&#39;t a Seatbelt</title>
-        <link>https://blog.stephenturner.us/p/contextual-distraction-rag-labsafety-bench</link>
-        <description>A laboratory safety benchmark finds retrieval augmented generation (RAG) can make strong models worse.</description>
-        <pubDate>Sat, 17 Jan 2026 16:30:18 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/contextual-distraction-rag-labsafety-bench</guid>
     </item>
     
     <item>
@@ -464,6 +419,51 @@ Roche released </description>
         <pubDate>2025-09-04T00:00:00+00:00</pubDate>
         <source>Ryan Wick’s bioinformatics blog</source>
         <guid>https://rrwick.github.io/2025/09/04/homopolymer-polishing.html</guid>
+    </item>
+    
+    <item>
+        <title>On professionalism</title>
+        <link>https://davetang.org/muse/2025/08/30/on-professionalism/</link>
+        <description>&lt;p&gt;I&#39;m a huge fan of Conan O&#39;Brien; there&#39;s just something about his demeanour, humour, and wittiness that I admire. I discovered him on YouTube around 2012 and was quite oblivious to who he was, what</description>
+        <pubDate>Sat, 30 Aug 2025 03:01:22 +0000</pubDate>
+        <source>Dave Tang&#39;s blog</source>
+        <guid>https://davetang.org/muse/2025/08/30/on-professionalism/</guid>
+    </item>
+    
+    <item>
+        <title>Reproducible Computing in Bioinformatics: Lessons from My Latest Talk</title>
+        <link>https://divingintogeneticsandgenomics.com/post/repro-comp/</link>
+        <description>&lt;p&gt;Hey everyone, it’s Tommy here. If you’ve been following my blog or my Twitter/X (&lt;span class=&#34;citation&#34;&gt;@tangming2005&lt;/span&gt;), you know I love diving into the practical side of bioinformatics and g</description>
+        <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+        <source>Chatomics on Chatomics</source>
+        <guid>https://divingintogeneticsandgenomics.com/post/repro-comp/</guid>
+    </item>
+    
+    <item>
+        <title>Hosting your own Git repositories</title>
+        <link>https://davetang.org/muse/2025/08/14/hosting-your-own-git-repositories/</link>
+        <description>&lt;p&gt;As you may have already heard, GitHub just got less independent at Microsoft after CEO resignation. What does this mean? Well, I guess nobody knows for certain but it probably will mean that GitHub</description>
+        <pubDate>Wed, 13 Aug 2025 23:34:00 +0000</pubDate>
+        <source>Dave Tang&#39;s blog</source>
+        <guid>https://davetang.org/muse/2025/08/14/hosting-your-own-git-repositories/</guid>
+    </item>
+    
+    <item>
+        <title>Job search 2025 post-mortem and advice</title>
+        <link>https://ekernf01.github.io/job_search_2025</link>
+        <description>The comp bio job market is scarier than usual: 2023 was a biotech bankruptcy bloodbath, 2024 was a little better, and as far as layoffs, 2025 has been worse. Academic and government sectors are also r</description>
+        <pubDate>2025-08-13T00:00:00+00:00</pubDate>
+        <source>Eric Kernfeld</source>
+        <guid>https://ekernf01.github.io/job_search_2025</guid>
+    </item>
+    
+    <item>
+        <title>How long does it take to run gpt-oss:20b?</title>
+        <link>https://davetang.org/muse/2025/08/10/how-long-does-it-take-to-run-gpt-oss20b/</link>
+        <description>&lt;p&gt;gpt-oss is OpenAI&#39;s open-weight models designed for powerful reasoning, agentic tasks, and versatile developer use cases. You can easily use it via Ollama and read more about it in their blog post.</description>
+        <pubDate>Sun, 10 Aug 2025 05:37:04 +0000</pubDate>
+        <source>Dave Tang&#39;s blog</source>
+        <guid>https://davetang.org/muse/2025/08/10/how-long-does-it-take-to-run-gpt-oss20b/</guid>
     </item>
     
 
