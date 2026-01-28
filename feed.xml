@@ -6,8 +6,26 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Tue, 27 Jan 2026 06:43:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 06:44:19 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>Comparing the impact of sample multiplexing approaches for single-cell RNA-sequencing on downstream analysis</title>
+        <link>https://www.rna-seqblog.com/comparing-the-impact-of-sample-multiplexing-approaches-for-single-cell-rna-sequencing-on-downstream-analysis/</link>
+        <description>A head to head comparison of multiplexing strategies shows how workflow choice in RNA sequencing affects cell stress, transcript coverage, and data quality in cerebellar organoids...</description>
+        <pubDate>Tue, 27 Jan 2026 12:12:46 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/comparing-the-impact-of-sample-multiplexing-approaches-for-single-cell-rna-sequencing-on-downstream-analysis/</guid>
+    </item>
+    
+    <item>
+        <title>Researchers develop deep-learning tools to transform cancer diagnosis and genomic research</title>
+        <link>https://www.rna-seqblog.com/researchers-develop-deep-learning-tools-to-transform-cancer-diagnosis-and-genomic-research/</link>
+        <description>Deep-learning tools ClairS-TO and Clair3-RNA improve mutation detection from long-read DNA and RNA sequencing, enabling more accurate cancer diagnostics and RNA-level variant analysis...</description>
+        <pubDate>Tue, 27 Jan 2026 12:12:32 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/researchers-develop-deep-learning-tools-to-transform-cancer-diagnosis-and-genomic-research/</guid>
+    </item>
     
     <item>
         <title>Call for Proposals Now Open: 2026 Applied Machine Learning Conference</title>
@@ -28,6 +46,24 @@
     </item>
     
     <item>
+        <title>Uncovering cancer’s hidden oncRNA signatures – from discovery to liquid biopsy</title>
+        <link>https://www.rna-seqblog.com/uncovering-cancers-hidden-oncrna-signatures-from-discovery-to-liquid-biopsy/</link>
+        <description>Large-scale RNA sequencing reveals cancer-specific orphan RNAs that act as molecular barcodes, drive tumor growth, and enable blood-based monitoring of cancer burden and patient outcomes...</description>
+        <pubDate>Mon, 26 Jan 2026 12:11:32 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/uncovering-cancers-hidden-oncrna-signatures-from-discovery-to-liquid-biopsy/</guid>
+    </item>
+    
+    <item>
+        <title>A dual context-aware basecaller for nanopore direct RNA sequencing</title>
+        <link>https://www.rna-seqblog.com/a-dual-context-aware-basecaller-for-nanopore-direct-rna-sequencing/</link>
+        <description>Nanopore direct RNA sequencing (DRS) lets scientists read native RNA molecules directly, preserving important features such as chemical modifications and avoiding biases introduced by copying RNA into</description>
+        <pubDate>Mon, 26 Jan 2026 12:11:22 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/a-dual-context-aware-basecaller-for-nanopore-direct-rna-sequencing/</guid>
+    </item>
+    
+    <item>
         <title>ONT Axes P2 Solo, Roiling Community</title>
         <link>https://omicsomics.blogspot.com/2026/01/ont-axes-p2-solo-roiling-community.html</link>
         <description>&lt;div&gt;Oxford Nanopore has a serious case of user community unrest, triggered by the announcement that the P2 Solo (aka P2s) will be phased out starting this summer.  P2 Solo is the two flowcell version</description>
@@ -43,6 +79,15 @@
         <pubDate>Sat, 24 Jan 2026 17:30:48 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/synthetic-eden</guid>
+    </item>
+    
+    <item>
+        <title>The GENCODE CLS project – massively expanding the lncRNA catalog through capture long-read RNA sequencing</title>
+        <link>https://www.rna-seqblog.com/the-gencode-cls-project-massively-expanding-the-lncrna-catalog-through-capture-long-read-rna-sequencing/</link>
+        <description>Understanding how genomes work depends on knowing where genes are and what they produce. While protein-coding genes are relatively well annotated, long non-coding RNAs, or lncRNAs, have remained one o</description>
+        <pubDate>Fri, 23 Jan 2026 12:37:42 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/the-gencode-cls-project-massively-expanding-the-lncrna-catalog-through-capture-long-read-rna-sequencing/</guid>
     </item>
     
     <item>
@@ -419,51 +464,6 @@ Roche released </description>
         <pubDate>2025-09-04T00:00:00+00:00</pubDate>
         <source>Ryan Wick’s bioinformatics blog</source>
         <guid>https://rrwick.github.io/2025/09/04/homopolymer-polishing.html</guid>
-    </item>
-    
-    <item>
-        <title>On professionalism</title>
-        <link>https://davetang.org/muse/2025/08/30/on-professionalism/</link>
-        <description>&lt;p&gt;I&#39;m a huge fan of Conan O&#39;Brien; there&#39;s just something about his demeanour, humour, and wittiness that I admire. I discovered him on YouTube around 2012 and was quite oblivious to who he was, what</description>
-        <pubDate>Sat, 30 Aug 2025 03:01:22 +0000</pubDate>
-        <source>Dave Tang&#39;s blog</source>
-        <guid>https://davetang.org/muse/2025/08/30/on-professionalism/</guid>
-    </item>
-    
-    <item>
-        <title>Reproducible Computing in Bioinformatics: Lessons from My Latest Talk</title>
-        <link>https://divingintogeneticsandgenomics.com/post/repro-comp/</link>
-        <description>&lt;p&gt;Hey everyone, it’s Tommy here. If you’ve been following my blog or my Twitter/X (&lt;span class=&#34;citation&#34;&gt;@tangming2005&lt;/span&gt;), you know I love diving into the practical side of bioinformatics and g</description>
-        <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
-        <source>Chatomics on Chatomics</source>
-        <guid>https://divingintogeneticsandgenomics.com/post/repro-comp/</guid>
-    </item>
-    
-    <item>
-        <title>Hosting your own Git repositories</title>
-        <link>https://davetang.org/muse/2025/08/14/hosting-your-own-git-repositories/</link>
-        <description>&lt;p&gt;As you may have already heard, GitHub just got less independent at Microsoft after CEO resignation. What does this mean? Well, I guess nobody knows for certain but it probably will mean that GitHub</description>
-        <pubDate>Wed, 13 Aug 2025 23:34:00 +0000</pubDate>
-        <source>Dave Tang&#39;s blog</source>
-        <guid>https://davetang.org/muse/2025/08/14/hosting-your-own-git-repositories/</guid>
-    </item>
-    
-    <item>
-        <title>Job search 2025 post-mortem and advice</title>
-        <link>https://ekernf01.github.io/job_search_2025</link>
-        <description>The comp bio job market is scarier than usual: 2023 was a biotech bankruptcy bloodbath, 2024 was a little better, and as far as layoffs, 2025 has been worse. Academic and government sectors are also r</description>
-        <pubDate>2025-08-13T00:00:00+00:00</pubDate>
-        <source>Eric Kernfeld</source>
-        <guid>https://ekernf01.github.io/job_search_2025</guid>
-    </item>
-    
-    <item>
-        <title>How long does it take to run gpt-oss:20b?</title>
-        <link>https://davetang.org/muse/2025/08/10/how-long-does-it-take-to-run-gpt-oss20b/</link>
-        <description>&lt;p&gt;gpt-oss is OpenAI&#39;s open-weight models designed for powerful reasoning, agentic tasks, and versatile developer use cases. You can easily use it via Ollama and read more about it in their blog post.</description>
-        <pubDate>Sun, 10 Aug 2025 05:37:04 +0000</pubDate>
-        <source>Dave Tang&#39;s blog</source>
-        <guid>https://davetang.org/muse/2025/08/10/how-long-does-it-take-to-run-gpt-oss20b/</guid>
     </item>
     
 
