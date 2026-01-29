@@ -6,8 +6,35 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Wed, 28 Jan 2026 06:44:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 06:56:01 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>P2 Solo: ONT Extends Support But Not Sales</title>
+        <link>https://omicsomics.blogspot.com/2026/01/p2-solo-ont-extends-support-but-not.html</link>
+        <description>A brief update to the &lt;a href=&#34;https://omicsomics.blogspot.com/2026/01/ont-axes-p2-solo-roiling-community.html&#34;&gt;earlier P2 Solo piece&lt;/a&gt; - Oxford Nanopore has now announced they will extend their sup</description>
+        <pubDate>2026-01-28T11:01:00.001-05:00</pubDate>
+        <source>Omics! Omics!</source>
+        <guid>https://omicsomics.blogspot.com/2026/01/p2-solo-ont-extends-support-but-not.html</guid>
+    </item>
+    
+    <item>
+        <title>omnideconv – a unifying framework for using and benchmarking single-cell-informed deconvolution of bulk RNA-seq data</title>
+        <link>https://www.rna-seqblog.com/omnideconv-a-unifying-framework-for-using-and-benchmarking-single-cell-informed-deconvolution-of-bulk-rna-seq-data/</link>
+        <description>A large scale benchmark shows how single cell informed deconvolution methods perform across diverse datasets, guiding better use of RNA sequencing to infer cell type composition...</description>
+        <pubDate>Wed, 28 Jan 2026 12:26:18 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/omnideconv-a-unifying-framework-for-using-and-benchmarking-single-cell-informed-deconvolution-of-bulk-rna-seq-data/</guid>
+    </item>
+    
+    <item>
+        <title>The world’s first elucidation of the immunomodulatory effects of kimchi</title>
+        <link>https://www.rna-seqblog.com/the-worlds-first-elucidation-of-the-immunomodulatory-effects-of-kimchi/</link>
+        <description>Single-cell RNA sequencing shows that kimchi consumption fine-tunes immune cell behavior, strengthening antigen presentation and balancing CD4 T cell responses to support immune health...</description>
+        <pubDate>Wed, 28 Jan 2026 12:26:04 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/the-worlds-first-elucidation-of-the-immunomodulatory-effects-of-kimchi/</guid>
+    </item>
     
     <item>
         <title>Comparing the impact of sample multiplexing approaches for single-cell RNA-sequencing on downstream analysis</title>
@@ -21,7 +48,7 @@
     <item>
         <title>Researchers develop deep-learning tools to transform cancer diagnosis and genomic research</title>
         <link>https://www.rna-seqblog.com/researchers-develop-deep-learning-tools-to-transform-cancer-diagnosis-and-genomic-research/</link>
-        <description>Deep-learning tools ClairS-TO and Clair3-RNA improve mutation detection from long-read DNA and RNA sequencing, enabling more accurate cancer diagnostics and RNA-level variant analysis...</description>
+        <description>Researchers from the Faculty of Engineering at The University of Hong Kong (HKU) have developed two innovative deep-learning algorithms, ClairS-TO and Clair3-RNA, that significantly advance genetic mu</description>
         <pubDate>Tue, 27 Jan 2026 12:12:32 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/researchers-develop-deep-learning-tools-to-transform-cancer-diagnosis-and-genomic-research/</guid>
@@ -48,19 +75,10 @@
     <item>
         <title>Uncovering cancer’s hidden oncRNA signatures – from discovery to liquid biopsy</title>
         <link>https://www.rna-seqblog.com/uncovering-cancers-hidden-oncrna-signatures-from-discovery-to-liquid-biopsy/</link>
-        <description>Large-scale RNA sequencing reveals cancer-specific orphan RNAs that act as molecular barcodes, drive tumor growth, and enable blood-based monitoring of cancer burden and patient outcomes...</description>
+        <description>Researchers at UCSF identified something unusual with T3p, a small RNA present in breast cancer but absent from normal tissue. First described in 2018, this molecule launched a six-year effort to syst</description>
         <pubDate>Mon, 26 Jan 2026 12:11:32 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/uncovering-cancers-hidden-oncrna-signatures-from-discovery-to-liquid-biopsy/</guid>
-    </item>
-    
-    <item>
-        <title>A dual context-aware basecaller for nanopore direct RNA sequencing</title>
-        <link>https://www.rna-seqblog.com/a-dual-context-aware-basecaller-for-nanopore-direct-rna-sequencing/</link>
-        <description>Nanopore direct RNA sequencing (DRS) lets scientists read native RNA molecules directly, preserving important features such as chemical modifications and avoiding biases introduced by copying RNA into</description>
-        <pubDate>Mon, 26 Jan 2026 12:11:22 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/a-dual-context-aware-basecaller-for-nanopore-direct-rna-sequencing/</guid>
     </item>
     
     <item>
@@ -79,15 +97,6 @@
         <pubDate>Sat, 24 Jan 2026 17:30:48 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/synthetic-eden</guid>
-    </item>
-    
-    <item>
-        <title>The GENCODE CLS project – massively expanding the lncRNA catalog through capture long-read RNA sequencing</title>
-        <link>https://www.rna-seqblog.com/the-gencode-cls-project-massively-expanding-the-lncrna-catalog-through-capture-long-read-rna-sequencing/</link>
-        <description>Understanding how genomes work depends on knowing where genes are and what they produce. While protein-coding genes are relatively well annotated, long non-coding RNAs, or lncRNAs, have remained one o</description>
-        <pubDate>Fri, 23 Jan 2026 12:37:42 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/the-gencode-cls-project-massively-expanding-the-lncrna-catalog-through-capture-long-read-rna-sequencing/</guid>
     </item>
     
     <item>
@@ -169,15 +178,6 @@
         <pubDate>Wed, 07 Jan 2026 22:25:16 +0000</pubDate>
         <source>What You&#39;re Doing Is Rather Desperate</source>
         <guid>https://nsaunders.wordpress.com/2026/01/08/directional-markers-in-r-leaflet/</guid>
-    </item>
-    
-    <item>
-        <title>Scales of Instrumentation and Automation</title>
-        <link>https://omicsomics.blogspot.com/2026/01/scales-of-instrumentation-and-automation.html</link>
-        <description>Back in September I moved into a product role within the automation unit at Ginkgo, where we sell autonomous laboratories.  I&#39;m going to end up posting a bunch on the topic, as I spend a lot of time t</description>
-        <pubDate>2026-01-07T09:37:00.002-05:00</pubDate>
-        <source>Omics! Omics!</source>
-        <guid>https://omicsomics.blogspot.com/2026/01/scales-of-instrumentation-and-automation.html</guid>
     </item>
     
     <item>
