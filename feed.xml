@@ -6,8 +6,44 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Thu, 29 Jan 2026 06:56:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 06:57:27 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>Zotero + Consensus AI</title>
+        <link>https://blog.stephenturner.us/p/zotero-consensus-ai</link>
+        <description>Sync your Zotero library to Consensus AI to ask questions about papers you&#39;ve saved, and find and fill in gaps in your collections.</description>
+        <pubDate>Thu, 29 Jan 2026 19:29:48 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/zotero-consensus-ai</guid>
+    </item>
+    
+    <item>
+        <title>Sequencer vs. Library Prep Market Structures</title>
+        <link>https://omicsomics.blogspot.com/2026/01/sequencer-vs-library-prep-market.html</link>
+        <description>Something I started pondering as I was prepping my JP Morgan items: the structure of the market for sequencing library prep is very different from that for sequencers.  Perhaps this is painfully obvio</description>
+        <pubDate>2026-01-29T12:21:00.000-05:00</pubDate>
+        <source>Omics! Omics!</source>
+        <guid>https://omicsomics.blogspot.com/2026/01/sequencer-vs-library-prep-market.html</guid>
+    </item>
+    
+    <item>
+        <title>Mapping the hidden diversity of pediatric brain tumors</title>
+        <link>https://www.rna-seqblog.com/mapping-the-hidden-diversity-of-pediatric-brain-tumors/</link>
+        <description>RNA sequencing reveals hidden molecular diversity in pediatric brain tumors, improving classification of medulloblastoma and ependymoma and supporting more precise diagnosis and treatment decisions...</description>
+        <pubDate>Thu, 29 Jan 2026 12:16:28 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/mapping-the-hidden-diversity-of-pediatric-brain-tumors/</guid>
+    </item>
+    
+    <item>
+        <title>scRNA-seq reveals antibody-producing immune cells that can help shape cancer immunotherapy</title>
+        <link>https://www.rna-seqblog.com/scrna-seq-reveals-antibody-producing-immune-cells-that-can-help-shape-cancer-immunotherapy/</link>
+        <description>RNA sequencing and immune profiling reveal that IgG1-producing plasma cells support effective PD-1 immunotherapy responses by coordinating antibody and T cell activity in cancer patients...</description>
+        <pubDate>Thu, 29 Jan 2026 12:16:16 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/scrna-seq-reveals-antibody-producing-immune-cells-that-can-help-shape-cancer-immunotherapy/</guid>
+    </item>
     
     <item>
         <title>P2 Solo: ONT Extends Support But Not Sales</title>
@@ -30,7 +66,7 @@
     <item>
         <title>The world’s first elucidation of the immunomodulatory effects of kimchi</title>
         <link>https://www.rna-seqblog.com/the-worlds-first-elucidation-of-the-immunomodulatory-effects-of-kimchi/</link>
-        <description>Single-cell RNA sequencing shows that kimchi consumption fine-tunes immune cell behavior, strengthening antigen presentation and balancing CD4 T cell responses to support immune health...</description>
+        <description>Amid concerns about the simultaneous spread of multiple respiratory diseases, such as colds and influenza, with the change of seasons in current times, a recent clinical study has scientifically prove</description>
         <pubDate>Wed, 28 Jan 2026 12:26:04 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/the-worlds-first-elucidation-of-the-immunomodulatory-effects-of-kimchi/</guid>
@@ -39,19 +75,10 @@
     <item>
         <title>Comparing the impact of sample multiplexing approaches for single-cell RNA-sequencing on downstream analysis</title>
         <link>https://www.rna-seqblog.com/comparing-the-impact-of-sample-multiplexing-approaches-for-single-cell-rna-sequencing-on-downstream-analysis/</link>
-        <description>A head to head comparison of multiplexing strategies shows how workflow choice in RNA sequencing affects cell stress, transcript coverage, and data quality in cerebellar organoids...</description>
+        <description>Single cell RNA sequencing has become a powerful way to study how individual cells behave within complex tissues. One challenge, however, is throughput, running many samples and many cells can quickly</description>
         <pubDate>Tue, 27 Jan 2026 12:12:46 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/comparing-the-impact-of-sample-multiplexing-approaches-for-single-cell-rna-sequencing-on-downstream-analysis/</guid>
-    </item>
-    
-    <item>
-        <title>Researchers develop deep-learning tools to transform cancer diagnosis and genomic research</title>
-        <link>https://www.rna-seqblog.com/researchers-develop-deep-learning-tools-to-transform-cancer-diagnosis-and-genomic-research/</link>
-        <description>Researchers from the Faculty of Engineering at The University of Hong Kong (HKU) have developed two innovative deep-learning algorithms, ClairS-TO and Clair3-RNA, that significantly advance genetic mu</description>
-        <pubDate>Tue, 27 Jan 2026 12:12:32 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/researchers-develop-deep-learning-tools-to-transform-cancer-diagnosis-and-genomic-research/</guid>
     </item>
     
     <item>
@@ -70,15 +97,6 @@
         <pubDate>Mon, 26 Jan 2026 13:28:27 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/scientific-production-llms</guid>
-    </item>
-    
-    <item>
-        <title>Uncovering cancer’s hidden oncRNA signatures – from discovery to liquid biopsy</title>
-        <link>https://www.rna-seqblog.com/uncovering-cancers-hidden-oncrna-signatures-from-discovery-to-liquid-biopsy/</link>
-        <description>Researchers at UCSF identified something unusual with T3p, a small RNA present in breast cancer but absent from normal tissue. First described in 2018, this molecule launched a six-year effort to syst</description>
-        <pubDate>Mon, 26 Jan 2026 12:11:32 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/uncovering-cancers-hidden-oncrna-signatures-from-discovery-to-liquid-biopsy/</guid>
     </item>
     
     <item>
@@ -118,15 +136,6 @@
     </item>
     
     <item>
-        <title>Biotechnology and AI: Technological Convergence and Information Hazards (Part 2)</title>
-        <link>https://blog.stephenturner.us/p/biotechnology-and-ai-technological-convergence-part-2</link>
-        <description>Part 2 summarizing chapters from &#34;Biotechnology and AI: Technological Convergence and Information Hazards&#34; from the NATO Advanced Research Workshop on AI and biotechnology convergence</description>
-        <pubDate>Thu, 22 Jan 2026 09:37:23 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/biotechnology-and-ai-technological-convergence-part-2</guid>
-    </item>
-    
-    <item>
         <title>P2 Solo announcement and the trade-offs of a more stable ONT</title>
         <link>https://rrwick.github.io/2026/01/21/p2_solo.html</link>
         <description></description>
@@ -160,15 +169,6 @@
         <pubDate>2026-01-11T22:03:00.008-05:00</pubDate>
         <source>Omics! Omics!</source>
         <guid>https://omicsomics.blogspot.com/2026/01/jpm-2026-through-molecular-tools.html</guid>
-    </item>
-    
-    <item>
-        <title>Stalking the Elusive Product Market Fit</title>
-        <link>https://omicsomics.blogspot.com/2026/01/stalking-elusive-product-market-fit.html</link>
-        <description>I had a wonderful breakfast conversation back in November with Arima Genomics Founder (and now President and Chief Operating Officer) Sid Selvaraj where he brought up the topic of product market fit. </description>
-        <pubDate>2026-01-09T12:06:00.003-05:00</pubDate>
-        <source>Omics! Omics!</source>
-        <guid>https://omicsomics.blogspot.com/2026/01/stalking-elusive-product-market-fit.html</guid>
     </item>
     
     <item>
