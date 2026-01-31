@@ -6,8 +6,35 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Fri, 30 Jan 2026 06:57:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 06:48:39 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>RNA sequencing reveals how low-dose THC and celecoxib may improve Alzheimer’s disease</title>
+        <link>https://www.rna-seqblog.com/rna-sequencing-reveals-how-low-dose-thc-and-celecoxib-may-improve-alzheimers-disease/</link>
+        <description>RNA sequencing shows that combining low-dose THC with celecoxib shifts inflammatory and synaptic gene expression toward healthier patterns while improving cognition in Alzheimer’s mouse models...</description>
+        <pubDate>Fri, 30 Jan 2026 12:18:57 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/rna-sequencing-reveals-how-low-dose-thc-and-celecoxib-may-improve-alzheimers-disease/</guid>
+    </item>
+    
+    <item>
+        <title>RNA sequencing reveals metabolic and synaptic changes in Alzheimer’s disease</title>
+        <link>https://www.rna-seqblog.com/rna-sequencing-reveals-metabolic-and-synaptic-changes-in-alzheimers-disease/</link>
+        <description>RNA sequencing of blood samples reveals metabolic and synaptic gene expression changes linked to Alzheimer’s disease, highlighting the importance of studying diverse populations for inclusive biomarke</description>
+        <pubDate>Fri, 30 Jan 2026 12:18:44 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/rna-sequencing-reveals-metabolic-and-synaptic-changes-in-alzheimers-disease/</guid>
+    </item>
+    
+    <item>
+        <title>Weekly Recap (January 30, 2026)</title>
+        <link>https://blog.stephenturner.us/p/weekly-recap-january-30-2026</link>
+        <description>Global Biodiversity Framework, Colossal+Conservation, DARPA GUARDIAN, NTI on AIxBio, NeurIPS hallucitations, Claude in Excel, AI@UVA, Amodei essay, R updates (R Weekly, R Data Scientist), papers.</description>
+        <pubDate>Fri, 30 Jan 2026 09:28:28 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/weekly-recap-january-30-2026</guid>
+    </item>
     
     <item>
         <title>Zotero + Consensus AI</title>
@@ -39,7 +66,7 @@
     <item>
         <title>scRNA-seq reveals antibody-producing immune cells that can help shape cancer immunotherapy</title>
         <link>https://www.rna-seqblog.com/scrna-seq-reveals-antibody-producing-immune-cells-that-can-help-shape-cancer-immunotherapy/</link>
-        <description>RNA sequencing and immune profiling reveal that IgG1-producing plasma cells support effective PD-1 immunotherapy responses by coordinating antibody and T cell activity in cancer patients...</description>
+        <description>Scientists at the Icahn School of Medicine at Mount Sinai have identified an important immune response that helps explain why some cancer patients benefit from immunotherapy while others do not.   In </description>
         <pubDate>Thu, 29 Jan 2026 12:16:16 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/scrna-seq-reveals-antibody-producing-immune-cells-that-can-help-shape-cancer-immunotherapy/</guid>
@@ -57,28 +84,10 @@
     <item>
         <title>omnideconv – a unifying framework for using and benchmarking single-cell-informed deconvolution of bulk RNA-seq data</title>
         <link>https://www.rna-seqblog.com/omnideconv-a-unifying-framework-for-using-and-benchmarking-single-cell-informed-deconvolution-of-bulk-rna-seq-data/</link>
-        <description>A large scale benchmark shows how single cell informed deconvolution methods perform across diverse datasets, guiding better use of RNA sequencing to infer cell type composition...</description>
+        <description>Understanding which cell types are present in a tissue is essential for interpreting gene expression data, especially when samples contain a mixture of many different cells. Bulk transcriptomics measu</description>
         <pubDate>Wed, 28 Jan 2026 12:26:18 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/omnideconv-a-unifying-framework-for-using-and-benchmarking-single-cell-informed-deconvolution-of-bulk-rna-seq-data/</guid>
-    </item>
-    
-    <item>
-        <title>The world’s first elucidation of the immunomodulatory effects of kimchi</title>
-        <link>https://www.rna-seqblog.com/the-worlds-first-elucidation-of-the-immunomodulatory-effects-of-kimchi/</link>
-        <description>Amid concerns about the simultaneous spread of multiple respiratory diseases, such as colds and influenza, with the change of seasons in current times, a recent clinical study has scientifically prove</description>
-        <pubDate>Wed, 28 Jan 2026 12:26:04 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/the-worlds-first-elucidation-of-the-immunomodulatory-effects-of-kimchi/</guid>
-    </item>
-    
-    <item>
-        <title>Comparing the impact of sample multiplexing approaches for single-cell RNA-sequencing on downstream analysis</title>
-        <link>https://www.rna-seqblog.com/comparing-the-impact-of-sample-multiplexing-approaches-for-single-cell-rna-sequencing-on-downstream-analysis/</link>
-        <description>Single cell RNA sequencing has become a powerful way to study how individual cells behave within complex tissues. One challenge, however, is throughput, running many samples and many cells can quickly</description>
-        <pubDate>Tue, 27 Jan 2026 12:12:46 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/comparing-the-impact-of-sample-multiplexing-approaches-for-single-cell-rna-sequencing-on-downstream-analysis/</guid>
     </item>
     
     <item>
@@ -115,15 +124,6 @@
         <pubDate>Sat, 24 Jan 2026 17:30:48 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/synthetic-eden</guid>
-    </item>
-    
-    <item>
-        <title>Weekly Recap (January 23, 2026)</title>
-        <link>https://blog.stephenturner.us/p/weekly-recap-january-23-2026</link>
-        <description>AIxBio, Claude&#39;s Constitution, UK AI+Science, exams with chatbots, R updates (Posit, R Data Scientist, R Weekly), reading what Adam Kucharski is reading, AI vs reality at Salesforce, papers+preprints.</description>
-        <pubDate>Fri, 23 Jan 2026 09:11:00 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/weekly-recap-january-23-2026</guid>
     </item>
     
     <item>
