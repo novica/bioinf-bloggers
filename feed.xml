@@ -6,8 +6,17 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Sat, 31 Jan 2026 06:48:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 06:57:12 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>How AI assistance impacts the formation of coding skills</title>
+        <link>https://blog.stephenturner.us/p/ai-assistance-coding-skills-anthropic</link>
+        <description>Research from scientists at Anthropic suggests productivity gains come at the cost of skill development.</description>
+        <pubDate>Sat, 31 Jan 2026 09:56:49 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/ai-assistance-coding-skills-anthropic</guid>
+    </item>
     
     <item>
         <title>RNA sequencing reveals how low-dose THC and celecoxib may improve Alzheimer’s disease</title>
@@ -115,15 +124,6 @@
         <pubDate>2026-01-25T20:43:00.001-05:00</pubDate>
         <source>Omics! Omics!</source>
         <guid>https://omicsomics.blogspot.com/2026/01/ont-axes-p2-solo-roiling-community.html</guid>
-    </item>
-    
-    <item>
-        <title>Synthetic Eden: The Tools That Save Elephants and Reshape Us</title>
-        <link>https://blog.stephenturner.us/p/synthetic-eden</link>
-        <description>If you read Paired Ends because you care about how biology, technology, and society co-evolve, this story was written for you.</description>
-        <pubDate>Sat, 24 Jan 2026 17:30:48 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/synthetic-eden</guid>
     </item>
     
     <item>
