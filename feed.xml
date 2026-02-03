@@ -6,8 +6,53 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Mon, 02 Feb 2026 07:08:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 06:59:10 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>Non-coding DNA&#39;s Alpha Moment</title>
+        <link>https://omicsomics.blogspot.com/2026/02/non-coding-dnas-alpha-moment.html</link>
+        <description>&lt;span id=&#34;docs-internal-guid-be227014-7fff-a943-f37b-92206cd9ea0a&#34;&gt;&lt;p dir=&#34;ltr&#34; style=&#34;line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;&#34;&gt;&lt;span style=&#34;font-family: Arial, sans-serif; font-size: </description>
+        <pubDate>2026-02-02T10:28:00.005-05:00</pubDate>
+        <source>Omics! Omics!</source>
+        <guid>https://omicsomics.blogspot.com/2026/02/non-coding-dnas-alpha-moment.html</guid>
+    </item>
+    
+    <item>
+        <title>Improving atlas-scale single-cell annotation models with hierarchical cross-entropy loss</title>
+        <link>https://www.rna-seqblog.com/improving-atlas-scale-single-cell-annotation-models-with-hierarchical-cross-entropy-loss/</link>
+        <description>A new approach to RNA sequencing analysis shows that respecting biological cell hierarchies improves single-cell annotation accuracy, especially when models are applied to new...</description>
+        <pubDate>Mon, 02 Feb 2026 12:16:23 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/improving-atlas-scale-single-cell-annotation-models-with-hierarchical-cross-entropy-loss/</guid>
+    </item>
+    
+    <item>
+        <title>Scientists find hidden diversity inside common brain parasite</title>
+        <link>https://www.rna-seqblog.com/scientists-find-hidden-diversity-inside-common-brain-parasite/</link>
+        <description>Using single-cell RNA sequencing, researchers reveal unexpected parasite diversity inside Toxoplasma cysts, explaining persistence, reactivation, and why chronic toxoplasmosis remains difficult to tre</description>
+        <pubDate>Mon, 02 Feb 2026 12:16:02 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/scientists-find-hidden-diversity-inside-common-brain-parasite/</guid>
+    </item>
+    
+    <item>
+        <title>SeekGene Launches High-Throughput Single-Cell DNA Methylation + RNA Multi-Omics Solution</title>
+        <link>https://www.rna-seqblog.com/seekgene-launches-high-throughput-single-cell-dna-methylation-rna-multi-omics-solution/</link>
+        <description>SeekGene unveiled a high-throughput single-cell platform that integrates RNA sequencing with DNA methylation and immune profiling..</description>
+        <pubDate>Mon, 02 Feb 2026 12:15:52 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/seekgene-launches-high-throughput-single-cell-dna-methylation-rna-multi-omics-solution/</guid>
+    </item>
+    
+    <item>
+        <title>Tacit Knowledge and Biosecurity</title>
+        <link>https://blog.stephenturner.us/p/tacit-knowledge-biosecurity-rand</link>
+        <description>What&#39;s &#34;tacit knowledge&#34; in biosecurity, and is it really a barrier? A look at the 2025 RAND paper &#34;Contemporary Foundation AI Models Increase Biological Weapons Risk.&#34; 1.7k words, 8 min reading time.</description>
+        <pubDate>Mon, 02 Feb 2026 09:47:40 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/tacit-knowledge-biosecurity-rand</guid>
+    </item>
     
     <item>
         <title>How AI assistance impacts the formation of coding skills</title>
@@ -21,7 +66,7 @@
     <item>
         <title>RNA sequencing reveals how low-dose THC and celecoxib may improve Alzheimer’s disease</title>
         <link>https://www.rna-seqblog.com/rna-sequencing-reveals-how-low-dose-thc-and-celecoxib-may-improve-alzheimers-disease/</link>
-        <description>RNA sequencing shows that combining low-dose THC with celecoxib shifts inflammatory and synaptic gene expression toward healthier patterns while improving cognition in Alzheimer’s mouse models...</description>
+        <description>In recent years, research into cannabis and its main psychoactive ingredient, Δ⁹-tetrahydrocannabinol (THC), has unearthed medical benefits including anti-inflammatory and neuroprotective properties. </description>
         <pubDate>Fri, 30 Jan 2026 12:18:57 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/rna-sequencing-reveals-how-low-dose-thc-and-celecoxib-may-improve-alzheimers-disease/</guid>
@@ -30,7 +75,7 @@
     <item>
         <title>RNA sequencing reveals metabolic and synaptic changes in Alzheimer’s disease</title>
         <link>https://www.rna-seqblog.com/rna-sequencing-reveals-metabolic-and-synaptic-changes-in-alzheimers-disease/</link>
-        <description>RNA sequencing of blood samples reveals metabolic and synaptic gene expression changes linked to Alzheimer’s disease, highlighting the importance of studying diverse populations for inclusive biomarke</description>
+        <description>Alzheimer’s disease develops slowly and involves many biological changes that begin long before clear symptoms appear. Because of this complexity, researchers are increasingly focused on finding early</description>
         <pubDate>Fri, 30 Jan 2026 12:18:44 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/rna-sequencing-reveals-metabolic-and-synaptic-changes-in-alzheimers-disease/</guid>
@@ -64,24 +109,6 @@
     </item>
     
     <item>
-        <title>Mapping the hidden diversity of pediatric brain tumors</title>
-        <link>https://www.rna-seqblog.com/mapping-the-hidden-diversity-of-pediatric-brain-tumors/</link>
-        <description>RNA sequencing reveals hidden molecular diversity in pediatric brain tumors, improving classification of medulloblastoma and ependymoma and supporting more precise diagnosis and treatment decisions...</description>
-        <pubDate>Thu, 29 Jan 2026 12:16:28 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/mapping-the-hidden-diversity-of-pediatric-brain-tumors/</guid>
-    </item>
-    
-    <item>
-        <title>scRNA-seq reveals antibody-producing immune cells that can help shape cancer immunotherapy</title>
-        <link>https://www.rna-seqblog.com/scrna-seq-reveals-antibody-producing-immune-cells-that-can-help-shape-cancer-immunotherapy/</link>
-        <description>Scientists at the Icahn School of Medicine at Mount Sinai have identified an important immune response that helps explain why some cancer patients benefit from immunotherapy while others do not.   In </description>
-        <pubDate>Thu, 29 Jan 2026 12:16:16 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/scrna-seq-reveals-antibody-producing-immune-cells-that-can-help-shape-cancer-immunotherapy/</guid>
-    </item>
-    
-    <item>
         <title>P2 Solo: ONT Extends Support But Not Sales</title>
         <link>https://omicsomics.blogspot.com/2026/01/p2-solo-ont-extends-support-but-not.html</link>
         <description>A brief update to the &lt;a href=&#34;https://omicsomics.blogspot.com/2026/01/ont-axes-p2-solo-roiling-community.html&#34;&gt;earlier P2 Solo piece&lt;/a&gt; - Oxford Nanopore has now announced they will extend their sup</description>
@@ -91,30 +118,12 @@
     </item>
     
     <item>
-        <title>omnideconv – a unifying framework for using and benchmarking single-cell-informed deconvolution of bulk RNA-seq data</title>
-        <link>https://www.rna-seqblog.com/omnideconv-a-unifying-framework-for-using-and-benchmarking-single-cell-informed-deconvolution-of-bulk-rna-seq-data/</link>
-        <description>Understanding which cell types are present in a tissue is essential for interpreting gene expression data, especially when samples contain a mixture of many different cells. Bulk transcriptomics measu</description>
-        <pubDate>Wed, 28 Jan 2026 12:26:18 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/omnideconv-a-unifying-framework-for-using-and-benchmarking-single-cell-informed-deconvolution-of-bulk-rna-seq-data/</guid>
-    </item>
-    
-    <item>
         <title>Call for Proposals Now Open: 2026 Applied Machine Learning Conference</title>
         <link>https://blog.stephenturner.us/p/applied-machine-learning-conference-2026</link>
         <description>Whether this is your first conference talk or your fiftieth, we&amp;#8217;re looking for speakers from a variety of backgrounds and experience levels</description>
         <pubDate>Mon, 26 Jan 2026 16:30:44 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/applied-machine-learning-conference-2026</guid>
-    </item>
-    
-    <item>
-        <title>Scientific production in the era of large language models</title>
-        <link>https://blog.stephenturner.us/p/scientific-production-llms</link>
-        <description>With the production process rapidly evolving, science policy must consider how institutions could evolve</description>
-        <pubDate>Mon, 26 Jan 2026 13:28:27 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/scientific-production-llms</guid>
     </item>
     
     <item>
@@ -160,15 +169,6 @@
         <pubDate>Wed, 14 Jan 2026 09:00:00 +0000</pubDate>
         <source>Gigabase or gigabyte</source>
         <guid>https://wdecoster.github.io/gigabaseorgigabyte/posts/2026-01-14-evaluating-barcode-combinations/</guid>
-    </item>
-    
-    <item>
-        <title>JPM 2026 Schedule Through A Molecular Tools &amp; Testing Lens</title>
-        <link>https://omicsomics.blogspot.com/2026/01/jpm-2026-through-molecular-tools.html</link>
-        <description>The J.P. Morgan Healthcare Conference is this week in San Francisco.  As with every other one, I&#39;m tracking any news remotely from Boston.  Some year I really should go to observe the sheer spectacle </description>
-        <pubDate>2026-01-11T22:03:00.008-05:00</pubDate>
-        <source>Omics! Omics!</source>
-        <guid>https://omicsomics.blogspot.com/2026/01/jpm-2026-through-molecular-tools.html</guid>
     </item>
     
     <item>
