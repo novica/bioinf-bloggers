@@ -6,8 +6,44 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Wed, 04 Feb 2026 07:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 07:06:14 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>ONT read QC strategies for assembly</title>
+        <link>https://rrwick.github.io/2026/02/05/read_qc_testing.html</link>
+        <description></description>
+        <pubDate>2026-02-05T00:00:00+00:00</pubDate>
+        <source>Ryan Wick’s bioinformatics blog</source>
+        <guid>https://rrwick.github.io/2026/02/05/read_qc_testing.html</guid>
+    </item>
+    
+    <item>
+        <title>ADAM-tRNA-seq – an optimized approach for demultiplexing and enhanced hierarchal mapping in direct tRNA sequencing</title>
+        <link>https://www.rna-seqblog.com/adam-trna-seq-an-optimized-approach-for-demultiplexing-and-enhanced-hierarchal-mapping-in-direct-trna-sequencing/</link>
+        <description>An optimized RNA sequencing workflow improves direct Nanopore analysis of transfer RNAs, enabling accurate demultiplexing and hierarchical mapping to better quantify tRNA abundance and diversity...</description>
+        <pubDate>Wed, 04 Feb 2026 12:09:59 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/adam-trna-seq-an-optimized-approach-for-demultiplexing-and-enhanced-hierarchal-mapping-in-direct-trna-sequencing/</guid>
+    </item>
+    
+    <item>
+        <title>Hierarchical analysis of RNA secondary structures with pseudoknots based on sections</title>
+        <link>https://www.rna-seqblog.com/hierarchical-analysis-of-rna-secondary-structures-with-pseudoknots-based-on-sections/</link>
+        <description>A hierarchical method improves RNA sequencing–related structure analysis by predicting RNA pseudoknots efficiently, revealing that folding follows sequential, energy-driven steps rather than global op</description>
+        <pubDate>Wed, 04 Feb 2026 12:09:33 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/hierarchical-analysis-of-rna-secondary-structures-with-pseudoknots-based-on-sections/</guid>
+    </item>
+    
+    <item>
+        <title>OpenAI Codex App</title>
+        <link>https://blog.stephenturner.us/p/openai-codex-app-qqman</link>
+        <description>Vibe-updating my old qqman R package to ggplot2 with plan+execute.</description>
+        <pubDate>Wed, 04 Feb 2026 10:10:53 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/openai-codex-app-qqman</guid>
+    </item>
     
     <item>
         <title>Research uses cutting-edge technology to map how gums become diseased</title>
@@ -21,7 +57,7 @@
     <item>
         <title>RNA sequencing reveals distinct molecular subtypes of brain metastases</title>
         <link>https://www.rna-seqblog.com/rna-sequencing-reveals-distinct-molecular-subtypes-of-brain-metastases/</link>
-        <description>By combining multi-omics and RNA sequencing across more than 1,000 samples, researchers define distinct brain metastasis subtypes that reflect the brain microenvironment and...</description>
+        <description>An interdisciplinary multi-centre research team led by the LKS Faculty of Medicine (HKUMed) and Faculty of Dentistry at the University of Hong Kong has constructed the world&#39;s largest multi-omics atla</description>
         <pubDate>Tue, 03 Feb 2026 12:13:58 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/rna-sequencing-reveals-distinct-molecular-subtypes-of-brain-metastases/</guid>
@@ -48,28 +84,10 @@
     <item>
         <title>Improving atlas-scale single-cell annotation models with hierarchical cross-entropy loss</title>
         <link>https://www.rna-seqblog.com/improving-atlas-scale-single-cell-annotation-models-with-hierarchical-cross-entropy-loss/</link>
-        <description>A new approach to RNA sequencing analysis shows that respecting biological cell hierarchies improves single-cell annotation accuracy, especially when models are applied to new...</description>
+        <description>Single-cell RNA sequencing has transformed biology by letting scientists examine gene activity one cell at a time. A key challenge in this process is correctly identifying what type of cell each seque</description>
         <pubDate>Mon, 02 Feb 2026 12:16:23 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/improving-atlas-scale-single-cell-annotation-models-with-hierarchical-cross-entropy-loss/</guid>
-    </item>
-    
-    <item>
-        <title>Scientists find hidden diversity inside common brain parasite</title>
-        <link>https://www.rna-seqblog.com/scientists-find-hidden-diversity-inside-common-brain-parasite/</link>
-        <description>UC Riverside study reshapes understanding of toxoplasmosis and identifies new paths for treatment A University of California, Riverside team of scientists has found that Toxoplasma gondii, a common pa</description>
-        <pubDate>Mon, 02 Feb 2026 12:16:02 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/scientists-find-hidden-diversity-inside-common-brain-parasite/</guid>
-    </item>
-    
-    <item>
-        <title>SeekGene Launches High-Throughput Single-Cell DNA Methylation + RNA Multi-Omics Solution</title>
-        <link>https://www.rna-seqblog.com/seekgene-launches-high-throughput-single-cell-dna-methylation-rna-multi-omics-solution/</link>
-        <description>New platform integrates epigenetic and transcriptomic analysis in a unified workflow, addressing key challenges in single-cell multi-omics research. SeekGene, a biotechnology company specializing in s</description>
-        <pubDate>Mon, 02 Feb 2026 12:15:52 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/seekgene-launches-high-throughput-single-cell-dna-methylation-rna-multi-omics-solution/</guid>
     </item>
     
     <item>
@@ -97,15 +115,6 @@
         <pubDate>Fri, 30 Jan 2026 09:28:28 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/weekly-recap-january-30-2026</guid>
-    </item>
-    
-    <item>
-        <title>Zotero + Consensus AI</title>
-        <link>https://blog.stephenturner.us/p/zotero-consensus-ai</link>
-        <description>Sync your Zotero library to Consensus AI to ask questions about papers you&#39;ve saved, and find and fill in gaps in your collections.</description>
-        <pubDate>Thu, 29 Jan 2026 19:29:48 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/zotero-consensus-ai</guid>
     </item>
     
     <item>
@@ -455,15 +464,6 @@ Roche released </description>
         <pubDate>2025-09-11T00:00:00+00:00</pubDate>
         <source>Heng Li&#39;s blog</source>
         <guid>http://lh3.github.io/2025/09/11/a-quick-look-at-roches-sbx</guid>
-    </item>
-    
-    <item>
-        <title>Cross-sample homopolymer polishing with Pypolca</title>
-        <link>https://rrwick.github.io/2025/09/04/homopolymer-polishing.html</link>
-        <description></description>
-        <pubDate>2025-09-04T00:00:00+00:00</pubDate>
-        <source>Ryan Wick’s bioinformatics blog</source>
-        <guid>https://rrwick.github.io/2025/09/04/homopolymer-polishing.html</guid>
     </item>
     
 
