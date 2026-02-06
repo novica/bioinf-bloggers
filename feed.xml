@@ -6,8 +6,62 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Thu, 05 Feb 2026 07:06:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 07:01:51 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>State of the Blog</title>
+        <link>https://davetang.org/muse/2026/02/06/state-of-the-blog/</link>
+        <description>&lt;p&gt;ChatGPT came out in November 2022 and it has completely changed the Internet. In my post Learning about ChatGPT via ChatGPT I had prompted: &#34;Will ChatGPT replace Google?&#34; to which the model back th</description>
+        <pubDate>Thu, 05 Feb 2026 18:01:06 +0000</pubDate>
+        <source>Dave Tang&#39;s blog</source>
+        <guid>https://davetang.org/muse/2026/02/06/state-of-the-blog/</guid>
+    </item>
+    
+    <item>
+        <title>ULMnet – inferring physical cell-cell communication networks from scRNAseq data using univariate linear models</title>
+        <link>https://www.rna-seqblog.com/ulmnet-inferring-physical-cell-cell-communication-networks-from-scrnaseq-data-using-univariate-linear-models/</link>
+        <description>A new RNA sequencing–based method uses multiplets in scRNAseq data to infer physical cell-cell interactions, revealing tissue architecture and biologically meaningful contact networks...</description>
+        <pubDate>Thu, 05 Feb 2026 12:30:39 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/ulmnet-inferring-physical-cell-cell-communication-networks-from-scrnaseq-data-using-univariate-linear-models/</guid>
+    </item>
+    
+    <item>
+        <title>Understanding what’s going on inside of cells: the dimensionality of gene expression</title>
+        <link>https://www.rna-seqblog.com/understanding-whats-going-on-inside-of-cells-the-dimensionality-of-gene-expression/</link>
+        <description>Combining RNA sequencing with machine learning, CONCORD reconstructs cell developmental trajectories from single-cell data, preserving subtle biological transitions while removing technical noise acro</description>
+        <pubDate>Thu, 05 Feb 2026 12:30:30 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/understanding-whats-going-on-inside-of-cells-the-dimensionality-of-gene-expression/</guid>
+    </item>
+    
+    <item>
+        <title>Using enadownloader to download fastqs from the ENA</title>
+        <link>https://avrilomics.blogspot.com/2026/02/using-enadownloader-to-download-fastqs.html</link>
+        <description>&lt;p&gt;I wanted to download fastq files for a long list of SRR accessions from the &lt;a href=&#34;https://www.ebi.ac.uk/ena/browser/home&#34;&gt;ENA&lt;/a&gt; today.&lt;/p&gt;&lt;p&gt;I realised I could use the&amp;nbsp;&lt;a href=&#34;https://av</description>
+        <pubDate>2026-02-05T02:43:00.000-08:00</pubDate>
+        <source>avrilomics</source>
+        <guid>https://avrilomics.blogspot.com/2026/02/using-enadownloader-to-download-fastqs.html</guid>
+    </item>
+    
+    <item>
+        <title>Ten simple rules for teaching data science</title>
+        <link>https://blog.stephenturner.us/p/ten-simple-rules-for-teaching-data-science</link>
+        <description>A new paper from Tiffany Timbers (UBC) and Mine &amp;#199;etinkaya-Rundel (Duke), and lessons I learned from my time with Software Carpentry</description>
+        <pubDate>Thu, 05 Feb 2026 10:27:48 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/ten-simple-rules-for-teaching-data-science</guid>
+    </item>
+    
+    <item>
+        <title>Making assemblies for Oxford Nanopore sequence data using Dragonflye</title>
+        <link>https://avrilomics.blogspot.com/2026/02/making-assemblies-for-oxford-nanopore.html</link>
+        <description>&lt;p&gt;I&#39;ve been making genome assemblies for some Oxford Nanopore Technology (ONT) sequencing data using the&amp;nbsp;&lt;a href=&#34;https://github.com/rpetit3/dragonflye&#34;&gt;Dragonflye&lt;/a&gt;&amp;nbsp;package by&amp;nbsp;Rober</description>
+        <pubDate>2026-02-05T02:05:00.000-08:00</pubDate>
+        <source>avrilomics</source>
+        <guid>https://avrilomics.blogspot.com/2026/02/making-assemblies-for-oxford-nanopore.html</guid>
+    </item>
     
     <item>
         <title>ONT read QC strategies for assembly</title>
@@ -30,7 +84,7 @@
     <item>
         <title>Hierarchical analysis of RNA secondary structures with pseudoknots based on sections</title>
         <link>https://www.rna-seqblog.com/hierarchical-analysis-of-rna-secondary-structures-with-pseudoknots-based-on-sections/</link>
-        <description>A hierarchical method improves RNA sequencing–related structure analysis by predicting RNA pseudoknots efficiently, revealing that folding follows sequential, energy-driven steps rather than global op</description>
+        <description>RNA molecules do much more than carry genetic messages. They fold into specific shapes that help control how genes are regulated, how proteins are made, and how enzymes function. One of the most chall</description>
         <pubDate>Wed, 04 Feb 2026 12:09:33 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/hierarchical-analysis-of-rna-secondary-structures-with-pseudoknots-based-on-sections/</guid>
@@ -48,19 +102,10 @@
     <item>
         <title>Research uses cutting-edge technology to map how gums become diseased</title>
         <link>https://www.rna-seqblog.com/research-uses-cutting-edge-technology-to-map-how-gums-become-diseased-2/</link>
-        <description>Single-cell RNA sequencing maps how healthy gums shift toward disease, revealing distinct cell populations that drive inflammation, scarring, and failed regeneration in periodontitis...</description>
+        <description>Millions of people worldwide suffer from gum disease, yet we still don’t fully understand how healthy gums turn into damaged, scar-like tissue. Researchers are using cutting-edge single-cell technolog</description>
         <pubDate>Tue, 03 Feb 2026 12:15:09 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/research-uses-cutting-edge-technology-to-map-how-gums-become-diseased-2/</guid>
-    </item>
-    
-    <item>
-        <title>RNA sequencing reveals distinct molecular subtypes of brain metastases</title>
-        <link>https://www.rna-seqblog.com/rna-sequencing-reveals-distinct-molecular-subtypes-of-brain-metastases/</link>
-        <description>An interdisciplinary multi-centre research team led by the LKS Faculty of Medicine (HKUMed) and Faculty of Dentistry at the University of Hong Kong has constructed the world&#39;s largest multi-omics atla</description>
-        <pubDate>Tue, 03 Feb 2026 12:13:58 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/rna-sequencing-reveals-distinct-molecular-subtypes-of-brain-metastases/</guid>
     </item>
     
     <item>
@@ -82,15 +127,6 @@
     </item>
     
     <item>
-        <title>Improving atlas-scale single-cell annotation models with hierarchical cross-entropy loss</title>
-        <link>https://www.rna-seqblog.com/improving-atlas-scale-single-cell-annotation-models-with-hierarchical-cross-entropy-loss/</link>
-        <description>Single-cell RNA sequencing has transformed biology by letting scientists examine gene activity one cell at a time. A key challenge in this process is correctly identifying what type of cell each seque</description>
-        <pubDate>Mon, 02 Feb 2026 12:16:23 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/improving-atlas-scale-single-cell-annotation-models-with-hierarchical-cross-entropy-loss/</guid>
-    </item>
-    
-    <item>
         <title>Tacit Knowledge and Biosecurity</title>
         <link>https://blog.stephenturner.us/p/tacit-knowledge-biosecurity-rand</link>
         <description>What&#39;s &#34;tacit knowledge&#34; in biosecurity, and is it really a barrier? A look at the 2025 RAND paper &#34;Contemporary Foundation AI Models Increase Biological Weapons Risk.&#34; 1.7k words, 8 min reading time.</description>
@@ -106,15 +142,6 @@
         <pubDate>Sat, 31 Jan 2026 09:56:49 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/ai-assistance-coding-skills-anthropic</guid>
-    </item>
-    
-    <item>
-        <title>Weekly Recap (January 30, 2026)</title>
-        <link>https://blog.stephenturner.us/p/weekly-recap-january-30-2026</link>
-        <description>Global Biodiversity Framework, Colossal+Conservation, DARPA GUARDIAN, NTI on AIxBio, NeurIPS hallucitations, Claude in Excel, AI@UVA, Amodei essay, R updates (R Weekly, R Data Scientist), papers.</description>
-        <pubDate>Fri, 30 Jan 2026 09:28:28 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/weekly-recap-january-30-2026</guid>
     </item>
     
     <item>
@@ -436,34 +463,6 @@ biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
         <pubDate>2025-09-23T00:00:00+00:00</pubDate>
         <source>Ryan Wick’s bioinformatics blog</source>
         <guid>https://rrwick.github.io/2025/09/23/autocycler-benchmark-update.html</guid>
-    </item>
-    
-    <item>
-        <title>Zbąszyń</title>
-        <link>https://liorpachter.wordpress.com/2025/09/22/zbaszyn/</link>
-        <description>The mathematician Carl Friedrich Gauss invented the heliotrope for long-distance surveying in 1821. Just a year later, he proved that least squares regression provided the BLUE estimator for data with</description>
-        <pubDate>Mon, 22 Sep 2025 22:08:17 +0000</pubDate>
-        <source>Bits of DNA</source>
-        <guid>https://liorpachter.wordpress.com/2025/09/22/zbaszyn/</guid>
-    </item>
-    
-    <item>
-        <title>Back to Writing: Some Thoughts on Machine Learning</title>
-        <link>https://bioinformaticamente.com/2025/09/11/back-to-writing-some-thoughts-on-machine-learning/</link>
-        <description>&lt;p&gt;Hello. Finally, I’m back to writing on the blog. Intense work commitments and plenty of unexpected events have limited the time I could spend studying and sharing with you my progress in the world </description>
-        <pubDate>Thu, 11 Sep 2025 20:04:50 +0000</pubDate>
-        <source>BIOINFORMATICAMENTE</source>
-        <guid>https://bioinformaticamente.com/2025/09/11/back-to-writing-some-thoughts-on-machine-learning/</guid>
-    </item>
-    
-    <item>
-        <title>A quick look at Roche&#39;s SBX</title>
-        <link>http://lh3.github.io/2025/09/11/a-quick-look-at-roches-sbx</link>
-        <description>&lt;p&gt;&lt;a href=&#34;https://sequencing.roche.com/us/en/article-listing/sequencing-platform-technologies.html&#34;&gt;Sequencing by Expansion (SBX)&lt;/a&gt; is Roche’s new short-read sequencing technology.
-Roche released </description>
-        <pubDate>2025-09-11T00:00:00+00:00</pubDate>
-        <source>Heng Li&#39;s blog</source>
-        <guid>http://lh3.github.io/2025/09/11/a-quick-look-at-roches-sbx</guid>
     </item>
     
 
