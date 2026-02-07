@@ -6,8 +6,35 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Fri, 06 Feb 2026 07:01:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 06:51:07 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>Reading RNA modifications directly with nanopore sequencing</title>
+        <link>https://www.rna-seqblog.com/reading-rna-modifications-directly-with-nanopore-sequencing/</link>
+        <description>New RNA sequencing tools enable direct detection of multiple RNA modifications from nanopore data, simplifying epitranscriptome analysis with a single modification-aware basecalling model...</description>
+        <pubDate>Fri, 06 Feb 2026 12:20:13 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/reading-rna-modifications-directly-with-nanopore-sequencing/</guid>
+    </item>
+    
+    <item>
+        <title>One immune variable predicts poor outcomes across tumor types and species</title>
+        <link>https://www.rna-seqblog.com/one-immune-variable-predicts-poor-outcomes-across-tumor-types-and-species/</link>
+        <description>Using RNA sequencing, researchers identify a conserved pro-tumor neutrophil state marked by CCL3 expression, revealing how specific immune cell programs support cancer growth across tumor types...</description>
+        <pubDate>Fri, 06 Feb 2026 12:20:02 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/one-immune-variable-predicts-poor-outcomes-across-tumor-types-and-species/</guid>
+    </item>
+    
+    <item>
+        <title>Weekly Recap (February 6, 2026)</title>
+        <link>https://blog.stephenturner.us/p/weekly-recap-february-6-2026</link>
+        <description>Positron + Jupyter, Claude Opus 4.6, Vicki Boykis at AMLC, Emily Riederer, Wes McKinney, Codex, CC for science, R updates (R Data Scientist, R Works, R Weekly, R-Ladies, rOpenSci), AlphaGenome, ...</description>
+        <pubDate>Fri, 06 Feb 2026 09:18:41 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/weekly-recap-february-6-2026</guid>
+    </item>
     
     <item>
         <title>State of the Blog</title>
@@ -21,7 +48,7 @@
     <item>
         <title>ULMnet – inferring physical cell-cell communication networks from scRNAseq data using univariate linear models</title>
         <link>https://www.rna-seqblog.com/ulmnet-inferring-physical-cell-cell-communication-networks-from-scrnaseq-data-using-univariate-linear-models/</link>
-        <description>A new RNA sequencing–based method uses multiplets in scRNAseq data to infer physical cell-cell interactions, revealing tissue architecture and biologically meaningful contact networks...</description>
+        <description>A new RNA sequencing–based method uses multiplets in scRNAseq data to infer physical cell-cell interactions, revealing tissue...</description>
         <pubDate>Thu, 05 Feb 2026 12:30:39 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/ulmnet-inferring-physical-cell-cell-communication-networks-from-scrnaseq-data-using-univariate-linear-models/</guid>
@@ -30,7 +57,7 @@
     <item>
         <title>Understanding what’s going on inside of cells: the dimensionality of gene expression</title>
         <link>https://www.rna-seqblog.com/understanding-whats-going-on-inside-of-cells-the-dimensionality-of-gene-expression/</link>
-        <description>Combining RNA sequencing with machine learning, CONCORD reconstructs cell developmental trajectories from single-cell data, preserving subtle biological transitions while removing technical noise acro</description>
+        <description>Researchers at the University of Miami Miller School of Medicine research provided strong evidence that a new platform is a viable, accurate approach to mapping cell development.Dr. Leor Weinberger, c</description>
         <pubDate>Thu, 05 Feb 2026 12:30:30 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/understanding-whats-going-on-inside-of-cells-the-dimensionality-of-gene-expression/</guid>
@@ -75,19 +102,10 @@
     <item>
         <title>ADAM-tRNA-seq – an optimized approach for demultiplexing and enhanced hierarchal mapping in direct tRNA sequencing</title>
         <link>https://www.rna-seqblog.com/adam-trna-seq-an-optimized-approach-for-demultiplexing-and-enhanced-hierarchal-mapping-in-direct-trna-sequencing/</link>
-        <description>An optimized RNA sequencing workflow improves direct Nanopore analysis of transfer RNAs, enabling accurate demultiplexing and hierarchical mapping to better quantify tRNA abundance and diversity...</description>
+        <description>Transfer RNAs, or tRNAs, are small but essential molecules that help cells turn genetic information into proteins. Beyond this classic role, changes in tRNA levels, chemical modifications, or charging</description>
         <pubDate>Wed, 04 Feb 2026 12:09:59 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/adam-trna-seq-an-optimized-approach-for-demultiplexing-and-enhanced-hierarchal-mapping-in-direct-trna-sequencing/</guid>
-    </item>
-    
-    <item>
-        <title>Hierarchical analysis of RNA secondary structures with pseudoknots based on sections</title>
-        <link>https://www.rna-seqblog.com/hierarchical-analysis-of-rna-secondary-structures-with-pseudoknots-based-on-sections/</link>
-        <description>RNA molecules do much more than carry genetic messages. They fold into specific shapes that help control how genes are regulated, how proteins are made, and how enzymes function. One of the most chall</description>
-        <pubDate>Wed, 04 Feb 2026 12:09:33 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/hierarchical-analysis-of-rna-secondary-structures-with-pseudoknots-based-on-sections/</guid>
     </item>
     
     <item>
@@ -97,15 +115,6 @@
         <pubDate>Wed, 04 Feb 2026 10:10:53 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/openai-codex-app-qqman</guid>
-    </item>
-    
-    <item>
-        <title>Research uses cutting-edge technology to map how gums become diseased</title>
-        <link>https://www.rna-seqblog.com/research-uses-cutting-edge-technology-to-map-how-gums-become-diseased-2/</link>
-        <description>Millions of people worldwide suffer from gum disease, yet we still don’t fully understand how healthy gums turn into damaged, scar-like tissue. Researchers are using cutting-edge single-cell technolog</description>
-        <pubDate>Tue, 03 Feb 2026 12:15:09 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/research-uses-cutting-edge-technology-to-map-how-gums-become-diseased-2/</guid>
     </item>
     
     <item>
@@ -133,15 +142,6 @@
         <pubDate>Mon, 02 Feb 2026 09:47:40 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/tacit-knowledge-biosecurity-rand</guid>
-    </item>
-    
-    <item>
-        <title>How AI assistance impacts the formation of coding skills</title>
-        <link>https://blog.stephenturner.us/p/ai-assistance-coding-skills-anthropic</link>
-        <description>Research from scientists at Anthropic suggests productivity gains come at the cost of skill development.</description>
-        <pubDate>Sat, 31 Jan 2026 09:56:49 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/ai-assistance-coding-skills-anthropic</guid>
     </item>
     
     <item>
