@@ -6,8 +6,17 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Sat, 07 Feb 2026 06:51:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 06:57:32 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>AI-Enabled Biological Design and the Risks of Synthetic Biology</title>
+        <link>https://blog.stephenturner.us/p/ai-enabled-biological-design-risks-synthetic-biology</link>
+        <description>Chapter 3 of the National Academies report on AIxBio: Biosecurity implications for what AI can and can&#39;t do in biology today.</description>
+        <pubDate>Sat, 07 Feb 2026 14:11:23 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/ai-enabled-biological-design-risks-synthetic-biology</guid>
+    </item>
     
     <item>
         <title>Reading RNA modifications directly with nanopore sequencing</title>
@@ -133,15 +142,6 @@
         <pubDate>2026-02-02T10:28:00.005-05:00</pubDate>
         <source>Omics! Omics!</source>
         <guid>https://omicsomics.blogspot.com/2026/02/non-coding-dnas-alpha-moment.html</guid>
-    </item>
-    
-    <item>
-        <title>Tacit Knowledge and Biosecurity</title>
-        <link>https://blog.stephenturner.us/p/tacit-knowledge-biosecurity-rand</link>
-        <description>What&#39;s &#34;tacit knowledge&#34; in biosecurity, and is it really a barrier? A look at the 2025 RAND paper &#34;Contemporary Foundation AI Models Increase Biological Weapons Risk.&#34; 1.7k words, 8 min reading time.</description>
-        <pubDate>Mon, 02 Feb 2026 09:47:40 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/tacit-knowledge-biosecurity-rand</guid>
     </item>
     
     <item>
