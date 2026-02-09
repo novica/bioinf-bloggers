@@ -6,8 +6,17 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Sun, 08 Feb 2026 06:57:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 07:11:40 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>Pancreatic Adenocarcinoma Mutation Trajectories at Single Cell Resolution</title>
+        <link>https://omicsomics.blogspot.com/2026/02/pancreatic-adenocarcinoma-mutation.html</link>
+        <description>Single cell RNA sequencing is nearly ubiquitous; single cell DNA sequencing has been much rarer.  I&#39;m going to dive in a bit - but not a full review - &lt;a href=&#34;https://www.nature.com/articles/s41588-0</description>
+        <pubDate>2026-02-08T22:05:00.000-05:00</pubDate>
+        <source>Omics! Omics!</source>
+        <guid>https://omicsomics.blogspot.com/2026/02/pancreatic-adenocarcinoma-mutation.html</guid>
+    </item>
     
     <item>
         <title>AI-Enabled Biological Design and the Risks of Synthetic Biology</title>
@@ -169,15 +178,6 @@
         <pubDate>2026-01-25T20:43:00.001-05:00</pubDate>
         <source>Omics! Omics!</source>
         <guid>https://omicsomics.blogspot.com/2026/01/ont-axes-p2-solo-roiling-community.html</guid>
-    </item>
-    
-    <item>
-        <title>JP Morgan 2026 Roundup</title>
-        <link>https://omicsomics.blogspot.com/2026/01/jp-morgan-2026-roundup.html</link>
-        <description>&lt;div&gt;The J.P. Morgan conference last week was mostly small tidbits of info on the sequencing front, with Element delivering the one big teaser announcement. &lt;/div&gt;&lt;span&gt;&lt;/span&gt;&lt;a href=&#34;https://omicsom</description>
-        <pubDate>2026-01-22T09:44:00.001-05:00</pubDate>
-        <source>Omics! Omics!</source>
-        <guid>https://omicsomics.blogspot.com/2026/01/jp-morgan-2026-roundup.html</guid>
     </item>
     
     <item>
