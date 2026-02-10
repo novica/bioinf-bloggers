@@ -6,8 +6,44 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Mon, 09 Feb 2026 07:11:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 07:12:34 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>Ribo-seq Guide: Workflow, QC Metrics, Translational Efficiency, and Method Comparison</title>
+        <link>https://www.rna-seqblog.com/ribo-seq-guide-workflow-qc-metrics-translational-efficiency-and-method-comparison/</link>
+        <description>Translatomics sequencing complements RNA sequencing by revealing which mRNAs are actively translated, uncovering translational efficiency, ribosome dynamics, and regulatory mechanisms invisible at the</description>
+        <pubDate>Mon, 09 Feb 2026 12:10:52 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/ribo-seq-guide-workflow-qc-metrics-translational-efficiency-and-method-comparison/</guid>
+    </item>
+    
+    <item>
+        <title>scSNViz – visualization and analysis of cell-specific expressed SNVs</title>
+        <link>https://www.rna-seqblog.com/scsnviz-visualization-and-analysis-of-cell-specific-expressed-snvs/</link>
+        <description>scSNViz extends RNA sequencing analysis by enabling visualization and quantification of expressed genetic variants across individual cells, revealing allele-specific patterns and mutational dynamics..</description>
+        <pubDate>Mon, 09 Feb 2026 12:10:17 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/scsnviz-visualization-and-analysis-of-cell-specific-expressed-snvs/</guid>
+    </item>
+    
+    <item>
+        <title>Identification of the central pathological substrate of bipolar disorder as paraventricular thalamic nucleus</title>
+        <link>https://www.rna-seqblog.com/identification-of-the-central-pathological-substrate-of-bipolar-disorder-as-paraventricular-thalamic-nucleus/</link>
+        <description>Single-nucleus RNA sequencing reveals major gene expression disruptions in paraventricular thalamic nucleus neurons, identifying a promising diagnostic and therapeutic target...</description>
+        <pubDate>Mon, 09 Feb 2026 12:10:06 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/identification-of-the-central-pathological-substrate-of-bipolar-disorder-as-paraventricular-thalamic-nucleus/</guid>
+    </item>
+    
+    <item>
+        <title>Tiered Access for AIxBio Governance</title>
+        <link>https://blog.stephenturner.us/p/tiered-access-aixbio-governance</link>
+        <description>Parallel proposals target training data and model access to reduce biosecurity risk</description>
+        <pubDate>Mon, 09 Feb 2026 10:36:18 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/tiered-access-aixbio-governance</guid>
+    </item>
     
     <item>
         <title>Pancreatic Adenocarcinoma Mutation Trajectories at Single Cell Resolution</title>
@@ -39,7 +75,7 @@
     <item>
         <title>One immune variable predicts poor outcomes across tumor types and species</title>
         <link>https://www.rna-seqblog.com/one-immune-variable-predicts-poor-outcomes-across-tumor-types-and-species/</link>
-        <description>Using RNA sequencing, researchers identify a conserved pro-tumor neutrophil state marked by CCL3 expression, revealing how specific immune cell programs support cancer growth across tumor types...</description>
+        <description>Renowned as first responders to threatening infections, neutrophils also happen to feature prominently in the microenvironment of tumors, where they and other immune cells play opposing and frequently</description>
         <pubDate>Fri, 06 Feb 2026 12:20:02 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/one-immune-variable-predicts-poor-outcomes-across-tumor-types-and-species/</guid>
@@ -61,24 +97,6 @@
         <pubDate>Thu, 05 Feb 2026 18:01:06 +0000</pubDate>
         <source>Dave Tang&#39;s blog</source>
         <guid>https://davetang.org/muse/2026/02/06/state-of-the-blog/</guid>
-    </item>
-    
-    <item>
-        <title>ULMnet – inferring physical cell-cell communication networks from scRNAseq data using univariate linear models</title>
-        <link>https://www.rna-seqblog.com/ulmnet-inferring-physical-cell-cell-communication-networks-from-scrnaseq-data-using-univariate-linear-models/</link>
-        <description>A new RNA sequencing–based method uses multiplets in scRNAseq data to infer physical cell-cell interactions, revealing tissue...</description>
-        <pubDate>Thu, 05 Feb 2026 12:30:39 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/ulmnet-inferring-physical-cell-cell-communication-networks-from-scrnaseq-data-using-univariate-linear-models/</guid>
-    </item>
-    
-    <item>
-        <title>Understanding what’s going on inside of cells: the dimensionality of gene expression</title>
-        <link>https://www.rna-seqblog.com/understanding-whats-going-on-inside-of-cells-the-dimensionality-of-gene-expression/</link>
-        <description>Researchers at the University of Miami Miller School of Medicine research provided strong evidence that a new platform is a viable, accurate approach to mapping cell development.Dr. Leor Weinberger, c</description>
-        <pubDate>Thu, 05 Feb 2026 12:30:30 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/understanding-whats-going-on-inside-of-cells-the-dimensionality-of-gene-expression/</guid>
     </item>
     
     <item>
@@ -118,30 +136,12 @@
     </item>
     
     <item>
-        <title>ADAM-tRNA-seq – an optimized approach for demultiplexing and enhanced hierarchal mapping in direct tRNA sequencing</title>
-        <link>https://www.rna-seqblog.com/adam-trna-seq-an-optimized-approach-for-demultiplexing-and-enhanced-hierarchal-mapping-in-direct-trna-sequencing/</link>
-        <description>Transfer RNAs, or tRNAs, are small but essential molecules that help cells turn genetic information into proteins. Beyond this classic role, changes in tRNA levels, chemical modifications, or charging</description>
-        <pubDate>Wed, 04 Feb 2026 12:09:59 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/adam-trna-seq-an-optimized-approach-for-demultiplexing-and-enhanced-hierarchal-mapping-in-direct-trna-sequencing/</guid>
-    </item>
-    
-    <item>
         <title>OpenAI Codex App</title>
         <link>https://blog.stephenturner.us/p/openai-codex-app-qqman</link>
         <description>Vibe-updating my old qqman R package to ggplot2 with plan+execute.</description>
         <pubDate>Wed, 04 Feb 2026 10:10:53 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/openai-codex-app-qqman</guid>
-    </item>
-    
-    <item>
-        <title>Biological risk and the AI capability shift</title>
-        <link>https://blog.stephenturner.us/p/international-ai-safety-report-2026</link>
-        <description>Notes from the 2026 International AI Safety Report</description>
-        <pubDate>Tue, 03 Feb 2026 10:08:33 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/international-ai-safety-report-2026</guid>
     </item>
     
     <item>
