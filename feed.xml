@@ -6,8 +6,35 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Wed, 11 Feb 2026 07:09:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 07:08:26 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>Quiescent or senescent? Cancer center research helps identify cancer that is more likely to recur</title>
+        <link>https://www.rna-seqblog.com/quiescent-or-senescent-cancer-center-research-helps-identify-cancer-that-is-more-likely-to-recur/</link>
+        <description>Using single-cell RNA sequencing, researchers identified a continuum between quiescent and senescent cancer cells after chemotherapy, offering insights into tumor dormancy and the...</description>
+        <pubDate>Wed, 11 Feb 2026 12:15:06 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/quiescent-or-senescent-cancer-center-research-helps-identify-cancer-that-is-more-likely-to-recur/</guid>
+    </item>
+    
+    <item>
+        <title>MUTACLASH – identifying functional small RNA target sites with crosslinking footprints</title>
+        <link>https://www.rna-seqblog.com/mutaclash-identifying-functional-small-rna-target-sites-with-crosslinking-footprints/</link>
+        <description>A new tool called MUTACLASH uses crosslinking-induced mutations in CLASH RNA sequencing data to pinpoint functional small RNA target sites with single-nucleotide resolution...</description>
+        <pubDate>Wed, 11 Feb 2026 12:14:51 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/mutaclash-identifying-functional-small-rna-target-sites-with-crosslinking-footprints/</guid>
+    </item>
+    
+    <item>
+        <title>Diagrams in Claude with Excalidraw and draw.io</title>
+        <link>https://blog.stephenturner.us/p/diagrams-claude-excalidraw-drawio</link>
+        <description>Make diagrams with draw.io using Claude project instructions or MCP, or with Excalidraw using the connector.</description>
+        <pubDate>Wed, 11 Feb 2026 10:30:25 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/diagrams-claude-excalidraw-drawio</guid>
+    </item>
     
     <item>
         <title>AI model may improve RNA sequencing research</title>
@@ -21,7 +48,7 @@
     <item>
         <title>Rutgers develops new tool for examining cancer genomic data that could improve treatment</title>
         <link>https://www.rna-seqblog.com/rutgers-develops-new-tool-for-examining-cancer-genomic-data-that-could-improve-treatment/</link>
-        <description>A new computational tool uses RNA sequencing and genomic data to distinguish real tumor-associated microbes from contamination, clarifying how microbes may influence cancer...</description>
+        <description>When scientists sequence tumor DNA, they typically find small amounts of genetic code from bacteria, viruses and fungi – microorganisms that, if actually present in tumor tissues, could influence how </description>
         <pubDate>Tue, 10 Feb 2026 12:12:24 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/rutgers-develops-new-tool-for-examining-cancer-genomic-data-that-could-improve-treatment/</guid>
@@ -34,24 +61,6 @@
         <pubDate>Mon, 09 Feb 2026 12:10:52 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/ribo-seq-guide-workflow-qc-metrics-translational-efficiency-and-method-comparison/</guid>
-    </item>
-    
-    <item>
-        <title>scSNViz – visualization and analysis of cell-specific expressed SNVs</title>
-        <link>https://www.rna-seqblog.com/scsnviz-visualization-and-analysis-of-cell-specific-expressed-snvs/</link>
-        <description>scSNViz extends RNA sequencing analysis by enabling visualization and quantification of expressed genetic variants across individual cells, revealing allele-specific patterns and mutational dynamics..</description>
-        <pubDate>Mon, 09 Feb 2026 12:10:17 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/scsnviz-visualization-and-analysis-of-cell-specific-expressed-snvs/</guid>
-    </item>
-    
-    <item>
-        <title>Identification of the central pathological substrate of bipolar disorder as paraventricular thalamic nucleus</title>
-        <link>https://www.rna-seqblog.com/identification-of-the-central-pathological-substrate-of-bipolar-disorder-as-paraventricular-thalamic-nucleus/</link>
-        <description>Insights into a novel diagnostic and therapeutic target in bipolar disorder Bipolar disorder is a significant global health issue, affecting millions worldwide. To address the urgent need for novel th</description>
-        <pubDate>Mon, 09 Feb 2026 12:10:06 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/identification-of-the-central-pathological-substrate-of-bipolar-disorder-as-paraventricular-thalamic-nucleus/</guid>
     </item>
     
     <item>
@@ -133,15 +142,6 @@
         <pubDate>2026-02-05T00:00:00+00:00</pubDate>
         <source>Ryan Wick’s bioinformatics blog</source>
         <guid>https://rrwick.github.io/2026/02/05/read_qc_testing.html</guid>
-    </item>
-    
-    <item>
-        <title>OpenAI Codex App</title>
-        <link>https://blog.stephenturner.us/p/openai-codex-app-qqman</link>
-        <description>Vibe-updating my old qqman R package to ggplot2 with plan+execute.</description>
-        <pubDate>Wed, 04 Feb 2026 10:10:53 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/openai-codex-app-qqman</guid>
     </item>
     
     <item>
