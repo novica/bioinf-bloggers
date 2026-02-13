@@ -6,8 +6,35 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Thu, 12 Feb 2026 07:08:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 07:05:45 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>MEBOCOST – mapping metabolite-mediated intercellular communications using single-cell RNA-seq</title>
+        <link>https://www.rna-seqblog.com/mebocost-mapping-metabolite-mediated-intercellular-communications-using-single-cell-rna-seq-2/</link>
+        <description>Using RNA sequencing and metabolic modeling, researchers developed MEBOCOST to map metabolite driven cell communication, revealing new insights into adipose tissue biology...</description>
+        <pubDate>Thu, 12 Feb 2026 12:08:58 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/mebocost-mapping-metabolite-mediated-intercellular-communications-using-single-cell-rna-seq-2/</guid>
+    </item>
+    
+    <item>
+        <title>Using gene expression in blood to personalize care for APS</title>
+        <link>https://www.rna-seqblog.com/using-gene-expression-in-blood-to-personalize-care-for-aps/</link>
+        <description>Using RNA sequencing and unsupervised machine learning, researchers identified four immune endotypes in antiphospholipid syndrome, revealing distinct biological drivers that may guide more precise, in</description>
+        <pubDate>Thu, 12 Feb 2026 12:08:39 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/using-gene-expression-in-blood-to-personalize-care-for-aps/</guid>
+    </item>
+    
+    <item>
+        <title>One week in AI safety</title>
+        <link>https://blog.stephenturner.us/p/one-week-in-ai-safety-feb-2026</link>
+        <description>Resignations at Anthropic&#39;s safeguards research team and xAI, Opus 4.6 evaluation awareness, Bytedance AI video generation, US doesn&#39;t back Global AI Safety Report, &#34;heinous crimes&#34; and $1T selloffs</description>
+        <pubDate>Thu, 12 Feb 2026 09:07:22 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/one-week-in-ai-safety-feb-2026</guid>
+    </item>
     
     <item>
         <title>Quiescent or senescent? Cancer center research helps identify cancer that is more likely to recur</title>
@@ -21,7 +48,7 @@
     <item>
         <title>MUTACLASH – identifying functional small RNA target sites with crosslinking footprints</title>
         <link>https://www.rna-seqblog.com/mutaclash-identifying-functional-small-rna-target-sites-with-crosslinking-footprints/</link>
-        <description>A new tool called MUTACLASH uses crosslinking-induced mutations in CLASH RNA sequencing data to pinpoint functional small RNA target sites with single-nucleotide resolution...</description>
+        <description>Small RNAs such as microRNAs and piRNAs help control how genes are turned on or off. They do this by binding to messenger RNAs, which carry the instructions for making proteins. However, figuring out </description>
         <pubDate>Wed, 11 Feb 2026 12:14:51 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/mutaclash-identifying-functional-small-rna-target-sites-with-crosslinking-footprints/</guid>
@@ -39,28 +66,10 @@
     <item>
         <title>AI model may improve RNA sequencing research</title>
         <link>https://www.rna-seqblog.com/ai-model-may-improve-rna-sequencing-research/</link>
-        <description>An AI-powered model improves RNA sequencing accuracy by identifying and removing chimera artifacts in nanopore direct RNA data, strengthening transcript annotation and gene fusion analysis...</description>
+        <description>Scientists in the laboratory of Rendong Yang, PhD, associate professor of Urology, have developed a new large language model that can interpret transcriptomic data in cancer cell lines more accurately</description>
         <pubDate>Tue, 10 Feb 2026 12:12:35 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/ai-model-may-improve-rna-sequencing-research/</guid>
-    </item>
-    
-    <item>
-        <title>Rutgers develops new tool for examining cancer genomic data that could improve treatment</title>
-        <link>https://www.rna-seqblog.com/rutgers-develops-new-tool-for-examining-cancer-genomic-data-that-could-improve-treatment/</link>
-        <description>When scientists sequence tumor DNA, they typically find small amounts of genetic code from bacteria, viruses and fungi – microorganisms that, if actually present in tumor tissues, could influence how </description>
-        <pubDate>Tue, 10 Feb 2026 12:12:24 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/rutgers-develops-new-tool-for-examining-cancer-genomic-data-that-could-improve-treatment/</guid>
-    </item>
-    
-    <item>
-        <title>Ribo-seq Guide: Workflow, QC Metrics, Translational Efficiency, and Method Comparison</title>
-        <link>https://www.rna-seqblog.com/ribo-seq-guide-workflow-qc-metrics-translational-efficiency-and-method-comparison/</link>
-        <description>Translatomics sequencing complements RNA sequencing by revealing which mRNAs are actively translated, uncovering translational efficiency, ribosome dynamics, and regulatory mechanisms invisible at the</description>
-        <pubDate>Mon, 09 Feb 2026 12:10:52 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/ribo-seq-guide-workflow-qc-metrics-translational-efficiency-and-method-comparison/</guid>
     </item>
     
     <item>
@@ -115,15 +124,6 @@
         <pubDate>2026-02-05T02:43:00.000-08:00</pubDate>
         <source>avrilomics</source>
         <guid>https://avrilomics.blogspot.com/2026/02/using-enadownloader-to-download-fastqs.html</guid>
-    </item>
-    
-    <item>
-        <title>Ten simple rules for teaching data science</title>
-        <link>https://blog.stephenturner.us/p/ten-simple-rules-for-teaching-data-science</link>
-        <description>A new paper from Tiffany Timbers (UBC) and Mine &amp;#199;etinkaya-Rundel (Duke), and lessons I learned from my time with Software Carpentry</description>
-        <pubDate>Thu, 05 Feb 2026 10:27:48 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/ten-simple-rules-for-teaching-data-science</guid>
     </item>
     
     <item>
