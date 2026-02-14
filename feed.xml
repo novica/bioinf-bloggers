@@ -6,13 +6,49 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Fri, 13 Feb 2026 07:05:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 06:54:08 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>Nanopore sequencing of intact aminoacylated tRNAs</title>
+        <link>https://www.rna-seqblog.com/nanopore-sequencing-of-intact-aminoacylated-trnas/</link>
+        <description>Using RNA sequencing with nanopore technology, researchers developed aa tRNA seq to identify amino acids attached to individual tRNAs, revealing how modifications influence tRNA stability and charging</description>
+        <pubDate>Fri, 13 Feb 2026 12:32:50 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/nanopore-sequencing-of-intact-aminoacylated-trnas/</guid>
+    </item>
+    
+    <item>
+        <title>Breakthrough UC study sheds light on survival of new neurons in adult brain</title>
+        <link>https://www.rna-seqblog.com/breakthrough-uc-study-sheds-light-on-survival-of-new-neurons-in-adult-brain/</link>
+        <description>Using RNA sequencing, researchers uncovered how microglia regulate adult neurogenesis in the hippocampus, revealing immune signaling pathways that may influence cognition, aging, and neurodegenerative</description>
+        <pubDate>Fri, 13 Feb 2026 12:32:31 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/breakthrough-uc-study-sheds-light-on-survival-of-new-neurons-in-adult-brain/</guid>
+    </item>
+    
+    <item>
+        <title>RMzyme – regulations of RNA-modifying enzymes in humans</title>
+        <link>https://www.rna-seqblog.com/rmzyme-regulations-of-rna-modifying-enzymes-in-humans/</link>
+        <description>Integrating multiomics and RNA sequencing, researchers mapped RNA modifying enzymes across human tissues, revealing cell type specific m6A regulation and cancer linked networks in acute myeloid leukem</description>
+        <pubDate>Fri, 13 Feb 2026 12:32:17 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/rmzyme-regulations-of-rna-modifying-enzymes-in-humans/</guid>
+    </item>
+    
+    <item>
+        <title>Weekly Recap (February 13, 2026)</title>
+        <link>https://blog.stephenturner.us/p/weekly-recap-february-13-2026</link>
+        <description>NIH bioinformatics funding, biosecurity, AI and labor, AI and social life, Applied Machine Learning Conference, R updates (R Weekly, Tidyverse), Saudi genomics, lab automation, papers &amp; preprints</description>
+        <pubDate>Fri, 13 Feb 2026 09:23:12 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/weekly-recap-february-13-2026</guid>
+    </item>
     
     <item>
         <title>MEBOCOST – mapping metabolite-mediated intercellular communications using single-cell RNA-seq</title>
         <link>https://www.rna-seqblog.com/mebocost-mapping-metabolite-mediated-intercellular-communications-using-single-cell-rna-seq-2/</link>
-        <description>Using RNA sequencing and metabolic modeling, researchers developed MEBOCOST to map metabolite driven cell communication, revealing new insights into adipose tissue biology...</description>
+        <description>Cells are constantly communicating with each other to keep tissues healthy and functioning properly. Much of what we know about cell to cell communication focuses on proteins, such as hormones or sign</description>
         <pubDate>Thu, 12 Feb 2026 12:08:58 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/mebocost-mapping-metabolite-mediated-intercellular-communications-using-single-cell-rna-seq-2/</guid>
@@ -21,7 +57,7 @@
     <item>
         <title>Using gene expression in blood to personalize care for APS</title>
         <link>https://www.rna-seqblog.com/using-gene-expression-in-blood-to-personalize-care-for-aps/</link>
-        <description>Using RNA sequencing and unsupervised machine learning, researchers identified four immune endotypes in antiphospholipid syndrome, revealing distinct biological drivers that may guide more precise, in</description>
+        <description>Treating antiphospholipid syndrome by focusing on blood clots falls short of addressing the underlying biology driving each individual patient&#39;s disease Antiphospholipid syndrome, also known as APS, i</description>
         <pubDate>Thu, 12 Feb 2026 12:08:39 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/using-gene-expression-in-blood-to-personalize-care-for-aps/</guid>
@@ -37,39 +73,12 @@
     </item>
     
     <item>
-        <title>Quiescent or senescent? Cancer center research helps identify cancer that is more likely to recur</title>
-        <link>https://www.rna-seqblog.com/quiescent-or-senescent-cancer-center-research-helps-identify-cancer-that-is-more-likely-to-recur/</link>
-        <description>Using single-cell RNA sequencing, researchers identified a continuum between quiescent and senescent cancer cells after chemotherapy, offering insights into tumor dormancy and the...</description>
-        <pubDate>Wed, 11 Feb 2026 12:15:06 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/quiescent-or-senescent-cancer-center-research-helps-identify-cancer-that-is-more-likely-to-recur/</guid>
-    </item>
-    
-    <item>
-        <title>MUTACLASH – identifying functional small RNA target sites with crosslinking footprints</title>
-        <link>https://www.rna-seqblog.com/mutaclash-identifying-functional-small-rna-target-sites-with-crosslinking-footprints/</link>
-        <description>Small RNAs such as microRNAs and piRNAs help control how genes are turned on or off. They do this by binding to messenger RNAs, which carry the instructions for making proteins. However, figuring out </description>
-        <pubDate>Wed, 11 Feb 2026 12:14:51 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/mutaclash-identifying-functional-small-rna-target-sites-with-crosslinking-footprints/</guid>
-    </item>
-    
-    <item>
         <title>Diagrams in Claude with Excalidraw and draw.io</title>
         <link>https://blog.stephenturner.us/p/diagrams-claude-excalidraw-drawio</link>
         <description>Make diagrams with draw.io using Claude project instructions or MCP, or with Excalidraw using the connector.</description>
         <pubDate>Wed, 11 Feb 2026 10:30:25 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/diagrams-claude-excalidraw-drawio</guid>
-    </item>
-    
-    <item>
-        <title>AI model may improve RNA sequencing research</title>
-        <link>https://www.rna-seqblog.com/ai-model-may-improve-rna-sequencing-research/</link>
-        <description>Scientists in the laboratory of Rendong Yang, PhD, associate professor of Urology, have developed a new large language model that can interpret transcriptomic data in cancer cell lines more accurately</description>
-        <pubDate>Tue, 10 Feb 2026 12:12:35 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/ai-model-may-improve-rna-sequencing-research/</guid>
     </item>
     
     <item>
@@ -97,15 +106,6 @@
         <pubDate>Sat, 07 Feb 2026 14:11:23 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/ai-enabled-biological-design-risks-synthetic-biology</guid>
-    </item>
-    
-    <item>
-        <title>Weekly Recap (February 6, 2026)</title>
-        <link>https://blog.stephenturner.us/p/weekly-recap-february-6-2026</link>
-        <description>Positron + Jupyter, Claude Opus 4.6, Vicki Boykis at AMLC, Emily Riederer, Wes McKinney, Codex, CC for science, R updates (R Data Scientist, R Works, R Weekly, R-Ladies, rOpenSci), AlphaGenome, ...</description>
-        <pubDate>Fri, 06 Feb 2026 09:18:41 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/weekly-recap-february-6-2026</guid>
     </item>
     
     <item>
