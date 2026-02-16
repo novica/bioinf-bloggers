@@ -6,34 +6,25 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Sun, 15 Feb 2026 06:57:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 07:11:31 +0000</lastBuildDate>
 
     
     <item>
-        <title>Nanopore sequencing of intact aminoacylated tRNAs</title>
-        <link>https://www.rna-seqblog.com/nanopore-sequencing-of-intact-aminoacylated-trnas/</link>
-        <description>Using RNA sequencing with nanopore technology, researchers developed aa tRNA seq to identify amino acids attached to individual tRNAs, revealing how modifications influence tRNA stability and charging</description>
-        <pubDate>Fri, 13 Feb 2026 12:32:50 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/nanopore-sequencing-of-intact-aminoacylated-trnas/</guid>
+        <title>Pick a License, Not Any License</title>
+        <link>https://blog.stephenturner.us/p/pick-a-license-not-any-license</link>
+        <description>Why you should care about data science software licenses and how to learn more</description>
+        <pubDate>Sun, 15 Feb 2026 22:16:32 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/pick-a-license-not-any-license</guid>
     </item>
     
     <item>
-        <title>Breakthrough UC study sheds light on survival of new neurons in adult brain</title>
-        <link>https://www.rna-seqblog.com/breakthrough-uc-study-sheds-light-on-survival-of-new-neurons-in-adult-brain/</link>
-        <description>Using RNA sequencing, researchers uncovered how microglia regulate adult neurogenesis in the hippocampus, revealing immune signaling pathways that may influence cognition, aging, and neurodegenerative</description>
-        <pubDate>Fri, 13 Feb 2026 12:32:31 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/breakthrough-uc-study-sheds-light-on-survival-of-new-neurons-in-adult-brain/</guid>
-    </item>
-    
-    <item>
-        <title>RMzyme – regulations of RNA-modifying enzymes in humans</title>
-        <link>https://www.rna-seqblog.com/rmzyme-regulations-of-rna-modifying-enzymes-in-humans/</link>
-        <description>Integrating multiomics and RNA sequencing, researchers mapped RNA modifying enzymes across human tissues, revealing cell type specific m6A regulation and cancer linked networks in acute myeloid leukem</description>
-        <pubDate>Fri, 13 Feb 2026 12:32:17 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/rmzyme-regulations-of-rna-modifying-enzymes-in-humans/</guid>
+        <title>Creating custom (non-Font Awesome) icons for a Jekyll-based website</title>
+        <link>https://nsaunders.wordpress.com/2026/02/15/creating-custom-non-font-awesome-icons-for-a-jekyll-based-website/</link>
+        <description>This one is pretty niche even by my standards. Notes largely for my own benefit, but they may be useful if you: I&amp;#8217;ll assume that you have git-cloned jekyll-theme-chirpy, run bundle and are able </description>
+        <pubDate>Sun, 15 Feb 2026 10:40:38 +0000</pubDate>
+        <source>What You&#39;re Doing Is Rather Desperate</source>
+        <guid>https://nsaunders.wordpress.com/2026/02/15/creating-custom-non-font-awesome-icons-for-a-jekyll-based-website/</guid>
     </item>
     
     <item>
@@ -43,24 +34,6 @@
         <pubDate>Fri, 13 Feb 2026 09:23:12 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/weekly-recap-february-13-2026</guid>
-    </item>
-    
-    <item>
-        <title>MEBOCOST – mapping metabolite-mediated intercellular communications using single-cell RNA-seq</title>
-        <link>https://www.rna-seqblog.com/mebocost-mapping-metabolite-mediated-intercellular-communications-using-single-cell-rna-seq-2/</link>
-        <description>Cells are constantly communicating with each other to keep tissues healthy and functioning properly. Much of what we know about cell to cell communication focuses on proteins, such as hormones or sign</description>
-        <pubDate>Thu, 12 Feb 2026 12:08:58 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/mebocost-mapping-metabolite-mediated-intercellular-communications-using-single-cell-rna-seq-2/</guid>
-    </item>
-    
-    <item>
-        <title>Using gene expression in blood to personalize care for APS</title>
-        <link>https://www.rna-seqblog.com/using-gene-expression-in-blood-to-personalize-care-for-aps/</link>
-        <description>Treating antiphospholipid syndrome by focusing on blood clots falls short of addressing the underlying biology driving each individual patient&#39;s disease Antiphospholipid syndrome, also known as APS, i</description>
-        <pubDate>Thu, 12 Feb 2026 12:08:39 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/using-gene-expression-in-blood-to-personalize-care-for-aps/</guid>
     </item>
     
     <item>
@@ -97,15 +70,6 @@
         <pubDate>2026-02-08T22:05:00.000-05:00</pubDate>
         <source>Omics! Omics!</source>
         <guid>https://omicsomics.blogspot.com/2026/02/pancreatic-adenocarcinoma-mutation.html</guid>
-    </item>
-    
-    <item>
-        <title>AI-Enabled Biological Design and the Risks of Synthetic Biology</title>
-        <link>https://blog.stephenturner.us/p/ai-enabled-biological-design-risks-synthetic-biology</link>
-        <description>Chapter 3 of the National Academies report on AIxBio: Biosecurity implications for what AI can and can&#39;t do in biology today.</description>
-        <pubDate>Sat, 07 Feb 2026 14:11:23 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/ai-enabled-biological-design-risks-synthetic-biology</guid>
     </item>
     
     <item>
@@ -355,15 +319,6 @@ That&amp;rsquo;s how I got to know &lt;a href=&#34;https://liulab-dfci.github.io
     </item>
     
     <item>
-        <title>Brief thoughts on: the new Australian Bureau of Meteorology website</title>
-        <link>https://nsaunders.wordpress.com/2025/10/29/brief-thoughts-on-the-new-australian-bureau-of-meteorology-website/</link>
-        <description>For those outside of Australia, the BOM website is where many Australians access weather information. It&amp;#8217;s very popular with millions of visits per day, especially to the rain radar, and &amp;#8220;</description>
-        <pubDate>Wed, 29 Oct 2025 01:04:00 +0000</pubDate>
-        <source>What You&#39;re Doing Is Rather Desperate</source>
-        <guid>https://nsaunders.wordpress.com/2025/10/29/brief-thoughts-on-the-new-australian-bureau-of-meteorology-website/</guid>
-    </item>
-    
-    <item>
         <title>Understanding prcomp() center and scale Arguments for Single-Cell RNA-seq PCA</title>
         <link>https://divingintogeneticsandgenomics.com/post/understanding-prcomp-center-scale-arguments/</link>
         <description>&lt;p&gt;During my work with single-cell RNA-seq data, I’ve often encountered confusion about PCA and specifically when to use the &lt;code&gt;center&lt;/code&gt; and &lt;code&gt;scale&lt;/code&gt; arguments in R’s &lt;code&gt;prcomp()&lt;</description>
@@ -463,6 +418,52 @@ biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
         <pubDate>2025-09-23T00:00:00+00:00</pubDate>
         <source>Ryan Wick’s bioinformatics blog</source>
         <guid>https://rrwick.github.io/2025/09/23/autocycler-benchmark-update.html</guid>
+    </item>
+    
+    <item>
+        <title>Zbąszyń</title>
+        <link>https://liorpachter.wordpress.com/2025/09/22/zbaszyn/</link>
+        <description>The mathematician Carl Friedrich Gauss invented the heliotrope for long-distance surveying in 1821. Just a year later, he proved that least squares regression provided the BLUE estimator for data with</description>
+        <pubDate>Mon, 22 Sep 2025 22:08:17 +0000</pubDate>
+        <source>Bits of DNA</source>
+        <guid>https://liorpachter.wordpress.com/2025/09/22/zbaszyn/</guid>
+    </item>
+    
+    <item>
+        <title>Back to Writing: Some Thoughts on Machine Learning</title>
+        <link>https://bioinformaticamente.com/2025/09/11/back-to-writing-some-thoughts-on-machine-learning/</link>
+        <description>&lt;p&gt;Hello. Finally, I’m back to writing on the blog. Intense work commitments and plenty of unexpected events have limited the time I could spend studying and sharing with you my progress in the world </description>
+        <pubDate>Thu, 11 Sep 2025 20:04:50 +0000</pubDate>
+        <source>BIOINFORMATICAMENTE</source>
+        <guid>https://bioinformaticamente.com/2025/09/11/back-to-writing-some-thoughts-on-machine-learning/</guid>
+    </item>
+    
+    <item>
+        <title>A quick look at Roche&#39;s SBX</title>
+        <link>http://lh3.github.io/2025/09/11/a-quick-look-at-roches-sbx</link>
+        <description>&lt;p&gt;&lt;a href=&#34;https://sequencing.roche.com/us/en/article-listing/sequencing-platform-technologies.html&#34;&gt;Sequencing by Expansion (SBX)&lt;/a&gt; is Roche’s new short-read sequencing technology.
+Roche released </description>
+        <pubDate>2025-09-11T00:00:00+00:00</pubDate>
+        <source>Heng Li&#39;s blog</source>
+        <guid>http://lh3.github.io/2025/09/11/a-quick-look-at-roches-sbx</guid>
+    </item>
+    
+    <item>
+        <title>Cross-sample homopolymer polishing with Pypolca</title>
+        <link>https://rrwick.github.io/2025/09/04/homopolymer-polishing.html</link>
+        <description></description>
+        <pubDate>2025-09-04T00:00:00+00:00</pubDate>
+        <source>Ryan Wick’s bioinformatics blog</source>
+        <guid>https://rrwick.github.io/2025/09/04/homopolymer-polishing.html</guid>
+    </item>
+    
+    <item>
+        <title>On professionalism</title>
+        <link>https://davetang.org/muse/2025/08/30/on-professionalism/</link>
+        <description>&lt;p&gt;I&#39;m a huge fan of Conan O&#39;Brien; there&#39;s just something about his demeanour, humour, and wittiness that I admire. I discovered him on YouTube around 2012 and was quite oblivious to who he was, what</description>
+        <pubDate>Sat, 30 Aug 2025 03:01:22 +0000</pubDate>
+        <source>Dave Tang&#39;s blog</source>
+        <guid>https://davetang.org/muse/2025/08/30/on-professionalism/</guid>
     </item>
     
 
