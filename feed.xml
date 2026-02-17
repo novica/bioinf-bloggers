@@ -6,8 +6,26 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Mon, 16 Feb 2026 07:11:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 07:05:52 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>A practical guide to targeted single-cell RNA sequencing technologies</title>
+        <link>https://www.rna-seqblog.com/a-practical-guide-to-targeted-single-cell-rna-sequencing-technologies/</link>
+        <description>This review examines biases in RNA sequencing at the single cell level and outlines targeted strategies to improve transcript detection, coverage of internal regions, and experimental decision making.</description>
+        <pubDate>Mon, 16 Feb 2026 12:15:28 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/a-practical-guide-to-targeted-single-cell-rna-sequencing-technologies/</guid>
+    </item>
+    
+    <item>
+        <title>Researchers identify potential immune evasion mechanism in premalignant lung lesions</title>
+        <link>https://www.rna-seqblog.com/researchers-identify-potential-immune-evasion-mechanism-in-premalignant-lung-lesions/</link>
+        <description>Using RNA sequencing, researchers identified miR-149-5p as a driver of immune evasion in progressive bronchial lesions, revealing a potential pathway for early lung cancer...</description>
+        <pubDate>Mon, 16 Feb 2026 12:15:16 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/researchers-identify-potential-immune-evasion-mechanism-in-premalignant-lung-lesions/</guid>
+    </item>
     
     <item>
         <title>Pick a License, Not Any License</title>
@@ -25,6 +43,33 @@
         <pubDate>Sun, 15 Feb 2026 10:40:38 +0000</pubDate>
         <source>What You&#39;re Doing Is Rather Desperate</source>
         <guid>https://nsaunders.wordpress.com/2026/02/15/creating-custom-non-font-awesome-icons-for-a-jekyll-based-website/</guid>
+    </item>
+    
+    <item>
+        <title>Nanopore sequencing of intact aminoacylated tRNAs</title>
+        <link>https://www.rna-seqblog.com/nanopore-sequencing-of-intact-aminoacylated-trnas/</link>
+        <description>Using RNA sequencing with nanopore technology, researchers developed aa tRNA seq to identify amino acids attached to individual tRNAs, revealing how modifications influence tRNA stability and charging</description>
+        <pubDate>Fri, 13 Feb 2026 12:32:50 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/nanopore-sequencing-of-intact-aminoacylated-trnas/</guid>
+    </item>
+    
+    <item>
+        <title>Breakthrough UC study sheds light on survival of new neurons in adult brain</title>
+        <link>https://www.rna-seqblog.com/breakthrough-uc-study-sheds-light-on-survival-of-new-neurons-in-adult-brain/</link>
+        <description>Breakthrough research from the University of Cincinnati College of Medicine is revealing how immune cells in the adult brain can regulate the generation of new neurons. The study is leading to a new u</description>
+        <pubDate>Fri, 13 Feb 2026 12:32:31 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/breakthrough-uc-study-sheds-light-on-survival-of-new-neurons-in-adult-brain/</guid>
+    </item>
+    
+    <item>
+        <title>RMzyme – regulations of RNA-modifying enzymes in humans</title>
+        <link>https://www.rna-seqblog.com/rmzyme-regulations-of-rna-modifying-enzymes-in-humans/</link>
+        <description>Inside every cell, RNA molecules help carry genetic instructions and guide the production of proteins. These RNA molecules are not static. They can be chemically modified after they are made, and thes</description>
+        <pubDate>Fri, 13 Feb 2026 12:32:17 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/rmzyme-regulations-of-rna-modifying-enzymes-in-humans/</guid>
     </item>
     
     <item>
@@ -418,52 +463,6 @@ biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
         <pubDate>2025-09-23T00:00:00+00:00</pubDate>
         <source>Ryan Wick’s bioinformatics blog</source>
         <guid>https://rrwick.github.io/2025/09/23/autocycler-benchmark-update.html</guid>
-    </item>
-    
-    <item>
-        <title>Zbąszyń</title>
-        <link>https://liorpachter.wordpress.com/2025/09/22/zbaszyn/</link>
-        <description>The mathematician Carl Friedrich Gauss invented the heliotrope for long-distance surveying in 1821. Just a year later, he proved that least squares regression provided the BLUE estimator for data with</description>
-        <pubDate>Mon, 22 Sep 2025 22:08:17 +0000</pubDate>
-        <source>Bits of DNA</source>
-        <guid>https://liorpachter.wordpress.com/2025/09/22/zbaszyn/</guid>
-    </item>
-    
-    <item>
-        <title>Back to Writing: Some Thoughts on Machine Learning</title>
-        <link>https://bioinformaticamente.com/2025/09/11/back-to-writing-some-thoughts-on-machine-learning/</link>
-        <description>&lt;p&gt;Hello. Finally, I’m back to writing on the blog. Intense work commitments and plenty of unexpected events have limited the time I could spend studying and sharing with you my progress in the world </description>
-        <pubDate>Thu, 11 Sep 2025 20:04:50 +0000</pubDate>
-        <source>BIOINFORMATICAMENTE</source>
-        <guid>https://bioinformaticamente.com/2025/09/11/back-to-writing-some-thoughts-on-machine-learning/</guid>
-    </item>
-    
-    <item>
-        <title>A quick look at Roche&#39;s SBX</title>
-        <link>http://lh3.github.io/2025/09/11/a-quick-look-at-roches-sbx</link>
-        <description>&lt;p&gt;&lt;a href=&#34;https://sequencing.roche.com/us/en/article-listing/sequencing-platform-technologies.html&#34;&gt;Sequencing by Expansion (SBX)&lt;/a&gt; is Roche’s new short-read sequencing technology.
-Roche released </description>
-        <pubDate>2025-09-11T00:00:00+00:00</pubDate>
-        <source>Heng Li&#39;s blog</source>
-        <guid>http://lh3.github.io/2025/09/11/a-quick-look-at-roches-sbx</guid>
-    </item>
-    
-    <item>
-        <title>Cross-sample homopolymer polishing with Pypolca</title>
-        <link>https://rrwick.github.io/2025/09/04/homopolymer-polishing.html</link>
-        <description></description>
-        <pubDate>2025-09-04T00:00:00+00:00</pubDate>
-        <source>Ryan Wick’s bioinformatics blog</source>
-        <guid>https://rrwick.github.io/2025/09/04/homopolymer-polishing.html</guid>
-    </item>
-    
-    <item>
-        <title>On professionalism</title>
-        <link>https://davetang.org/muse/2025/08/30/on-professionalism/</link>
-        <description>&lt;p&gt;I&#39;m a huge fan of Conan O&#39;Brien; there&#39;s just something about his demeanour, humour, and wittiness that I admire. I discovered him on YouTube around 2012 and was quite oblivious to who he was, what</description>
-        <pubDate>Sat, 30 Aug 2025 03:01:22 +0000</pubDate>
-        <source>Dave Tang&#39;s blog</source>
-        <guid>https://davetang.org/muse/2025/08/30/on-professionalism/</guid>
     </item>
     
 
