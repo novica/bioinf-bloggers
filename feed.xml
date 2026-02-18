@@ -6,13 +6,49 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Tue, 17 Feb 2026 07:05:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 07:07:37 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>CubaseBio emerges from stealth to scale true 3D spatial transcriptomics with €5.9M in financing</title>
+        <link>https://www.rna-seqblog.com/cubasebio-emerges-from-stealth-to-scale-true-3d-spatial-transcriptomics-with-e5-9m-in-financing/</link>
+        <description>CubaseBio secures €5.9 million to advance 3D spatial transcriptomics powered by DNA microscopy and RNA sequencing, enabling scalable volumetric gene expression mapping for drug discovery and disease r</description>
+        <pubDate>Tue, 17 Feb 2026 13:06:10 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/cubasebio-emerges-from-stealth-to-scale-true-3d-spatial-transcriptomics-with-e5-9m-in-financing/</guid>
+    </item>
+    
+    <item>
+        <title>First cell type-specific gene regulatory maps for Alzheimer’s disease</title>
+        <link>https://www.rna-seqblog.com/first-cell-type-specific-gene-regulatory-maps-for-alzheimers-disease/</link>
+        <description>Integrating RNA sequencing with whole-genome data, researchers built causal gene maps in Alzheimer’s brain cells, identifying hub genes and rewired networks that may drive neurodegeneration...</description>
+        <pubDate>Tue, 17 Feb 2026 12:18:15 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/first-cell-type-specific-gene-regulatory-maps-for-alzheimers-disease/</guid>
+    </item>
+    
+    <item>
+        <title>Breakthrough in human norovirus research: scientists overcome major obstacle to grow and study the virus</title>
+        <link>https://www.rna-seqblog.com/breakthrough-in-human-norovirus-research-scientists-overcome-major-obstacle-to-grow-and-study-the-virus/</link>
+        <description>Using RNA sequencing, researchers identified chemokine responses that restrict norovirus growth and enabled continuous viral passaging in mini-gut cultures, advancing vaccine and antiviral research...</description>
+        <pubDate>Tue, 17 Feb 2026 12:18:05 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/breakthrough-in-human-norovirus-research-scientists-overcome-major-obstacle-to-grow-and-study-the-virus/</guid>
+    </item>
+    
+    <item>
+        <title>Expertise Before Augmentation</title>
+        <link>https://blog.stephenturner.us/p/expertise-before-augmentation</link>
+        <description>A developmental framework for sequencing AI use in PhD training</description>
+        <pubDate>Tue, 17 Feb 2026 10:30:33 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/expertise-before-augmentation</guid>
+    </item>
     
     <item>
         <title>A practical guide to targeted single-cell RNA sequencing technologies</title>
         <link>https://www.rna-seqblog.com/a-practical-guide-to-targeted-single-cell-rna-sequencing-technologies/</link>
-        <description>This review examines biases in RNA sequencing at the single cell level and outlines targeted strategies to improve transcript detection, coverage of internal regions, and experimental decision making.</description>
+        <description>Single cell RNA sequencing has become one of the most powerful tools in modern biology. It allows researchers to measure gene activity in individual cells, helping scientists understand cell types, de</description>
         <pubDate>Mon, 16 Feb 2026 12:15:28 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/a-practical-guide-to-targeted-single-cell-rna-sequencing-technologies/</guid>
@@ -21,7 +57,7 @@
     <item>
         <title>Researchers identify potential immune evasion mechanism in premalignant lung lesions</title>
         <link>https://www.rna-seqblog.com/researchers-identify-potential-immune-evasion-mechanism-in-premalignant-lung-lesions/</link>
-        <description>Using RNA sequencing, researchers identified miR-149-5p as a driver of immune evasion in progressive bronchial lesions, revealing a potential pathway for early lung cancer...</description>
+        <description>Intercepting these molecular and cellular changes may prevent or delay lung cancer development, reducing lung cancer–related mortality.Throughout a person’s lifetime, the cells lining the respiratory </description>
         <pubDate>Mon, 16 Feb 2026 12:15:16 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/researchers-identify-potential-immune-evasion-mechanism-in-premalignant-lung-lesions/</guid>
@@ -43,33 +79,6 @@
         <pubDate>Sun, 15 Feb 2026 10:40:38 +0000</pubDate>
         <source>What You&#39;re Doing Is Rather Desperate</source>
         <guid>https://nsaunders.wordpress.com/2026/02/15/creating-custom-non-font-awesome-icons-for-a-jekyll-based-website/</guid>
-    </item>
-    
-    <item>
-        <title>Nanopore sequencing of intact aminoacylated tRNAs</title>
-        <link>https://www.rna-seqblog.com/nanopore-sequencing-of-intact-aminoacylated-trnas/</link>
-        <description>Using RNA sequencing with nanopore technology, researchers developed aa tRNA seq to identify amino acids attached to individual tRNAs, revealing how modifications influence tRNA stability and charging</description>
-        <pubDate>Fri, 13 Feb 2026 12:32:50 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/nanopore-sequencing-of-intact-aminoacylated-trnas/</guid>
-    </item>
-    
-    <item>
-        <title>Breakthrough UC study sheds light on survival of new neurons in adult brain</title>
-        <link>https://www.rna-seqblog.com/breakthrough-uc-study-sheds-light-on-survival-of-new-neurons-in-adult-brain/</link>
-        <description>Breakthrough research from the University of Cincinnati College of Medicine is revealing how immune cells in the adult brain can regulate the generation of new neurons. The study is leading to a new u</description>
-        <pubDate>Fri, 13 Feb 2026 12:32:31 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/breakthrough-uc-study-sheds-light-on-survival-of-new-neurons-in-adult-brain/</guid>
-    </item>
-    
-    <item>
-        <title>RMzyme – regulations of RNA-modifying enzymes in humans</title>
-        <link>https://www.rna-seqblog.com/rmzyme-regulations-of-rna-modifying-enzymes-in-humans/</link>
-        <description>Inside every cell, RNA molecules help carry genetic instructions and guide the production of proteins. These RNA molecules are not static. They can be chemically modified after they are made, and thes</description>
-        <pubDate>Fri, 13 Feb 2026 12:32:17 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/rmzyme-regulations-of-rna-modifying-enzymes-in-humans/</guid>
     </item>
     
     <item>
@@ -97,15 +106,6 @@
         <pubDate>Wed, 11 Feb 2026 10:30:25 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/diagrams-claude-excalidraw-drawio</guid>
-    </item>
-    
-    <item>
-        <title>Tiered Access for AIxBio Governance</title>
-        <link>https://blog.stephenturner.us/p/tiered-access-aixbio-governance</link>
-        <description>Parallel proposals target training data and model access to reduce biosecurity risk</description>
-        <pubDate>Mon, 09 Feb 2026 10:36:18 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/tiered-access-aixbio-governance</guid>
     </item>
     
     <item>
