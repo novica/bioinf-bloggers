@@ -6,8 +6,44 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Wed, 18 Feb 2026 07:07:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 07:07:14 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>AGBT 2026 Preview</title>
+        <link>https://omicsomics.blogspot.com/2026/02/agbt-2026-preview.html</link>
+        <description>AGBT starts on Monday at the Signia by Hilton Bonnet Creek in Orlando on Monday, but the pre-conference flurry of announcements is already rolling out.  Here is a quick scan of what&#39;s already been tel</description>
+        <pubDate>2026-02-18T23:45:00.000-05:00</pubDate>
+        <source>Omics! Omics!</source>
+        <guid>https://omicsomics.blogspot.com/2026/02/agbt-2026-preview.html</guid>
+    </item>
+    
+    <item>
+        <title>Rubrics, Not Vibes: Consistency as a Feature in Peer Review with AI</title>
+        <link>https://blog.stephenturner.us/p/rubrics-not-vibes-ai-peer-review</link>
+        <description>Responsibly using AI for a structured first pass manuscript / grant proposal review can reduce reviewer variance while keeping human judgment central. Bonus: a prompt I use for my own draft proposals.</description>
+        <pubDate>Wed, 18 Feb 2026 14:29:35 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/rubrics-not-vibes-ai-peer-review</guid>
+    </item>
+    
+    <item>
+        <title>Droplet vs picowell – considerations for single-cell transcriptomic profiling</title>
+        <link>https://www.rna-seqblog.com/droplet-vs-picowell-considerations-for-single-cell-transcriptomic-profiling/</link>
+        <description>A head to head comparison of single cell RNA sequencing platforms reveals how droplet and picowell methods differ in preserving epithelial cells and data quality in human colon biopsies</description>
+        <pubDate>Wed, 18 Feb 2026 12:12:38 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/droplet-vs-picowell-considerations-for-single-cell-transcriptomic-profiling/</guid>
+    </item>
+    
+    <item>
+        <title>AI-enabled gene discovery opens door to personalised psoriasis treatment</title>
+        <link>https://www.rna-seqblog.com/ai-enabled-gene-discovery-opens-door-to-personalised-psoriasis-treatment/</link>
+        <description>Using RNA sequencing and machine learning, researchers identified gene signatures that define psoriasis subtypes and severity...</description>
+        <pubDate>Wed, 18 Feb 2026 12:12:28 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/ai-enabled-gene-discovery-opens-door-to-personalised-psoriasis-treatment/</guid>
+    </item>
     
     <item>
         <title>CubaseBio emerges from stealth to scale true 3D spatial transcriptomics with €5.9M in financing</title>
@@ -21,7 +57,7 @@
     <item>
         <title>First cell type-specific gene regulatory maps for Alzheimer’s disease</title>
         <link>https://www.rna-seqblog.com/first-cell-type-specific-gene-regulatory-maps-for-alzheimers-disease/</link>
-        <description>Integrating RNA sequencing with whole-genome data, researchers built causal gene maps in Alzheimer’s brain cells, identifying hub genes and rewired networks that may drive neurodegeneration...</description>
+        <description>Newly developed data analysis method uncovers causal mechanisms of disease Public health researchers use newly developed data analysis method to build the first cell type-specific gene regulatory maps</description>
         <pubDate>Tue, 17 Feb 2026 12:18:15 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/first-cell-type-specific-gene-regulatory-maps-for-alzheimers-disease/</guid>
@@ -30,7 +66,7 @@
     <item>
         <title>Breakthrough in human norovirus research: scientists overcome major obstacle to grow and study the virus</title>
         <link>https://www.rna-seqblog.com/breakthrough-in-human-norovirus-research-scientists-overcome-major-obstacle-to-grow-and-study-the-virus/</link>
-        <description>Using RNA sequencing, researchers identified chemokine responses that restrict norovirus growth and enabled continuous viral passaging in mini-gut cultures, advancing vaccine and antiviral research...</description>
+        <description>Researchers at Baylor College of Medicine report in Science Advances a breakthrough in human norovirus (HuNoV) research. Norovirus is a leading cause of acute viral gastroenteritis worldwide with seve</description>
         <pubDate>Tue, 17 Feb 2026 12:18:05 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/breakthrough-in-human-norovirus-research-scientists-overcome-major-obstacle-to-grow-and-study-the-virus/</guid>
@@ -43,24 +79,6 @@
         <pubDate>Tue, 17 Feb 2026 10:30:33 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/expertise-before-augmentation</guid>
-    </item>
-    
-    <item>
-        <title>A practical guide to targeted single-cell RNA sequencing technologies</title>
-        <link>https://www.rna-seqblog.com/a-practical-guide-to-targeted-single-cell-rna-sequencing-technologies/</link>
-        <description>Single cell RNA sequencing has become one of the most powerful tools in modern biology. It allows researchers to measure gene activity in individual cells, helping scientists understand cell types, de</description>
-        <pubDate>Mon, 16 Feb 2026 12:15:28 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/a-practical-guide-to-targeted-single-cell-rna-sequencing-technologies/</guid>
-    </item>
-    
-    <item>
-        <title>Researchers identify potential immune evasion mechanism in premalignant lung lesions</title>
-        <link>https://www.rna-seqblog.com/researchers-identify-potential-immune-evasion-mechanism-in-premalignant-lung-lesions/</link>
-        <description>Intercepting these molecular and cellular changes may prevent or delay lung cancer development, reducing lung cancer–related mortality.Throughout a person’s lifetime, the cells lining the respiratory </description>
-        <pubDate>Mon, 16 Feb 2026 12:15:16 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/researchers-identify-potential-immune-evasion-mechanism-in-premalignant-lung-lesions/</guid>
     </item>
     
     <item>
@@ -97,15 +115,6 @@
         <pubDate>Thu, 12 Feb 2026 09:07:22 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/one-week-in-ai-safety-feb-2026</guid>
-    </item>
-    
-    <item>
-        <title>Diagrams in Claude with Excalidraw and draw.io</title>
-        <link>https://blog.stephenturner.us/p/diagrams-claude-excalidraw-drawio</link>
-        <description>Make diagrams with draw.io using Claude project instructions or MCP, or with Excalidraw using the connector.</description>
-        <pubDate>Wed, 11 Feb 2026 10:30:25 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/diagrams-claude-excalidraw-drawio</guid>
     </item>
     
     <item>
@@ -178,15 +187,6 @@
         <pubDate>2026-01-28T11:01:00.001-05:00</pubDate>
         <source>Omics! Omics!</source>
         <guid>https://omicsomics.blogspot.com/2026/01/p2-solo-ont-extends-support-but-not.html</guid>
-    </item>
-    
-    <item>
-        <title>ONT Axes P2 Solo, Roiling Community</title>
-        <link>https://omicsomics.blogspot.com/2026/01/ont-axes-p2-solo-roiling-community.html</link>
-        <description>&lt;div&gt;Oxford Nanopore has a serious case of user community unrest, triggered by the announcement that the P2 Solo (aka P2s) will be phased out starting this summer.  P2 Solo is the two flowcell version</description>
-        <pubDate>2026-01-25T20:43:00.001-05:00</pubDate>
-        <source>Omics! Omics!</source>
-        <guid>https://omicsomics.blogspot.com/2026/01/ont-axes-p2-solo-roiling-community.html</guid>
     </item>
     
     <item>
