@@ -6,8 +6,35 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Thu, 19 Feb 2026 07:07:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 07:03:33 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>The Quickening</title>
+        <link>https://liorpachter.wordpress.com/2026/02/19/the-quickening/</link>
+        <description>In a paper titled &amp;#8220;THEOREMS FOR A PRICE: Tomorrow&amp;#8217;s Semi-Rigorous Mathematics Culture&amp;#8221; published in 1993, mathematician Doron Zeilberger wrote: There are writings on the wall that, n</description>
+        <pubDate>Thu, 19 Feb 2026 16:59:52 +0000</pubDate>
+        <source>Bits of DNA</source>
+        <guid>https://liorpachter.wordpress.com/2026/02/19/the-quickening/</guid>
+    </item>
+    
+    <item>
+        <title>scHiCAR – trimodal single-cell profiling of transcriptome, epigenome and 3D genome</title>
+        <link>https://www.rna-seqblog.com/schicar-trimodal-single-cell-profiling-of-transcriptome-epigenome-and-3d-genome/</link>
+        <description>scHiCAR integrates RNA sequencing, chromatin accessibility, and 3D genome mapping in single cells, enabling high-resolution analysis of enhancer promoter interactions across complex tissues...</description>
+        <pubDate>Thu, 19 Feb 2026 12:23:18 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/schicar-trimodal-single-cell-profiling-of-transcriptome-epigenome-and-3d-genome/</guid>
+    </item>
+    
+    <item>
+        <title>Mapping protein production in brain cells yields new insights for brain disease</title>
+        <link>https://www.rna-seqblog.com/mapping-protein-production-in-brain-cells-yields-new-insights-for-brain-disease/</link>
+        <description>Ribo-STAMP combines ribosome tagging with RNA sequencing to map protein production in individual hippocampal neurons, uncovering cell-specific translation patterns and isoform-dependent differences in</description>
+        <pubDate>Thu, 19 Feb 2026 12:23:04 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/mapping-protein-production-in-brain-cells-yields-new-insights-for-brain-disease/</guid>
+    </item>
     
     <item>
         <title>AGBT 2026 Preview</title>
@@ -30,7 +57,7 @@
     <item>
         <title>Droplet vs picowell – considerations for single-cell transcriptomic profiling</title>
         <link>https://www.rna-seqblog.com/droplet-vs-picowell-considerations-for-single-cell-transcriptomic-profiling/</link>
-        <description>A head to head comparison of single cell RNA sequencing platforms reveals how droplet and picowell methods differ in preserving epithelial cells and data quality in human colon biopsies</description>
+        <description>A head to head comparison of single cell RNA sequencing platforms reveals how droplet and picowell methods differ in preserving epithelial cells and data quality in human colon biopsies...</description>
         <pubDate>Wed, 18 Feb 2026 12:12:38 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/droplet-vs-picowell-considerations-for-single-cell-transcriptomic-profiling/</guid>
@@ -48,28 +75,10 @@
     <item>
         <title>CubaseBio emerges from stealth to scale true 3D spatial transcriptomics with €5.9M in financing</title>
         <link>https://www.rna-seqblog.com/cubasebio-emerges-from-stealth-to-scale-true-3d-spatial-transcriptomics-with-e5-9m-in-financing/</link>
-        <description>CubaseBio secures €5.9 million to advance 3D spatial transcriptomics powered by DNA microscopy and RNA sequencing, enabling scalable volumetric gene expression mapping for drug discovery and disease r</description>
+        <description>CubaseBio, a biotechnology company founded by pioneers in spatial biology, today announced it has secured €5.9 million in blended financing. The funding comprises a €2 million non-dilutive grant from </description>
         <pubDate>Tue, 17 Feb 2026 13:06:10 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/cubasebio-emerges-from-stealth-to-scale-true-3d-spatial-transcriptomics-with-e5-9m-in-financing/</guid>
-    </item>
-    
-    <item>
-        <title>First cell type-specific gene regulatory maps for Alzheimer’s disease</title>
-        <link>https://www.rna-seqblog.com/first-cell-type-specific-gene-regulatory-maps-for-alzheimers-disease/</link>
-        <description>Newly developed data analysis method uncovers causal mechanisms of disease Public health researchers use newly developed data analysis method to build the first cell type-specific gene regulatory maps</description>
-        <pubDate>Tue, 17 Feb 2026 12:18:15 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/first-cell-type-specific-gene-regulatory-maps-for-alzheimers-disease/</guid>
-    </item>
-    
-    <item>
-        <title>Breakthrough in human norovirus research: scientists overcome major obstacle to grow and study the virus</title>
-        <link>https://www.rna-seqblog.com/breakthrough-in-human-norovirus-research-scientists-overcome-major-obstacle-to-grow-and-study-the-virus/</link>
-        <description>Researchers at Baylor College of Medicine report in Science Advances a breakthrough in human norovirus (HuNoV) research. Norovirus is a leading cause of acute viral gastroenteritis worldwide with seve</description>
-        <pubDate>Tue, 17 Feb 2026 12:18:05 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/breakthrough-in-human-norovirus-research-scientists-overcome-major-obstacle-to-grow-and-study-the-virus/</guid>
     </item>
     
     <item>
@@ -454,15 +463,6 @@ biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
         <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
         <source>Chatomics on Chatomics</source>
         <guid>https://divingintogeneticsandgenomics.com/post/list-column-rnaseq/</guid>
-    </item>
-    
-    <item>
-        <title>Benchmark update: metaMDBG and Myloasm</title>
-        <link>https://rrwick.github.io/2025/09/23/autocycler-benchmark-update.html</link>
-        <description></description>
-        <pubDate>2025-09-23T00:00:00+00:00</pubDate>
-        <source>Ryan Wick’s bioinformatics blog</source>
-        <guid>https://rrwick.github.io/2025/09/23/autocycler-benchmark-update.html</guid>
     </item>
     
 
