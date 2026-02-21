@@ -6,8 +6,53 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Fri, 20 Feb 2026 07:03:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 06:51:11 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>Using MOB-suite to predict plasmids in bacterial genome assemblies</title>
+        <link>https://avrilomics.blogspot.com/2026/02/using-mob-suite-to-predict-plasmids-in.html</link>
+        <description>&lt;p&gt;Today I wanted to predict plasmids in a bacterial genome assembly, and used the&amp;nbsp;&lt;a href=&#34;https://github.com/phac-nml/mob-suite&#34;&gt;MOB-suite&lt;/a&gt;&amp;nbsp;tool.&lt;/p&gt;&lt;p&gt;Here&#39;s how I ran it on the Sanger</description>
+        <pubDate>2026-02-20T07:07:00.000-08:00</pubDate>
+        <source>avrilomics</source>
+        <guid>https://avrilomics.blogspot.com/2026/02/using-mob-suite-to-predict-plasmids-in.html</guid>
+    </item>
+    
+    <item>
+        <title>RNA sequencing reveals STING driven immunotherapy targets in meningioma</title>
+        <link>https://www.rna-seqblog.com/rna-sequencing-reveals-sting-driven-immunotherapy-targets-in-meningioma/</link>
+        <description>Single-cell RNA sequencing revealed STING pathway activation in meningioma tumor and immune cells, and RNA sequencing showed inflammatory cell death mechanisms following STING agonist treatment, suppo</description>
+        <pubDate>Fri, 20 Feb 2026 12:27:59 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/rna-sequencing-reveals-sting-driven-immunotherapy-targets-in-meningioma/</guid>
+    </item>
+    
+    <item>
+        <title>Improving batch correction for single-cell RNA sequencing data</title>
+        <link>https://www.rna-seqblog.com/improving-batch-correction-for-single-cell-rna-sequencing-data/</link>
+        <description>Researchers examine batch effects in single-cell RNA sequencing and outlines strategies to balance removal of technical noise while preserving true biological variation across integrated datasets...</description>
+        <pubDate>Fri, 20 Feb 2026 12:27:48 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/improving-batch-correction-for-single-cell-rna-sequencing-data/</guid>
+    </item>
+    
+    <item>
+        <title>Element Biosciences Introduces VITARI™</title>
+        <link>https://www.rna-seqblog.com/element-biosciences-introduces-vitari-redefining-what-high-throughput-sequencing-makes-possible/</link>
+        <description>Element Biosciences introduces VITARI, a high-throughput benchtop system delivering $100 whole genomes and scalable RNA sequencing for population studies, oncology research, and single-cell transcript</description>
+        <pubDate>Fri, 20 Feb 2026 12:27:35 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/element-biosciences-introduces-vitari-redefining-what-high-throughput-sequencing-makes-possible/</guid>
+    </item>
+    
+    <item>
+        <title>Weekly Recap (February 20, 2026)</title>
+        <link>https://blog.stephenturner.us/p/weekly-recap-february-20-2026</link>
+        <description>Human uplift with AI in viral synthesis, AI in biology, lab automation, R updates (Posit, R Weekly, R Ladies), DOE OPAL, stats+AI, AI &amp; labor, coding agents, Vibe Teaching, papers &amp; preprints</description>
+        <pubDate>Fri, 20 Feb 2026 10:02:42 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/weekly-recap-february-20-2026</guid>
+    </item>
     
     <item>
         <title>The Quickening</title>
@@ -21,7 +66,7 @@
     <item>
         <title>scHiCAR – trimodal single-cell profiling of transcriptome, epigenome and 3D genome</title>
         <link>https://www.rna-seqblog.com/schicar-trimodal-single-cell-profiling-of-transcriptome-epigenome-and-3d-genome/</link>
-        <description>scHiCAR integrates RNA sequencing, chromatin accessibility, and 3D genome mapping in single cells, enabling high-resolution analysis of enhancer promoter interactions across complex tissues...</description>
+        <description>Understanding how genes are turned on and off requires more than simply measuring RNA levels. Inside the nucleus, DNA is folded in three dimensions, and this folding helps bring regulatory DNA element</description>
         <pubDate>Thu, 19 Feb 2026 12:23:18 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/schicar-trimodal-single-cell-profiling-of-transcriptome-epigenome-and-3d-genome/</guid>
@@ -30,7 +75,7 @@
     <item>
         <title>Mapping protein production in brain cells yields new insights for brain disease</title>
         <link>https://www.rna-seqblog.com/mapping-protein-production-in-brain-cells-yields-new-insights-for-brain-disease/</link>
-        <description>Ribo-STAMP combines ribosome tagging with RNA sequencing to map protein production in individual hippocampal neurons, uncovering cell-specific translation patterns and isoform-dependent differences in</description>
+        <description>UC San Diego and Scripps Research scientists used a novel method to show that some memory neurons produce proteins at higher rates than others. A new method lets researchers visualize messenger RNA tr</description>
         <pubDate>Thu, 19 Feb 2026 12:23:04 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/mapping-protein-production-in-brain-cells-yields-new-insights-for-brain-disease/</guid>
@@ -52,33 +97,6 @@
         <pubDate>Wed, 18 Feb 2026 14:29:35 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/rubrics-not-vibes-ai-peer-review</guid>
-    </item>
-    
-    <item>
-        <title>Droplet vs picowell – considerations for single-cell transcriptomic profiling</title>
-        <link>https://www.rna-seqblog.com/droplet-vs-picowell-considerations-for-single-cell-transcriptomic-profiling/</link>
-        <description>A head to head comparison of single cell RNA sequencing platforms reveals how droplet and picowell methods differ in preserving epithelial cells and data quality in human colon biopsies...</description>
-        <pubDate>Wed, 18 Feb 2026 12:12:38 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/droplet-vs-picowell-considerations-for-single-cell-transcriptomic-profiling/</guid>
-    </item>
-    
-    <item>
-        <title>AI-enabled gene discovery opens door to personalised psoriasis treatment</title>
-        <link>https://www.rna-seqblog.com/ai-enabled-gene-discovery-opens-door-to-personalised-psoriasis-treatment/</link>
-        <description>Using RNA sequencing and machine learning, researchers identified gene signatures that define psoriasis subtypes and severity...</description>
-        <pubDate>Wed, 18 Feb 2026 12:12:28 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/ai-enabled-gene-discovery-opens-door-to-personalised-psoriasis-treatment/</guid>
-    </item>
-    
-    <item>
-        <title>CubaseBio emerges from stealth to scale true 3D spatial transcriptomics with €5.9M in financing</title>
-        <link>https://www.rna-seqblog.com/cubasebio-emerges-from-stealth-to-scale-true-3d-spatial-transcriptomics-with-e5-9m-in-financing/</link>
-        <description>CubaseBio, a biotechnology company founded by pioneers in spatial biology, today announced it has secured €5.9 million in blended financing. The funding comprises a €2 million non-dilutive grant from </description>
-        <pubDate>Tue, 17 Feb 2026 13:06:10 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/cubasebio-emerges-from-stealth-to-scale-true-3d-spatial-transcriptomics-with-e5-9m-in-financing/</guid>
     </item>
     
     <item>
@@ -115,15 +133,6 @@
         <pubDate>Fri, 13 Feb 2026 09:23:12 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/weekly-recap-february-13-2026</guid>
-    </item>
-    
-    <item>
-        <title>One week in AI safety</title>
-        <link>https://blog.stephenturner.us/p/one-week-in-ai-safety-feb-2026</link>
-        <description>Resignations at Anthropic&#39;s safeguards research team and xAI, Opus 4.6 evaluation awareness, Bytedance AI video generation, US doesn&#39;t back Global AI Safety Report, &#34;heinous crimes&#34; and $1T selloffs</description>
-        <pubDate>Thu, 12 Feb 2026 09:07:22 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/one-week-in-ai-safety-feb-2026</guid>
     </item>
     
     <item>
@@ -452,17 +461,6 @@ How many and how challenging? I could not find a</description>
         <pubDate>2025-09-27T00:00:00+00:00</pubDate>
         <source>JEFworks Lab</source>
         <guid>http://jefworks-lab.github.io//blog/2025/09/27/analyzing-ice-detention-data-2/</guid>
-    </item>
-    
-    <item>
-        <title>Do not repeat yourself: List column to do RNAseq differential expression analysis</title>
-        <link>https://divingintogeneticsandgenomics.com/post/list-column-rnaseq/</link>
-        <description>&lt;p&gt;&lt;strong&gt;To not miss a post like this, sign up for my &lt;a href=&#34;https://divingintogeneticsandgenomics.ck.page/profile&#34;&gt;newsletter&lt;/a&gt; to learn computational
-biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
-&lt;</description>
-        <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
-        <source>Chatomics on Chatomics</source>
-        <guid>https://divingintogeneticsandgenomics.com/post/list-column-rnaseq/</guid>
     </item>
     
 
