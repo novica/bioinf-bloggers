@@ -6,8 +6,26 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Sun, 22 Feb 2026 06:56:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 07:12:38 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>AI Agent -Driven Biochemical Optimization</title>
+        <link>https://omicsomics.blogspot.com/2026/02/ai-agent-driven-biochemical-optimization.html</link>
+        <description>&lt;div&gt;When I started this space, I vowed not to become just a mouthpiece of my employer - but when my employer does something interesting, of course I&#39;m not going to reflexively avoid writing about it.</description>
+        <pubDate>2026-02-22T12:06:00.003-05:00</pubDate>
+        <source>Omics! Omics!</source>
+        <guid>https://omicsomics.blogspot.com/2026/02/ai-agent-driven-biochemical-optimization.html</guid>
+    </item>
+    
+    <item>
+        <title>Vibe coding with SEraster and STcompare to compare spatial transcriptomics technologies</title>
+        <link>http://jefworks-lab.github.io//blog/2026/02/22/vibe-coding-stcompare/</link>
+        <description>Introduction</description>
+        <pubDate>2026-02-22T00:00:00+00:00</pubDate>
+        <source>JEFworks Lab</source>
+        <guid>http://jefworks-lab.github.io//blog/2026/02/22/vibe-coding-stcompare/</guid>
+    </item>
     
     <item>
         <title>Using MOB-suite to predict plasmids in bacterial genome assemblies</title>
@@ -196,15 +214,6 @@
         <pubDate>2026-01-29T12:21:00.000-05:00</pubDate>
         <source>Omics! Omics!</source>
         <guid>https://omicsomics.blogspot.com/2026/01/sequencer-vs-library-prep-market.html</guid>
-    </item>
-    
-    <item>
-        <title>P2 Solo: ONT Extends Support But Not Sales</title>
-        <link>https://omicsomics.blogspot.com/2026/01/p2-solo-ont-extends-support-but-not.html</link>
-        <description>A brief update to the &lt;a href=&#34;https://omicsomics.blogspot.com/2026/01/ont-axes-p2-solo-roiling-community.html&#34;&gt;earlier P2 Solo piece&lt;/a&gt; - Oxford Nanopore has now announced they will extend their sup</description>
-        <pubDate>2026-01-28T11:01:00.001-05:00</pubDate>
-        <source>Omics! Omics!</source>
-        <guid>https://omicsomics.blogspot.com/2026/01/p2-solo-ont-extends-support-but-not.html</guid>
     </item>
     
     <item>
@@ -452,15 +461,6 @@ How many and how challenging? I could not find a</description>
         <pubDate>2025-09-29T00:00:00+00:00</pubDate>
         <source>Heng Li&#39;s blog</source>
         <guid>http://lh3.github.io/2025/09/29/on-low-complexity-regions</guid>
-    </item>
-    
-    <item>
-        <title>Analyzing ICE Arrest Data - Part 2</title>
-        <link>http://jefworks-lab.github.io//blog/2025/09/27/analyzing-ice-detention-data-2/</link>
-        <description>In this blog post, I continue to demonstrate how to analyze publicly available datasets related to U.S. Immigration and Customs Enforcement (ICE). This time, I take advantage of publicly available dat</description>
-        <pubDate>2025-09-27T00:00:00+00:00</pubDate>
-        <source>JEFworks Lab</source>
-        <guid>http://jefworks-lab.github.io//blog/2025/09/27/analyzing-ice-detention-data-2/</guid>
     </item>
     
 
