@@ -6,8 +6,53 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Mon, 23 Feb 2026 07:12:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 07:07:20 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>Canal Biosciences: Ligation Libraries without Distortions from End Repair</title>
+        <link>https://omicsomics.blogspot.com/2026/02/canal-biosciences-ligation-libraries.html</link>
+        <description>&lt;div&gt;Canal Biosciences is a small startup in the library prep space that is making a debut at AGBT this year as a contributing sponsor.  Based in the historic mill town of Lowell Massachusetts with it</description>
+        <pubDate>2026-02-24T01:05:00.002-05:00</pubDate>
+        <source>Omics! Omics!</source>
+        <guid>https://omicsomics.blogspot.com/2026/02/canal-biosciences-ligation-libraries.html</guid>
+    </item>
+    
+    <item>
+        <title>Wish: Scientific Poster Snap Organizer App</title>
+        <link>https://omicsomics.blogspot.com/2026/02/wish-scientific-poster-snap-organizer.html</link>
+        <description>AGBT is another conference with a wonderful wealth of scientific posters and never enough time to view them all properly. I definitely enjoy engaging scientists - particularly early stage scientists s</description>
+        <pubDate>2026-02-23T08:52:00.002-05:00</pubDate>
+        <source>Omics! Omics!</source>
+        <guid>https://omicsomics.blogspot.com/2026/02/wish-scientific-poster-snap-organizer.html</guid>
+    </item>
+    
+    <item>
+        <title>New single-cell transcriptomic clock reveals intrinsic and systemic T cell aging in COVID-19 and HIV</title>
+        <link>https://www.rna-seqblog.com/new-single-cell-transcriptomic-clock-reveals-intrinsic-and-systemic-t-cell-aging-in-covid-19-and-hiv/</link>
+        <description>Using RNA sequencing at single-cell resolution, researchers developed Tictock to distinguish intrinsic and systemic T cell aging, revealing accelerated immune aging in COVID-19 and...</description>
+        <pubDate>Mon, 23 Feb 2026 12:16:52 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/new-single-cell-transcriptomic-clock-reveals-intrinsic-and-systemic-t-cell-aging-in-covid-19-and-hiv/</guid>
+    </item>
+    
+    <item>
+        <title>Key proteins found to drive abnormal bone growth after injury</title>
+        <link>https://www.rna-seqblog.com/key-proteins-found-to-drive-abnormal-bone-growth-after-injury/</link>
+        <description>Using RNA sequencing and spatial transcriptomics, researchers show TSP1 and TSP2 reorganize injured tissue, promoting heterotopic ossification and identifying potential therapeutic targets to prevent </description>
+        <pubDate>Mon, 23 Feb 2026 12:16:41 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/key-proteins-found-to-drive-abnormal-bone-growth-after-injury/</guid>
+    </item>
+    
+    <item>
+        <title>Press the Red Button, Dave</title>
+        <link>https://blog.stephenturner.us/p/ai-uplift-bio-lab-red-button</link>
+        <description>A small study at LANL has real-world biosecurity relevance: evaluating whether AI can transfer tacit laboratory skill to novices.</description>
+        <pubDate>Mon, 23 Feb 2026 10:24:30 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/ai-uplift-bio-lab-red-button</guid>
+    </item>
     
     <item>
         <title>AI Agent -Driven Biochemical Optimization</title>
@@ -48,7 +93,7 @@
     <item>
         <title>Improving batch correction for single-cell RNA sequencing data</title>
         <link>https://www.rna-seqblog.com/improving-batch-correction-for-single-cell-rna-sequencing-data/</link>
-        <description>Researchers examine batch effects in single-cell RNA sequencing and outlines strategies to balance removal of technical noise while preserving true biological variation across integrated datasets...</description>
+        <description>Over the past decade, single-cell technologies have allowed scientists to measure gene activity in thousands to millions of individual cells. These large datasets have made it possible to build detail</description>
         <pubDate>Fri, 20 Feb 2026 12:27:48 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/improving-batch-correction-for-single-cell-rna-sequencing-data/</guid>
@@ -57,7 +102,7 @@
     <item>
         <title>Element Biosciences Introduces VITARI™</title>
         <link>https://www.rna-seqblog.com/element-biosciences-introduces-vitari-redefining-what-high-throughput-sequencing-makes-possible/</link>
-        <description>Element Biosciences introduces VITARI, a high-throughput benchtop system delivering $100 whole genomes and scalable RNA sequencing for population studies, oncology research, and single-cell transcript</description>
+        <description>Element Biosciences Inc. today announced VITARI, the first ever high-throughput benchtop sequencing system capable of delivering a high-quality whole genome at $100. With the introduction of VITARI, E</description>
         <pubDate>Fri, 20 Feb 2026 12:27:35 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/element-biosciences-introduces-vitari-redefining-what-high-throughput-sequencing-makes-possible/</guid>
@@ -79,24 +124,6 @@
         <pubDate>Thu, 19 Feb 2026 16:59:52 +0000</pubDate>
         <source>Bits of DNA</source>
         <guid>https://liorpachter.wordpress.com/2026/02/19/the-quickening/</guid>
-    </item>
-    
-    <item>
-        <title>scHiCAR – trimodal single-cell profiling of transcriptome, epigenome and 3D genome</title>
-        <link>https://www.rna-seqblog.com/schicar-trimodal-single-cell-profiling-of-transcriptome-epigenome-and-3d-genome/</link>
-        <description>Understanding how genes are turned on and off requires more than simply measuring RNA levels. Inside the nucleus, DNA is folded in three dimensions, and this folding helps bring regulatory DNA element</description>
-        <pubDate>Thu, 19 Feb 2026 12:23:18 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/schicar-trimodal-single-cell-profiling-of-transcriptome-epigenome-and-3d-genome/</guid>
-    </item>
-    
-    <item>
-        <title>Mapping protein production in brain cells yields new insights for brain disease</title>
-        <link>https://www.rna-seqblog.com/mapping-protein-production-in-brain-cells-yields-new-insights-for-brain-disease/</link>
-        <description>UC San Diego and Scripps Research scientists used a novel method to show that some memory neurons produce proteins at higher rates than others. A new method lets researchers visualize messenger RNA tr</description>
-        <pubDate>Thu, 19 Feb 2026 12:23:04 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/mapping-protein-production-in-brain-cells-yields-new-insights-for-brain-disease/</guid>
     </item>
     
     <item>
@@ -145,15 +172,6 @@
     </item>
     
     <item>
-        <title>Weekly Recap (February 13, 2026)</title>
-        <link>https://blog.stephenturner.us/p/weekly-recap-february-13-2026</link>
-        <description>NIH bioinformatics funding, biosecurity, AI and labor, AI and social life, Applied Machine Learning Conference, R updates (R Weekly, Tidyverse), Saudi genomics, lab automation, papers &amp; preprints</description>
-        <pubDate>Fri, 13 Feb 2026 09:23:12 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/weekly-recap-february-13-2026</guid>
-    </item>
-    
-    <item>
         <title>Pancreatic Adenocarcinoma Mutation Trajectories at Single Cell Resolution</title>
         <link>https://omicsomics.blogspot.com/2026/02/pancreatic-adenocarcinoma-mutation.html</link>
         <description>Single cell RNA sequencing is nearly ubiquitous; single cell DNA sequencing has been much rarer.  I&#39;m going to dive in a bit - but not a full review - &lt;a href=&#34;https://www.nature.com/articles/s41588-0</description>
@@ -196,24 +214,6 @@
         <pubDate>2026-02-05T00:00:00+00:00</pubDate>
         <source>Ryan Wick’s bioinformatics blog</source>
         <guid>https://rrwick.github.io/2026/02/05/read_qc_testing.html</guid>
-    </item>
-    
-    <item>
-        <title>Non-coding DNA&#39;s Alpha Moment</title>
-        <link>https://omicsomics.blogspot.com/2026/02/non-coding-dnas-alpha-moment.html</link>
-        <description>&lt;span id=&#34;docs-internal-guid-be227014-7fff-a943-f37b-92206cd9ea0a&#34;&gt;&lt;p dir=&#34;ltr&#34; style=&#34;line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;&#34;&gt;&lt;span style=&#34;font-family: Arial, sans-serif; font-size: </description>
-        <pubDate>2026-02-02T10:28:00.005-05:00</pubDate>
-        <source>Omics! Omics!</source>
-        <guid>https://omicsomics.blogspot.com/2026/02/non-coding-dnas-alpha-moment.html</guid>
-    </item>
-    
-    <item>
-        <title>Sequencer vs. Library Prep Market Structures</title>
-        <link>https://omicsomics.blogspot.com/2026/01/sequencer-vs-library-prep-market.html</link>
-        <description>Something I started pondering as I was prepping my JP Morgan items: the structure of the market for sequencing library prep is very different from that for sequencers.  Perhaps this is painfully obvio</description>
-        <pubDate>2026-01-29T12:21:00.000-05:00</pubDate>
-        <source>Omics! Omics!</source>
-        <guid>https://omicsomics.blogspot.com/2026/01/sequencer-vs-library-prep-market.html</guid>
     </item>
     
     <item>
