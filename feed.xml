@@ -6,8 +6,35 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Tue, 24 Feb 2026 07:07:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 07:09:02 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>A new method reveals hidden rules of gene control</title>
+        <link>https://www.rna-seqblog.com/a-new-method-reveals-hidden-rules-of-gene-control/</link>
+        <description>Using RNA sequencing in a cell-free system, researchers mapped direct transcription factor targets in Mycobacterium tuberculosis, uncovering fundamental principles of gene regulation and clarifying ho</description>
+        <pubDate>Tue, 24 Feb 2026 12:33:59 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/a-new-method-reveals-hidden-rules-of-gene-control/</guid>
+    </item>
+    
+    <item>
+        <title>Simple methods rival ai models in single cell RNA analysis</title>
+        <link>https://www.rna-seqblog.com/simple-methods-rival-ai-models-in-single-cell-rna-analysis/</link>
+        <description>Using RNA sequencing data, researchers show that simple linear methods can match or outperform deep learning foundation models in single cell gene expression benchmarks</description>
+        <pubDate>Tue, 24 Feb 2026 12:33:50 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/simple-methods-rival-ai-models-in-single-cell-rna-analysis/</guid>
+    </item>
+    
+    <item>
+        <title>Videos from NeurIPS 2025 Workshop on Biosecurity Safeguards for Generative AI</title>
+        <link>https://blog.stephenturner.us/p/neurips-2025-biosecurity-workshop-recordings</link>
+        <description>Recordings of talks from the NeurIPS 2025 Workshop on Biosecurity Safeguards for Generative AI are now available online.</description>
+        <pubDate>Tue, 24 Feb 2026 12:03:14 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/neurips-2025-biosecurity-workshop-recordings</guid>
+    </item>
     
     <item>
         <title>Canal Biosciences: Ligation Libraries without Distortions from End Repair</title>
@@ -39,7 +66,7 @@
     <item>
         <title>Key proteins found to drive abnormal bone growth after injury</title>
         <link>https://www.rna-seqblog.com/key-proteins-found-to-drive-abnormal-bone-growth-after-injury/</link>
-        <description>Using RNA sequencing and spatial transcriptomics, researchers show TSP1 and TSP2 reorganize injured tissue, promoting heterotopic ossification and identifying potential therapeutic targets to prevent </description>
+        <description>After serious injuries, burns, fractures, or major surgeries, the body normally repairs damaged tissues and restores movement. However, in some patients, the healing process takes an unexpected and ha</description>
         <pubDate>Mon, 23 Feb 2026 12:16:41 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/key-proteins-found-to-drive-abnormal-bone-growth-after-injury/</guid>
@@ -84,28 +111,10 @@
     <item>
         <title>RNA sequencing reveals STING driven immunotherapy targets in meningioma</title>
         <link>https://www.rna-seqblog.com/rna-sequencing-reveals-sting-driven-immunotherapy-targets-in-meningioma/</link>
-        <description>Single-cell RNA sequencing revealed STING pathway activation in meningioma tumor and immune cells, and RNA sequencing showed inflammatory cell death mechanisms following STING agonist treatment, suppo</description>
+        <description>Northwestern Medicine scientists have discovered a potent immunotherapy approach for treating meningiomas, the most common type of primary brain tumor, according to a recent study published in Nature </description>
         <pubDate>Fri, 20 Feb 2026 12:27:59 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/rna-sequencing-reveals-sting-driven-immunotherapy-targets-in-meningioma/</guid>
-    </item>
-    
-    <item>
-        <title>Improving batch correction for single-cell RNA sequencing data</title>
-        <link>https://www.rna-seqblog.com/improving-batch-correction-for-single-cell-rna-sequencing-data/</link>
-        <description>Over the past decade, single-cell technologies have allowed scientists to measure gene activity in thousands to millions of individual cells. These large datasets have made it possible to build detail</description>
-        <pubDate>Fri, 20 Feb 2026 12:27:48 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/improving-batch-correction-for-single-cell-rna-sequencing-data/</guid>
-    </item>
-    
-    <item>
-        <title>Element Biosciences Introduces VITARI™</title>
-        <link>https://www.rna-seqblog.com/element-biosciences-introduces-vitari-redefining-what-high-throughput-sequencing-makes-possible/</link>
-        <description>Element Biosciences Inc. today announced VITARI, the first ever high-throughput benchtop sequencing system capable of delivering a high-quality whole genome at $100. With the introduction of VITARI, E</description>
-        <pubDate>Fri, 20 Feb 2026 12:27:35 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/element-biosciences-introduces-vitari-redefining-what-high-throughput-sequencing-makes-possible/</guid>
     </item>
     
     <item>
@@ -151,15 +160,6 @@
         <pubDate>Tue, 17 Feb 2026 10:30:33 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/expertise-before-augmentation</guid>
-    </item>
-    
-    <item>
-        <title>Pick a License, Not Any License</title>
-        <link>https://blog.stephenturner.us/p/pick-a-license-not-any-license</link>
-        <description>Why you should care about data science software licenses and how to learn more</description>
-        <pubDate>Sun, 15 Feb 2026 22:16:32 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/pick-a-license-not-any-license</guid>
     </item>
     
     <item>
