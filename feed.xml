@@ -6,8 +6,35 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Wed, 25 Feb 2026 07:09:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 07:07:06 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>Illumina Constellation Becomes TruPath Genome</title>
+        <link>https://omicsomics.blogspot.com/2026/02/illumina-constellation-becomes-truepath.html</link>
+        <description>&lt;div&gt;Illumina is rebranding their Constellation mapped read technology to TruPath Genome and launching it into the marketplace. Priced at $395 per genome, TruPath Genome was presented as being superio</description>
+        <pubDate>2026-02-25T08:54:00.004-05:00</pubDate>
+        <source>Omics! Omics!</source>
+        <guid>https://omicsomics.blogspot.com/2026/02/illumina-constellation-becomes-truepath.html</guid>
+    </item>
+    
+    <item>
+        <title>A user friendly tool brings RNA sequencing analysis to the classroom</title>
+        <link>https://www.rna-seqblog.com/a-user-friendly-tool-brings-rna-sequencing-analysis-to-the-classroom/</link>
+        <description>ERSAtool simplifies RNA sequencing analysis through an interactive R Shiny interface, guiding users from normalization to differential expression and functional analysis without requiring advanced cod</description>
+        <pubDate>Wed, 25 Feb 2026 12:25:40 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/a-user-friendly-tool-brings-rna-sequencing-analysis-to-the-classroom/</guid>
+    </item>
+    
+    <item>
+        <title>RNA-Seq identifies aging-associated mitochondrial circular RNAs</title>
+        <link>https://www.rna-seqblog.com/rna-seq-identifies-aging-associated-mitochondrial-circular-rnas/</link>
+        <description>Using RNA sequencing of human PBMCs, researchers identify aging-associated mitochondrial circular RNAs and link circMT-RNR2 and GRSF1 to mitochondrial metabolism and cellular senescence...</description>
+        <pubDate>Wed, 25 Feb 2026 12:25:24 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/rna-seq-identifies-aging-associated-mitochondrial-circular-rnas/</guid>
+    </item>
     
     <item>
         <title>A new method reveals hidden rules of gene control</title>
@@ -21,7 +48,7 @@
     <item>
         <title>Simple methods rival ai models in single cell RNA analysis</title>
         <link>https://www.rna-seqblog.com/simple-methods-rival-ai-models-in-single-cell-rna-analysis/</link>
-        <description>Using RNA sequencing data, researchers show that simple linear methods can match or outperform deep learning foundation models in single cell gene expression benchmarks</description>
+        <description>Single-cell RNA sequencing, often called scRNA-seq, allows scientists to measure gene activity in thousands or even millions of individual cells. Because these datasets are large and complex, research</description>
         <pubDate>Tue, 24 Feb 2026 12:33:50 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/simple-methods-rival-ai-models-in-single-cell-rna-analysis/</guid>
@@ -57,19 +84,10 @@
     <item>
         <title>New single-cell transcriptomic clock reveals intrinsic and systemic T cell aging in COVID-19 and HIV</title>
         <link>https://www.rna-seqblog.com/new-single-cell-transcriptomic-clock-reveals-intrinsic-and-systemic-t-cell-aging-in-covid-19-and-hiv/</link>
-        <description>Using RNA sequencing at single-cell resolution, researchers developed Tictock to distinguish intrinsic and systemic T cell aging, revealing accelerated immune aging in COVID-19 and...</description>
+        <description>Researchers Alan Tomusiak from the Buck Institute for Research on Aging and the University of Southern California, and Sierra Lore from the Buck Institute for Research on Aging and the University of C</description>
         <pubDate>Mon, 23 Feb 2026 12:16:52 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/new-single-cell-transcriptomic-clock-reveals-intrinsic-and-systemic-t-cell-aging-in-covid-19-and-hiv/</guid>
-    </item>
-    
-    <item>
-        <title>Key proteins found to drive abnormal bone growth after injury</title>
-        <link>https://www.rna-seqblog.com/key-proteins-found-to-drive-abnormal-bone-growth-after-injury/</link>
-        <description>After serious injuries, burns, fractures, or major surgeries, the body normally repairs damaged tissues and restores movement. However, in some patients, the healing process takes an unexpected and ha</description>
-        <pubDate>Mon, 23 Feb 2026 12:16:41 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/key-proteins-found-to-drive-abnormal-bone-growth-after-injury/</guid>
     </item>
     
     <item>
@@ -106,15 +124,6 @@
         <pubDate>2026-02-20T07:07:00.000-08:00</pubDate>
         <source>avrilomics</source>
         <guid>https://avrilomics.blogspot.com/2026/02/using-mob-suite-to-predict-plasmids-in.html</guid>
-    </item>
-    
-    <item>
-        <title>RNA sequencing reveals STING driven immunotherapy targets in meningioma</title>
-        <link>https://www.rna-seqblog.com/rna-sequencing-reveals-sting-driven-immunotherapy-targets-in-meningioma/</link>
-        <description>Northwestern Medicine scientists have discovered a potent immunotherapy approach for treating meningiomas, the most common type of primary brain tumor, according to a recent study published in Nature </description>
-        <pubDate>Fri, 20 Feb 2026 12:27:59 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/rna-sequencing-reveals-sting-driven-immunotherapy-targets-in-meningioma/</guid>
     </item>
     
     <item>
@@ -169,24 +178,6 @@
         <pubDate>Sun, 15 Feb 2026 10:40:38 +0000</pubDate>
         <source>What You&#39;re Doing Is Rather Desperate</source>
         <guid>https://nsaunders.wordpress.com/2026/02/15/creating-custom-non-font-awesome-icons-for-a-jekyll-based-website/</guid>
-    </item>
-    
-    <item>
-        <title>Pancreatic Adenocarcinoma Mutation Trajectories at Single Cell Resolution</title>
-        <link>https://omicsomics.blogspot.com/2026/02/pancreatic-adenocarcinoma-mutation.html</link>
-        <description>Single cell RNA sequencing is nearly ubiquitous; single cell DNA sequencing has been much rarer.  I&#39;m going to dive in a bit - but not a full review - &lt;a href=&#34;https://www.nature.com/articles/s41588-0</description>
-        <pubDate>2026-02-08T22:05:00.000-05:00</pubDate>
-        <source>Omics! Omics!</source>
-        <guid>https://omicsomics.blogspot.com/2026/02/pancreatic-adenocarcinoma-mutation.html</guid>
-    </item>
-    
-    <item>
-        <title>State of the Blog</title>
-        <link>https://davetang.org/muse/2026/02/06/state-of-the-blog/</link>
-        <description>&lt;p&gt;ChatGPT came out in November 2022 and it has completely changed the Internet. In my post Learning about ChatGPT via ChatGPT I had prompted: &#34;Will ChatGPT replace Google?&#34; to which the model back th</description>
-        <pubDate>Thu, 05 Feb 2026 18:01:06 +0000</pubDate>
-        <source>Dave Tang&#39;s blog</source>
-        <guid>https://davetang.org/muse/2026/02/06/state-of-the-blog/</guid>
     </item>
     
     <item>
@@ -427,15 +418,6 @@ That&amp;rsquo;s how I got to know &lt;a href=&#34;https://liulab-dfci.github.io
     </item>
     
     <item>
-        <title>15th Anniversary</title>
-        <link>https://davetang.org/muse/2025/10/01/15th-anniversary/</link>
-        <description>&lt;p&gt;It has been 15 years since I started this blog! As typical with many of my anniversary posts, I reflect on things that I have started to do and/or have learned since the last time I wrote an annive</description>
-        <pubDate>Wed, 01 Oct 2025 14:42:28 +0000</pubDate>
-        <source>Dave Tang&#39;s blog</source>
-        <guid>https://davetang.org/muse/2025/10/01/15th-anniversary/</guid>
-    </item>
-    
-    <item>
         <title>The case of the missing Editorial Blog Post (and journal team)</title>
         <link>https://blastedbio.blogspot.com/2025/10/the-case-of-missing-editorial-blog-post.html</link>
         <description>&lt;p&gt;Here’s a wee puzzle: A mature Open Data focused journal (“Journal A”), owned and launched by an company or Institute (“Institute B”), developed into the flagship of an Academic Publisher (“Publishe</description>
@@ -461,6 +443,26 @@ How many and how challenging? I could not find a</description>
         <pubDate>2025-09-29T00:00:00+00:00</pubDate>
         <source>Heng Li&#39;s blog</source>
         <guid>http://lh3.github.io/2025/09/29/on-low-complexity-regions</guid>
+    </item>
+    
+    <item>
+        <title>Analyzing ICE Arrest Data - Part 2</title>
+        <link>http://jefworks-lab.github.io//blog/2025/09/27/analyzing-ice-detention-data-2/</link>
+        <description>In this blog post, I continue to demonstrate how to analyze publicly available datasets related to U.S. Immigration and Customs Enforcement (ICE). This time, I take advantage of publicly available dat</description>
+        <pubDate>2025-09-27T00:00:00+00:00</pubDate>
+        <source>JEFworks Lab</source>
+        <guid>http://jefworks-lab.github.io//blog/2025/09/27/analyzing-ice-detention-data-2/</guid>
+    </item>
+    
+    <item>
+        <title>Do not repeat yourself: List column to do RNAseq differential expression analysis</title>
+        <link>https://divingintogeneticsandgenomics.com/post/list-column-rnaseq/</link>
+        <description>&lt;p&gt;&lt;strong&gt;To not miss a post like this, sign up for my &lt;a href=&#34;https://divingintogeneticsandgenomics.ck.page/profile&#34;&gt;newsletter&lt;/a&gt; to learn computational
+biology and bioinformatics.&lt;/strong&gt;&lt;/p&gt;
+&lt;</description>
+        <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+        <source>Chatomics on Chatomics</source>
+        <guid>https://divingintogeneticsandgenomics.com/post/list-column-rnaseq/</guid>
     </item>
     
 
