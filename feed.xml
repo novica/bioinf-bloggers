@@ -6,8 +6,44 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Fri, 27 Feb 2026 07:01:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 06:47:32 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>Element Previews High-Throughput VITARI</title>
+        <link>https://omicsomics.blogspot.com/2026/02/element-previews-high-throughput-vitari.html</link>
+        <description>On the Thursday before AGBT, Element Biosciences unveiled their VITARI high throughput sequencer, expected to ship in the second half of this year.  VITARI surprised much of the sequencing community, </description>
+        <pubDate>2026-02-27T22:21:00.002-05:00</pubDate>
+        <source>Omics! Omics!</source>
+        <guid>https://omicsomics.blogspot.com/2026/02/element-previews-high-throughput-vitari.html</guid>
+    </item>
+    
+    <item>
+        <title>SUM-seq – single-cell ultra-high-throughput multiplexed chromatin accessibility and gene expression sequencing</title>
+        <link>https://www.rna-seqblog.com/sum-seq-single-cell-ultra-high-throughput-multiplexed-chromatin-accessibility-and-gene-expression-sequencing/</link>
+        <description>SUM-seq enables scalable single cell chromatin accessibility and RNA sequencing, supporting high throughput multimodal profiling for large atlas projects and regulatory network analysis...</description>
+        <pubDate>Fri, 27 Feb 2026 12:49:01 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/sum-seq-single-cell-ultra-high-throughput-multiplexed-chromatin-accessibility-and-gene-expression-sequencing/</guid>
+    </item>
+    
+    <item>
+        <title>A chatbot simplifies RNA sequencing data analysis</title>
+        <link>https://www.rna-seqblog.com/a-chatbot-simplifies-rna-sequencing-data-analysis/</link>
+        <description>REDAC enables accessible RNA sequencing expression analysis through natural language queries, automated normalization and differential testing, and AI guided pathway...</description>
+        <pubDate>Fri, 27 Feb 2026 12:48:42 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/a-chatbot-simplifies-rna-sequencing-data-analysis/</guid>
+    </item>
+    
+    <item>
+        <title>Weekly Recap (February 27, 2026)</title>
+        <link>https://blog.stephenturner.us/p/weekly-recap-february-27-2026</link>
+        <description>DNA sequencing visualized, AI slop in CS, deep research agents for science, Dario vs DoD, biosecurity, AIxBio RCT, R updates (R Weekly, rOpenSci, R Works), new papers.</description>
+        <pubDate>Fri, 27 Feb 2026 11:00:10 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/weekly-recap-february-27-2026</guid>
+    </item>
     
     <item>
         <title>A Claude Skill for _brand.yml, and sharing with Quarto 1.9</title>
@@ -30,7 +66,7 @@
     <item>
         <title>Mapping gene activity in three dimensions with volumetric DNA microscopy</title>
         <link>https://www.rna-seqblog.com/mapping-gene-activity-in-three-dimensions-with-volumetric-dna-microscopy/</link>
-        <description>Volumetric DNA microscopy combines RNA sequencing and in situ DNA encoding to reconstruct three dimensional spatial transcriptomes directly within intact tissue...</description>
+        <description>Biological tissues are three dimensional structures. Cells are arranged in complex layers and neighborhoods, and their position often influences how they behave. However, many spatial transcriptomics </description>
         <pubDate>Thu, 26 Feb 2026 12:08:46 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/mapping-gene-activity-in-three-dimensions-with-volumetric-dna-microscopy/</guid>
@@ -48,28 +84,10 @@
     <item>
         <title>A user friendly tool brings RNA sequencing analysis to the classroom</title>
         <link>https://www.rna-seqblog.com/a-user-friendly-tool-brings-rna-sequencing-analysis-to-the-classroom/</link>
-        <description>ERSAtool simplifies RNA sequencing analysis through an interactive R Shiny interface, guiding users from normalization to differential expression and functional analysis without requiring advanced cod</description>
+        <description>RNA sequencing, often called RNA-seq, has become one of the most important tools for studying how genes are turned on and off in cells. It allows researchers to measure gene expression across the enti</description>
         <pubDate>Wed, 25 Feb 2026 12:25:40 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/a-user-friendly-tool-brings-rna-sequencing-analysis-to-the-classroom/</guid>
-    </item>
-    
-    <item>
-        <title>RNA-Seq identifies aging-associated mitochondrial circular RNAs</title>
-        <link>https://www.rna-seqblog.com/rna-seq-identifies-aging-associated-mitochondrial-circular-rnas/</link>
-        <description>Led by first author Hyejin Mun from the University of Oklahoma, with corresponding authors Je-Hyun Yoon from the University of Oklahoma and Young-Kook Kim from Chonnam National University Medical Scho</description>
-        <pubDate>Wed, 25 Feb 2026 12:25:24 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/rna-seq-identifies-aging-associated-mitochondrial-circular-rnas/</guid>
-    </item>
-    
-    <item>
-        <title>A new method reveals hidden rules of gene control</title>
-        <link>https://www.rna-seqblog.com/a-new-method-reveals-hidden-rules-of-gene-control/</link>
-        <description>An artistic rendition of Mtb transcription. (credit: Andrew Tivon) Inside every cell, thousands of molecular signals collide, overlap, and compensate, obscuring the true drivers of gene expression. Sc</description>
-        <pubDate>Tue, 24 Feb 2026 12:33:59 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/a-new-method-reveals-hidden-rules-of-gene-control/</guid>
     </item>
     
     <item>
@@ -151,24 +169,6 @@
         <pubDate>Thu, 19 Feb 2026 16:59:52 +0000</pubDate>
         <source>Bits of DNA</source>
         <guid>https://liorpachter.wordpress.com/2026/02/19/the-quickening/</guid>
-    </item>
-    
-    <item>
-        <title>AGBT 2026 Preview</title>
-        <link>https://omicsomics.blogspot.com/2026/02/agbt-2026-preview.html</link>
-        <description>AGBT starts on Monday at the Signia by Hilton Bonnet Creek in Orlando on Monday, but the pre-conference flurry of announcements is already rolling out.  Here is a quick scan of what&#39;s already been tel</description>
-        <pubDate>2026-02-18T23:45:00.000-05:00</pubDate>
-        <source>Omics! Omics!</source>
-        <guid>https://omicsomics.blogspot.com/2026/02/agbt-2026-preview.html</guid>
-    </item>
-    
-    <item>
-        <title>Rubrics, Not Vibes: Consistency as a Feature in Peer Review with AI</title>
-        <link>https://blog.stephenturner.us/p/rubrics-not-vibes-ai-peer-review</link>
-        <description>Responsibly using AI for a structured first pass manuscript / grant proposal review can reduce reviewer variance while keeping human judgment central. Bonus: a prompt I use for my own draft proposals.</description>
-        <pubDate>Wed, 18 Feb 2026 14:29:35 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/rubrics-not-vibes-ai-peer-review</guid>
     </item>
     
     <item>
