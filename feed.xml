@@ -6,8 +6,26 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Sun, 01 Mar 2026 06:54:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 07:05:34 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>Dario Amodei&#39;s &#34;The Adolescence of Technology&#34;</title>
+        <link>https://blog.stephenturner.us/p/adolescence-of-technology</link>
+        <description>A risk-side companion to &amp;#8220;Machines of Loving Grace&amp;#8221; and a biosecurity primer on AI safety for people who tuned out.</description>
+        <pubDate>Sun, 01 Mar 2026 11:51:35 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/adolescence-of-technology</guid>
+    </item>
+    
+    <item>
+        <title>The Mentorship Index</title>
+        <link>http://jefworks-lab.github.io//blog/2026/03/01/mentorship-index/</link>
+        <description>Background</description>
+        <pubDate>2026-03-01T00:00:00+00:00</pubDate>
+        <source>JEFworks Lab</source>
+        <guid>http://jefworks-lab.github.io//blog/2026/03/01/mentorship-index/</guid>
+    </item>
     
     <item>
         <title>Element Previews High-Throughput VITARI</title>
@@ -151,15 +169,6 @@
         <pubDate>2026-02-20T07:07:00.000-08:00</pubDate>
         <source>avrilomics</source>
         <guid>https://avrilomics.blogspot.com/2026/02/using-mob-suite-to-predict-plasmids-in.html</guid>
-    </item>
-    
-    <item>
-        <title>Weekly Recap (February 20, 2026)</title>
-        <link>https://blog.stephenturner.us/p/weekly-recap-february-20-2026</link>
-        <description>Human uplift with AI in viral synthesis, AI in biology, lab automation, R updates (Posit, R Weekly, R Ladies), DOE OPAL, stats+AI, AI &amp; labor, coding agents, Vibe Teaching, papers &amp; preprints</description>
-        <pubDate>Fri, 20 Feb 2026 10:02:42 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/weekly-recap-february-20-2026</guid>
     </item>
     
     <item>
@@ -451,16 +460,6 @@ That&amp;rsquo;s how I got to know &lt;a href=&#34;https://liulab-dfci.github.io
         <pubDate>Wed, 01 Oct 2025 07:58:40 +0000</pubDate>
         <source>Enseqlopedia</source>
         <guid>http://enseqlopedia.com/2025/10/unlocking-the-potential-of-urine-based-liquid-biopsies/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=unlocking-the-potential-of-urine-based-liquid-biopsies</guid>
-    </item>
-    
-    <item>
-        <title>Our journey through low-complexity regions</title>
-        <link>http://lh3.github.io/2025/09/29/on-low-complexity-regions</link>
-        <description>&lt;p&gt;Those who inspect SVs often have probably noticed many SVs fall in low-complexity regions (LCRs) or tandem repeats and they are challenging to call.
-How many and how challenging? I could not find a</description>
-        <pubDate>2025-09-29T00:00:00+00:00</pubDate>
-        <source>Heng Li&#39;s blog</source>
-        <guid>http://lh3.github.io/2025/09/29/on-low-complexity-regions</guid>
     </item>
     
 
