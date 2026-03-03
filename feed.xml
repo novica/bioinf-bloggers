@@ -6,8 +6,44 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Mon, 02 Mar 2026 07:05:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 06:59:40 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>High-performance cell atlas workflow driven by manifold fitting</title>
+        <link>https://www.rna-seqblog.com/high-performance-cell-atlas-workflow-driven-by-manifold-fitting/</link>
+        <description>CellScope uses manifold fitting to enhance RNA sequencing analysis, enabling high resolution cell atlas construction, improved clustering accuracy, and discovery of subtle immune cell changes across c</description>
+        <pubDate>Mon, 02 Mar 2026 12:40:18 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/high-performance-cell-atlas-workflow-driven-by-manifold-fitting/</guid>
+    </item>
+    
+    <item>
+        <title>Smoking triggers molecular changes that may drive macular degeneration</title>
+        <link>https://www.rna-seqblog.com/smoking-triggers-molecular-changes-that-may-drive-macular-degeneration/</link>
+        <description>Using RNA sequencing and chromatin profiling, researchers show how cigarette smoke alters gene regulation in retinal cells, linking epigenetic changes to age related macular degeneration...</description>
+        <pubDate>Mon, 02 Mar 2026 12:40:04 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/smoking-triggers-molecular-changes-that-may-drive-macular-degeneration/</guid>
+    </item>
+    
+    <item>
+        <title>Ultima Genomics launches UG200 series and Solaris 2.0 workflows for scalable sequencing</title>
+        <link>https://www.rna-seqblog.com/ultima-genomics-launches-ug200-series-and-solaris-2-0-workflows-for-scalable-sequencing/</link>
+        <description>Ultima Genomics launches the UG200 Series and Solaris 2.0 workflows, expanding high-throughput RNA sequencing and whole genome sequencing with higher output...</description>
+        <pubDate>Mon, 02 Mar 2026 12:39:54 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/ultima-genomics-launches-ug200-series-and-solaris-2-0-workflows-for-scalable-sequencing/</guid>
+    </item>
+    
+    <item>
+        <title>Frontier LLMs can design functional DNA sequences for benchtop synthesis</title>
+        <link>https://blog.stephenturner.us/p/rand-ai-benchtop-dna-synthesis</link>
+        <description>A look at a new RAND report: Bridging the Digital to Physical Divide - Evaluating LLM Agents on Benchtop DNA Acquisition</description>
+        <pubDate>Mon, 02 Mar 2026 10:35:59 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/rand-ai-benchtop-dna-synthesis</guid>
+    </item>
     
     <item>
         <title>Dario Amodei&#39;s &#34;The Adolescence of Technology&#34;</title>
@@ -39,7 +75,7 @@
     <item>
         <title>SUM-seq – single-cell ultra-high-throughput multiplexed chromatin accessibility and gene expression sequencing</title>
         <link>https://www.rna-seqblog.com/sum-seq-single-cell-ultra-high-throughput-multiplexed-chromatin-accessibility-and-gene-expression-sequencing/</link>
-        <description>SUM-seq enables scalable single cell chromatin accessibility and RNA sequencing, supporting high throughput multimodal profiling for large atlas projects and regulatory network analysis...</description>
+        <description>Understanding how genes are turned on and off requires looking at both gene expression and the regulatory elements that control it. Single cell technologies now allow scientists to examine these proce</description>
         <pubDate>Fri, 27 Feb 2026 12:49:01 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/sum-seq-single-cell-ultra-high-throughput-multiplexed-chromatin-accessibility-and-gene-expression-sequencing/</guid>
@@ -48,7 +84,7 @@
     <item>
         <title>A chatbot simplifies RNA sequencing data analysis</title>
         <link>https://www.rna-seqblog.com/a-chatbot-simplifies-rna-sequencing-data-analysis/</link>
-        <description>REDAC enables accessible RNA sequencing expression analysis through natural language queries, automated normalization and differential testing, and AI guided pathway...</description>
+        <description>RNA sequencing has become a standard method for measuring gene expression across thousands of genes at once. While the technology itself is powerful, analyzing the resulting data can be complex. Resea</description>
         <pubDate>Fri, 27 Feb 2026 12:48:42 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/a-chatbot-simplifies-rna-sequencing-data-analysis/</guid>
@@ -73,39 +109,12 @@
     </item>
     
     <item>
-        <title>A new framework improves integration of single cell data</title>
-        <link>https://www.rna-seqblog.com/a-new-framework-improves-integration-of-single-cell-data/</link>
-        <description>APOLLO integrates multimodal single cell datasets, including RNA sequencing and protein measurements, while distinguishing shared and modality specific signals to better define cell state...</description>
-        <pubDate>Thu, 26 Feb 2026 12:08:58 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/a-new-framework-improves-integration-of-single-cell-data/</guid>
-    </item>
-    
-    <item>
-        <title>Mapping gene activity in three dimensions with volumetric DNA microscopy</title>
-        <link>https://www.rna-seqblog.com/mapping-gene-activity-in-three-dimensions-with-volumetric-dna-microscopy/</link>
-        <description>Biological tissues are three dimensional structures. Cells are arranged in complex layers and neighborhoods, and their position often influences how they behave. However, many spatial transcriptomics </description>
-        <pubDate>Thu, 26 Feb 2026 12:08:46 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/mapping-gene-activity-in-three-dimensions-with-volumetric-dna-microscopy/</guid>
-    </item>
-    
-    <item>
         <title>Illumina Constellation Becomes TruPath Genome</title>
         <link>https://omicsomics.blogspot.com/2026/02/illumina-constellation-becomes-truepath.html</link>
         <description>&lt;div&gt;Illumina is rebranding their Constellation mapped read technology to TruPath Genome and launching it into the marketplace. Priced at $395 per genome, TruPath Genome was presented as being superio</description>
         <pubDate>2026-02-25T08:54:00.004-05:00</pubDate>
         <source>Omics! Omics!</source>
         <guid>https://omicsomics.blogspot.com/2026/02/illumina-constellation-becomes-truepath.html</guid>
-    </item>
-    
-    <item>
-        <title>A user friendly tool brings RNA sequencing analysis to the classroom</title>
-        <link>https://www.rna-seqblog.com/a-user-friendly-tool-brings-rna-sequencing-analysis-to-the-classroom/</link>
-        <description>RNA sequencing, often called RNA-seq, has become one of the most important tools for studying how genes are turned on and off in cells. It allows researchers to measure gene expression across the enti</description>
-        <pubDate>Wed, 25 Feb 2026 12:25:40 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/a-user-friendly-tool-brings-rna-sequencing-analysis-to-the-classroom/</guid>
     </item>
     
     <item>
@@ -133,15 +142,6 @@
         <pubDate>2026-02-23T08:52:00.002-05:00</pubDate>
         <source>Omics! Omics!</source>
         <guid>https://omicsomics.blogspot.com/2026/02/wish-scientific-poster-snap-organizer.html</guid>
-    </item>
-    
-    <item>
-        <title>Press the Red Button, Dave</title>
-        <link>https://blog.stephenturner.us/p/ai-uplift-bio-lab-red-button</link>
-        <description>A small study at LANL has real-world biosecurity relevance: evaluating whether AI can transfer tacit laboratory skill to novices.</description>
-        <pubDate>Mon, 23 Feb 2026 10:24:30 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/ai-uplift-bio-lab-red-button</guid>
     </item>
     
     <item>
