@@ -6,8 +6,44 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Tue, 03 Mar 2026 06:59:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 06:56:20 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>Furtress of solitude</title>
+        <link>https://www.dnazoo.org/post/furtress-of-solitude</link>
+        <description>In the Pilbara region of Western Australia lives the western pebble mouse ( Pseudomys chapmani ), a rarely seen rodent that excavates a complex subterranean burrow system in the rocky substrate. These</description>
+        <pubDate>Tue, 03 Mar 2026 15:46:29 GMT</pubDate>
+        <source>DNAZoo</source>
+        <guid>https://www.dnazoo.org/post/furtress-of-solitude</guid>
+    </item>
+    
+    <item>
+        <title>Immune cells remember their location</title>
+        <link>https://www.rna-seqblog.com/immune-cells-remember-their-location/</link>
+        <description>MERLIN uses RNA sequencing data and machine learning to reconstruct where immune cells originated within organs, uncovering region-specific disease mechanisms in kidney and brain tissue...</description>
+        <pubDate>Tue, 03 Mar 2026 15:34:29 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/immune-cells-remember-their-location/</guid>
+    </item>
+    
+    <item>
+        <title>Pancreatic cancer may begin hiding from the immune system earlier than we thought</title>
+        <link>https://www.rna-seqblog.com/pancreatic-cancer-may-begin-hiding-from-the-immune-system-earlier-than-we-thought/</link>
+        <description>Using RNA sequencing and spatial transcriptomics, researchers reveal how early pancreatic lesions form structured niches and engage immune-suppressive cells...</description>
+        <pubDate>Tue, 03 Mar 2026 15:34:21 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/pancreatic-cancer-may-begin-hiding-from-the-immune-system-earlier-than-we-thought/</guid>
+    </item>
+    
+    <item>
+        <title>Wet Bags of Atoms Teaching Sand to Think</title>
+        <link>https://blog.stephenturner.us/p/wet-bags-of-atoms-teaching-sand-to-think</link>
+        <description>On emergence, and the lazy dismissal of AI as &#34;just next token prediction&#34; as a thought-terminating reductive cliche that we need to give up.</description>
+        <pubDate>Tue, 03 Mar 2026 13:38:06 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/wet-bags-of-atoms-teaching-sand-to-think</guid>
+    </item>
     
     <item>
         <title>High-performance cell atlas workflow driven by manifold fitting</title>
@@ -21,7 +57,7 @@
     <item>
         <title>Smoking triggers molecular changes that may drive macular degeneration</title>
         <link>https://www.rna-seqblog.com/smoking-triggers-molecular-changes-that-may-drive-macular-degeneration/</link>
-        <description>Using RNA sequencing and chromatin profiling, researchers show how cigarette smoke alters gene regulation in retinal cells, linking epigenetic changes to age related macular degeneration...</description>
+        <description>Through a series of experiments supported by the National Institutes of Health, Johns Hopkins Medicine (JHM) researchers say they have advanced understanding of how smoking damages the eye and contrib</description>
         <pubDate>Mon, 02 Mar 2026 12:40:04 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/smoking-triggers-molecular-changes-that-may-drive-macular-degeneration/</guid>
@@ -30,7 +66,7 @@
     <item>
         <title>Ultima Genomics launches UG200 series and Solaris 2.0 workflows for scalable sequencing</title>
         <link>https://www.rna-seqblog.com/ultima-genomics-launches-ug200-series-and-solaris-2-0-workflows-for-scalable-sequencing/</link>
-        <description>Ultima Genomics launches the UG200 Series and Solaris 2.0 workflows, expanding high-throughput RNA sequencing and whole genome sequencing with higher output...</description>
+        <description>Twice the output, half the runtime, and half the footprint of the UG 100® with greater flexibility and improved genomic coverage Introducing two new high-throughput instrument configurations accessibl</description>
         <pubDate>Mon, 02 Mar 2026 12:39:54 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/ultima-genomics-launches-ug200-series-and-solaris-2-0-workflows-for-scalable-sequencing/</guid>
@@ -73,24 +109,6 @@
     </item>
     
     <item>
-        <title>SUM-seq – single-cell ultra-high-throughput multiplexed chromatin accessibility and gene expression sequencing</title>
-        <link>https://www.rna-seqblog.com/sum-seq-single-cell-ultra-high-throughput-multiplexed-chromatin-accessibility-and-gene-expression-sequencing/</link>
-        <description>Understanding how genes are turned on and off requires looking at both gene expression and the regulatory elements that control it. Single cell technologies now allow scientists to examine these proce</description>
-        <pubDate>Fri, 27 Feb 2026 12:49:01 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/sum-seq-single-cell-ultra-high-throughput-multiplexed-chromatin-accessibility-and-gene-expression-sequencing/</guid>
-    </item>
-    
-    <item>
-        <title>A chatbot simplifies RNA sequencing data analysis</title>
-        <link>https://www.rna-seqblog.com/a-chatbot-simplifies-rna-sequencing-data-analysis/</link>
-        <description>RNA sequencing has become a standard method for measuring gene expression across thousands of genes at once. While the technology itself is powerful, analyzing the resulting data can be complex. Resea</description>
-        <pubDate>Fri, 27 Feb 2026 12:48:42 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/a-chatbot-simplifies-rna-sequencing-data-analysis/</guid>
-    </item>
-    
-    <item>
         <title>Weekly Recap (February 27, 2026)</title>
         <link>https://blog.stephenturner.us/p/weekly-recap-february-27-2026</link>
         <description>DNA sequencing visualized, AI slop in CS, deep research agents for science, Dario vs DoD, biosecurity, AIxBio RCT, R updates (R Weekly, rOpenSci, R Works), new papers.</description>
@@ -115,15 +133,6 @@
         <pubDate>2026-02-25T08:54:00.004-05:00</pubDate>
         <source>Omics! Omics!</source>
         <guid>https://omicsomics.blogspot.com/2026/02/illumina-constellation-becomes-truepath.html</guid>
-    </item>
-    
-    <item>
-        <title>Videos from NeurIPS 2025 Workshop on Biosecurity Safeguards for Generative AI</title>
-        <link>https://blog.stephenturner.us/p/neurips-2025-biosecurity-workshop-recordings</link>
-        <description>Recordings of talks from the NeurIPS 2025 Workshop on Biosecurity Safeguards for Generative AI are now available online.</description>
-        <pubDate>Tue, 24 Feb 2026 12:03:14 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/neurips-2025-biosecurity-workshop-recordings</guid>
     </item>
     
     <item>
@@ -451,15 +460,6 @@ That&amp;rsquo;s how I got to know &lt;a href=&#34;https://liulab-dfci.github.io
         <pubDate>2025-10-01T13:43:00.002+01:00</pubDate>
         <source>Blasted Bioinformatics!?</source>
         <guid>https://blastedbio.blogspot.com/2025/10/the-case-of-missing-editorial-blog-post.html</guid>
-    </item>
-    
-    <item>
-        <title>Unlocking the Potential of Urine-Based Liquid Biopsies</title>
-        <link>http://enseqlopedia.com/2025/10/unlocking-the-potential-of-urine-based-liquid-biopsies/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=unlocking-the-potential-of-urine-based-liquid-biopsies</link>
-        <description>&lt;p&gt;I&amp;#8217;m really pleased to say I&amp;#8217;m an author on a new article in Nature Cancer discussing the potential of using urine-based liquid biopsies for cancer detection, particularly through the an</description>
-        <pubDate>Wed, 01 Oct 2025 07:58:40 +0000</pubDate>
-        <source>Enseqlopedia</source>
-        <guid>http://enseqlopedia.com/2025/10/unlocking-the-potential-of-urine-based-liquid-biopsies/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=unlocking-the-potential-of-urine-based-liquid-biopsies</guid>
     </item>
     
 
