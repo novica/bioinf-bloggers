@@ -6,8 +6,35 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Wed, 04 Mar 2026 06:56:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 07:00:04 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>HIV-seq improves detection of HIV-transcribing cells using RNA sequencing</title>
+        <link>https://www.rna-seqblog.com/hiv-seq-improves-detection-of-hiv-transcribing-cells-using-rna-sequencing/</link>
+        <description>A new RNA sequencing approach called HIV-seq improves detection of rare HIV-transcribing cells and reveals distinct gene expression patterns during active infection and antiretroviral therapy suppress</description>
+        <pubDate>Wed, 04 Mar 2026 17:53:27 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/hiv-seq-improves-detection-of-hiv-transcribing-cells-using-rna-sequencing/</guid>
+    </item>
+    
+    <item>
+        <title>A functionally integrated cross-tissue alternative splicing program during short-term calorie restriction</title>
+        <link>https://www.rna-seqblog.com/a-functionally-integrated-cross-tissue-alternative-splicing-program-during-short-term-calorie-restriction/</link>
+        <description>RNA sequencing reveals coordinated alternative splicing changes across multiple tissues during calorie restriction, highlighting a system-wide regulatory program linking metabolism with gene expressio</description>
+        <pubDate>Wed, 04 Mar 2026 17:53:18 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/a-functionally-integrated-cross-tissue-alternative-splicing-program-during-short-term-calorie-restriction/</guid>
+    </item>
+    
+    <item>
+        <title>Alithea Genomics Closes CHF 6.9 M Seed Round, Using Proceeds to Unlock Industrial-Scale RNA-seq for Primary Drug Screening and Toxicology</title>
+        <link>https://www.rna-seqblog.com/alithea-genomics-closes-chf-6-9-m-seed-round-using-proceeds-to-unlock-industrial-scale-rna-seq-for-primary-drug-screening-and-toxicology/</link>
+        <description>Alithea Genomics raises new funding to scale RNA sequencing with 1536-well DRUG-seq kits...</description>
+        <pubDate>Wed, 04 Mar 2026 17:52:53 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/alithea-genomics-closes-chf-6-9-m-seed-round-using-proceeds-to-unlock-industrial-scale-rna-seq-for-primary-drug-screening-and-toxicology/</guid>
+    </item>
     
     <item>
         <title>Furtress of solitude</title>
@@ -21,7 +48,7 @@
     <item>
         <title>Immune cells remember their location</title>
         <link>https://www.rna-seqblog.com/immune-cells-remember-their-location/</link>
-        <description>MERLIN uses RNA sequencing data and machine learning to reconstruct where immune cells originated within organs, uncovering region-specific disease mechanisms in kidney and brain tissue...</description>
+        <description>Researchers in Bonn use an AI algorithm to reconstruct the spatial origin of macrophages A new AI-based method reconstructs spatial information about where immune cells were originally located in an o</description>
         <pubDate>Tue, 03 Mar 2026 15:34:29 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/immune-cells-remember-their-location/</guid>
@@ -30,7 +57,7 @@
     <item>
         <title>Pancreatic cancer may begin hiding from the immune system earlier than we thought</title>
         <link>https://www.rna-seqblog.com/pancreatic-cancer-may-begin-hiding-from-the-immune-system-earlier-than-we-thought/</link>
-        <description>Using RNA sequencing and spatial transcriptomics, researchers reveal how early pancreatic lesions form structured niches and engage immune-suppressive cells...</description>
+        <description>A new study suggests that pancreatic cancer may start preparing to “hide” from the immune system long before the disease becomes full-blown cancer. Researchers found that very early, precancerous cell</description>
         <pubDate>Tue, 03 Mar 2026 15:34:21 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/pancreatic-cancer-may-begin-hiding-from-the-immune-system-earlier-than-we-thought/</guid>
@@ -43,33 +70,6 @@
         <pubDate>Tue, 03 Mar 2026 13:38:06 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/wet-bags-of-atoms-teaching-sand-to-think</guid>
-    </item>
-    
-    <item>
-        <title>High-performance cell atlas workflow driven by manifold fitting</title>
-        <link>https://www.rna-seqblog.com/high-performance-cell-atlas-workflow-driven-by-manifold-fitting/</link>
-        <description>CellScope uses manifold fitting to enhance RNA sequencing analysis, enabling high resolution cell atlas construction, improved clustering accuracy, and discovery of subtle immune cell changes across c</description>
-        <pubDate>Mon, 02 Mar 2026 12:40:18 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/high-performance-cell-atlas-workflow-driven-by-manifold-fitting/</guid>
-    </item>
-    
-    <item>
-        <title>Smoking triggers molecular changes that may drive macular degeneration</title>
-        <link>https://www.rna-seqblog.com/smoking-triggers-molecular-changes-that-may-drive-macular-degeneration/</link>
-        <description>Through a series of experiments supported by the National Institutes of Health, Johns Hopkins Medicine (JHM) researchers say they have advanced understanding of how smoking damages the eye and contrib</description>
-        <pubDate>Mon, 02 Mar 2026 12:40:04 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/smoking-triggers-molecular-changes-that-may-drive-macular-degeneration/</guid>
-    </item>
-    
-    <item>
-        <title>Ultima Genomics launches UG200 series and Solaris 2.0 workflows for scalable sequencing</title>
-        <link>https://www.rna-seqblog.com/ultima-genomics-launches-ug200-series-and-solaris-2-0-workflows-for-scalable-sequencing/</link>
-        <description>Twice the output, half the runtime, and half the footprint of the UG 100® with greater flexibility and improved genomic coverage Introducing two new high-throughput instrument configurations accessibl</description>
-        <pubDate>Mon, 02 Mar 2026 12:39:54 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/ultima-genomics-launches-ug200-series-and-solaris-2-0-workflows-for-scalable-sequencing/</guid>
     </item>
     
     <item>
