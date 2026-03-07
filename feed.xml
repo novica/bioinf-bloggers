@@ -6,8 +6,53 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Fri, 06 Mar 2026 06:57:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 06:50:25 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>Complete Genomics Sale: Gruyère or Emmental?</title>
+        <link>https://omicsomics.blogspot.com/2026/03/complete-genomics-sale-gruyere-or.html</link>
+        <description>A bit of interesting news during AGBT was the announcement of the sale of Complete Genomics to Swiss Rockets, a Basel-based company which had&lt;a href=&#34;https://www.prnewswire.com/news-releases/mgi-tech-</description>
+        <pubDate>2026-03-06T15:53:00.000-05:00</pubDate>
+        <source>Omics! Omics!</source>
+        <guid>https://omicsomics.blogspot.com/2026/03/complete-genomics-sale-gruyere-or.html</guid>
+    </item>
+    
+    <item>
+        <title>A streamlined workflow for multiomic single cell analysis from low input clinical samples</title>
+        <link>https://www.rna-seqblog.com/a-streamlined-workflow-for-multiomic-single-cell-analysis-from-low-input-clinical-samples/</link>
+        <description>A Seq-Well S3 workflow enables multiomic analysis of small clinical samples, combining protein measurements and RNA sequencing with sample hashing to increase throughput and reduce experimental cost..</description>
+        <pubDate>Fri, 06 Mar 2026 15:10:05 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/a-streamlined-workflow-for-multiomic-single-cell-analysis-from-low-input-clinical-samples/</guid>
+    </item>
+    
+    <item>
+        <title>Spatial RNA sequencing reveals how microbes and host cells interact in the gut</title>
+        <link>https://www.rna-seqblog.com/spatial-rna-sequencing-reveals-how-microbes-and-host-cells-interact-in-the-gut/</link>
+        <description>A new spatial RNA sequencing approach maps microbial and host gene activity in the gut at micrometer resolution, revealing how microbiome organization and host...</description>
+        <pubDate>Fri, 06 Mar 2026 15:09:56 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/spatial-rna-sequencing-reveals-how-microbes-and-host-cells-interact-in-the-gut/</guid>
+    </item>
+    
+    <item>
+        <title>Minaris launches AgentSCREEN adventitious virus RNA detection by NGS</title>
+        <link>https://www.rna-seqblog.com/minaris-launches-agentscreen-adventitious-virus-rna-detection-by-ngs/</link>
+        <description>A new GMP-qualified platform uses RNA sequencing to detect viral RNA transcripts in cell bank samples, enabling broad identification of adventitious viruses and improving viral safety testing for biol</description>
+        <pubDate>Fri, 06 Mar 2026 15:09:42 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/minaris-launches-agentscreen-adventitious-virus-rna-detection-by-ngs/</guid>
+    </item>
+    
+    <item>
+        <title>Weekly Recap (March 6, 2026)</title>
+        <link>https://blog.stephenturner.us/p/weekly-recap-march-6-2026</link>
+        <description>Biology essays, fast bio bounty, PDF accessibility in Quarto, Claude Skills for R, sex lives of neanderthals and humans, Ginkgo cloud lab, Applied Machine Learning Conference, AI in Science</description>
+        <pubDate>Fri, 06 Mar 2026 09:37:40 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/weekly-recap-march-6-2026</guid>
+    </item>
     
     <item>
         <title>Ultima Genomics Solaris 2.0: Greater Version, Smaller Beads, Lose A Box</title>
@@ -21,7 +66,7 @@
     <item>
         <title>Northside Hospital introduces advanced leukemia test</title>
         <link>https://www.rna-seqblog.com/northside-hospital-introduces-advanced-leukemia-test/</link>
-        <description>A new hospital-based test uses RNA sequencing to detect leukemia gene fusions in days, helping physicians identify cancer subtypes and guide targeted treatment decisions more quickly...</description>
+        <description>Northside Hospital is introducing a new test to help diagnose leukemia faster and more accurately, giving patients quicker answers and helping doctors choose the most effective treatments sooner. Acut</description>
         <pubDate>Thu, 05 Mar 2026 15:20:05 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/northside-hospital-introduces-advanced-leukemia-test/</guid>
@@ -30,7 +75,7 @@
     <item>
         <title>Decoding citronella – first haplotype-resolved genome illuminates citronelloid biosynthesis</title>
         <link>https://www.rna-seqblog.com/decoding-citronella-first-haplotype-resolved-genome-illuminates-citronelloid-biosynthesis/</link>
-        <description>Researchers combine genome sequencing and RNA sequencing to identify genes and leaf cell types responsible for citronelloid biosynthesis in Cymbopogon, providing insight into terpene production in aro</description>
+        <description>Citronelloid compounds such as citronellal and citronellol function in plant defense and ecological communication, and they are also widely used in pharmaceuticals and essential oils. Within the Poace</description>
         <pubDate>Thu, 05 Mar 2026 15:19:41 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/decoding-citronella-first-haplotype-resolved-genome-illuminates-citronelloid-biosynthesis/</guid>
@@ -43,33 +88,6 @@
         <pubDate>Thu, 05 Mar 2026 14:04:38 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/helpful-tools-exist-and-im-not-using-them</guid>
-    </item>
-    
-    <item>
-        <title>HIV-seq improves detection of HIV-transcribing cells using RNA sequencing</title>
-        <link>https://www.rna-seqblog.com/hiv-seq-improves-detection-of-hiv-transcribing-cells-using-rna-sequencing/</link>
-        <description>A new RNA sequencing approach called HIV-seq improves detection of rare HIV-transcribing cells and reveals distinct gene expression patterns during active infection and antiretroviral therapy suppress</description>
-        <pubDate>Wed, 04 Mar 2026 17:53:27 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/hiv-seq-improves-detection-of-hiv-transcribing-cells-using-rna-sequencing/</guid>
-    </item>
-    
-    <item>
-        <title>A functionally integrated cross-tissue alternative splicing program during short-term calorie restriction</title>
-        <link>https://www.rna-seqblog.com/a-functionally-integrated-cross-tissue-alternative-splicing-program-during-short-term-calorie-restriction/</link>
-        <description>Calorie restriction, reducing calorie intake without causing malnutrition, has long been studied for its effects on metabolism, aging, and overall health. Scientists have observed that lowering calori</description>
-        <pubDate>Wed, 04 Mar 2026 17:53:18 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/a-functionally-integrated-cross-tissue-alternative-splicing-program-during-short-term-calorie-restriction/</guid>
-    </item>
-    
-    <item>
-        <title>Alithea Genomics Closes CHF 6.9 M Seed Round, Using Proceeds to Unlock Industrial-Scale RNA-seq for Primary Drug Screening and Toxicology</title>
-        <link>https://www.rna-seqblog.com/alithea-genomics-closes-chf-6-9-m-seed-round-using-proceeds-to-unlock-industrial-scale-rna-seq-for-primary-drug-screening-and-toxicology/</link>
-        <description>Alithea Genomics, an emerging leader in the field of large-scale RNA sequencing and transcriptomics, announced today the closing of its seed financing round with an additional CHF 3 million ($3.9 mill</description>
-        <pubDate>Wed, 04 Mar 2026 17:52:53 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/alithea-genomics-closes-chf-6-9-m-seed-round-using-proceeds-to-unlock-industrial-scale-rna-seq-for-primary-drug-screening-and-toxicology/</guid>
     </item>
     
     <item>
@@ -127,15 +145,6 @@
     </item>
     
     <item>
-        <title>Weekly Recap (February 27, 2026)</title>
-        <link>https://blog.stephenturner.us/p/weekly-recap-february-27-2026</link>
-        <description>DNA sequencing visualized, AI slop in CS, deep research agents for science, Dario vs DoD, biosecurity, AIxBio RCT, R updates (R Weekly, rOpenSci, R Works), new papers.</description>
-        <pubDate>Fri, 27 Feb 2026 11:00:10 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/weekly-recap-february-27-2026</guid>
-    </item>
-    
-    <item>
         <title>Illumina Constellation Becomes TruPath Genome</title>
         <link>https://omicsomics.blogspot.com/2026/02/illumina-constellation-becomes-truepath.html</link>
         <description>&lt;div&gt;Illumina is rebranding their Constellation mapped read technology to TruPath Genome and launching it into the marketplace. Priced at $395 per genome, TruPath Genome was presented as being superio</description>
@@ -151,15 +160,6 @@
         <pubDate>2026-02-24T01:05:00.002-05:00</pubDate>
         <source>Omics! Omics!</source>
         <guid>https://omicsomics.blogspot.com/2026/02/canal-biosciences-ligation-libraries.html</guid>
-    </item>
-    
-    <item>
-        <title>Wish: Scientific Poster Snap Organizer App</title>
-        <link>https://omicsomics.blogspot.com/2026/02/wish-scientific-poster-snap-organizer.html</link>
-        <description>AGBT is another conference with a wonderful wealth of scientific posters and never enough time to view them all properly. I definitely enjoy engaging scientists - particularly early stage scientists s</description>
-        <pubDate>2026-02-23T08:52:00.002-05:00</pubDate>
-        <source>Omics! Omics!</source>
-        <guid>https://omicsomics.blogspot.com/2026/02/wish-scientific-poster-snap-organizer.html</guid>
     </item>
     
     <item>
