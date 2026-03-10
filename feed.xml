@@ -6,8 +6,44 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Mon, 09 Mar 2026 07:09:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 06:58:27 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>Remembering Phil Bourne</title>
+        <link>https://blog.stephenturner.us/p/remembering-phil-bourne</link>
+        <description>Personal reflections on a legendary scientist, leader, builder, and mentor</description>
+        <pubDate>Mon, 09 Mar 2026 20:52:18 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/remembering-phil-bourne</guid>
+    </item>
+    
+    <item>
+        <title>Single-cell RNA sequencing and spatial transcriptomics map complex interplay between cells, metabolism, and immunity in breast cancer lymph node metastasis</title>
+        <link>https://www.rna-seqblog.com/single-cell-rna-sequencing-and-spatial-transcriptomics-map-complex-interplay-between-cells-metabolism-and-immunity-in-breast-cancer-lymph-node-metastasis/</link>
+        <description>RNA sequencing combined with spatial transcriptomics maps gene activity across breast cancer lymph node metastases...</description>
+        <pubDate>Mon, 09 Mar 2026 11:15:05 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/single-cell-rna-sequencing-and-spatial-transcriptomics-map-complex-interplay-between-cells-metabolism-and-immunity-in-breast-cancer-lymph-node-metastasis/</guid>
+    </item>
+    
+    <item>
+        <title>Piecing together parasitic plant pathways</title>
+        <link>https://www.rna-seqblog.com/piecing-together-parasitic-plant-pathways/</link>
+        <description>RNA sequencing identified genes involved in haustorium formation in parasitic plants, revealing signaling pathways that enable parasites like Striga to attach to host roots and extract nutrients...</description>
+        <pubDate>Mon, 09 Mar 2026 11:14:56 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/piecing-together-parasitic-plant-pathways/</guid>
+    </item>
+    
+    <item>
+        <title>Structured AI Integration as Quality Control for Peer Review</title>
+        <link>https://blog.stephenturner.us/p/ai-peer-review</link>
+        <description>Decades of research shows that inter-rater reliability is low in grant/manuscript reviews. A new paper presents a case for institutional AI integration in peer review.</description>
+        <pubDate>Mon, 09 Mar 2026 10:18:38 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/ai-peer-review</guid>
+    </item>
     
     <item>
         <title>Complete Genomics Sale: Gruyère or Emmental?</title>
@@ -30,7 +66,7 @@
     <item>
         <title>Spatial RNA sequencing reveals how microbes and host cells interact in the gut</title>
         <link>https://www.rna-seqblog.com/spatial-rna-sequencing-reveals-how-microbes-and-host-cells-interact-in-the-gut/</link>
-        <description>A new spatial RNA sequencing approach maps microbial and host gene activity in the gut at micrometer resolution, revealing how microbiome organization and host...</description>
+        <description>The human gut is home to trillions of microbes that constantly interact with each other and with the cells lining the intestine. These interactions influence digestion, immune responses, and even dise</description>
         <pubDate>Fri, 06 Mar 2026 15:09:56 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/spatial-rna-sequencing-reveals-how-microbes-and-host-cells-interact-in-the-gut/</guid>
@@ -39,7 +75,7 @@
     <item>
         <title>Minaris launches AgentSCREEN adventitious virus RNA detection by NGS</title>
         <link>https://www.rna-seqblog.com/minaris-launches-agentscreen-adventitious-virus-rna-detection-by-ngs/</link>
-        <description>A new GMP-qualified platform uses RNA sequencing to detect viral RNA transcripts in cell bank samples, enabling broad identification of adventitious viruses and improving viral safety testing for biol</description>
+        <description>GMP-qualified NGS adventitious virus detection with a predictable 28-day turnaround and U.S.-based end-to-end support Minaris, a global cell and gene therapy (CGT) contract development and manufacturi</description>
         <pubDate>Fri, 06 Mar 2026 15:09:42 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/minaris-launches-agentscreen-adventitious-virus-rna-detection-by-ngs/</guid>
@@ -61,24 +97,6 @@
         <pubDate>2026-03-05T10:45:00.000-05:00</pubDate>
         <source>Omics! Omics!</source>
         <guid>https://omicsomics.blogspot.com/2026/03/ultima-genomics-solaris-20-greater.html</guid>
-    </item>
-    
-    <item>
-        <title>Northside Hospital introduces advanced leukemia test</title>
-        <link>https://www.rna-seqblog.com/northside-hospital-introduces-advanced-leukemia-test/</link>
-        <description>Northside Hospital is introducing a new test to help diagnose leukemia faster and more accurately, giving patients quicker answers and helping doctors choose the most effective treatments sooner. Acut</description>
-        <pubDate>Thu, 05 Mar 2026 15:20:05 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/northside-hospital-introduces-advanced-leukemia-test/</guid>
-    </item>
-    
-    <item>
-        <title>Decoding citronella – first haplotype-resolved genome illuminates citronelloid biosynthesis</title>
-        <link>https://www.rna-seqblog.com/decoding-citronella-first-haplotype-resolved-genome-illuminates-citronelloid-biosynthesis/</link>
-        <description>Citronelloid compounds such as citronellal and citronellol function in plant defense and ecological communication, and they are also widely used in pharmaceuticals and essential oils. Within the Poace</description>
-        <pubDate>Thu, 05 Mar 2026 15:19:41 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/decoding-citronella-first-haplotype-resolved-genome-illuminates-citronelloid-biosynthesis/</guid>
     </item>
     
     <item>
@@ -106,24 +124,6 @@
         <pubDate>Tue, 03 Mar 2026 13:38:06 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/wet-bags-of-atoms-teaching-sand-to-think</guid>
-    </item>
-    
-    <item>
-        <title>Frontier LLMs can design functional DNA sequences for benchtop synthesis</title>
-        <link>https://blog.stephenturner.us/p/rand-ai-benchtop-dna-synthesis</link>
-        <description>A look at a new RAND report: Bridging the Digital to Physical Divide - Evaluating LLM Agents on Benchtop DNA Acquisition</description>
-        <pubDate>Mon, 02 Mar 2026 10:35:59 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/rand-ai-benchtop-dna-synthesis</guid>
-    </item>
-    
-    <item>
-        <title>Dario Amodei&#39;s &#34;The Adolescence of Technology&#34;</title>
-        <link>https://blog.stephenturner.us/p/adolescence-of-technology</link>
-        <description>A risk-side companion to &amp;#8220;Machines of Loving Grace&amp;#8221; and a biosecurity primer on AI safety for people who tuned out.</description>
-        <pubDate>Sun, 01 Mar 2026 11:51:35 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/adolescence-of-technology</guid>
     </item>
     
     <item>
