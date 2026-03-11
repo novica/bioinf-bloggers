@@ -6,8 +6,35 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Tue, 10 Mar 2026 06:58:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 07:01:42 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>Roche Axelios1 Run Pricing: Not A Knockout - Yet?</title>
+        <link>https://omicsomics.blogspot.com/2026/03/roche-axelios1-run-pricing-not-knockout.html</link>
+        <description>By far the most awaited news at AGBT was Roche&#39;s reveal of the pricing scheme for Axelios 1 consumables: what would be the structure and how much would different runs cost?  Indeed, Roche sequencing s</description>
+        <pubDate>2026-03-10T11:59:00.000-04:00</pubDate>
+        <source>Omics! Omics!</source>
+        <guid>https://omicsomics.blogspot.com/2026/03/roche-axelios1-run-pricing-not-knockout.html</guid>
+    </item>
+    
+    <item>
+        <title>Improving mRNA therapeutics using RNA sequencing guided 5′UTR design</title>
+        <link>https://www.rna-seqblog.com/improving-mrna-therapeutics-using-rna-sequencing-guided-5%e2%80%b2utr-design/</link>
+        <description>Large scale RNA sequencing and transcriptome analysis helped identify optimized 5′UTR sequences that improve protein production from mRNA therapeutics, supporting vaccine and therapeutic performance i</description>
+        <pubDate>Tue, 10 Mar 2026 11:09:05 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/improving-mrna-therapeutics-using-rna-sequencing-guided-5%e2%80%b2utr-design/</guid>
+    </item>
+    
+    <item>
+        <title>Assessing mRNA and sgRNA quality for cell and gene therapy applications using nanopore direct RNA sequencing</title>
+        <link>https://www.rna-seqblog.com/assessing-mrna-and-sgrna-quality-for-cell-and-gene-therapy-applications-using-nanopore-direct-rna-sequencing/</link>
+        <description>Nanopore RNA sequencing enables detailed analysis of mRNA and sgRNA quality attributes, supporting the development and manufacturing of safer and more effective RNA based therapeutics...</description>
+        <pubDate>Tue, 10 Mar 2026 11:08:56 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/assessing-mrna-and-sgrna-quality-for-cell-and-gene-therapy-applications-using-nanopore-direct-rna-sequencing/</guid>
+    </item>
     
     <item>
         <title>Remembering Phil Bourne</title>
@@ -30,7 +57,7 @@
     <item>
         <title>Piecing together parasitic plant pathways</title>
         <link>https://www.rna-seqblog.com/piecing-together-parasitic-plant-pathways/</link>
-        <description>RNA sequencing identified genes involved in haustorium formation in parasitic plants, revealing signaling pathways that enable parasites like Striga to attach to host roots and extract nutrients...</description>
+        <description>Determining the developmental pathway for an organ that parasitic plants use to siphon off nutrients from hosts could help scientists find ways to curb the parasite A confocal microscopy image showing</description>
         <pubDate>Mon, 09 Mar 2026 11:14:56 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/piecing-together-parasitic-plant-pathways/</guid>
@@ -57,28 +84,10 @@
     <item>
         <title>A streamlined workflow for multiomic single cell analysis from low input clinical samples</title>
         <link>https://www.rna-seqblog.com/a-streamlined-workflow-for-multiomic-single-cell-analysis-from-low-input-clinical-samples/</link>
-        <description>A Seq-Well S3 workflow enables multiomic analysis of small clinical samples, combining protein measurements and RNA sequencing with sample hashing to increase throughput and reduce experimental cost..</description>
+        <description>Clinical samples collected from patients often contain only a small number of cells. Despite this limitation, these samples can provide valuable information about how diseases develop, how the immune </description>
         <pubDate>Fri, 06 Mar 2026 15:10:05 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/a-streamlined-workflow-for-multiomic-single-cell-analysis-from-low-input-clinical-samples/</guid>
-    </item>
-    
-    <item>
-        <title>Spatial RNA sequencing reveals how microbes and host cells interact in the gut</title>
-        <link>https://www.rna-seqblog.com/spatial-rna-sequencing-reveals-how-microbes-and-host-cells-interact-in-the-gut/</link>
-        <description>The human gut is home to trillions of microbes that constantly interact with each other and with the cells lining the intestine. These interactions influence digestion, immune responses, and even dise</description>
-        <pubDate>Fri, 06 Mar 2026 15:09:56 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/spatial-rna-sequencing-reveals-how-microbes-and-host-cells-interact-in-the-gut/</guid>
-    </item>
-    
-    <item>
-        <title>Minaris launches AgentSCREEN adventitious virus RNA detection by NGS</title>
-        <link>https://www.rna-seqblog.com/minaris-launches-agentscreen-adventitious-virus-rna-detection-by-ngs/</link>
-        <description>GMP-qualified NGS adventitious virus detection with a predictable 28-day turnaround and U.S.-based end-to-end support Minaris, a global cell and gene therapy (CGT) contract development and manufacturi</description>
-        <pubDate>Fri, 06 Mar 2026 15:09:42 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/minaris-launches-agentscreen-adventitious-virus-rna-detection-by-ngs/</guid>
     </item>
     
     <item>
@@ -151,15 +160,6 @@
         <pubDate>2026-02-25T08:54:00.004-05:00</pubDate>
         <source>Omics! Omics!</source>
         <guid>https://omicsomics.blogspot.com/2026/02/illumina-constellation-becomes-truepath.html</guid>
-    </item>
-    
-    <item>
-        <title>Canal Biosciences: Ligation Libraries without Distortions from End Repair</title>
-        <link>https://omicsomics.blogspot.com/2026/02/canal-biosciences-ligation-libraries.html</link>
-        <description>&lt;div&gt;Canal Biosciences is a small startup in the library prep space that is making a debut at AGBT this year as a contributing sponsor.  Based in the historic mill town of Lowell Massachusetts with it</description>
-        <pubDate>2026-02-24T01:05:00.002-05:00</pubDate>
-        <source>Omics! Omics!</source>
-        <guid>https://omicsomics.blogspot.com/2026/02/canal-biosciences-ligation-libraries.html</guid>
     </item>
     
     <item>
