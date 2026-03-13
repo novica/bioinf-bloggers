@@ -6,13 +6,40 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Thu, 12 Mar 2026 07:03:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 07:02:14 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>Capsule technology opens new window into individual cells</title>
+        <link>https://www.rna-seqblog.com/capsule-technology-opens-new-window-into-individual-cells/</link>
+        <description>A new capsule-based platform enables repeated analysis of individual cells while preserving genetic material, combining single-cell workflows with RNA sequencing to study rare cell types and cellular </description>
+        <pubDate>Thu, 12 Mar 2026 11:23:05 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/capsule-technology-opens-new-window-into-individual-cells/</guid>
+    </item>
+    
+    <item>
+        <title>Crop Diagnostix launches RNA-based crop health early-warning system</title>
+        <link>https://www.rna-seqblog.com/crop-diagnostix-launches-rna-based-crop-health-early-warning-system/</link>
+        <description>RNA sequencing enables early detection of crop stress by monitoring gene expression changes, allowing farmers to identify disease, nutrient imbalance, or drought weeks before visible symptoms appear..</description>
+        <pubDate>Thu, 12 Mar 2026 11:22:50 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/crop-diagnostix-launches-rna-based-crop-health-early-warning-system/</guid>
+    </item>
+    
+    <item>
+        <title>RNA sequencing advances are improving cell lineage tracing and reconstruction of cell fate decisions</title>
+        <link>https://www.rna-seqblog.com/rna-sequencing-advances-are-improving-cell-lineage-tracing-and-reconstruction-of-cell-fate-decisions/</link>
+        <description>Advances in lineage tracing combine experimental labeling with RNA sequencing and computational modeling to reconstruct cell fate decisions and developmental trajectories in complex tissues and diseas</description>
+        <pubDate>Thu, 12 Mar 2026 11:22:34 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/rna-sequencing-advances-are-improving-cell-lineage-tracing-and-reconstruction-of-cell-fate-decisions/</guid>
+    </item>
     
     <item>
         <title>HiFi long-read RNA sequencing enhances clinical diagnostics in rare disorders</title>
         <link>https://www.rna-seqblog.com/hifi-long-read-rna-sequencing-enhances-clinical-diagnostics-in-rare-disorders/</link>
-        <description>Long read RNA sequencing improves detection of disease related splicing abnormalities, revealing complex transcript structures that help explain genetic causes of rare disorders...</description>
+        <description>Many genetic diseases are caused by small changes in DNA that disrupt how genes are processed into RNA. One important step in this process is called RNA splicing. During splicing, segments of RNA call</description>
         <pubDate>Wed, 11 Mar 2026 11:40:06 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/hifi-long-read-rna-sequencing-enhances-clinical-diagnostics-in-rare-disorders/</guid>
@@ -21,7 +48,7 @@
     <item>
         <title>Moving from correlation to causation in gene regulatory networks</title>
         <link>https://www.rna-seqblog.com/moving-from-correlation-to-causation-in-gene-regulatory-networks/</link>
-        <description>Advances in RNA sequencing reveal complex gene regulatory networks, and new computational frameworks aim to move beyond correlations to uncover the causal mechanisms that control cellular behavior...</description>
+        <description>Every cell in the body contains the same DNA, yet different cells behave in very different ways. Some become neurons, others muscle cells, and others form tissues and organs. This diversity is control</description>
         <pubDate>Wed, 11 Mar 2026 11:39:57 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/moving-from-correlation-to-causation-in-gene-regulatory-networks/</guid>
@@ -46,39 +73,12 @@
     </item>
     
     <item>
-        <title>Improving mRNA therapeutics using RNA sequencing guided 5′UTR design</title>
-        <link>https://www.rna-seqblog.com/improving-mrna-therapeutics-using-rna-sequencing-guided-5%e2%80%b2utr-design/</link>
-        <description>Large scale RNA sequencing and transcriptome analysis helped identify optimized 5′UTR sequences that improve protein production from mRNA therapeutics, supporting vaccine and therapeutic performance i</description>
-        <pubDate>Tue, 10 Mar 2026 11:09:05 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/improving-mrna-therapeutics-using-rna-sequencing-guided-5%e2%80%b2utr-design/</guid>
-    </item>
-    
-    <item>
-        <title>Assessing mRNA and sgRNA quality for cell and gene therapy applications using nanopore direct RNA sequencing</title>
-        <link>https://www.rna-seqblog.com/assessing-mrna-and-sgrna-quality-for-cell-and-gene-therapy-applications-using-nanopore-direct-rna-sequencing/</link>
-        <description>RNA based therapeutics are rapidly expanding across modern medicine. Messenger RNA vaccines, gene editing systems, and RNA based immunotherapies all rely on carefully designed RNA molecules to work co</description>
-        <pubDate>Tue, 10 Mar 2026 11:08:56 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/assessing-mrna-and-sgrna-quality-for-cell-and-gene-therapy-applications-using-nanopore-direct-rna-sequencing/</guid>
-    </item>
-    
-    <item>
         <title>Remembering Phil Bourne</title>
         <link>https://blog.stephenturner.us/p/remembering-phil-bourne</link>
         <description>Personal reflections on a legendary scientist, leader, builder, and mentor</description>
         <pubDate>Mon, 09 Mar 2026 20:52:18 GMT</pubDate>
         <source>Paired Ends (Stephen Turner&#39;s blog)</source>
         <guid>https://blog.stephenturner.us/p/remembering-phil-bourne</guid>
-    </item>
-    
-    <item>
-        <title>Single-cell RNA sequencing and spatial transcriptomics map complex interplay between cells, metabolism, and immunity in breast cancer lymph node metastasis</title>
-        <link>https://www.rna-seqblog.com/single-cell-rna-sequencing-and-spatial-transcriptomics-map-complex-interplay-between-cells-metabolism-and-immunity-in-breast-cancer-lymph-node-metastasis/</link>
-        <description>A recent integrative analysis of single-cell sequencing and single-cell spatial mapping of lymph node metastasis in breast cancer reveals novel mechanisms of the metabolic-immune interaction that driv</description>
-        <pubDate>Mon, 09 Mar 2026 11:15:05 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/single-cell-rna-sequencing-and-spatial-transcriptomics-map-complex-interplay-between-cells-metabolism-and-immunity-in-breast-cancer-lymph-node-metastasis/</guid>
     </item>
     
     <item>
