@@ -6,8 +6,35 @@
     <description>
         A feed of the latest posts of Bioinformatics blogs around the world
     </description>
-    <lastBuildDate>Fri, 13 Mar 2026 07:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 06:56:20 +0000</lastBuildDate>
 
+    
+    <item>
+        <title>RNA-seq analysis in seconds using GPUs</title>
+        <link>https://www.rna-seqblog.com/rna-seq-analysis-in-seconds-using-gpus/</link>
+        <description>A new GPU implementation of kallisto enables RNA sequencing analysis in seconds, accelerating transcript quantification and dramatically reducing computation time for large transcriptomic datasets.</description>
+        <pubDate>Fri, 13 Mar 2026 11:22:38 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/rna-seq-analysis-in-seconds-using-gpus/</guid>
+    </item>
+    
+    <item>
+        <title>Research Advisor – Computational RNA Genomics</title>
+        <link>https://www.rna-seqblog.com/research-advisor-computational-rna-genomics/</link>
+        <description>A Lilly Research Advisor position highlights the growing importance of RNA sequencing and bioinformatics for analyzing transcriptome data and advancing genetic medicine programs and therapeutic develo</description>
+        <pubDate>Fri, 13 Mar 2026 11:22:30 +0000</pubDate>
+        <source>RNA-Seq Blog</source>
+        <guid>https://www.rna-seqblog.com/research-advisor-computational-rna-genomics/</guid>
+    </item>
+    
+    <item>
+        <title>Weekly Recap (March 13, 2026)</title>
+        <link>https://blog.stephenturner.us/p/weekly-recap-march-13-2026</link>
+        <description>Phil Bourne, Anthropic Institute, eLife, AI@UVA / AI in Virginia, NIH genomics tech, AIxBio, AI+Rstudio, legibility, how scientists use Claude Code, how to design antibodies, R updates, new papers.</description>
+        <pubDate>Fri, 13 Mar 2026 09:04:27 GMT</pubDate>
+        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
+        <guid>https://blog.stephenturner.us/p/weekly-recap-march-13-2026</guid>
+    </item>
     
     <item>
         <title>Capsule technology opens new window into individual cells</title>
@@ -21,7 +48,7 @@
     <item>
         <title>Crop Diagnostix launches RNA-based crop health early-warning system</title>
         <link>https://www.rna-seqblog.com/crop-diagnostix-launches-rna-based-crop-health-early-warning-system/</link>
-        <description>RNA sequencing enables early detection of crop stress by monitoring gene expression changes, allowing farmers to identify disease, nutrient imbalance, or drought weeks before visible symptoms appear..</description>
+        <description>RNA reveals plants&#39; real-time biological response to stress, which occurs long before conventional tools detect problems, says the firm. https://youtu.be/xyM1HbzHuG8  A visual inspection of crops may </description>
         <pubDate>Thu, 12 Mar 2026 11:22:50 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/crop-diagnostix-launches-rna-based-crop-health-early-warning-system/</guid>
@@ -30,28 +57,10 @@
     <item>
         <title>RNA sequencing advances are improving cell lineage tracing and reconstruction of cell fate decisions</title>
         <link>https://www.rna-seqblog.com/rna-sequencing-advances-are-improving-cell-lineage-tracing-and-reconstruction-of-cell-fate-decisions/</link>
-        <description>Advances in lineage tracing combine experimental labeling with RNA sequencing and computational modeling to reconstruct cell fate decisions and developmental trajectories in complex tissues and diseas</description>
+        <description>Over the past two decades, cell biologists and computational biologists have worked to develop lineage tracing techniques that can decode the relationships between progenitor cells and their different</description>
         <pubDate>Thu, 12 Mar 2026 11:22:34 +0000</pubDate>
         <source>RNA-Seq Blog</source>
         <guid>https://www.rna-seqblog.com/rna-sequencing-advances-are-improving-cell-lineage-tracing-and-reconstruction-of-cell-fate-decisions/</guid>
-    </item>
-    
-    <item>
-        <title>HiFi long-read RNA sequencing enhances clinical diagnostics in rare disorders</title>
-        <link>https://www.rna-seqblog.com/hifi-long-read-rna-sequencing-enhances-clinical-diagnostics-in-rare-disorders/</link>
-        <description>Many genetic diseases are caused by small changes in DNA that disrupt how genes are processed into RNA. One important step in this process is called RNA splicing. During splicing, segments of RNA call</description>
-        <pubDate>Wed, 11 Mar 2026 11:40:06 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/hifi-long-read-rna-sequencing-enhances-clinical-diagnostics-in-rare-disorders/</guid>
-    </item>
-    
-    <item>
-        <title>Moving from correlation to causation in gene regulatory networks</title>
-        <link>https://www.rna-seqblog.com/moving-from-correlation-to-causation-in-gene-regulatory-networks/</link>
-        <description>Every cell in the body contains the same DNA, yet different cells behave in very different ways. Some become neurons, others muscle cells, and others form tissues and organs. This diversity is control</description>
-        <pubDate>Wed, 11 Mar 2026 11:39:57 +0000</pubDate>
-        <source>RNA-Seq Blog</source>
-        <guid>https://www.rna-seqblog.com/moving-from-correlation-to-causation-in-gene-regulatory-networks/</guid>
     </item>
     
     <item>
@@ -115,15 +124,6 @@
         <pubDate>2026-03-05T10:45:00.000-05:00</pubDate>
         <source>Omics! Omics!</source>
         <guid>https://omicsomics.blogspot.com/2026/03/ultima-genomics-solaris-20-greater.html</guid>
-    </item>
-    
-    <item>
-        <title>Helpful tools exist, and I&#39;m not using them</title>
-        <link>https://blog.stephenturner.us/p/helpful-tools-exist-and-im-not-using-them</link>
-        <description>I&amp;#8217;m working on building a small table.</description>
-        <pubDate>Thu, 05 Mar 2026 14:04:38 GMT</pubDate>
-        <source>Paired Ends (Stephen Turner&#39;s blog)</source>
-        <guid>https://blog.stephenturner.us/p/helpful-tools-exist-and-im-not-using-them</guid>
     </item>
     
     <item>
