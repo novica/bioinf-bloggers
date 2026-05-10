@@ -26,6 +26,7 @@ jobs:
         uses: actions/upload-pages-artifact@v4
         with:
           path: ./public
+          retention-days: 1
 
   deploy:
     if: github.ref_name == github.event.repository.default_branch
